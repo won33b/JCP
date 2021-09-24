@@ -1,6 +1,6 @@
-public class Hello {
+public class ljy {
     public static void main(String[] args) {
-        System.out.println("Hello , 이진유");
+        System.out.println("Hello,ljy");
     }
     
 }
