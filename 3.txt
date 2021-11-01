@@ -1,0 +1,438 @@
+<html class="no-js en" data-language="en" lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width" />
+<meta http-equiv="Expires" content="0"> 
+<meta http-equiv="Pragma" content="no-cache"> 
+<meta http-equiv="Cache-Control" content="No-Cache">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Daesung skype redirect website</title>
+<meta name="description" content="세계 최대 인터넷 전화 스카이프, 저렴한 국제전화를  다양한 기기를 통해 만나보세요!">
+<meta name="keywords" content="인터넷 , 전화, 국제전화, 글로벌, 스카이프 , 무료통화, 채팅, 컨퍼런스 콜 , 영상통화,  POSA , 스카이프 앱, 대성, 스마트폰 , 태블릿, TV , Skype, Skype korea, 대성 스카이프 , 대성 홀딩스 , 대성 , daesung, 모바일 , free, low , free call, low cost 인터넷전화, 영상회의, 화상회의, 그룹영상통화, 착신전환, 착신연결, 해외로밍, MVOIP, VOIP, 로밍" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="../css/common.css" />
+<link rel="stylesheet" href="../css/styles.css" />
+<link rel="stylesheet" href="../css/corporate-service.css" />
+<link rel="stylesheet" href="../css/mypage.css" />
+<link rel="stylesheet" href="../css/customer.css" />
+<link rel="stylesheet" href="../css/download.css" />
+<link rel="stylesheet" href="../css/bottom-menu.css" />
+<link rel="stylesheet" href="../css/footer.css" />
+<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../js/common.js"></script>
+<!--[if lte IE 8]>
+<link href="../css/ie8_common.css" rel="stylesheet" />
+<link href="../css/ie8_styles.css" rel="stylesheet" />
+<link href="../css/ie8_corporate-service.css" rel="stylesheet" />
+<link href="../css/ie8_mypage.css" rel="stylesheet" />
+<link href="../css/ie8_customer.css" rel="stylesheet" />
+<link href="../css/ie8_download.css" rel="stylesheet" />
+<link href="../css/ie8_bottom-menu.css" rel="stylesheet" />
+<link href="../css/ie8_footer.css" rel="stylesheet" />
+<![endif]-->
+
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-71459964-2', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+
+	<style>
+		.mvcArea {
+			display: none;
+		}
+
+		.imgContent {text-align:right}
+		.mobileArea02 {
+			background: url('images/main/despatch-mobile.png') no-repeat;
+			width: 100% !important;
+			height: 317px;
+			background-size:100%;
+			margin-left:0 !important;
+		}
+		.main-top {
+			background-color: #f2f2f2;
+			position: relative;
+			padding: 2em 0;
+			min-height:10em;
+		}
+		.ofh .txtContent,
+		.ofh .imgContent {width:50%;}
+
+		@media (min-width: 960px) {
+			h2 {
+				font-size: 2em;
+			}
+			.main-vi {
+				position: absolute;
+				right: -30px;
+				bottom: 1em;
+			}
+
+		}
+
+
+		@media (max-width: 768px) {
+		}
+
+		@media (max-width: 960px) {
+			.mvcArea {
+				display: block;
+			}
+
+			.wvcArea {
+				display: none;
+			}
+			.mobileArea02 {
+				width: 45% !important;
+				position: absolute;
+				background-size: 150%;
+				padding: 0px 0;
+			}
+			.main-vi-m {
+				background-color: #f2f2f2;
+				padding: 2em;
+				padding-bottom: 0;
+				position: relative;
+				padding-top:55%
+			}
+		}
+
+	</style>
+</head>
+
+<body>
+	
+
+<script type="text/javascript"  language="javascript">
+	function nSkypelogin() {	
+		location.href = "/login/Skypelogin_process.asp?mode=login&urlname=/eng/main.asp&lang=en";
+	}
+
+	function nSkypeJoin() {
+		location.href = "/login/Skypelogin_process.asp?mode=join&urlname=/eng/main.asp&lang=en";
+	}
+
+	function nSkypeRecovery() {
+		//location.href = "/login/Skypelogin_process.asp?mode=recovery&urlname=/eng/main.asp";
+		location.href = "https://account.live.com/password/reset?cobrandid=2befc4b5-19e3-46e8-8347-77317a16a5a5";
+	}
+</script>
+
+
+	<div class="hderFix">
+		<div class="navigationBar" role="navigation">
+			<div class="header">
+				<h1>
+					<a href="/eng/main.asp">skype</a>
+				</h1><div class="skype_logo"><a href="/eng/main.asp">Skype</a></div>
+				<div class="gnb">
+					<a href="#">
+					<span>menu</span>
+					<span class="ic-tm"></span>
+					</a>
+				</div>
+			</div>
+			<!--
+			<div class="header">
+				<h1>
+					<a href="/eng/main.asp">skype</a>
+				</h1>
+				<div class="gnb">
+					<a href="#">
+					<span>menu</span>
+					<span class="ic-tm"></span>
+					</a>
+				</div>
+			</div>
+			-->
+			<div class="nav">
+				<ul class="ctm">
+					<li class="mmu">
+						<a href="#none" class="close">
+							<span class="ic-tc"></span>
+							<span>close</span>
+						</a>
+					</li>
+					<li class="mmu">
+						<a href="/eng/main.asp">Main</a>
+					</li>
+					<li>
+						<h3><a href="/eng/service_intro/introMain.asp">Service</a></h3>
+					</li>
+					<li>
+						<h3><a href="/eng/purchase/purchaseMain.asp?searchCountry">Prices</a></h3>
+					</li>
+					<li>
+						<h3><a href="/eng/download/downloadMain.asp">Downloads</a></h3>
+					</li>
+					<li>
+						<h3><a href="/eng/center/centerMain.asp">Support</a></h3>
+						<ul class="submenu">
+							<li><a href="/eng/center/notice.asp">- News</a></li>
+							<li><a href="/eng/center/faq.asp">- FAQ</a></li>
+							<li><a href="/eng/center/nclient.asp">- Email Support</a></li>
+						</ul>
+					</li>
+				</ul>
+				
+					<ul class="myinfo">
+						<li><a href="javascript:nSkypelogin();" class="btn01">Sign in</a></li>
+						<!--
+						<li><a href="javascript:nSkypeJoin();" class="btn01">Join us</a></li>
+						-->
+						<li><a href="javascript:nSkypeRecovery();"  class="btn01">Problems signing in</a></li>
+						<!--
+						<li><a href="javascript:nSkypelogin();" class="btn01">로그인</a></li>
+						<li><a href="/login/termsAgreement.asp" class="btn01">회원가입</a></li>
+						-->
+					</ul>
+				
+			</div>
+		</div>
+	</div>
+
+	<div class="wrap">
+		<div class="mContainer" role="main">
+<!--
+			<div class="mBanner">
+				<img src="../images/banner/mainBanner.png" alt="main banner image" />
+			</div>
+			<div class="bnrArea">
+				<div class="horizontalDesktop">
+					<h1>
+						If you are in Korea, you can purchase Skype payable services through Daesung Skype according to the Telecommunications Business Act of Korea.
+
+					</h1>
+					<div class="mbtnArea">
+						<a class="btnGreen" href="./download/downloadMain.asp">
+							<span class="">Downloads  Skype</span>
+							<span class="arrow downWhite"></span>
+						</a>
+					</div>
+				</div>
+			</div>
+-->
+			<div class="mvcArea">
+				<div class="main-vi-m">
+					<img src="../images/main/main-vi.png" class="im" alt="메인 배너이미지" style="position:absolute; bottom:-2em; left:5%; width:90%" />
+				</div>
+				<div class="conboxWidth" style="padding:1em 2em">
+					<div class="txtContent">
+						<h1 style="margin-top:2em">
+							If you are in Korea, you can purchase Skype payable services through Daesung Skype according to the Telecommunications Business Act of Korea.
+						</h1>
+						<div class="mbtnArea" style="margin-top:2em">
+							<a class="btnGreen" href="/eng/download/downloadMain.asp">
+								<span class="">Downloads  Skype</span>
+								<span class="arrow downWhite"></span>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="wvcArea">
+				<div class="main-top">
+					<div class="conboxWidth">
+						<div class="ofh">
+							<div class="txtContent">
+								<div class="calltxtinfo">
+									If you are in Korea, you can purchase Skype payable services through Daesung Skype according to the Telecommunications Business Act of Korea.
+								</div>
+								<div class="mbtnArea" style="margin-top:2em">
+									<a class="btnGreen" href="/eng/download/downloadMain.asp">
+										<span class="">Skype Download</span>
+										<span class="arrow downWhite"></span>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="bgWhite">
+					<div class="conboxWidth">
+						<div class="main-vi">
+							<img src="../images/main/main-vi.png" class="im" alt="메인 배너이미지" />
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="bgSky01">
+				<div class="conboxWidth">
+					<div class="ofh">
+						<div class="txtContent">
+							<span class="icblue icCall"></span>
+							<h2 class="titleDesktop">Call mobiles and landlines</h2>
+							<div class="calltxtinfo">
+								Reach out to family and friends worldwide. 
+								With super low rates and no peak times you really 
+								can call home the moment you start to miss it
+							</div>
+							<div class="pdtb20">
+								<a href="./purchase/purchaseMain.asp" class="btnWhite">Buy Skype Credit</a>
+							</div>
+						</div>
+						<div class="imgContent">
+							<div class="mobileArea01">
+								<img src="../images/main/mobile-tablet.png" class="im" alt="Call mobiles and landlines" style="max-width:325px" />
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+			<div class="bgBlue cWhite">
+				<div class="conboxWidth">
+					<div class="ofh">
+						<div class="txtContent">
+							<h2 class="titleDesktop">Discover more features</h2>
+							<div class="calltxtinfo">
+								With voice, text, video and photos, you can connect with those who matter.
+							</div>
+							<div class="pdtb20">
+								<a href="./service_intro/introMain.asp#voiceCall" class="btnBlue">
+									<span class="">Read more features</span>
+									<span class="downWhite"></span>
+								</a>
+							</div>
+						</div>
+						<div class="imgContent">	
+							<div class="mobileArea02">
+								<img src="../images/main/despatch-mobile.png" class="im" alt="Skype to Skype calls" />
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+<!--
+			<div class="bgWhite">
+				<div class="conboxWidth">
+					<div class="tac pdtb20">
+						<span class="icblue icGroup"></span>
+						<h2 class="titleDesktop">Group video calls</h2>
+						<div class="calltxtinfo pd10">
+							Get a group of friends together at the same time 
+							on a video call.
+							We all love getting friends and family in one place 
+							for regular catch ups. 
+							And now everyone has group video calling 
+							for free, it's easier than ever.
+						</div>
+						<div class="pdtb20">
+							<a href="./service_intro/introMain.asp#videoCall" class="btnWhite">Skype Group video calls</a>
+						</div>
+						<img src="../images/main/group-call.png" alt="" class="im"/>
+					</div>
+				</div>
+			</div>
+-->
+			<div class="bgSky">
+				<div class="ctBox">
+					<div class="callType">
+						<ul>
+							<li class="unit">
+								<a href="./service_intro/introMain.asp?#videoCall">
+									<span class="ic screen"></span>
+									<p class="cBlack">Video calls</p>
+								</a>
+							</li>
+							<li class="unit">
+								<a href="./service_intro/introMain.asp?#videoCall">
+									<span class="ic group"></span>
+									<p class="cBlack">Group video calls</p>
+								</a>
+							</li>
+							<li class="unit">
+								<a href="./card.asp">
+									<span class="ic chatting"></span>
+									<p class="cBlack">Skype Card</p>
+								</a>
+							</li>
+							<li class="unit">
+								<a href="./service_intro/introMain.asp?#share">
+									<span class="ic share"></span>
+									<p class="cBlack">Screen sharing</p>
+								</a>
+							</li>
+							<li class="unit">
+								<a href="./service_intro/introMain.asp?#cService">
+									<span class="ic service"></span>
+									<p class="cBlack">Skype Manager</p>
+								</a>
+							</li>
+							<li class="unit">
+								<a href="./service_intro/introMain.asp?#voiceCall">
+									<span class="ic receipt"></span>
+									<p class="cBlack">Forward calls</p>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="bgWhite">
+				<div class="btnGreen2">
+					<a href="./service_intro/introMain.asp" class="btnWhite03">
+						<span>Discover all Skype's features</span>
+						<!--
+						<span class="arrow rightWhite"></span>
+						-->
+					</a>
+				</div>
+			</div>
+			<!--
+			<div class="operationGuide1">
+					<ul class="conboxWidth">
+						Get access to a preview of the Skype Bot Platform.   
+						<a href="https://www.skype.com/en/developer/signup" target="_blank">[Build a bot] </a>
+					</ul>				
+			</div>
+			-->
+		</div>
+		<!-- 본문 END -->
+	</div>
+	<div class="footer" role="footer">
+	<div class="footerWidth">
+		<div class="footerBtn">
+			<ul>
+				<li><a href="/eng/footer/companyProfile.asp"  class="lhsz">About</a></li>
+				<li><a href="/eng/footer/termsOfUse.asp">Terms of Use</a> </li>
+				<li><a href="/eng/footer/privacyPolicy.asp" class="cWhite">Privacy Policy</a></li>
+				<li><a href="/eng/footer/businessProposal.asp" class="lhsz">proposal</a></li>
+				<li><a href="/eng/footer/siteMap.asp" class="sitemap">Sitemap</a></li>
+			</ul>
+		</div>
+		<div class="footerofh">
+			<div class="footerCopyright">
+				<a href="#none" class="footerLogo">
+					<span class="footer-daesung"></span>
+				</a>
+				<a href="/main.asp" class="language">
+					<span class="world"></span>
+					<span>한국어</span>
+				</a>
+			</div>
+			<div class="footerInfo">
+				<p class="footerArea">
+					Daesung Holdings Co., Ltd Information and Communication ㅣ 610, 2-dong, 98, Gasan digital 2-ro, Geumcheon-gu, Seoul, Korea <br />
+					Representative Directors Jeong-ju Kim ㅣ email: skypecs@korea.com ㅣ Online Marketing Business License:  제2017-서울금천-0284호)<br /><br />
+					By using this site you agree to the use of cookies for analytics, personalised content and ads.<br />
+					Skype is not a replacement for your telephone and can't be used for emergency calling<br /><br />
+				</p>
+				<div class="cWhite">
+					Copyright By DaeSung Holdings CO. LTD. All right Reserved. Powered by Skype
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+
+
+</html>

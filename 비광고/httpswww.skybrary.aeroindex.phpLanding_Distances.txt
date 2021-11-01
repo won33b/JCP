@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Landing Distances - SKYbrary Aviation Safety</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YXzWh6T1Nwfvi5WZATFeTQAAABs","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Landing_Distances","wgTitle":"Landing Distances","wgCurRevisionId":159701,"wgRevisionId":159701,"wgArticleId":820,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Overrun on Landing","Runway Excursion"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Landing_Distances","wgRelevantArticleId":820,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],"sdgDownArrowImage":
+"/extensions/SemanticDrilldown/skins/down-arrow.png","sdgRightArrowImage":"/extensions/SemanticDrilldown/skins/right-arrow.png","wgPageFormsTargetName":null,"wgPageFormsAutocompleteValues":[],"wgPageFormsAutocompleteOnAllChars":!1,"wgPageFormsFieldProperties":[],"wgPageFormsCargoFields":[],"wgPageFormsDependentFields":[],"wgPageFormsCalendarValues":[],"wgPageFormsCalendarParams":[],"wgPageFormsCalendarHTML":null,"wgPageFormsGridValues":[],"wgPageFormsGridParams":[],"wgPageFormsContLangYes":null,"wgPageFormsContLangNo":null,"wgPageFormsContLangMonths":[],"wgPageFormsHeightForMinimizingInstances":800,"wgPageFormsShowOnSelect":[],"wgPageFormsScriptPath":"/extensions/PageForms","edgValues":[],"wgPageFormsEDSettings":null,"wgAmericanDates":!1,"wgCargoMapClusteringMinimum":80,"wgCargoMonthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"wgCargoMonthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep",
+"Oct","Nov","Dec"],"wgCargoWeekDays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"wgCargoWeekDaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"srfFilteredConfig":null,"egMapsScriptPath":"/extensions/Maps/","egMapsDebugJS":!1,"egMapsAvailableServices":["leaflet","googlemaps3"],"egMapsLeafletLayersApiKeys":{"MapBox":"","MapQuestOpen":"","Thunderforest":"","GeoportailFrance":""}};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.toc.styles":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","skins.foreground.styles":"ready"};RLPAGEMODULES=["ext.smw.style","ext.smw.tooltips","smw.entityexaminer","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.smw.style%7Cext.smw.tooltip.styles&amp;only=styles&amp;skin=foreground"/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.srf.styles&amp;only=styles&amp;skin=foreground"/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.foreground.styles&amp;only=styles&amp;skin=foreground"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=foreground"></script>
+<style>#mw-indicator-mw-helplink {display:none;}</style>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=foreground"/>
+<meta name="generator" content="MediaWiki 1.35.1"/>
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0"/>
+<link rel="alternate" type="application/rdf+xml" title="Landing Distances" href="/index.php?title=Special:ExportRDF/Landing_Distances&amp;xmlmime=rdf"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="SKYbrary Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://www.skybrary.aero/api.php?action=rsd"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<script type="text/javascript">
+             var _gaq = _gaq || [];
+             _gaq.push(['_setAccount', 'UA-4305335-1']);
+             _gaq.push(['_setDomainName', 'skybrary.aero']);
+             _gaq.push(['_trackPageview']);
+
+             (function() {
+               var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+               ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+               var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+             })();
+        </script>
+<script>
+					(function()
+					{
+						var cx = '014726644628739211784:g_df9fmcagk';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					})();
+				</script>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Landing_Distances rootpage-Landing_Distances skin-foreground action-view"><div id='navwrapper'><!-- START FOREGROUNDTEMPLATE -->
+<nav class="top-bar">
+	<ul class="title-area">
+		<li class="name">
+			<h1 class="title-name ir">
+				<a href="/index.php/Main_Page">
+										
+						<span>SKYbrary Wiki</span>
+					</a>
+				</h1>
+			</li>
+			<li class="toggle-topbar menu-icon">
+				<a href="#"><span>Menu</span></a>
+			</li>
+		</ul>
+
+		
+
+		<section class="top-bar-section">
+
+			<ul id="top-bar-left" class="left">
+				<li class="divider"></li>
+									<li class="has-dropdown active"  id='p-Navigation'>
+						<a href="#">Navigation</a>
+													<ul class="dropdown">
+								<li id="n-Home-page"><a href="/index.php/Main_Page">Home page</a></li><li id="n-Operational-issues"><a href="/index.php/Main_Page#operational-issues">Operational issues</a></li><li id="n-Human-performance"><a href="/index.php/Main_Page#human-performance">Human performance</a></li><li id="n-Enhancing-safety"><a href="/index.php/Main_Page#enhancing-safety">Enhancing safety</a></li><li id="n-Safety-regulations"><a href="/index.php/Main_Page#safety-regulations">Safety regulations</a></li><li id="n-Accidents-and-incidents"><a href="/index.php/Category:Accidents_and_Incidents">Accidents and incidents</a></li><li id="n-Aircraft-Types"><a href="/index.php/Category:Aircraft">Aircraft Types</a></li><li id="n-Airport-Directory"><a href="/index.php/Category:Airport">Airport Directory</a></li><li id="n-Toolkits"><a href="/index.php/Portal:Toolkits">Toolkits</a></li><li id="n-Bookshelf"><a href="http://www.skybrary.aero/bookshelf" rel="nofollow">Bookshelf</a></li><li id="n-Publications"><a href="/index.php/Category:Publications">Publications</a></li>							</ul>
+																			<li class="has-dropdown active"  id='p-Information'>
+						<a href="#">Information</a>
+													<ul class="dropdown">
+								<li id="n-About-SKYbrary"><a href="/index.php/About_SKYbrary">About SKYbrary</a></li><li id="n-Contact-us"><a href="/index.php/Contact_editor">Contact us</a></li><li id="n-Help"><a href="/index.php/Help:Contents" title="The place to find out">Help</a></li><li id="n-Promotion"><a href="/index.php/Promotional_material">Promotion</a></li>							</ul>
+																											</ul>
+
+			<ul id="top-bar-right" class="right">
+					<li class="has-form">
+						<form action="/index.php" id="searchform" class="mw-search">
+											<gcse:searchbox-only></gcse:searchbox-only>
+								</form>
+							</li>
+							<li class="divider show-for-small"></li>
+							<li class="has-form">
+							
+							<li class="has-dropdown active"><a href="#"><i class="fa fa-cogs"></i></a>
+								<ul id="toolbox-dropdown" class="dropdown">
+									<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Landing_Distances" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Landing_Distances" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Landing_Distances&amp;oldid=159701" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Landing_Distances&amp;action=info" title="More information about this page">Page information</a></li><li id="t-smwbrowselink"><a href="/index.php/Special:Browse/:Landing-5FDistances" rel="search">Browse properties</a></li><li id="t-cargopagevalueslink"><a href="/index.php?title=Landing_Distances&amp;action=pagevalues" rel="cargo-pagevalues">Page values</a></li><li id="t-smwbrowselink"><a href="/index.php/Special:Browse/:Landing-5FDistances" rel="search">Browse properties</a></li>									<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="Special:RecentChanges">Recent changes</a></li>										<li id="n-help" ><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help</a></li>										</ul>
+									</li>
+
+																			<li>
+																									<a href="/index.php?title=Special:UserLogin&amp;returnto=Landing+Distances">Log in</a>
+																							</li>
+
+									
+							</ul>
+						</section>
+					</nav>
+					<div class="mobile-search">
+								<form action="/index.php" id="searchform-mobile" class="mw-search">
+									<gcse:searchbox-only></gcse:searchbox-only>
+								</form>
+							</div>
+							<header>
+								<div class="row">
+									<div class="columns">
+										<a class="logo" href="/index.php/Main_Page">
+											<h1 class="title-name ir">
+																									<span>SKYbrary Wiki</span>
+												</h1>
+											</a>
+
+											<div class="logos">
+												<a href="http://www.skybrary.aero/index.php/EUROCONTROL" rel="nofollow">
+													<img alt="Eurocontrol" src="/skins/foreground/assets/img/Eurocontrol_logo_white_50.png" width="47" height="50">
+												</a>
+												<a href="http://www.skybrary.aero/index.php/ICAO" rel="nofollow">
+													<img alt="ICAO" src="/skins/foreground/assets/img/Icao_logo_white_50.png" width="69" height="50">
+												</a>
+												<a href="http://flightsafety.org/" rel="nofollow">
+													<img alt="Flight Safety" src="/skins/foreground/assets/img/FSF_logo_white_50.png" width="141" height="50">
+												</a>
+											</div>
+										</div>
+									</div>
+								</header>
+		</div>		
+		<div id="page-content" class="page-content">
+			<div class="row">
+				<div class="large-12 columns notice">
+					<!--[if lt IE 9]>
+					<div id="siteNotice" class="sitenotice panel radius">SKYbrary Wiki may not look as expected in this version of Internet Explorer. We recommend you upgrade to a newer version of Internet Explorer or switch to a browser like Firefox or Chrome.</div>
+					<![endif]-->
+					<div id="siteNotice" class="sitenotice"><div id="localNotice" lang="en" dir="ltr"><p><i>If you wish to contribute or participate in the discussions about articles you are invited to <a href="/index.php/SKYbrary_Wiki:Join" title="SKYbrary Wiki:Join">join</a> SKYbrary as a registered user</i>
+</p></div></div>									</div>
+
+				<div id="p-cactions" class="large-12 columns">
+											<a href="#" data-dropdown="drop1" class="button dropdown small secondary radius"><i class="fa fa-cog"><span class="show-for-medium-up">&nbsp;Actions</span></i></a>
+						<!--RTL -->
+						<ul id="drop1" class="views large-12 columns right f-dropdown">
+							<li id="ca-nstab-main" class="selected"><a href="/index.php/Landing_Distances" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Landing_Distances&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li><li id="ca-viewsource"><a href="/index.php?title=Landing_Distances&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history"><a href="/index.php?title=Landing_Distances&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>													</ul>
+						<!--RTL -->
+																<div id="content">
+
+						<h2  id="firstHeading" class="title">Landing Distances</h2>
+						<h3 id="tagline">From SKYbrary Wiki</h3>						<h5 id="siteSub" class="subtitle"></h5>
+
+						<div id="bodyContent" class="mw-bodytext">
+							<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="side">
+<tbody><tr>
+<th style="text-align: center;" colspan="3"><b>Article Information</b>
+</th></tr>
+<tr>
+<td><b>Category:</b>
+</td>
+<td>Runway Excursion
+</td>
+<td><a href="/index.php/Category:Runway_Excursion" title="Runway Excursion"><img alt="Runway Excursion" src="/images/thumb/5/5e/Runway_Excursion.gif/51px-Runway_Excursion.gif" decoding="async" width="51" height="51" srcset="/images/thumb/5/5e/Runway_Excursion.gif/77px-Runway_Excursion.gif 1.5x, /images/thumb/5/5e/Runway_Excursion.gif/102px-Runway_Excursion.gif 2x" /></a>
+</td></tr>
+<tr>
+<td><b>Content source:</b>
+</td>
+<td>SKYbrary
+</td>
+<td><a href="/index.php/About_SKYbrary" title="About SKYbrary"><img alt="About SKYbrary" src="/images/thumb/b/b8/Logo_SKYbrary.gif/50px-Logo_SKYbrary.gif" decoding="async" width="50" height="25" srcset="/images/thumb/b/b8/Logo_SKYbrary.gif/75px-Logo_SKYbrary.gif 1.5x, /images/b/b8/Logo_SKYbrary.gif 2x" /></a>
+</td></tr>
+<tr>
+<td><b>Content control:</b>
+</td>
+<td>SKYbrary
+</td>
+<td><a href="/index.php/About_SKYbrary" title="About SKYbrary"><img alt="About SKYbrary" src="/images/thumb/b/b8/Logo_SKYbrary.gif/50px-Logo_SKYbrary.gif" decoding="async" width="50" height="25" srcset="/images/thumb/b/b8/Logo_SKYbrary.gif/75px-Logo_SKYbrary.gif 1.5x, /images/b/b8/Logo_SKYbrary.gif 2x" /></a>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definitions"><span class="tocnumber">1</span> <span class="toctext">Definitions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Calculation_of_LDR"><span class="tocnumber">2</span> <span class="toctext">Calculation of LDR</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Factors_Affecting_Actual_Landing_Distance"><span class="tocnumber">3</span> <span class="toctext">Factors Affecting Actual Landing Distance</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Related_ICAO_Provisions"><span class="tocnumber">4</span> <span class="toctext">Related ICAO Provisions</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Related_Articles"><span class="tocnumber">5</span> <span class="toctext">Related Articles</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Further_Reading"><span class="tocnumber">6</span> <span class="toctext">Further Reading</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Definitions">Definitions</span></h2>
+<p><b>Landing Distance.</b> The horizontal distance traversed by the aeroplane by the aeroplane from a point on the approach path at a selected height above the landing surface to the point on the landing surface at which the aeroplane comes to a complete stop.
+</p><p><i>(Source: ICAO Annex 8 Part IIIA Paragraph 2.2.3.3. and Part IIIB Sub-part B Paragraph B2.7 e)</i>
+</p><p><b>Landing Distance Available (LDA).</b> The length of the runway which is declared available by the appropriate Authority and is suitable for the ground run of an aeroplane landing.
+</p><p><i>Source: <a rel="nofollow" class="external text" href="http://www.skybrary.aero/bookshelf/books/2105.pdf">IR-OPS Annex I - Definitions</a></i>
+</p><p><b>Note:</b> The terms Landing Distance Required (LDR) and Landing Distance Available (LDA) routinely defined in aircraft landing performance documentation are not defined for fixed wing aeroplanes in <a href="/index.php/International_Civil_Aviation_Organisation_(ICAO)" title="International Civil Aviation Organisation (ICAO)">ICAO</a> <a href="/index.php/Standards_and_Recommended_Practices_(SARPS)" title="Standards and Recommended Practices (SARPS)">SARPs</a>. The ICAO definition for "Landing distance" is usually taken as the basis for the determination of Landing Distance Required (LDR) which is calculated by taking into account the effect of various influencing factors, including prevailing surface conditions and the extent to which aircraft devices which are available to assist deceleration are deployed,
+</p>
+<h2><span class="mw-headline" id="Calculation_of_LDR">Calculation of LDR</span></h2>
+<p>Put simply, the LDR must be less than the LDA. 
+</p><p>IR-OPS CAT.POL.A (and EU-OPS 1 Sub-part G) specifies safety factors that must be applied in determination of the LDR (see <a href="#Further_Reading">further reading</a>).
+</p><p>The LDR depends on a number of factors, principally:
+</p>
+<ul><li>The aircraft landing mass;</li></ul>
+<ul><li>The surface wind and temperature;</li></ul>
+<ul><li>The runway elevation and slope;</li></ul>
+<ul><li>The runway surface conditions (dry, wet or contaminated); and,</li></ul>
+<ul><li>The condition of aircraft <a href="/index.php/Brakes" title="Brakes">braking systems</a>.</li></ul>
+<p><a href="/index.php/Aircraft_Performance" title="Aircraft Performance">Aircraft performance</a> (LDR and landing speed) is calculated by the pilots using printed tables or a computer. This calculation takes account of the above factors, including the safety factor. It is assumed for these calculations that the aircraft will be at a specified height (normally 50 ft) crossing the runway threshold at the correct speed, and that aircraft handling will be in accordance with procedures detailed in the <a href="/index.php/Aircraft_Flight_Manual_(AFM)" title="Aircraft Flight Manual (AFM)">AFM</a> and company <a href="/index.php/Standard_Operating_Procedures_(SOPs)" title="Standard Operating Procedures (SOPs)">SOPs</a>.
+</p><p>Safety factors vary according to the aircraft type (turbo-jet or turbo-prop), the runway conditions (dry, wet or contaminated) and in pre-departure planning, whether the airfield is the destination or an <a href="/index.php/Alternate_Aerodrome" title="Alternate Aerodrome">alternate</a>. 
+</p><p>Special provisions apply to steep approaches and to short landing operations.
+</p><p><a href="/index.php/File:Landing_Distances.jpg" class="image"><img alt="Landing Distances.jpg" src="/images/thumb/f/f0/Landing_Distances.jpg/600px-Landing_Distances.jpg" decoding="async" width="600" height="290" srcset="/images/thumb/f/f0/Landing_Distances.jpg/900px-Landing_Distances.jpg 1.5x, /images/f/f0/Landing_Distances.jpg 2x" /></a>
+</p>
+<h2><span class="mw-headline" id="Factors_Affecting_Actual_Landing_Distance">Factors Affecting Actual Landing Distance</span></h2>
+<p><b>Handling.</b> 
+</p><p>Landing an aircraft is a difficult process requiring considerable manual dexterity. The pilot must achieve the following goals:
+</p>
+<ul><li>On passing the runway threshold:
+<ul><li>50 ft above runway threshold;</li>
+<li>Aircraft configured for landing (landing gear, flaps and slats, etc.);</li>
+<li>Correct and steady forward speed;</li>
+<li>Correct and steady descent rate;</li>
+<li>Appropriate power setting;</li>
+<li>Wings level.</li></ul></li></ul>
+<ul><li>On touch-down:
+<ul><li><a href="/index.php/Brakes" title="Brakes">Brakes</a> applied;</li>
+<li>Power reduced;</li>
+<li>Additional devices deployed (<a href="/index.php/Reverse_Thrust" title="Reverse Thrust">thrust reversers</a>, lift dump, <a href="/index.php/Spoilers_And_Speedbrakes" title="Spoilers And Speedbrakes">ground spoilers</a> etc.);</li>
+<li>Directional control maintained.</li></ul></li></ul>
+<p>Unserviceability of any of the devices which affect the aircraft braking (brakes, anti-skid, reverse thrust, lift-dump, etc.) can have a serious effect on landing performance. (Note: landing performance calculations normally assume that reverse thrust is not available) 
+</p><p>Major unserviceability (e.g. engine malfunction) complicates handling considerably; however, any unserviceability, even if not serious on its own, may add to control difficulties. 
+</p><p>The complexity of the task (even with <a href="/index.php/Autoland" title="Autoland">Autoland</a>) is such that even in ideal conditions, a perfect landing is virtually impossible, while any deviation from the ideal adds to the actual landing distance.
+</p><p><b>Runway Conditions.</b>
+</p><p>The maximum landing mass and the landing speed depend on the runway braking conditions. If these have been inaccurately reported or if the runway is wet or contaminated when its condition was reported as being dry, the landing distance achieved will be increased.
+</p><p>The presence of standing water, snow, slush or ice on the runway has a particularly serious effect on landing performance and if it cannot be cleared, it must be reported as accurately as possible.  Special techniques must be used by pilots when <a href="/index.php/Landing_on_Contaminated_Runways" title="Landing on Contaminated Runways">landing on contaminated runways</a>.
+</p><p><b>Weather Conditions.</b>
+</p><p>The maximum landing mass and landing speed is calculated based on the reported wind and temperature. Significant changes to the reported conditions will affect the landing distance achieved.
+</p><p>Strong cross-winds, <a href="/index.php/Turbulence" title="Turbulence">turbulence</a> and <a href="/index.php/Wind_Shear" class="mw-redirect" title="Wind Shear">wind shear</a> make handling difficult and are likely to result in an increased landing distance.
+</p><p><b>Effect of Factors on Landing Distance</b>
+</p><p>Flight Safety Foundation (FSF) Approach-and-landing Accident Reduction (ALAR) <a rel="nofollow" class="external text" href="http://www.skybrary.aero/bookshelf/books/867.pdf">Briefing Note 8.3 — Landing Distances</a> contains the following diagram which shows the approximate effects of various factors on landing distance:
+</p><p><a href="/index.php/File:Landing_Factors.jpg" class="image"><img alt="Landing Factors.jpg" src="/images/thumb/a/a7/Landing_Factors.jpg/600px-Landing_Factors.jpg" decoding="async" width="600" height="670" srcset="/images/thumb/a/a7/Landing_Factors.jpg/900px-Landing_Factors.jpg 1.5x, /images/a/a7/Landing_Factors.jpg 2x" /></a>
+</p>
+<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>Figure 2 - Landing Distance Factors</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+<h2><span class="mw-headline" id="Related_ICAO_Provisions">Related ICAO Provisions</span></h2>
+<p>The ICAO provisions are contained in Annex 14, Volume 1, Attachment A, Volume 1, 3. Calculation of declared distances:
+</p>
+<ul><li>The declared distances to be calculated for each runway direction comprise: the take-off run available (TORA), take-off distance available (TODA), accelerate-stop distance available (ASDA), and landing distance available (LDA).</li>
+<li>Where a runway is not provided with a stopway or clearway and the threshold is located at the extremity of the runway, the four declared distances should normally be equal to the length of the runway, as shown in Figure A-1 (A).</li>
+<li>Where a runway is provided with a clearway (CWY), then the TODA will include the length of clearway, as shown in Figure A-1 (B). Where a runway is provided with a stopway (SWY), then the ASDA will include the length of stopway, as shown in Figure A-1 (C).</li>
+<li>Where a runway has a displaced threshold, then the LDA will be reduced by the distance the threshold is displaced, as shown in Figure A-1 (D). A displaced threshold affects only the LDA for approaches made to that threshold; all declared distances for operations in the reciprocal direction are unaffected.</li>
+<li>Figures A-1 (B) through A-1 (D) illustrate a runway provided with a clearway or a stopway or having a displaced threshold. Where more than one of these features exist, then more than one of the declared distances will be modified —  but the modification will follow the same principle illustrated. An example showing a situation where all these features exist is shown in Figure A-1 (E).</li></ul>
+<div class="thumb tnone"><div class="thumbinner" style="width:602px;"><a href="/index.php/File:Declared_Distances.jpg" class="image"><img alt="Declared Distances" src="/images/thumb/e/ec/Declared_Distances.jpg/600px-Declared_Distances.jpg" decoding="async" width="600" height="303" class="thumbimage" srcset="/images/e/ec/Declared_Distances.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/index.php/File:Declared_Distances.jpg" class="internal" title="Enlarge"></a></div>Calculation of declared distances. Source: Annex 14, Volume I - Aerodrome Design and Operations (Figure A-1)</div></div></div>
+<h2><span class="mw-headline" id="Related_Articles">Related Articles</span></h2>
+<ul><li><a href="/index.php/Tailwind_Operations" title="Tailwind Operations">Tailwind Operations</a></li>
+<li><a href="/index.php/Landing_Flare" title="Landing Flare">Landing Flare</a></li></ul>
+<h2><span class="mw-headline" id="Further_Reading">Further Reading</span></h2>
+<ul><li>ICAO Annex 8: Airworthiness Part III Chapter 2</li></ul>
+<p><b>EASA</b>
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://www.skybrary.aero/bookshelf/books/2114.pdf">For CAT A aircraft see: IR-OPS CAT.POL.A.230 &amp; 235</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.skybrary.aero/bookshelf/books/2114.pdf">For CAT B aircraft see: IR-OPS CAT.POL.A.330 &amp; 335</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.skybrary.aero/bookshelf/books/2114.pdf">For CAT C aircraft see: IR-OPS CAT.POL.A.435</a></li>
+<li>See also <a rel="nofollow" class="external text" href="http://www.skybrary.aero/bookshelf/books/2138.pdf">Acceptable Means of Compliance and Guidance Material to the parts of IR-OPS CAT.POL.A listed above</a></li>
+<li>EU-OPS 1: Sub-part G, especially <a rel="nofollow" class="external text" href="http://www.skybrary.aero/bookshelf/books/818.pdf#search=1.510">EU-OPS 1.510</a>, <a rel="nofollow" class="external text" href="http://www.skybrary.aero/bookshelf/books/818.pdf#search=1.515">EU-OPS 1.515</a> and <a rel="nofollow" class="external text" href="http://www.skybrary.aero/bookshelf/books/818.pdf#search=1.520">EU-OPS 1.520</a> and associated AMCs and appendices relate to Performance Class A operations. Sub-parts H and I contain provisions relating to Performance Group B and C aircraft respectively.</li></ul>
+<p><b>Flight Safety Foundation</b> 
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://www.skybrary.aero/bookshelf/books/867.pdf">ALAR Briefing Note 8.3 — Landing Distances</a></li></ul>
+<p>The <a href="/index.php/Flight_Safety_Foundation_ALAR_Toolkit" title="Flight Safety Foundation ALAR Toolkit">Flight Safety Foundation ALAR Toolkit</a> provides useful training information and guides to best practice. Copies of the FSF ALAR Toolkit may be ordered from the <a rel="nofollow" class="external text" href="https://flightsafety.org/toolkits-resources/past-safety-initiatives/approach-and-landing-accident-reduction-alar/alar-tool-kit-update-cd/">Flight Safety Foundation ALAR website</a>.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20211029065850
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+[SMW] In‐text annotation parser time: 0.017 seconds
+CPU time usage: 0.077 seconds
+Real time usage: 0.083 seconds
+Preprocessor visited node count: 79/1000000
+Post‐expand include size: 700/2097152 bytes
+Template argument size: 118/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    3.706      1 -total
+ 64.54%    2.392      1 Template:Infobox_Runway_Excursion
+ 28.85%    1.069      3 Template:EU_OPS
+-->
+
+<!-- Saved in parser cache with key skybrary-ec_wiki:pcache:idhash:820-0!canonical and timestamp 20211029065850 and revision id 159701
+ -->
+</div></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://www.skybrary.aero/index.php?title=Landing_Distances&amp;oldid=159701">https://www.skybrary.aero/index.php?title=Landing_Distances&amp;oldid=159701</a>"</div>
+						</div>
+		    			<div class="group"><div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/index.php/Category:Overrun_on_Landing" title="Category:Overrun on Landing">Overrun on Landing</a></li><li><a href="/index.php/Category:Runway_Excursion" class="mw-redirect" title="Category:Runway Excursion">Runway Excursion</a></li></ul></div></div></div>
+		    			
+		    								</div>
+		    	</div>
+
+			<footer class="columns small-12">
+				<div id="footer">
+											<div class="social-footer large-12 small-12 columns">
+						</div>
+										<div id="footer-left" class="small-12 large-centered columns text-center">
+					<ul>
+													<li id="footer-lastmod"> This page was last edited on 21 February 2021, at 12:58.</li>
+														<li id="footer-privacy"><a href="/index.php/SKYbrary_Wiki:Licence_agreement_and_Code_of_conduct" title="SKYbrary Wiki:Licence agreement and Code of conduct">Licence agreement and Code of conduct</a></li>
+														<li id="footer-about"><a href="/index.php/SKYbrary_Wiki:About" class="mw-redirect" title="SKYbrary Wiki:About">About SKYbrary</a></li>
+														<li id="footer-disclaimer"><a href="/index.php/SKYbrary_Wiki:General_disclaimer" title="SKYbrary Wiki:General disclaimer">Disclaimers</a></li>
+																
+						</ul>
+					</div>	
+					<div id="footer-right-icons" class="large-12 small-12 columns">
+					<ul id="poweredby">
+													<li class="poweredby">								<a href="https://www.mediawiki.org/">Powered by MediaWiki</a>																<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki">Powered by Semantic MediaWiki</a>															</li>
+											</ul>
+				</div>								
+			</div>
+		</footer>
+	</div>
+</div>
+			
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"smw":{"limitreport-intext-parsertime":0.017000000000000001},"limitreport":{"cputime":"0.077","walltime":"0.083","ppvisitednodes":{"value":79,"limit":1000000},"postexpandincludesize":{"value":700,"limit":2097152},"templateargumentsize":{"value":118,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    3.706      1 -total"," 64.54%    2.392      1 Template:Infobox_Runway_Excursion"," 28.85%    1.069      3 Template:EU_OPS"]},"cachereport":{"timestamp":"20211029065850","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":267});});</script>			<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+			<script src="/skins/foreground/assets/scripts/main.js"></script>  
+		</body>
+		</html>
