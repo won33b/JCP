@@ -1,0 +1,2091 @@
+
+<!doctype html>
+<html lang="ko">
+<head>
+
+    
+    <title>[Q&A] &#034;몇명까지 모일 수 있나요?&#034;… 일상회복 1차 개편, 무엇이 바뀌나 - 머니S</title>
+    <meta charset="euc-kr">
+    <meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta http-equiv="Cache-Control" content="no-cache"/>
+    <meta http-equiv="Expires" content="0"/>
+    <meta http-equiv="Pragma" content="no-cache"/>
+    <meta http-equiv="refresh" content="300;url=/news/mwView.php?no=2021102916308029611&type=4&code=w0408&STAND=SS"/>
+
+    <!-- Basic Meta Tags -->
+    <meta name="author" content="머니S"/>
+    <meta name="title" content="[Q&A] &#034;몇명까지 모일 수 있나요?&#034;… 일상회복 1차 개편, 무엇이 바뀌나 - 머니S">
+    <meta name="description" content="11월1일부터 4주 동안 단계적 일상회복(위드 코로나) 1단계로 방역체계가 전환된다. 접종 여부와 관계없이 수도권 10명, 비수도권 12명까지 모일 수 있고 식당·카페 등 대부분의 다중이용시설 운영시간 제한이 풀려 24시간 영업이 가능하다. 다만 식당·카페에서 예방"/>
+    <meta name="keywords" content="코로나"/>
+    <meta name="copyright" content="Copyright MoneyS. All rights reserved."/>
+    <link rel="canonical" href="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611">
+            <link rel="amphtml" href="https://m.moneys.mt.co.kr/articleAmp.html?no=2021102916308029611">
+        <link rel="alternate" media="only screen and ( max-width: 640px)" href="https://m.moneys.mt.co.kr/article.html?no=2021102916308029611"/>
+    
+    <!-- OpenGraph -->
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="[Q&A] &#034;몇명까지 모일 수 있나요?&#034;… 일상회복 1차 개편, 무엇이 바뀌나 - 머니S"/>
+    <meta property="og:description" content="11월1일부터 4주 동안 단계적 일상회복(위드 코로나) 1단계로 방역체계가 전환된다. 접종 여부와 관계없이 수도권 10명, 비수도권 12명까지 모일 수 있고 식당·카페 등 대부분의 다중이용시설 운영시간 제한이 풀려 24시간 영업이 가능하다. 다만 식당·카페에서 예방"/>
+    <meta property="og:image" content="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/00/2021102916308029611_1.jpg/dims/thumbnail/800x600!/optimize/"/>
+    <meta property="og:image:width" content="1200"/>
+    <meta property="og:image:height" content="630"/>
+    <meta property="og:url" content="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611"/>
+    <meta property="og:locale" content="ko-KR"/>
+    <meta property="og:site_name" content="머니S"/>
+    <meta property="fb:pages" content="256439978070386"/>
+    <meta property="post:sharer_text" content="[Q&A] &#034;몇명까지 모일 수 있나요?&#034;… 일상회복 1차 개편, 무엇이 바뀌나 - 머니S"/>
+
+    <!--Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@MoneyWeekKr">
+    <meta name="twitter:title" content="[Q&A] &#034;몇명까지 모일 수 있나요?&#034;… 일상회복 1차 개편, 무엇이 바뀌나 - 머니S">
+    <meta name="twitter:description" content="11월1일부터 4주 동안 단계적 일상회복(위드 코로나) 1단계로 방역체계가 전환된다. 접종 여부와 관계없이 수도권 10명, 비수도권 12명까지 모일 수 있고 식당·카페 등 대부분의 다중이용시설 운영시간 제한이 풀려 24시간 영업이 가능하다. 다만 식당·카페에서 예방">
+    <meta name="twitter:creator" content="@MoneyWeekKr">
+    <meta name="twitter:image" content="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916308029611_1.jpg/dims/resize/1200/crop/1200x630!/optimize/">
+    <meta name="twitter:image:alt" content="11월1일부터 4주 동안 단계적 일상회복(위드 코로나) 1단계로 방역체계가 전환된다. 접종 여부와 관계없이 수도권 10명, 비수도권 12명까지 모일 수 있고 식당·카페 등 대부분의 다중이용시설 운영시간 제한이 풀려 24시간 영업이 가능하다. 다만 식당·카페에서 예방접종을 마치지 않은 미접종자는 4명으로 제한된다. /사진=뉴시스">
+    <meta name="twitter:domain" content="https://moneys.mt.co.kr">
+
+    <!-- MicroData -->
+    <meta itemprop="name" content="[Q&A] &#034;몇명까지 모일 수 있나요?&#034;… 일상회복 1차 개편, 무엇이 바뀌나 - 머니S"/>
+    <meta itemprop="description" content="11월1일부터 4주 동안 단계적 일상회복(위드 코로나) 1단계로 방역체계가 전환된다. 접종 여부와 관계없이 수도권 10명, 비수도권 12명까지 모일 수 있고 식당·카페 등 대부분의 다중이용시설 운영시간 제한이 풀려 24시간 영업이 가능하다. 다만 식당·카페에서 예방"/>
+    <meta itemprop="image" content="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/00/2021102916308029611_1.jpg/dims/thumbnail/800x600!/optimize/"/>
+
+    <!-- Google -->
+    <meta name="google-site-verification" content="Bm-6aHrxWtpdQPBIW3yUFDB5xZLFeFXeWkVoVwaFGzg"/>
+
+    <meta name="referrer" content="unsafe-url">
+
+    
+        <!--zum deepdiv -->
+        <meta property="dd:content_id" content="2021102916308029611">
+        <meta property="dd:playtime" content="">
+        <meta property="dd:author" content=김윤섭>
+        <meta property="dd:category" content="산업">
+        <meta property="dd:category2" content="제약">
+        <meta property="dd:category3" content="">
+        <meta property="dd:published_time" content="2021-10-29T16:59:50+09:00">
+        <meta property="dd:modified_time" content="2021-10-29T16:59:50+09:00">
+        <meta property="dd:publisher" content="MoneyS">
+        <meta property="dd:availability" content="true">
+
+        <!-- Article -->
+        <meta property="article:published_time" content="2021-10-29T16:59:50+09:00"/>
+        <meta property="article:author" content="김윤섭"/>
+        <meta property="article:section" content="산업"/>
+        <meta property="article:tag" content="제약, 산업"/>
+        <!-- Dable -->
+        <meta property="dable:item_id" content="2021102916308029611">
+        <meta property="dable:author" content="김윤섭">
+        <meta property="dable:custom1" content="count">
+        <meta property="og:category" name="og:category" content="산업"/>
+
+        <!-- Dable 스크립트 시작 -->
+        <script>
+            (function (d, a, b, l, e, _) {
+                d[b] = d[b] || function () {
+                    (d[b].q = d[b].q || []).push(arguments)
+                };
+                e = a.createElement(l);
+                e.async = 1;
+                e.charset = 'utf-8';
+                e.src = '//static.dable.io/dist/plugin.min.js';
+                _ = a.getElementsByTagName(l)[0];
+                _.parentNode.insertBefore(e, _);
+            })(window, document, 'dable', 'script');
+            dable('setService', 'moneys.mt.co.kr');
+            dable('sendLogOnce');
+        </script>
+        <!-- Dable 스크립트 종료 -->
+
+    <!-- 기사면 > 구조화된 데이터 반영.MTMONEYS-635.201022-->
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "@id": "https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611",
+        "mainEntityOfPage":{
+            "@type":"WebPage",
+            "@id":"https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611"
+        },
+        "headline": "[Q&A] &#034;몇명까지 모일 수 있나요?&#034;… 일상회복 1차 개편, 무엇이 바뀌나 - 머니S",
+        "image": {
+            "@type": "ImageObject",
+            "@id": "https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916308029611_1.jpg",
+            "url": "https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916308029611_1.jpg",
+            "height": 1200,
+            "width": 800
+        },
+        "datePublished": "2021-10-29T16:59:50+09:00",
+        "dateModified": "2021-10-29T16:59:50+09:00",
+        "author": {
+            "@type": "Person",
+            "name": "김윤섭"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "@id": "https://moneys.mt.co.kr/",
+            "name": "머니S",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://m.moneys.mt.co.kr/images/logo_moneys.png",
+                "width": 200
+            },
+            "sameAs":["https://www.facebook.com/moneys.news", "https://twitter.com/MoneyS_KR"]
+        },
+        "description": "11월1일부터 4주 동안 단계적 일상회복(위드 코로나) 1단계로 방역체계가 전환된다. 접종 여부와 관계없이 수도권 10명, 비수도권 12명까지 모일 수 있고 식당·카페 등 대부분의 다중이용시설 운영시간 제한이 풀려 24시간 영업이 가능하다. 다만 식당·카페에서 예방"
+    }
+</script>
+        <!-- TargetPushAD_머니S -->
+    <script src='//cdn.targetpush.co.kr/js/targetpushad.js' charset='utf-8'></script>
+    <script>
+        (function () {
+            adtive_targetpush_ad.start('ZV444448', '1PLLLLLF');
+        }(document));
+    </script>
+    <!--// TargetPushAD_머니S -->
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-40069962-4"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'UA-40069962-4');
+    </script>
+
+    <link type="text/css" href="https://menu.mt.co.kr/new_moneyweek/css/mw_common.css?date=210729" rel="stylesheet"/>
+    <script type="text/javascript" src="https://menu.mt.co.kr/js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="https://menu.mt.co.kr/common/js/slick.js"></script>
+    <script type="text/javascript">
+        var didScroll				// 스크롤시에 사용자가 스크롤했다는 것을 알림
+        var delta = 237	// 동작의 구현이 시작되는 위치
+        var lastScrollTop = 0
+        var navbarHeight = $('#header').height()
+
+        $(document).ready(function () {
+            gnbNavigation()	// 메뉴
+
+                    })
+
+        // 스크롤
+        $(window).scroll(function (event) {
+            didScroll = true
+        })
+
+        // 검색 닫기
+        $('html').click(function (e) {
+            if ($('.input_bx').css('display') == 'block') {
+                if (!$('.search').has(e.target).length) {
+                    $('.input_bx').css('display', 'none')
+                }
+            }
+        })
+
+        // 검색 열기
+        function clickSearchBtn(e) {
+            $('.input_bx').css('display', 'block')
+            $('#kwd').focus()
+        }
+
+        function chkKwdSearch() {
+            if ($.trim($('#kwd').val()) == '') {
+                alert('검색어를 입력해 주십시오.')
+            } else {
+                document.searchForm.submit()
+            }
+        }
+
+        // 메뉴
+        function gnbNavigation() {
+            // 상위 메뉴 하위메뉴 선택
+            $('.gbundle').mouseover(function () {
+                $(this).children('.glink').addClass('on')
+            })
+            $('.gbundle').mouseout(function () {
+                $(this).children('.glink').removeClass('on')
+            })
+        }
+
+
+        
+        // 스크롤 다운하면 숨김, 스크롤 업하면  보임
+        function hasScrolled() {
+            var st = $(this).scrollTop()
+
+            if (Math.abs(lastScrollTop - st) <= delta)
+                return
+
+            if (st > lastScrollTop && st > navbarHeight) { // Scroll Down
+                $('#header .gnb_area').removeClass('nav_down').addClass('nav_up')
+            } else { // Scroll Up
+                if (st + $(window).height() < $(document).height()) {
+                    $('#header .gnb_area').removeClass('nav_up').addClass('nav_down')
+                }
+            }
+            if (st <= 237) {
+                $('#header .gnb_area').removeClass('nav_down').addClass('nav_up')
+            }
+
+            lastScrollTop = st
+        }
+
+        // 메뉴 스크롤
+        setInterval(function () {
+            if (didScroll) {
+                hasScrolled()  //스크롤 다운하면 숨김, 스크롤 업하면  보임
+                didScroll = false
+            }
+        }, -250)
+    </script>
+
+    <!-- taboola광고 헤더코드  ask 2018.12.20 -->
+    <script type="text/javascript">
+        window._taboola = window._taboola || []
+        _taboola.push({article: 'auto'})
+        !function (e, f, u, i) {
+            if (!document.getElementById(i)) {
+                e.async = 1
+                e.src = u
+                e.id = i
+                f.parentNode.insertBefore(e, f)
+            }
+        }(document.createElement('script'),
+            document.getElementsByTagName('script')[0],
+            '//cdn.taboola.com/libtrc/mt-moneys-desktop/loader.js',
+            'tb_loader_script')
+        if (window.performance && typeof window.performance.mark == 'function') {
+            window.performance.mark('tbl_ic')
+        }
+    </script>
+
+    </head>
+<!--[if IE 8 ]>
+<body id="moneyS" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>
+<body id="moneyS" class="ie9"> <![endif]-->
+<!--[if iIE]>-->
+
+
+
+<body id="moneyS"><!--<![endif]-->
+<div id="wrap">
+            <div id="adsentop" style="margin:0 auto; width:728px;height:90px;">
+            <!-- [1] 최상단 배너 / 21-09-27 / 한지선-->
+            <script type="text/javascript" src="https://ads.mtgroup.kr/RealMedia/ads/adstream_jx.ads/moneys_pc/news@Top"></script>
+
+        </div>
+        <!-- skip -->
+    <a class="skip" href="#content">본문영역 바로가기</a>
+    <!-- header -->
+    <div id="header" style="height:243px">
+        <!-- 상단 링크 및 실시간 -->
+        <div class="hd_rellink">
+            <div class="bxcn w1024">
+                <!-- 실시간뉴스 -->
+                <div class="livenews">
+                    					
+					<span class="datearea">2021.10.30<span class="bar">&nbsp;|&nbsp;</span>00:48:03</span>
+					<ul class="group">
+						<li class="bundle"><a href="/news/mwView.php?no=2021103000488053451&code=w1602&MRN">&#034;귀가해주세요&#034; 단속에도…핼러윈 맞은 홍대·이태원 &#39;북적북적&#39;</a></li>
+					</ul>
+					<span class="icon">더보기</span>
+					<div class="lay_livenews">
+						<div class="area">
+							<ul>
+								
+								<li>
+									<a href="/news/mwView.php?no=2021103000488053451&code=w1602&MRN">&#034;귀가해주세요&#034; 단속에도…핼러윈 맞은 홍대·이태원 &#39;북적북적&#39;</a><span class="time">17분전</span>
+								</li>
+								<li>
+									<a href="/news/mwView.php?no=2021103000328085544&code=w1203&MRN">2PM 준호, 똑 닮은 32개월 조카 공개…현실 육아에 땀 뻘뻘(종합)</a><span class="time">33분전</span>
+								</li>
+								<li>
+									<a href="/news/mwView.php?no=2021103000248056008&code=w1604&MRN">美 9월 소비지출 0.6% 증가 그쳐…물가지표는 30년래 최대폭 상승</a><span class="time">41분전</span>
+								</li>
+								<li>
+									<a href="/news/mwView.php?no=2021103000168082820&code=w1203&MRN">머드 더 스튜던트, 자이언티 &#034;정말 원한다&#034; 애원에도 캐스팅 거절 &#39;충격&#39;</a><span class="time">49분전</span>
+								</li>
+								<li>
+									<a href="/news/mwView.php?no=2021103000128061310&code=w1601&MRN">文대통령 &#034;녹슨 철조망이 &#39;평화의 십자가&#39; 변신…그렇게 평화가 오길&#034;(종합)</a><span class="time">53분전</span>
+								</li>
+								<li>
+									<a href="/news/mwView.php?no=2021103000018096649&code=w1601&MRN">박영선 &#034;이재명 &#39;기후변화·에너지&#39; 새 정부 중요 어젠다로 생각&#034;</a><span class="time">1시간전</span>
+								</li>
+								<li>
+									<a href="/news/mwView.php?no=2021103000018028266&code=w0606&MRN"> [오늘의 운세] 2021년 10월 30일 띠별 운세  </a><span class="time">1시간전</span>
+								</li>
+								<li>
+									<a href="/news/mwView.php?no=2021102923538043177&code=w1604&MRN">&#39;공급망 타격&#39; 애플, MS에 시총 1위 빼앗겨</a><span class="time">1시간전</span>
+								</li>
+								<li>
+									<a href="/news/mwView.php?no=2021102923498024807&code=w1203&MRN">염따 &#034;과거는 잊기로 해, 죄송&#034;…프로듀서 공연서 신곡 깜짝 공개</a><span class="time">1시간전</span>
+								</li>
+								<li>
+									<a href="/news/mwView.php?no=2021102923458094299&code=w1203&MRN">준호, 2PM 안무 따라 하는 32개월 조카에 &#034;데뷔해라&#034; 흐뭇</a><span class="time">1시간전</span>
+								</li>							</ul>
+							<span class="date">2021.10.30 기사표출기준</span>
+						</div>
+					</div>                </div>
+                <!-- 링크 및 검색 -->
+                <div class="mlink">
+                    <ul class="link_group">
+                        <li class="bundle"><a href="/corp/mwCorpConnect.html">광고안내</a></li>
+                        <li class="bundle"><a href="/corp/mwOpinion.html">독자의견</a></li>
+                        <li class="bundle"><a href="/corp/mwSubscription.html">정기구독</a></li>
+                        <li class="bundle"><a href="https://mnb.moneys.mt.co.kr" target="_blank">MNB</a></li>
+                        <li class="bundle"><a href="http://bike.moneys.mt.co.kr" target="_blank">머니바이크</a></li>
+                        <li class="bundle"><a href="http://hi.moneys.mt.co.kr" target="_blank">하이하이</a></li>
+                    </ul>
+                    <ul class="sclink_group">
+                        <li class="bundle">
+                            <a href="https://twitter.com/MoneyS_KR" target="_blank" rel="nofollow"><img src="https://menu.mt.co.kr/moneys/images/hsc_tw.png" alt="트위터"/></a>
+                        </li>
+                        <li class="bundle">
+                            <a href="https://www.facebook.com/moneys.news/?fref=ts" target="_blank" rel="nofollow"><img src="https://menu.mt.co.kr/moneys/images/hsc_face.png" alt="페이스북"/></a>
+                        </li>
+                        <li class="bundle">
+                            <a href="https://moneys.mt.co.kr/moneyweek_news.xml" target="_blank"><img src="https://menu.mt.co.kr/moneys/images/hsc_rss.png" alt="RSS"/></a>
+                        </li>
+                    </ul>
+                    <div class="search">
+                        <form name="searchForm" method="GET" action="/search.html">
+                            <button type="button" class="btn_search_open" onclick="javascript:clickSearchBtn();">
+                                <span>검색오픈</span>
+                            </button>
+                            <fieldset>
+                                <legend>검색</legend>
+                                <span class="input_bx" style="">
+                                    <input type="text" name="kwd" id="kwd" value=""/>
+                                    <button type="button" class="btn_search" onclick="javascript:chkKwdSearch();"><span>검색</span></button>
+                                </span>
+                            </fieldset>
+                        </form>
+                    </div>
+                    <!-- float해제 -->
+                    <div class="cboth"></div>
+                </div>
+                <!-- float해제 -->
+                <div class="cboth"></div>
+            </div>
+        </div>
+        <!-- 로고 -->
+        <div class="logo slideInUp animated" style="margin:34px 0 35px; background:url()">
+            <h1>
+                <a href="/"><img src="https://menu.mt.co.kr/moneys/images/logo4.png" alt="머니S"/></a>
+            </h1>
+        </div>
+        <!-- 메뉴 -->
+        <div class="gnb_area">
+            <div class="bxcn w1024">
+                <ul class="gnb">
+                    <!-- 금융 -->
+                    <li class="gbundle">
+                        <a href="/news/mwMain.php?code=w0200&code2=w0100" class="glink">금융</a>
+                        <div class="snb_area">
+                            <ul class="snb"><!-- bundle에 on class 추가로 활성화 -->
+                                <li class="bundle"><a href="/news/mwList.php?code=w0202">은행</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0205">보험</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0201">증권섹션</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0204">재테크</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0203">정책일반</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0206">생활금융</a></li>
+                            </ul>
+                                                    </div>
+                    </li>
+                    <!-- 증권 -->
+                    <li class="gbundle">
+                        <a href="/news/mwMain.php?code=w1500&code2=w0100" class="glink">증권</a>
+                        <div class="snb_area">
+                            <ul class="snb">
+                                <li class="bundle"><a href="/news/mwList.php?code=w1501">마켓</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1502">비즈니스</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1503">글로벌</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1504">재테크</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1505">가상화폐</a></li>
+                            </ul>
+                                                    </div>
+                    </li>
+                    <!-- 산업 -->
+                    <li class="gbundle">
+                        <a href="/news/mwMain.php?code=w0400&code2=w0100" class="glink">산업</a>
+                        <div class="snb_area">
+                            <ul class="snb">
+                                <li class="bundle"><a href="/news/mwList.php?code=w0401">기업일반</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0402">IT</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0409">블록체인</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0404">자동차</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0406">항공물류</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0405">유통생활</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0403">정책일반</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0407">게임</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0408">의약/바이오</a></li>
+                            </ul>
+                                                    </div>
+                    </li>
+                    <!-- 건설/부동산 -->
+                    <li class="gbundle">
+                        <a href="/news/mwMain.php?code=w0900&code2=w0100" class="glink">건설/부동산</a>
+                        <div class="snb_area">
+                            <ul class="snb">
+                                <li class="bundle"><a href="/news/mwList.php?code=w0901">업계일반</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0903">부동산시장동향</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0902">정책일반</a></li>
+                            </ul>
+                                                    </div>
+                    </li>
+
+                    
+                    <!-- 생활문화 -->
+                    <li class="gbundle">
+                        <a href="/news/mwMain.php?code=w0600&code2=w0100" class="glink">생활문화</a>
+                        <div class="snb_area">
+                            <ul class="snb">
+                                <li class="bundle"><a href="/news/mwList.php?code=w0608">자전거</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0609">여행</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0610">맛집</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0602">출판</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0607">공연문화</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0603">교육,육아</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0604">건강</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0605">패션뷰티</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w0606">이슈&amp;</a></li>
+                            </ul>
+                                                    </div>
+                    </li>
+
+                    
+                    <!-- 창업현미경 -->
+                    <li class="gbundle">
+                        <a href="/news/mwMain.php?code=w1000&code2=w0100" class="glink">창업현미경</a>
+                        <div class="snb_area">
+                            <ul class="snb">
+                                <li class="bundle"><a href="/news/mwList.php?code=w1002">업계일반</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1003">정책일반</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1004">핫이슈</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1005">인물탐방</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1006">온라인</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1001">창업칼럼</a></li>
+                            </ul>
+                                                    </div>
+                    </li>
+                    <!-- 연예 -->
+                    <li class="gbundle">
+                        <a href="/news/mwMain.php?code=w1200&code2=w0100" class="glink">연예</a>
+                        <div class="snb_area">
+                        <ul class="snb">
+                                <li class="bundle"><a href="/news/mwList.php?code=w1201">스타</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1205">드라마</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1203">예능</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1206">영화</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1204">뮤직</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1209">해외</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1208">일반</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1202">포토</a></li>
+                            </ul>
+                                                    </div>
+                    </li>
+                    <!-- 스포츠.20201005추가 (MTMONEYS-585) -->
+                    <li class="gbundle">
+                        <a href="/news/mwMain.php?code=w1800&code2=w0100" class="glink">스포츠</a>
+                        <div class="snb_area">
+                        <ul class="snb">
+                                <li class="bundle"><a href="/news/mwList.php?code=w1801">야구</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1802">해외야구</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1803">축구</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1804">해외축구</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1805">농구</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1806">배구</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1807">골프</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1808">일반</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1809">e스포츠&게임</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1810">연재</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <!-- 정치 -->
+                    <li class="gbundle">
+                        <a href="/news/mwMain.php?code=w1600&code2=w0100" class="glink">정치/사회</a>
+                        <div class="snb_area">
+                            <ul class="snb">
+                                <li class="bundle"><a href="/news/mwList.php?code=w1601">정치</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1602">사회</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1603">지역</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1604">글로벌</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1605&kwd=insa">인사</a></li>
+                                <li class="bundle"><a href="/news/mwList.php?code=w1605&kwd=bugo">부고</a></li>
+                            </ul>
+                                                    </div>
+                    </li>
+
+
+                    
+                    <!-- 전체 -->
+                    <li class="gbundle barline">
+                        <a href="/news/mwList.php?code=w0000&code2=w0100" class="glink">전체</a>
+                    </li>
+
+                    
+                </ul>
+                <!-- float 해제 -->
+                <div class="cboth"></div>
+            </div>
+        </div>
+    </div>
+    <!--// header -->
+    <!-- container -->
+    <div id="container"><script>
+    var mtfontSize = 15;
+
+    function getCookie(cookieName) {
+        var search = cookieName + "=";
+        var cookie = document.cookie;
+
+        if (cookie.length > 0) {
+            startIndex = cookie.indexOf(cookieName);
+            if (startIndex != -1) {
+                startIndex += cookieName.length;
+                endIndex = cookie.indexOf(";", startIndex);
+                if (endIndex == -1) endIndex = cookie.length;
+                return unescape(cookie.substring(startIndex + 1, endIndex));
+            } else {
+                return false;
+            }
+        } else {
+            return false;
+        }
+    }
+
+    function setCookie(cookieName, cookieValue, expireDate) {
+        var today = new Date();
+        today.setDate(today.getDate() + parseInt(expireDate));
+        document.cookie = cookieName + "=" + escape(cookieValue) + "; path=/; expires=" + today.toGMTString() + ";"
+    }
+
+    function FontSmall() {
+        if (mtfontSize >= 12) {
+            mtfontSize = mtfontSize - 2;
+            setFaceSize();
+        }
+    }
+
+    function FontLarge() {
+        if (mtfontSize < 25) {
+            mtfontSize = mtfontSize + 2;
+            setFaceSize();
+        }
+    }
+
+    function setFaceSize() {
+        obj = document.getElementById("textBody");
+        obj.style.fontSize = mtfontSize + "px";
+    }
+</script>
+<!--<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>-->
+<script type="text/javascript">
+
+    // 사용할 앱의 Javascript 키를 설정해 주세요.
+    //Kakao.init('94f64dc8a09918d4f2c392b00e47f8f9');			//자바스크립트 api 키값
+
+    function article_print_new(gid) {
+        window.open('https://moneys.mt.co.kr/news/mwPrint.html?no=' + gid + '&type=1', 'printpop', 'toolbar=0,scrollbars=0,width=620,height=500,scrollbars=yes,resizable=yes,left=0,top=0');
+    }
+
+    function article_sendmail_new(gid) {
+        window.open('https://moneys.mt.co.kr/news/mwEmail.html?no=' + gid + '&type=1', 'printpop', 'toolbar=0,scrollbars=0,width=620,height=500,scrollbars=yes,resizable=yes,left=0,top=0');
+    }
+
+    var Sympathy = {
+        init: function () {
+            this.$buttonPositive = $('.shagree_area .agree_type .positive button');
+            this.$buttonNegative = $('.shagree_area .agree_type .negative button');
+            this.$positiveCnt = $('.shagree_area .agree_type .positive #positiveCnt');
+            this.$negativeCnt = $('.shagree_area .agree_type .negative #negativeCnt');
+            this.$buttonPositive.on('click', this.vote.bind(this, 'Sympathy'));
+            this.$buttonNegative.on('click', this.vote.bind(this, 'NonSympathy'));
+        },
+        vote: function (voteValue) {
+            var url = '/ajax.php';
+            var data = {
+                mode: 'voteSympathy',
+                no: '2021102916308029611',
+                voteValue: voteValue
+            };
+            console.log('REQUEST : ' + url, data);
+            $.getJSON(url, data).then(this.voteResponse.bind(this));
+        },
+        /** @param r {{result,no,message,sympathyNumber,nonSympathyNumber}} */
+        voteResponse: function (r) {
+
+            console.log('RESPONSE', r);
+
+            if (!r.result) {
+                if (r.message) {
+                    alert(r.message);
+                }
+                return;
+            }
+
+            var total = Number(r.sympathyNumber) + Number(r.nonSympathyNumber);
+            if (total === 0) total = 1;
+            var sympathyRate = Math.round(r.sympathyNumber / total * 100);
+            var nonSympathyRate = Math.round(r.nonSympathyNumber / total * 100);
+            this.$positiveCnt.html(sympathyRate + '<span>%</span>');
+            this.$negativeCnt.html(nonSympathyRate + '<span>%</span>');
+        }
+    };
+    $(function () {
+        Sympathy.init();
+    });
+
+    function cardImgView(arg) {
+        var totCnt = '0';
+
+        for (var i = 1; i <= totCnt; i++) {
+            if ($("#cardNewsImg" + i).css("display") != "none") {
+                var currentHotNo = i;
+                break;
+            }
+        }
+
+        var maxHotCnt = totCnt;
+
+        if (arg == 'prev') {
+            if (currentHotNo == 1) {
+                return;
+            }
+            var targetHotNo = (currentHotNo == 1) ? maxHotCnt : (currentHotNo - 1);
+        } else {
+            if (currentHotNo == maxHotCnt) {
+                return;
+            }
+            var targetHotNo = (currentHotNo == maxHotCnt) ? 1 : (currentHotNo + 1);
+        }
+        $('#cardNewsImg' + currentHotNo).hide();
+        $('#prevbtn').show();
+        $('#nextbtn').show();
+        $('#cardNewsImg' + targetHotNo).show();
+        if (targetHotNo == 1) $('#prevbtn').hide();
+        if (targetHotNo == totCnt) $('#nextbtn').hide();
+    }
+
+</script>
+
+
+<!-- [2] ???? / 21-09-27 / ??? -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+    (function(){var c=!1,d="//www.mediacategory.com/servlet/adBannerFloating?from="+escape(document.referrer)+"&s=3574&iwh=180_180&igb=70&fType=2",e=function(){c=!0;var a=document.getElementsByTagName("head").item(0),b=document.createElement("script");b.src=d;b.type="text/javascript";a.appendChild(b)};try{document.write("<div id='mobonDivBanner_3574'></div>");var f=setTimeout(e,1E3),g=document.getElementsByTagName("head").item(0),a=document.createElement("script");a.src="https://cdn.megadata.co.kr/js/media/1.1/MBSHandler.js";a.type="text/javascript";a.async?a.async=!0:a.defer=!0;a.onload=function(){!0!==c&&(clearTimeout(f),enlipleMBSHandler(enlipleMBSHandler.getProductTypeCode("bannerScript"),enlipleMBSHandler.getWebCode(),3574).appendScript(d))};g.appendChild(a)}catch(h){e()}})();
+</script>
+
+
+<!-- container -->
+<div id="container">
+    <!-- content -->
+    <div id="content" style="margin-top:30px;">
+        <!-- 기사 본문 -->
+        <div id="article">
+
+            <!-- [3] ?? ?? ????? / 21-09-27 / ??? -->
+            <div style="padding-left:25px;">
+                <iframe width="630" height="140" src="https://ad.reople.co.kr/cgi-bin/PelicanC.dll?impr?pageid=0BDt&out=iframe" allowTransparency = "true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe>
+            </div>
+
+            <br><br>
+            <h1>[Q&A] &#034;몇명까지 모일 수 있나요?&#034;… 일상회복 1차 개편, 무엇이 바뀌나</h1>
+            <div class="h2_tit">
+                <h2></h2>
+
+                <!-- float해제 -->
+                <div class="cboth">&nbsp;</div>
+            </div>
+
+            <div class="info3">
+                <ul class="write">
+                    <li>머니S <a href="https://moneys.mt.co.kr/search.html?srchFd=N&kwd=김윤섭 기자&search_type=m" title="기자의 다른기사보기">김윤섭 기자</a><span class="bar">|</span>조회수 : 1,890<span class="bar">|</span>입력 <span class="num">: 2021.10.29 16:59</span></li>
+                </ul>
+
+                <!-- float해제 -->
+                <div class="cboth">&nbsp;</div>
+            </div>
+
+
+            <div class="sns_box">
+                <div class="together">
+                    <span class="list_tit">기사공유</span>
+                    <ul class="sns_list">
+                        <!-- SNS 공유버튼 -->
+                        <li class=bundle>
+    <a class="shareToSNS kakaotalk"
+        data-title="[Q&A] ＂몇명까지 모일 수 있나요?＂… 일상회복 1차 개편, 무엇이 바뀌나 #MoneyS"
+        data-description="11월1일부터 4주 동안 단계적 일상회복(위드 코로나) 1단계로 방역체계가 전환된다. 접종 여부와 관계없이 수도권 10명, 비수도권 12명까지 모일 수 있고&nbsp;식당·카페 등 대부분의 다중이용시설&nbsp;운영시간 제한이 풀려 24시간 영업"
+        data-image="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916308029611_1.jpg"
+        data-url="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611&code=w0408">
+        <img src="https://menu.mt.co.kr/new_moneyweek/images/etc/share-kakaotalk.jpg" alt="카카오톡 공유" title="카카오톡 공유"/>
+    </a>
+</li>
+<li class=bundle>
+    <a class="shareToSNS kakaotalkMe"
+        data-title="[Q&A] ＂몇명까지 모일 수 있나요?＂… 일상회복 1차 개편, 무엇이 바뀌나 #MoneyS"
+        data-description="11월1일부터 4주 동안 단계적 일상회복(위드 코로나) 1단계로 방역체계가 전환된다. 접종 여부와 관계없이 수도권 10명, 비수도권 12명까지 모일 수 있고&nbsp;식당·카페 등 대부분의 다중이용시설&nbsp;운영시간 제한이 풀려 24시간 영업"
+        data-image="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916308029611_1.jpg"
+        data-url="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611&code=w0408">
+        <img src="https://menu.mt.co.kr/new_moneyweek/images/etc/share-kakaotalk-me.jpg" alt="카카오톡 공유" title="카카오톡 공유"/>
+    </a>
+</li>
+<li class=bundle>
+    <a class="shareToSNS facebook" data-url="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611&code=w0408">
+        <img src="https://menu.mt.co.kr/new_moneyweek/images/etc/share-facebook.jpg" alt="페이스북" title="페이스북"/>
+    </a>
+</li>
+<li class=bundle>
+    <a class="shareToSNS twitter"
+        data-title="[Q&A] ＂몇명까지 모일 수 있나요?＂… 일상회복 1차 개편, 무엇이 바뀌나 #MoneyS"
+        data-url="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611&code=w0408">
+        <img src="https://menu.mt.co.kr/new_moneyweek/images/etc/share-twitter.jpg" alt="트위터" title="트위터"/>
+    </a>
+</li>
+<li class=bundle>
+    <a class="shareToSNS naverblog" 
+        data-title="[Q&A] ＂몇명까지 모일 수 있나요?＂… 일상회복 1차 개편, 무엇이 바뀌나 #MoneyS"
+        data-url="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611&code=w0408">
+        <img src="https://menu.mt.co.kr/new_moneyweek/images/etc/share-naver.jpg" alt="네이버 블로그" title="네이버 블로그"/>
+    </a>
+</li>
+<li class=bundle>
+    <a class="shareToSNS kakaostory" 
+        data-title="[Q&A] ＂몇명까지 모일 수 있나요?＂… 일상회복 1차 개편, 무엇이 바뀌나 #MoneyS"
+        data-url="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611&code=w0408">
+        <img src="https://menu.mt.co.kr/new_moneyweek/images/etc/share-kakaostory.jpg" alt="카카오스토리" title="카카오스토리"/>
+    </a>
+</li>
+<li class=bundle>
+    <a class="shareToSNS telegram"
+        data-url="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611&code=w0408">
+        <img src="https://menu.mt.co.kr/new_moneyweek/images/etc/share-telegram.jpg" alt="텔레그램 공유" title="텔레그램 공유"/>
+    </a>
+</li>
+<li class="bundle">
+    <a class="shareToSNS url"
+        data-url="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611&code=w0408">
+        <img src="https://menu.mt.co.kr/new_moneyweek/images/etc/share-url.jpg" alt="url 공유" title="url 공유"/>
+    </a>
+</li>
+<script>
+    if (typeof ShareToSNSLoadChk === 'undefined') {
+        var ShareToSNSLoadChk = true;
+        $.getScript("/js/ShareToSNS.js", 
+            function() {
+                ShareToSNS.init();
+            }      
+        );
+    }
+</script>                    </ul>
+                </div>
+                <div class="go_reply">
+                    <a href="#sns_reply_section"><span>댓글남기기</span></a>
+                </div>
+                <ul class="function">
+                    <li class="bundle">
+                        <button type="button" class="fontup" title="폰트크게" onclick="FontLarge();"><span>폰트크게</span>
+                        </button>
+                    </li>
+                    <li class="bundle">
+                        <button type="button" class="fontdown" title="폰트작게" onclick="FontSmall();"><span>폰트작게</span>
+                        </button>
+                    </li>
+                    <li class="bundle">
+                        <button type="button" class="print" title="인쇄" onclick="article_print_new('2021102916308029611');">
+                            <span>프린트</span></button>
+                    </li>
+                </ul>
+                <div class="cboth"></div>
+            </div>
+
+
+            <!-- 편집자주 -->
+                        <!-- // 편집자주 -->
+
+            <!-- 카드뉴스 -->
+            
+            <div align="justify" class="content_area">
+                <div id="textBody">
+                    <div itemprop="articleBody">
+                        <TABLE class="article_photo center"><TBODY><TR><TD class=img><IMG style="float:; margin:0 auto;display:block;" src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916308029611_1.jpg" width="680" height="453" alt="11월1일부터 4주 동안 단계적 일상회복(위드 코로나) 1단계로 방역체계가 전환된다. 접종 여부와 관계없이 수도권 10명, 비수도권 12명까지 모일 수 있고 식당·카페 등 대부분의 다중이용시설 운영시간 제한이 풀려 24시간 영업이 가능하다. 다만 식당·카페에서 예방접종을 마치지 않은 미접종자는 4명으로 제한된다. /사진=뉴시스" /></TD></TR><TR><TD class="desc">11월1일부터 4주 동안 단계적 일상회복(위드 코로나) 1단계로 방역체계가 전환된다. 접종 여부와 관계없이 수도권 10명, 비수도권 12명까지 모일 수 있고 식당·카페 등 대부분의 다중이용시설 운영시간 제한이 풀려 24시간 영업이 가능하다. 다만 식당·카페에서 예방접종을 마치지 않은 미접종자는 4명으로 제한된다. /사진=뉴시스</TD></TR></TBODY></TABLE>
+	<span class='adbox1 ad'>
+		<span class='adH'>
+            <iframe width=300 height=250 noresize scrolling=no frameborder=0 marginheight=0 marginwidth=0 src='https://ads.mtgroup.kr/RealMedia/ads/adstream_sx.ads/moneys_pc/news@x04'></iframe>
+		</span>
+	</span>
+11월1일부터 4주 동안 단계적 일상회복(위드 코로나) 1단계로 방역체계가 전환된다. 접종 여부와 관계없이 수도권 10명, 비수도권 12명까지 모일 수 있고&nbsp;식당·카페 등 대부분의 다중이용시설&nbsp;운영시간 제한이 풀려 24시간 영업이 가능하다. 다만 식당·카페에서 예방접종을 마치지 않은 미접종자는 4명으로 제한된다.<br><br>일상회복과 더불어 안전한 시설이용과 미접종자를 보호하기 위해 헬스장·노래방 등 실내체육·유흥시설과 치료 목적 외 의료기관·요양병원을 출입할 때는 접종증명·음성확인제(방역패스) 즉 '백신패스'가 시행된다<br><br>.29일 중앙재난안전대책본부(중대본)는 이 같은 단계적 일상회복 이행계획을 발표했다. 정부는 11월부터 6주 동안 총 3차례에 걸쳐 단계적으로 방역 조치를 완화해간다는 계획이다.<div></div><div><br>다음은 단계적 일상회복과 관련한 질의응답을 정리한 것이다.</div><div><br></div><b>-수도권 식당·카페에서도 접종 여부 관계없이 10명 모일 수 있나.</b><br><div>그동안 사회적 거리두기 기준상 미접종자는 최대 4명을 전제로 수도권은 최대 8명, 비수도권은 최대 10명의 모임이 가능했다. 앞으로 대부분의 다중이용시설에서 접종 여부와 관계없이 수도권 10명, 비수도권 12명의 모임이 가능하다.<br><br>위드 코로나로 인해 사적모임 인원 제한이 대부분 완화됐지만&nbsp;식당과 카페는 마스크를&nbsp;벗고 대화와 음주·식사를 하므로 미접종자 이용 제한기준이 남았다.<br><br>식당·카페는 그대로 미접종자가 4명을 넘을 수 없다. 수도권에서 10명 모인다면 접종자는 6명 이상이어야 하고 비수도권의 12명 중에 접종자가 8명은 돼야 한다. 3차 개편 때 식당·카페 이용과 사적모임 인원 제한 규제 등이 해제될 방침이다.<br><br><b>-1차 개편 때 영업시간 제한이 풀리는 시설은.<br></b>유흥시설을 제외한 생업시설 대다수다. 식당·카페와 학원, 독서실·스터디카페, 영화관·공연장, 실내체육시설, 결혼식장·장례식장, 야구장 등 경기장, 마트·백화점, 노래연습장, 목욕장업, PC방 등이다.</div><div><br>유흥시설, 클럽, 콜라텍, 무도장 등은 1차 개편에 따라 자정까지 운영할 수 있다. 다만 1차 개편 시 접종증명·음성확인제(방역패스)를 도입했고, 영업시간 제한은 2차 개편 때 해제된다.</div><div><br></div><div><b>-접종완료자가 헬스장을 가려면 어떤 절차가 필요한가.</b><b></b></div><div>예방접종완료자는 COOV 앱 또는 전자출입명부의 증명서, 예방접종증명서(종이), 신분증에 부착된 접종 스티커 중 하나를 신분증과 함께 출입시 보여주면 된다.</div><br>유전자증폭(PCR) 음성확인자는 문자 통지서, 보건소에서 발급받은 코로나19 PCR 음성확인서, COOV 앱, 또는 전자증명서 등을 신분증과 함께 보여주면 된다.<br><br>만 18세 이하 청소년은 신분증만 보여주면 된다. 코로나19 확진 후 격리해제자, 의학적 사유로 접종이 어려운 사람 등은 예외자다. 보건소에서 발급한 예외 증명서와 신분증을 제시하면 된다. 단&nbsp;시설별로 증명수단이 다를 수 있고 수단별로 효력 기간이 다르다.<br><br><div><b>-접종완료자만 갈 수 있는 장소도 있나.</b><br><div>접종완료자와 완치자에 한해 출입하는 곳이 있다. 완치자 대부분은 치료받고 90일 이후 권고에 따라 예방접종을 하고 있어 접종완료자기이도 하다. 유흥시설은 접종자만 출입 가능해&nbsp;예외 인정자라도 출입하지 못한다.<br><br>경마·경륜·경정/카지노 그리고 감염취약시설 중 의료기관, 요양병원·시설은 입원 환자나 시설 입소자를 면회할 때 접종완료자와 음성 확인자만 출입할 수 있다.<br></div></div><div><br></div><div><b>-방역패스는 11월1일부터 바로 적용되나.</b><b></b></div><div>제도 초기&nbsp;현장의 적응을 위해 11월1~7일 1주일 동안 계도기간을 운영하고 방역패스 활용에 대한 홍보를 강화할 예정이다. 실내체육시설은 미접종자의 이용권 환불 문제나 현장 혼란 최소화를 위해 11월1∼14일 2주일 동안 계도기간을 운영한다.</div><br>시설 관리자는 접종증명 또는 PCR 음성확인을 위해서는 되도록 상대적으로 위·변조가 어렵고 역학조사 동선추적 편의성이 높은 QR코드를 유도해야 한다. 불가피한 경우 육안으로 확인할 수 있다.<div><br></div><div><b>-영화관에서 팝콘, 야구장에서 치맥을 먹을 수 있나.</b></div><div>영화관이나 야구장 등 스포츠 경기 관람 중의 음식 섭취는 접종완료자만 모이는 경우로 1차 개편 때 시범 허용해보고 위험성을 평가한다. 우선 영화관, PC방, 야구장은 미접종자도 이용할 수 있지만 접종 완료자와 PCR 음성 확인자만 이용할 경우 좌석 띄우기, 인원 제한은 해제한다.</div><div><br>실내외 스포츠 경기는 1차 개편으로 접종 여부와 상관없이 정원의 50%까지 관람할 수 있다. 접종완료자 전용 구역은 100% 정원을 채울 수 있고 취식도 가능하지만 접종 여부와 상관없이 큰 목소리를 내며 응원할 수는 없다.</div><div><br></div><b>-결혼식 하객은 얼마나 초청할 수 있고, 예배에 몇 명까지 모일 수 있나.</b><div><div>결혼식의 경우, 1차 개편 때 미접종자 49명을 포함한 최대 250명 부를 수 있다. 방역패스를 확인했다면 500명 미만으로 치를 수 있다. 2차 개편 때&nbsp;접종완료자만 온다면 인원 제한은 따로 없다. 예배 등 종교 활동은 접종 구분없이 수용 인원의 50%까지 진행할 수 있고 접종완료자만 모이면 인원 제한은&nbsp;없다.</div></div><div><br></div><b>-재택치료는 어떤 처치를 받게 되나. 또 근로자는 생활비 지원을 받을 수 있나.</b><br>재택치료 대상자는 1일 2회 체온, 산소포화도 등 건강관리 모니터링을 받게 된다. 대상자는 모바일앱에 매일 건강정보를 입력하고 1일 1회 이상 의료진과 유선으로 통화하게 된다. 체온계, 산소포화도측정기는 재택치료 키트로 제공된다. 증상이 변화할 경우 의료진 판단 하에 모니터링 횟수를 추가할 수 있다.<br><br>입원·시설치료자와 동일하게 유급휴가비용 또는 생활지원비 지원 대상이다. 공동격리자에 대한 생활지원비는 별도 지원하지 않는다. 지원비는 가구원 수에 따라 다르다. 1인(47만4600원), 2인(80만2000원), 3인(103만5000원), 4인(126만6900원), 5인 이상(149만6700원)이 기준이다.<div><br></div><b>-2차, 3차 개편은 언제 예정인가.</b><br><div>2차 개편은 대규모 행사를 허용할&nbsp;지 결정하거나&nbsp;실외 마스크 착용 지침 해제를 검토할 계획이다. 시점은 12월 중순으로 그 때면 국민 접종 완료율이 80% 이상 올랐을 것이다. 현재도 실외에서 다른 사람과 2m 이상 거리를 두면 벗을 수 있다. 3단계는 사적모임 인원 제한 해제를 검토하는데&nbsp;내년 1월쯤은 되어야 할 전망이다. 15명 안팎의 단체 회식은 그 이후 가능할 것으로 보인다.<div><br></div><div><b>“코로나19 예방수칙, ‘의무’이자 ‘배려’입니다”<br>#올바른 마스크 착용 #건강한 거리두기</b></div></div>                    </div>
+                </div>
+            </div>
+
+            <!-- float해제 -->
+            <div class="cboth">&nbsp;</div>
+            <br>
+
+            <!-- 기자프로필 -->
+            
+					<div class="writer_profile">
+						<span class="thum"><img src="https://menu.mt.co.kr/moneyweek/member_img/member_img_602.jpg?2973" alt="김윤섭" /></span>
+						<div class="conbox">
+							<strong class="name">김윤섭</strong>
+							<a href="mailto:angks678@mt.co.kr;" target="_blank" class="mail">angks678@mt.co.kr</a>
+							<span class="bar">&nbsp;|&nbsp;</span><a href="http://" target="_blank"><img src="https://menu.mt.co.kr/common/icon/icon_twitterReply2.gif" alt="twitter" rel="nofollow" /></a> <a href="http://" target="_blank"><img src="https://menu.mt.co.kr/common/icon/icon_facebookReply2.gif" alt="facebook" rel="nofollow" /></a>
+							<p class="txt">안녕하세요 머니s 김윤섭 기자입니다. 열심히 쓰겠습니다.</p>
+						</div>
+						<a href="https://moneys.mt.co.kr/search.html?kwd=%B1%E8%C0%B1%BC%B7&x=0&y=0" class="other_news">이 기자의 다른기사 보기 &gt;</a>
+					</div>
+					
+            <div class="related_article" style="padding-bottom:0;">
+
+                <!-- 2019-01-28 -->
+                <span class="adbox1 ad">
+						<span class="adH">
+                            <!-- [11] ???? ?? ?? ?? / 21-09-27 / ???  -->
+                            <script>
+                                (function(){var b=!1,c="//www.mediacategory.com/servlet/adBanner?from="+escape(document.referrer)+"&s=21315&iwh=200_200&igb=74&cntad=1&cntsr=1",d=function(){b=!0;document.getElementById("mobonDivBanner_21315").innerHTML="<iframe name='ifrad' width='200' height='200' id='mobonIframe_21315' src='"+c+"' frameBorder='0' marginWidth='0' marginHeight='0' scrolling='no' ></iframe>"};try{document.write("<div id='mobonDivBanner_21315'></div>");var e=setTimeout(d,1E3),f=document.getElementsByTagName("head").item(0),a=document.createElement("script");a.src="https://cdn.megadata.co.kr/js/media/1.1/MBSHandler.js";a.type="text/javascript";a.async?a.async=!0:a.defer=!0;a.onload=function(){!0!==b&&(clearTimeout(e),enlipleMBSHandler(enlipleMBSHandler.getProductTypeCode("banner"),enlipleMBSHandler.getWebCode(),21315).createBanner(c,"200","200"))};f.appendChild(a)}catch(g){d()}})();
+                            </script>
+						</span>
+					</span>
+                <!--  -->
+
+                <div class="related" style="padding-bottom:0;">
+                    <!-- 관련기사 -->
+                    			<h4><img src="https://menu.mt.co.kr/common/title_article_mainnews2.gif" alt="주요뉴스" /></h4>			<ul style="margin-top:0;"><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102910578087057&VMN">김강우 팬 추모 "당신 덕분에 다시 일어날 수 있었습니다"</a></li>
+<li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102911438037457&VMN">"국민 저력 믿는다"… 11월부터 위드코로나, 식당·카페 24시간 운영(종합)</a></li>
+<li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102816348052012&VMN">자비스엔지니어링·리파인, 오늘 코스닥시장 입성</a></li>
+<li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102911068018091&VMN">[속보]중환자실 75% 넘으면 일상회복 중단… "비상계획 조치 돌입"</a></li>
+<li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102908038013806&VMN">오늘 위드코로나 최종안 발표… 차별 논란 '백신패스' 해법 나올까</a></li>
+	</ul>
+                    <!--// 관련기사 -->
+
+                </div>
+            </div>
+
+            <!-- 공감 -->
+            <div class="shagree_area mgt20">
+                <div class="share_type">
+                    <h4>공유 :</h4>
+                    <ul>
+                        <!-- SNS 공유버튼 -->
+                        <li >
+    <a class="shareToSNS kakaotalk"
+        data-title="[Q&A] ＂몇명까지 모일 수 있나요?＂… 일상회복 1차 개편, 무엇이 바뀌나 #MoneyS"
+        data-description="11월1일부터 4주 동안 단계적 일상회복(위드 코로나) 1단계로 방역체계가 전환된다. 접종 여부와 관계없이 수도권 10명, 비수도권 12명까지 모일 수 있고&nbsp;식당·카페 등 대부분의 다중이용시설&nbsp;운영시간 제한이 풀려 24시간 영업"
+        data-image="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916308029611_1.jpg"
+        data-url="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611&code=w0408">
+        <img src="https://menu.mt.co.kr/new_moneyweek/images/etc/share-kakaotalk.jpg" alt="카카오톡 공유" title="카카오톡 공유"/>
+    </a>
+</li>
+<li >
+    <a class="shareToSNS kakaotalkMe"
+        data-title="[Q&A] ＂몇명까지 모일 수 있나요?＂… 일상회복 1차 개편, 무엇이 바뀌나 #MoneyS"
+        data-description="11월1일부터 4주 동안 단계적 일상회복(위드 코로나) 1단계로 방역체계가 전환된다. 접종 여부와 관계없이 수도권 10명, 비수도권 12명까지 모일 수 있고&nbsp;식당·카페 등 대부분의 다중이용시설&nbsp;운영시간 제한이 풀려 24시간 영업"
+        data-image="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916308029611_1.jpg"
+        data-url="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611&code=w0408">
+        <img src="https://menu.mt.co.kr/new_moneyweek/images/etc/share-kakaotalk-me.jpg" alt="카카오톡 공유" title="카카오톡 공유"/>
+    </a>
+</li>
+<li >
+    <a class="shareToSNS facebook" data-url="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611&code=w0408">
+        <img src="https://menu.mt.co.kr/new_moneyweek/images/etc/share-facebook.jpg" alt="페이스북" title="페이스북"/>
+    </a>
+</li>
+<li >
+    <a class="shareToSNS twitter"
+        data-title="[Q&A] ＂몇명까지 모일 수 있나요?＂… 일상회복 1차 개편, 무엇이 바뀌나 #MoneyS"
+        data-url="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611&code=w0408">
+        <img src="https://menu.mt.co.kr/new_moneyweek/images/etc/share-twitter.jpg" alt="트위터" title="트위터"/>
+    </a>
+</li>
+<li >
+    <a class="shareToSNS naverblog" 
+        data-title="[Q&A] ＂몇명까지 모일 수 있나요?＂… 일상회복 1차 개편, 무엇이 바뀌나 #MoneyS"
+        data-url="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611&code=w0408">
+        <img src="https://menu.mt.co.kr/new_moneyweek/images/etc/share-naver.jpg" alt="네이버 블로그" title="네이버 블로그"/>
+    </a>
+</li>
+<li >
+    <a class="shareToSNS kakaostory" 
+        data-title="[Q&A] ＂몇명까지 모일 수 있나요?＂… 일상회복 1차 개편, 무엇이 바뀌나 #MoneyS"
+        data-url="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611&code=w0408">
+        <img src="https://menu.mt.co.kr/new_moneyweek/images/etc/share-kakaostory.jpg" alt="카카오스토리" title="카카오스토리"/>
+    </a>
+</li>
+<li >
+    <a class="shareToSNS telegram"
+        data-url="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611&code=w0408">
+        <img src="https://menu.mt.co.kr/new_moneyweek/images/etc/share-telegram.jpg" alt="텔레그램 공유" title="텔레그램 공유"/>
+    </a>
+</li>
+<li class="">
+    <a class="shareToSNS url"
+        data-url="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611&code=w0408">
+        <img src="https://menu.mt.co.kr/new_moneyweek/images/etc/share-url.jpg" alt="url 공유" title="url 공유"/>
+    </a>
+</li>
+<script>
+    if (typeof ShareToSNSLoadChk === 'undefined') {
+        var ShareToSNSLoadChk = true;
+        $.getScript("/js/ShareToSNS.js", 
+            function() {
+                ShareToSNS.init();
+            }      
+        );
+    }
+</script>                        <!--
+                        <li>
+                            <a href="javascript:article_print('2021102916308029611', 1);" title="기사프린트 팝업 열림">
+                                <img src="https://menu.mt.co.kr/new_moneyweek/images/etc/btn_social_print.gif" alt="프린트" title="프린트"/>
+                            </a>
+                        </li>
+                        <li><a href="javascript:article_sendmail('2016062710271015080', 1);" title="기사메일보내기 팝업 열림"><img src="https://menu.mt.co.kr/common/button/btn_atl_email2.png" alt="E-mail"></a></li>
+                        <li><a href="javascript:downloadPdf('2016062710271015080', '1');" title="기사pdf파일 다운받기"><img src="https://menu.mt.co.kr/common/button/btn_atl_pdf2.png" alt="PDF"></a></li> -->
+                    </ul>
+                    <!-- float해제 -->
+                    <div class="cboth"></div>
+                </div>
+
+                                <ul class="agree_type">
+                    <li class="positive">
+                        <button type="button"><span>공감</span></button>
+                        <strong class="su">
+                            <em id="positiveCnt">0<span>%</span></em>
+                        </strong>
+                        <div class="cboth"></div>
+                    </li>
+                    <li class="negative">
+                        <button type="button"><span>비공감</span></button>
+                        <strong class="su">
+                            <em id="negativeCnt">0<span>%</span></em>
+                        </strong>
+                        <div class="cboth"></div>
+                    </li>
+                </ul>
+
+                <!-- float해제 -->
+                <div class="clear cboth"></div>
+            </div>
+
+            <div class="related_article">
+                <div class="copyright">&lt;저작권자 ⓒ ‘성공을 꿈꾸는 사람들의 경제 뉴스’ 머니S, 무단전재 및 재배포 금지&gt;</div>
+                <div class="copyright">&lt;보도자료 및 기사 제보 (<a href="mailto:moneys@mt.co.kr">moneys@mt.co.kr</a>)&gt;</div>
+            </div>
+
+            <!-- 라이브리 댓글 영역 -->
+            <div class="sns_reply_section" id="sns_reply_section">
+                
+    <script>
+        window.livereOptions = {
+            refer: 'moneys.mt.co.kr/news/mwView.php?no=2021102916308029611',
+            site: 'https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611'
+        };
+        (function (d, s) {
+            var j, e = d.getElementsByTagName(s)[0];
+            if (typeof LivereTower === 'function') {
+                return;
+            }
+            j = d.createElement(s);
+            j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+            j.async = true;
+            e.parentNode.insertBefore(j, e);
+        })(document, 'script');
+    </script>
+    <div id="lv-container" data-id="moneytoday" data-uid="MTI2Ni80NTUyOS8yMjA0MA==">
+        <noscript>라이브리 댓글 작성을 위해 JavaScript를 활성화해주세요</noscript>
+    </div>
+            </div>
+            <!-- //라이브리 댓글 영역 -->
+
+
+            <!-- taboola광고 위젯코드 ask 2018.12.20 -->
+            <div id="taboola-below-article-thumbnails"></div>
+            <script type="text/javascript">
+                window._taboola = window._taboola || [];
+                _taboola.push({
+                    mode: 'alternating-thumbnails-a',
+                    container: 'taboola-below-article-thumbnails',
+                    placement: 'Below Article Thumbnails',
+                    target_type: 'mix'
+                });
+            </script>
+
+
+        </div>
+        <!--// 기사 본문 -->
+            </div>
+    <!-- //content -->
+
+    <!-- aside -->
+    <div id="aside">
+        			<!-- 탭뉴스 -->
+			
+<script type="text/javascript">
+    function showSubMenu_ranking(obj1, obj2, obj3, tot) { //obj1:tab구분자, obj2:선택되는tab, obj3:arrow종류
+        for (i = 1; i <= (eval(tot)); i++) {
+            if (eval(obj2) == i) {
+                document.getElementById(obj1 + i).style.display = "block";
+                document.getElementById(obj1 + "on" + i).className = 'on';
+            } else {
+                document.getElementById(obj1 + i).style.display = "none";
+                document.getElementById(obj1 + "on" + i).className = '';
+            }
+        }
+    }
+</script>
+
+<div class="news_tab">
+    <ul class="tab">
+        <li class="best_click">
+            <a href="#" id="rankingon1" onmouseover="showSubMenu_ranking('ranking', 1, 2, 3);" class="on">랭킹뉴스</a></li>
+        <li class="new_news"><a href="#" id="rankingon2" onmouseover="showSubMenu_ranking('ranking', 2, 2, 3);">최신뉴스</a>
+        </li>
+        <li class="recom_news">
+            <a href="#" id="rankingon3" onmouseover="showSubMenu_ranking('ranking', 3, 2, 3);">추천뉴스</a></li>
+    </ul>
+    <ul id="ranking1" style="display:block;" class="lst1 mgt14">
+        <li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102910578087057&code=w1201&VRN"><strong>김강우 팬 추모 "당신 덕분에 다시 일어날 수 있었습니다"</strong></a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102911438037457&code=w0408&VRN">"국민 저력 믿는다"… 11월부터 위드코로나, 식당·카페 24시간 운영(종합)</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102816348052012&code=w1501&VRN">자비스엔지니어링·리파인, 오늘 코스닥시장 입성</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102911068018091&code=w0408&VRN">[속보]중환자실 75% 넘으면 일상회복 중단… "비상계획 조치 돌입"</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102908038013806&code=w0408&VRN">오늘 위드코로나 최종안 발표… 차별 논란 '백신패스' 해법 나올까</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102909248056573&code=w1601&VRN"><strong>김부겸 "비접종자도 수도권 10명, 그외 12명까지"… 11월부터 '위드코로나'(상보)</strong></a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102911198053058&code=w1201&VRN">'전현무♥' 이혜성 근황, 슬립 드레스 자태… 美쳤다</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102914088050136&code=w1201&VRN">"어느 흔한 밥씬 분위기" 김선호, 촬영중 정색?… 촬영감독 영상보니</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102909058092557&code=w1501&VRN">[특징주] 자비스, 루시드 주가 47% 급등에 강세… 원통형 배터리 공급 부각</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102909418018173&code=w1501&VRN">[특징주] 위메이드, 글로벌 동시 접속자 100만명 돌파에 연일 강세</a></li>    </ul>
+    <ul id="ranking2" style="display:none;" class="lst1 mgt14">
+        <li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021103000488053451&type=4&code=w1602&VRN"><strong>"귀가해주세요" 단속에도…핼러윈 맞은 홍대·이태원 '북적북적'</strong></a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021103000328085544&type=4&code=w1203&VRN">2PM 준호, 똑 닮은 32개월 조카 공개…현실 육아에 땀 뻘뻘(종합)</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021103000248056008&type=4&code=w1604&VRN">美 9월 소비지출 0.6% 증가 그쳐…물가지표는 30년래 최대폭 상승</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021103000168082820&type=4&code=w1203&VRN">머드 더 스튜던트, 자이언티 "정말 원한다" 애원에도 캐스팅 거절 '충격'</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021103000128061310&type=4&code=w1601&VRN">文대통령 "녹슨 철조망이 '평화의 십자가' 변신…그렇게 평화가 오길"(종합)</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021103000018096649&type=4&code=w1601&VRN"><strong>박영선 "이재명 '기후변화·에너지' 새 정부 중요 어젠다로 생각"</strong></a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021103000018028266&type=4&code=w0606&VRN"> [오늘의 운세] 2021년 10월 30일 띠별 운세  </a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102923538043177&type=4&code=w1604&VRN">'공급망 타격' 애플, MS에 시총 1위 빼앗겨</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102923498024807&type=4&code=w1203&VRN">염따 "과거는 잊기로 해, 죄송"…프로듀서 공연서 신곡 깜짝 공개</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102923458094299&type=4&code=w1203&VRN">준호, 2PM 안무 따라 하는 32개월 조카에 "데뷔해라" 흐뭇</a></li>    </ul>
+    <ul id="ranking3" style="display:none;" class="lst1 mgt14">
+        <li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102509218050150&code=w1201&VRN"><strong>&#039;김우빈♥&#039; 신민아 근황 보니, 민낯이 이렇게 예쁠 일?</strong></a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102511448028542&code=w1201&VRN">&#039;41.3kg&#039; 현아, 원피스 수영복 입고 볼륨감 뽐내</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102511198055370&code=w1201&VRN">&#039;日재벌과 결혼&#039; 김영아 근황… 150평 도쿄집 거주?</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102709318055503&code=w1203&VRN">김태호 PD·노홍철 새 예능, 벌써부터 표절 논란?</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102513138094240&code=w1201&VRN">&#039;김구라 아들&#039; 그리 &#034;친구의 친구, 백신 맞고 사망&#034; 발언→통편집?</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102611258088385&code=w1201&VRN"><strong>김선호 측 &#034;디스패치 보도, 드릴 말씀 없다&#034;</strong></a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102709038048908&code=w1201&VRN">&#034;넌 날 웃게 해&#034;… 한예슬 근황, 10세 연하 남친 스킨십에 &#039;활짝&#039;</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102715048098332&code=w1201&VRN">&#034;어딜 쳐다보는 거야?&#034;… 제시, 이 각도가 섹시해</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102507578071353&code=w1505&VRN">&#039;도지코인 킬러&#039; 시바이누, 사상 최고치 경신… 비트코인은 주춤</a></li><li><a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102516278063293&code=w0408&VRN">&#034;마스크 벗어도 되나요?&#034;… &#039;위드 코로나&#039; 일문일답</a></li>    </ul>
+</div>
+			<!-- 코스피 -->
+			
+
+
+
+<script>
+function textScroll(scroll_el_id) {
+    this.objElement = document.getElementById(scroll_el_id);
+    this.objElement.style.position = 'relative';
+    this.objElement.style.overflow = 'hidden';
+
+    this.objLi = this.objElement.getElementsByTagName('li');
+    this.height = this.objElement.offsetHeight; // li 엘리먼트가 움직이는 높이(외부에서 변경가능)
+    this.num = this.objLi.length; // li 엘리먼트의 총 갯수
+    this.totalHeight = this.height*this.num; // 총 높이
+    this.scrollspeed = 2; // 스크롤되는 px
+    this.objTop = new Array(); // 각 li의 top 위치를 저장
+    this.timer = null;
+    
+    for(var i=0; i<this.num; i++){
+        this.objLi[i].style.position = 'absolute';
+        this.objTop[i] = this.height*i;
+        this.objLi[i].style.top = this.objTop[i]+"px";
+    }
+}
+
+textScroll.prototype.move = function(){
+    for(var i=0; i<this.num; i++) {
+        this.objTop[i] = this.objTop[i] - this.scrollspeed;
+        this.objLi[i].style.top = this.objTop[i]+"px";
+    }
+    if(this.objTop[0]%this.height == 0){
+        this.jump();
+    }else{
+        clearTimeout(this.timer);
+        this.timer = setTimeout(this.name+".move()",50);
+    }
+}
+
+textScroll.prototype.jump = function(){
+    for(var i=0; i<this.num; i++){
+        if(this.objTop[i] == this.height*(-2)){
+            this.objTop[i] = this.objTop[i] + this.totalHeight;
+            this.objLi[i].style.top = this.objTop[i]+"px";
+        }
+    }
+    clearTimeout(this.timer);
+    this.timer = setTimeout(this.name+".move()",3000);
+}
+
+textScroll.prototype.start = function() {
+    this.timer = setTimeout(this.name+".move()",3000);
+}
+</script>
+			<div class="today_stock mgt29">
+				<ul id="scroll" style="height: 32px; position: relative; overflow: hidden;">
+					<li style="position: absolute; top: 64px;">
+						<span class="stock"><strong class="tit">코스피 : </strong><strong class="price">2970.68</strong><span class="rate down"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/icon_down.gif" alt="하락"> 38.87</span></span><span class="today"><span class="date">18:03</span> <span class="time">10/29</span></span>
+					</li>
+					<li style="position: absolute; top: 96px;">
+						<span class="stock"><strong class="tit">코스닥 : </strong><strong class="price">992.33</strong><span class="rate down"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/icon_down.gif" alt="하락"> 7.8</span></span><span class="today"><span class="date">18:03</span> <span class="time">10/29</span></span>
+					</li>
+					<li style="position: absolute; top: -32px;">
+						<span class="stock"><strong class="tit">원달러 : </strong><strong class="price">1168.60</strong><span class="rate down"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/icon_down.gif" alt="하락"> 1.1</span></span><span class="today"><span class="date">18:03</span> <span class="time">10/29</span></span>
+					</li>
+					<li style="position: absolute; top: 0px;">
+						<span class="stock"><strong class="tit">두바이유 : </strong><strong class="price">83.66</strong><span class="rate down"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/icon_down.gif" alt="하락"> 0.21</span></span><span class="today"><span class="date">18:03</span> <span class="time">10/29</span></span>
+					</li>
+					<li style="position: absolute; top: 32px;">
+						<span class="stock"><strong class="tit">금 : </strong><strong class="price">81.91</strong><span class="rate down"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/icon_down.gif" alt="하락"> 1.55</span></span><span class="today"><span class="date">18:03</span> <span class="time">10/29</span></span>
+					</li>
+				</ul>
+			</div>
+
+<script type="text/javascript">
+var real_search_keyword = new textScroll('scroll'); // 스크롤링 하고자하는 ul 엘리먼트의 id값을 인자로 넣습니다
+real_search_keyword.name = "real_search_keyword"; // 인스턴스 네임을 등록합니다
+real_search_keyword.start(); // 스크롤링 시작
+</script>
+			<!-- 배너 -->
+			<!-- 광고배너 위치변경, 2019.11.07 위로) -->
+                <script src='//compass.adop.cc/assets/js/adop/adopJ.js?v=14'></script>
+                <div class="article_ad">
+                    <script type="text/javascript" src="https://ads.mtgroup.kr/RealMedia/ads/adstream_jx.ads/moneys_pc/news@Right"></script>
+                </div>
+                            <!-- [6] 우측 상단 배너 / 21-09-27 / 한지선 -->
+                <script type="text/javascript" src="https://ads.mtgroup.kr/RealMedia/ads/adstream_jx.ads/moneys_pc/news@Right1"></script>
+			
+			<!-- 스페셜 -->
+			
+			<div class="mgt30 bx_aside1">
+				<h4 class=""><img src="https://menu.mt.co.kr/new_moneyweek/images/title/astit_special.png" alt="스페셜" /></h4>
+				<div class="lst_thum2 mgt13">
+					<ul class="group">
+						
+			<li class="bundle">
+				
+								<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102215108089178&type=4&code=w0204&VS">
+									<span class="thum" style="background-image: url(https://menu.mt.co.kr/moneyweek/thumb/2021/10/22/06/2021102215108089178_1.jpg/dims/resize/250/crop/250x186!/optimize/);"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/22/06/2021102215108089178_1.jpg/dims/resize/250/crop/250x186!/optimize/" alt="[법률S토리] 개편된 건강보험 피부양자 요건, 한 번 더 바뀐다" /><span class="sticker siz1">재테크</span></span>
+									<span class="tit">[법률S토리] 개편된 건강보험 피부양자 요건, 한 번 더 바뀐다</span>
+								</a>
+		
+			</li>
+		
+			<li class="bundle mgl16">
+				
+								<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102210518025507&type=4&code=w0000&code2=w0100&VS">
+									<span class="thum" style="background-image: url(https://menu.mt.co.kr/moneyweek/thumb/2021/10/22/06/2021102210518025507_1.jpg/dims/resize/250/crop/250x186!/optimize/);"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/22/06/2021102210518025507_1.jpg/dims/resize/250/crop/250x186!/optimize/" alt="‘장밋빛’이라는 UAM, ‘레드오션’ 주의보" /><span class="sticker siz1">머니S리포트</span></span>
+									<span class="tit">‘장밋빛’이라는 UAM, ‘레드오션’ 주의보</span>
+								</a>
+		
+			</li>
+		
+			<li class="bundle">
+				
+								<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102916098066606&type=4&code=w0000&code2=w0100&VS">
+									<span class="thum" style="background-image: url(https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916098066606_1.jpg/dims/resize/250/crop/250x186!/optimize/);"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916098066606_1.jpg/dims/resize/250/crop/250x186!/optimize/" alt="“인물이 없네, 캐스퍼 대박 났으니 좀 더”… GGM, 박광태 대표 체제 유지" /><span class="sticker siz1">자동차</span></span>
+									<span class="tit">“인물이 없네, 캐스퍼 대박 났으니 좀 더”… GGM, 박광태 대표 체제 유지</span>
+								</a>
+		
+			</li>
+		
+			<li class="bundle mgl16">
+				
+								<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021101517178050654&type=4&code=w0000&code2=w0100&VS">
+									<span class="thum" style="background-image: url(https://menu.mt.co.kr/moneyweek/thumb/2021/10/15/06/2021101517178050654_1.jpg/dims/resize/250/crop/250x186!/optimize/);"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/15/06/2021101517178050654_1.jpg/dims/resize/250/crop/250x186!/optimize/" alt="[맛집로드]뜨끈한 국물과 함께 즐기는 한 점 한 점의 미학" /><span class="sticker siz1">맛집로드</span></span>
+									<span class="tit">[맛집로드]뜨끈한 국물과 함께 즐기는 한 점 한 점의 미학</span>
+								</a>
+		
+			</li>
+							</ul>
+					<!-- float 해제 -->
+					<div class="cboth"></div>
+				</div>
+			</div>
+
+            				<!-- 광고배너 위치변경, 2019.11.07 아래로) -->
+                            <div class="mgt30" style="margin-left:6px;">
+                <!-- [9] 우측 중단 배너 / 21-09-27  / 지선 -->
+                <script type="text/javascript" src="https://ads.mtgroup.kr/RealMedia/ads/adstream_jx.ads/moneys_pc/news@Right2"></script>
+            </div>
+			<div id="banner_big">
+				<!-- <div>
+					<ins class='adsbyadop' _adop_zon = 'a681cfa0-09c0-4fcf-ad19-3ded5cafa1e5' _adop_type = 're' style='display:inline-block;width:250px;height:250px;' _page_url=''></ins>
+				</div> -->
+				<div class="banner_roll">
+					<div style="display:block;" class="banner_roll type1">
+						<div id="tbds"><p><a href="https://www.facebook.com/moneys.news/" target="_blank">머니S 페이스북에 놀러오세요</a></p></div>
+					</div>
+				</div>
+
+			</div>
+			
+			<!-- 주요기사 -->
+			<div class="bx_aside1 lin_t1">
+    <h4 class="mgt30"><img src="https://menu.mt.co.kr/new_moneyweek/images/title/astit_mainArticle.png" alt="주요기사"/></h4>
+    <div class="bx_thum1 mgt14">
+        <a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102719238032465&type=4&code=w1604&MTN">
+            <span class="thum"><img alt="[단독] 아르헨티나 &#039;김치의 날&#039; 제정 상원의원을 만나다" src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/27/06/2021102719238032465_8.jpg"></span>
+            <strong class="tit"><em>[단독] 아르헨티나 &#039;김치의 날&#039; 제정 상원의원을 만나다</em></strong>
+        </a>
+    </div>
+    <div class="lst_thum2 mgt10">
+        <ul class="group">
+            
+		<li class="bundle">
+			<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102916308029611&type=4&code=w0408&MTN">
+				<span class="thum" style="background-image: url(https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916308029611_1.jpg);"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916308029611_1.jpg" alt="&#034;몇명까지 모일 수 있나요?&#034;… 일상회복, 무엇이 바뀌나"></span>
+				<span class="tit">&#034;몇명까지 모일 수 있나요?&#034;… 일상회복, 무엇이 바뀌나</span>
+			</a>
+		</li>
+	
+		<li class="bundle mgl16">
+			<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102915258061690&type=4&code=w0408&MTN">
+				<span class="thum" style="background-image: url(https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102915258061690_1.jpg);"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102915258061690_1.jpg" alt="백신접종률 73.2%… 얀센 부스터샷 사전예약 50만 돌파"></span>
+				<span class="tit">백신접종률 73.2%… 얀센 부스터샷 사전예약 50만 돌파</span>
+			</a>
+		</li>
+	        </ul>
+        <!-- float 해제 -->
+        <div class="cboth"></div>
+    </div>
+</div>
+
+							<!-- 광고배너 (기존 아이엠애드 대체, 2019.10.31) -->
+                <div style="margin-top:17px; margin-bottom:7px; margin-left:5px;">
+                    <!-- [10] 우측 중단 배너 / 21-09-27 / 지선 -->
+                    <script type="text/javascript" src="https://ads.mtgroup.kr/RealMedia/ads/adstream_jx.ads/moneys_pc/news@Right3"></script>
+                </div>
+
+				<!-- money 포토 배너-->
+				
+                <div class="ad_banner bx_aside1" style="margin-left:5px;">
+				<!--  이베이 (기존 아이엠애드 대체, 2021.05.24) -->
+                    <script type="text/javascript" src="https://ads.mtgroup.kr/RealMedia/ads/adstream_jx.ads/moneys_pc/news@Bottom"></script>
+				</div>
+			
+			<!-- 포토슬라이드 -->
+			
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#clothesTab li a').on('mouseover', function () {
+            $('#clothesTab li a').removeClass('on');
+            $(this).addClass('on');
+        });
+    });
+
+    // 슬라이드 이동
+    function moveSlide(slideNo) {
+        $('ul[id^="clothesImgArea"]').hide();
+        $('#clothesImgArea' + slideNo).show();
+
+        $('div[id^="clothesTitleArea"]').hide();
+        $('#clothesTitleArea' + slideNo).show();
+    }
+
+    // 슬라이드 내의 이미지 이동
+    function moveSlideImg(slideId, direction) {
+        var maxCnt = parseInt($('#clothesImgArea' + slideId + ' li').length);
+        var maxCnts = parseInt($('#clothesTitleArea' + slideId + ' div').length);
+
+        var currentNo = '';
+        $('#clothesImgArea' + slideId + ' li').each(function () {
+            if ($(this).css('display') == 'block') {
+                currentNo = parseInt($(this).attr('alt'));
+            }
+        });
+
+        if (direction == 'prev') {
+            var targetNo = ((currentNo - 1) < 0) ? (maxCnt - 1) : (currentNo - 1);
+        } else {
+            var targetNo = ((currentNo + 1) > (maxCnt - 1)) ? 0 : (currentNo + 1);
+        }
+
+        $('#clothesImgArea' + slideId + ' li').each(function () {
+            if ($(this).attr('alt') == targetNo) {
+                $(this).css('display', 'block');
+            } else {
+                $(this).css('display', 'none');
+            }
+        });
+
+
+        $('#clothesTitleArea' + slideId + ' div').each(function () {
+            if ($(this).attr('alt') == targetNo) {
+                $(this).css('display', 'block');
+            } else {
+                $(this).css('display', 'none');
+            }
+        });
+    }
+</script>
+
+<div class="bx_aside1 mgt12">
+    <div class="abx_thum">
+        <ul class="group" id="clothesTab">
+            
+				<li class="bundle"><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291637232507&idx=0&VSP" class="on"><img alt="[머니S포토] 호남민심 잡기 나선 윤석열" src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916278044629_1.jpg/dims/resize/90/crop/90x90!/optimize/"  onmouseover="javascript:moveSlide('202110291637232507');" /><span class="edge_on"></span></a></li>
+			
+				<li class="bundle"><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=0&VSP" ><img alt="[머니S포토] 곽상언 &#034;장인 노무현, 노태우 업무수행 매우 높게 평가했다&#034;" src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102918378066472_1.jpg/dims/resize/90/crop/90x90!/optimize/"  onmouseover="javascript:moveSlide('202110291327372519');" /><span class="edge_on"></span></a></li>
+			
+				<li class="bundle"><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=0&VSP" ><img alt="[머니S포토] &#39;일상획복 어떻게 준비해야 하나&#39;" src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102911358046211_1.jpg/dims/resize/90/crop/90x90!/optimize/"  onmouseover="javascript:moveSlide('202110291142223771');" /><span class="edge_on"></span></a></li>
+			
+				<li class="bundle"><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291100181901&idx=0&VSP" ><img alt="[머니S포토] 이영철 본부장, 국방정보본부 국정감사 출석" src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102910538088569_1.jpg/dims/resize/90/crop/90x90!/optimize/"  onmouseover="javascript:moveSlide('202110291100181901');" /><span class="edge_on"></span></a></li>
+			        </ul>
+        <!-- float 해제 -->
+        <div class="cboth"></div>
+        <div class="big_area">
+            <ul  id="clothesImgArea202110291637232507" class="thum_group" style="display:block;">										
+							<li class="bundle"  style="display:block;" alt="0">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291637232507&idx=0&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916278044629_1.jpg/dims/resize//optimize/" alt="[머니S포토] 호남민심 잡기 나선 윤석열" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="1">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291637232507&idx=1&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916248012674_1.jpg/dims/resize//optimize/" alt="[머니S포토] 호남 박주선·김동철 손잡은 윤석열" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="2">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291637232507&idx=2&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916218039305_1.jpg/dims/resize//optimize/" alt="[머니S포토] 호남거물 박주선·김동철 &#39;尹 지지선언&#39;" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="3">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291637232507&idx=3&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916198038761_1.jpg/dims/resize//optimize/" alt="[머니S포토] 김동철 &#39;윤석열 지지합니다&#39;" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="4">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291637232507&idx=4&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916178043345_1.jpg/dims/resize//optimize/" alt="[머니S포토] 박주선 &#39;윤석열 국민의힘 대선 경선 후보 지지합니다&#39;" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="5">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291637232507&idx=5&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916168082782_1.jpg/dims/resize//optimize/" alt="[머니S포토] 호남 박주선·김동철 &#39;윤석열 지지선언&#39;" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="6">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291637232507&idx=6&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916158034247_1.jpg/dims/resize//optimize/" alt="[머니S포토] 기자회견에서 발언하는 윤석열 대선 경선 후보" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="7">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291637232507&idx=7&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916148012319_1.jpg/dims/resize//optimize/" alt="[머니S포토] 국회 소통관 찾은 윤석열 후보" /></a>
+							</li>											
+				
+										<button type="button" class="btn_prev" onclick="javascript:moveSlideImg('202110291637232507', 'prev');"><span>이전</span></button>
+										<button type="button" class="btn_next" onclick="javascript:moveSlideImg('202110291637232507', 'next');"><span>다음</span></button>
+										</ul>
+									<ul  id="clothesImgArea202110291327372519" class="thum_group" style="display:none;">										
+							<li class="bundle"  style="display:block;" alt="0">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=0&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102918378066472_1.jpg/dims/resize//optimize/" alt="[머니S포토] 곽상언 &#034;장인 노무현, 노태우 업무수행 매우 높게 평가했다&#034;" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="1">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=1&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102918428094957_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소, 질문받는 노무현 사위 &#39;곽상언&#39;" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="2">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=2&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102918478019316_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 태우 빈소 찾은 아산재단 &#39;정몽준&#39;" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="3">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=3&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102918498090743_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소, 조문하는 아산재단 정몽준 내외" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="4">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=4&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102918518080490_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소, 유가족 위로하는 아산재단 정몽준 내외" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="5">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=5&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102918578088300_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소, 취재진 질문 답하는 아산재단 정몽준" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="6">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=6&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102918448039142_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소 찾은 국힘 조해진" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="7">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=7&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916008044078_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소 방문한 재무부 이용만" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="8">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=8&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102915538086654_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈수, 질문에 답하는 김철수 전 장관" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="9">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=9&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102915578082713_1.jpg/dims/resize//optimize/" alt="[머니S포토] 대한체육회 이기흥, 故 노태우 빈소 조문" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="10">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=10&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102915468075866_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소, 질문에 답하는 대한체육회 &#39;이기흥&#39;" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="11">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=11&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102917008019485_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소 조문하는 박상범 전 靑 경호실장" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="12">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=12&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916588025055_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소, 조문하는 한광욱 전 靑 비서실장" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="13">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=13&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102917038092368_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소, 취재진 질문답하는 국힘 서정숙" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="14">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=14&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102917028010396_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소 찾는 국힘 박대출" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="15">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=15&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102917158060518_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소 찾은 손학규" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="16">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=16&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102913278017770_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소 조문하는 현대차 &#39;정의선&#39; 회장" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="17">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=17&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102913308086805_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소, 유가족 위로하는 현대차 &#39;정의선&#39;" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="18">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=18&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102913348053979_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소 찾은 현대차 정의선·공영운" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="19">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=19&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102913198032233_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소 정의선 &#034;조부 정주영 친분…국가 어른 예우&#034;" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="20">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=20&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102913438027617_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소, 조문 마친 강경화 전 외교 장관" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="21">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=21&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102913458083559_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소, 조문 후 질문받는 &#39;강경화&#39;" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="22">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=22&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916048066428_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소 찾은 &#39;안상수&#39;" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="23">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=23&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102916078035749_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소 찾은 국힘 한무경" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="24">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=24&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102913498029393_1.jpg/dims/resize//optimize/" alt="[머니S포토] DJ 삼남 김홍걸 의원, 故 노태우 빈소 조문" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="25">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=25&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102913398070651_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소 찾은 박철언 전 정무 제1장관" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="26">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=26&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102914068049708_1.jpg/dims/resize//optimize/" alt="[머니S포토] 킹메이커 김종인 &#034;내년 대선 이재명 대 윤석열 경쟁될 듯&#034;" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="27">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=27&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102913558076343_1.jpg/dims/resize//optimize/" alt="[머니S포토] 5공 실세 허화평, 故 노태우 빈소 사흘째 조문" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="28">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=28&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102914008037633_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소 찾은 주한 미대사 대리" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="29">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=29&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102914028055829_1.jpg/dims/resize//optimize/" alt="[머니S포토] 故 노태우 빈소 조문하는 주한 EU 대사" /></a>
+							</li>											
+				
+										<button type="button" class="btn_prev" onclick="javascript:moveSlideImg('202110291327372519', 'prev');"><span>이전</span></button>
+										<button type="button" class="btn_next" onclick="javascript:moveSlideImg('202110291327372519', 'next');"><span>다음</span></button>
+										</ul>
+									<ul  id="clothesImgArea202110291142223771" class="thum_group" style="display:none;">										
+							<li class="bundle"  style="display:block;" alt="0">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=0&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102911358046211_1.jpg/dims/resize//optimize/" alt="[머니S포토] &#39;일상획복 어떻게 준비해야 하나&#39;" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="1">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=1&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102911328016347_1.jpg/dims/resize//optimize/" alt="[머니S포토] &#39;단계적 일상회복을 위해&#39;" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="2">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=2&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102911218090614_1.jpg/dims/resize//optimize/" alt="[머니S포토] 이재명 &#034;선진국 이상의 코로나 손실보상…공공의료 영역도 확충&#034;" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="3">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=3&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102911308048325_1.jpg/dims/resize//optimize/" alt="[머니S포토] 이재명 &#39;일상으로 회복을 위해&#39;" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="4">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=4&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102911298026479_1.jpg/dims/resize//optimize/" alt="[머니S포토] 단계적 일상회복 점검 간담회 참석한 이필수·신경림" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="5">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=5&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102911278041798_1.jpg/dims/resize//optimize/" alt="[머니S포토] 이재명 대선 후보 발언 경청하는 이필수 대한의사협회 회장" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="6">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=6&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102911268048090_1.jpg/dims/resize//optimize/" alt="[머니S포토] &#39;단계적 일상회복 점검 간담회&#39;" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="7">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=7&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102911198050538_1.jpg/dims/resize//optimize/" alt="[머니S포토] 단계적 일상회복 점검 간담회, 발언하는 이재명 후보" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="8">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=8&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102911178057026_1.jpg/dims/resize//optimize/" alt="[머니S포토] 단계적 일상회복 점검 간담회 참석하는 이재명 후보" /></a>
+							</li>											
+				
+										<button type="button" class="btn_prev" onclick="javascript:moveSlideImg('202110291142223771', 'prev');"><span>이전</span></button>
+										<button type="button" class="btn_next" onclick="javascript:moveSlideImg('202110291142223771', 'next');"><span>다음</span></button>
+										</ul>
+									<ul  id="clothesImgArea202110291100181901" class="thum_group" style="display:none;">										
+							<li class="bundle"  style="display:block;" alt="0">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291100181901&idx=0&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102910538088569_1.jpg/dims/resize//optimize/" alt="[머니S포토] 이영철 본부장, 국방정보본부 국정감사 출석" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="1">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291100181901&idx=1&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102910528094244_1.jpg/dims/resize//optimize/" alt="[머니S포토] 국정감사 시작 기다리는 이영철 국방정보본부장" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="2">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291100181901&idx=2&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102910378081837_1.jpg/dims/resize//optimize/" alt="[머니S포토] 국방정보본부 국정감사" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="3">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291100181901&idx=3&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102910368057294_1.jpg/dims/resize//optimize/" alt="[머니S포토] 서류 확인하는 이영철 국방정보본부장" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="4">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291100181901&idx=4&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102910348062398_1.jpg/dims/resize//optimize/" alt="[머니S포토] 2021 국감 출석한 이영철 국방정보본부장" /></a>
+							</li>											
+													
+							<li class="bundle"  style="display:none;" alt="5">
+								<span class="vm"></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291100181901&idx=5&VSP"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/29/06/2021102910328042243_1.jpg/dims/resize//optimize/" alt="[머니S포토] 국회 정보위, 2021년도 국방정보본부 국정감사" /></a>
+							</li>											
+				
+										<button type="button" class="btn_prev" onclick="javascript:moveSlideImg('202110291100181901', 'prev');"><span>이전</span></button>
+										<button type="button" class="btn_next" onclick="javascript:moveSlideImg('202110291100181901', 'next');"><span>다음</span></button>
+										</ul>
+									            <!-- float 해제 -->
+            <div class="cboth"></div>
+        </div>
+        <div  id="clothesTitleArea202110291637232507" style="display:block;" >
+						<div class="slide"  alt="0"  style="display:block;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291637232507&idx=0&VSP"><span class="txt">[머니S포토] 호남민심 잡기 나선 윤석열</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="1"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291637232507&idx=1&VSP"><span class="txt">[머니S포토] 호남 박주선·김동철 손잡은 윤석열</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="2"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291637232507&idx=2&VSP"><span class="txt">[머니S포토] 호남거물 박주선·김동철 &#39;尹 지지선언&#39;</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="3"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291637232507&idx=3&VSP"><span class="txt">[머니S포토] 김동철 &#39;윤석열 지지합니다&#39;</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="4"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291637232507&idx=4&VSP"><span class="txt">[머니S포토] 박주선 &#39;윤석열 국민의힘 대선 경선 후보 지지합니다&#39;</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="5"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291637232507&idx=5&VSP"><span class="txt">[머니S포토] 호남 박주선·김동철 &#39;윤석열 지지선언&#39;</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="6"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291637232507&idx=6&VSP"><span class="txt">[머니S포토] 기자회견에서 발언하는 윤석열 대선 경선 후보</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="7"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291637232507&idx=7&VSP"><span class="txt">[머니S포토] 국회 소통관 찾은 윤석열 후보</span> </a>
+						</div>					
+				</div><div  id="clothesTitleArea202110291327372519" style="display:none;" >
+						<div class="slide"  alt="0"  style="display:block;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=0&VSP"><span class="txt">[머니S포토] 곽상언 &#034;장인 노무현, 노태우 업무수행 매우 높게 평가했다&#034;</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="1"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=1&VSP"><span class="txt">[머니S포토] 故 노태우 빈소, 질문받는 노무현 사위 &#39;곽상언&#39;</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="2"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=2&VSP"><span class="txt">[머니S포토] 故 태우 빈소 찾은 아산재단 &#39;정몽준&#39;</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="3"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=3&VSP"><span class="txt">[머니S포토] 故 노태우 빈소, 조문하는 아산재단 정몽준 내외</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="4"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=4&VSP"><span class="txt">[머니S포토] 故 노태우 빈소, 유가족 위로하는 아산재단 정몽준 내외</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="5"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=5&VSP"><span class="txt">[머니S포토] 故 노태우 빈소, 취재진 질문 답하는 아산재단 정몽준</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="6"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=6&VSP"><span class="txt">[머니S포토] 故 노태우 빈소 찾은 국힘 조해진</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="7"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=7&VSP"><span class="txt">[머니S포토] 故 노태우 빈소 방문한 재무부 이용만</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="8"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=8&VSP"><span class="txt">[머니S포토] 故 노태우 빈수, 질문에 답하는 김철수 전 장관</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="9"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=9&VSP"><span class="txt">[머니S포토] 대한체육회 이기흥, 故 노태우 빈소 조문</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="10"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=10&VSP"><span class="txt">[머니S포토] 故 노태우 빈소, 질문에 답하는 대한체육회 &#39;이기흥&#39;</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="11"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=11&VSP"><span class="txt">[머니S포토] 故 노태우 빈소 조문하는 박상범 전 靑 경호실장</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="12"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=12&VSP"><span class="txt">[머니S포토] 故 노태우 빈소, 조문하는 한광욱 전 靑 비서실장</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="13"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=13&VSP"><span class="txt">[머니S포토] 故 노태우 빈소, 취재진 질문답하는 국힘 서정숙</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="14"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=14&VSP"><span class="txt">[머니S포토] 故 노태우 빈소 찾는 국힘 박대출</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="15"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=15&VSP"><span class="txt">[머니S포토] 故 노태우 빈소 찾은 손학규</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="16"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=16&VSP"><span class="txt">[머니S포토] 故 노태우 빈소 조문하는 현대차 &#39;정의선&#39; 회장</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="17"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=17&VSP"><span class="txt">[머니S포토] 故 노태우 빈소, 유가족 위로하는 현대차 &#39;정의선&#39;</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="18"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=18&VSP"><span class="txt">[머니S포토] 故 노태우 빈소 찾은 현대차 정의선·공영운</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="19"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=19&VSP"><span class="txt">[머니S포토] 故 노태우 빈소 정의선 &#034;조부 정주영 친분…국가 어른 예우&#034;</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="20"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=20&VSP"><span class="txt">[머니S포토] 故 노태우 빈소, 조문 마친 강경화 전 외교 장관</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="21"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=21&VSP"><span class="txt">[머니S포토] 故 노태우 빈소, 조문 후 질문받는 &#39;강경화&#39;</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="22"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=22&VSP"><span class="txt">[머니S포토] 故 노태우 빈소 찾은 &#39;안상수&#39;</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="23"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=23&VSP"><span class="txt">[머니S포토] 故 노태우 빈소 찾은 국힘 한무경</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="24"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=24&VSP"><span class="txt">[머니S포토] DJ 삼남 김홍걸 의원, 故 노태우 빈소 조문</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="25"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=25&VSP"><span class="txt">[머니S포토] 故 노태우 빈소 찾은 박철언 전 정무 제1장관</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="26"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=26&VSP"><span class="txt">[머니S포토] 킹메이커 김종인 &#034;내년 대선 이재명 대 윤석열 경쟁될 듯&#034;</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="27"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=27&VSP"><span class="txt">[머니S포토] 5공 실세 허화평, 故 노태우 빈소 사흘째 조문</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="28"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=28&VSP"><span class="txt">[머니S포토] 故 노태우 빈소 찾은 주한 미대사 대리</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="29"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291327372519&idx=29&VSP"><span class="txt">[머니S포토] 故 노태우 빈소 조문하는 주한 EU 대사</span> </a>
+						</div>					
+				</div><div  id="clothesTitleArea202110291142223771" style="display:none;" >
+						<div class="slide"  alt="0"  style="display:block;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=0&VSP"><span class="txt">[머니S포토] &#39;일상획복 어떻게 준비해야 하나&#39;</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="1"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=1&VSP"><span class="txt">[머니S포토] &#39;단계적 일상회복을 위해&#39;</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="2"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=2&VSP"><span class="txt">[머니S포토] 이재명 &#034;선진국 이상의 코로나 손실보상…공공의료 영역도 확충&#034;</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="3"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=3&VSP"><span class="txt">[머니S포토] 이재명 &#39;일상으로 회복을 위해&#39;</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="4"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=4&VSP"><span class="txt">[머니S포토] 단계적 일상회복 점검 간담회 참석한 이필수·신경림</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="5"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=5&VSP"><span class="txt">[머니S포토] 이재명 대선 후보 발언 경청하는 이필수 대한의사협회 회장</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="6"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=6&VSP"><span class="txt">[머니S포토] &#39;단계적 일상회복 점검 간담회&#39;</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="7"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=7&VSP"><span class="txt">[머니S포토] 단계적 일상회복 점검 간담회, 발언하는 이재명 후보</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="8"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291142223771&idx=8&VSP"><span class="txt">[머니S포토] 단계적 일상회복 점검 간담회 참석하는 이재명 후보</span> </a>
+						</div>					
+				</div><div  id="clothesTitleArea202110291100181901" style="display:none;" >
+						<div class="slide"  alt="0"  style="display:block;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291100181901&idx=0&VSP"><span class="txt">[머니S포토] 이영철 본부장, 국방정보본부 국정감사 출석</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="1"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291100181901&idx=1&VSP"><span class="txt">[머니S포토] 국정감사 시작 기다리는 이영철 국방정보본부장</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="2"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291100181901&idx=2&VSP"><span class="txt">[머니S포토] 국방정보본부 국정감사</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="3"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291100181901&idx=3&VSP"><span class="txt">[머니S포토] 서류 확인하는 이영철 국방정보본부장</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="4"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291100181901&idx=4&VSP"><span class="txt">[머니S포토] 2021 국감 출석한 이영철 국방정보본부장</span> </a>
+						</div>					
+				
+						<div class="slide"  alt="5"  style="display:none;">
+							<span class="tit">SLIDE</span><span class="bar"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/bg_bar1.gif" alt="button" /></span><a href="https://moneys.mt.co.kr/photo/mwPhotoSlideView.php?no=202110291100181901&idx=5&VSP"><span class="txt">[머니S포토] 국회 정보위, 2021년도 국방정보본부 국정감사</span> </a>
+						</div>					
+				</div>    </div>
+</div>
+
+			<!-- 칼럼 -->
+			
+    <div class="bx_aside1 mgt30">
+        <h4 class="mgt24">
+            <img src="https://menu.mt.co.kr/new_moneyweek/images/title/astit_column.png" alt="칼럼"/>
+        </h4>
+        <div class="alst_type2 mgt15">
+            <div class="bundle">
+                <a href="/news/mwView.php?no=2021102714478058134&VC">
+                    <span class="thum"><img src="https://menu.mt.co.kr/moneyweek/thumb/2021/10/27/06/2021102714478058134_3.jpg/dims/resize/90x/optimize/" style="width:100%;" alt="강석훈 에이블리 대표… "취향의 시대, 나만의 스타일로 일상을 디자인하다""></span>
+                    <div class="t_area">
+                        <strong class="tit">강석훈 에이블리 대표… "취향의 시대, 나만의 스타일로 일상을 디자인하다"</strong>
+                        <span class="txt">"패션뿐 아니라 라이프 스타일 전반에 나만의 취향이 녹아 들어가는 시대에요. 유저 취향에 맞는 스타일을 제안하는 건 에이블리의 강점이죠"강석훈 에이블리 대표(사진·37)가 이끄는 에이블리는 2018년 3월 공식 앱 론칭 이후 3년 만에 누적 다운로드 2200만건에 누적 거래액 7500억원을 돌파하며 성장 가도를 달리고 있다. 지난 6월에는 660억원 규모의 투자 유치에 성공했다. 현재까지 유치한 투자 금액은 누적 1060억원으로 여성 패션 쇼핑</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <ul class="lst1 mgt10">
+            <li><a href="/news/mwView.php?no=2021102210518062387">[기자수첩] 갈팡질팡 전기차 정책… 총괄 기관 없어 소비자만 혼란</a></li><li><a href="/news/mwView.php?no=2021102217218085688">[기자수첩] 재테크 열풍의 어두운 이면</a></li><li><a href="/news/mwView.php?no=2021102216578044236">[고수칼럼] "소비심리가 수요 넘어 미래 집값도 결정한다"</a></li><li><a href="/news/mwView.php?no=2021102215108089178">[법률S토리] 개편된 건강보험 피부양자 요건, 한 번 더 바뀐다</a></li>        </ul>
+    </div>
+
+
+
+			<!-- 금융 베스트클릭 -->
+						<div class="bx_aside1 lin_t1 mgt30">
+				<h4 class="mgt30"><img src="https://menu.mt.co.kr/new_moneyweek/images/title/astit_industryBest.png" alt="산업 베스트클릭" /></h4>
+				<ul class="alst_type1 mgt19">
+					
+						<li class="bundle">
+							<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102411358053355&type=4&code=w0408&code2=w0100&VIB">
+								<div class="bx_lank1">
+									<strong class="num top">1</strong><span class="tit">배우 양기원, 학동역서 이상행동 하게 만든 '다이어트 약' 정체는?</span>
+								</div>
+							</a>
+						</li>
+			
+						<li class="bundle">
+							<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102516278063293&type=4&code=w0408&code2=w0100&VIB">
+								<div class="bx_lank1">
+									<strong class="num top">2</strong><span class="tit">"마스크 벗어도 되나요?"… '위드 코로나' 일문일답</span>
+								</div>
+							</a>
+						</li>
+			
+						<li class="bundle">
+							<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102210518040851&type=4&code=w0404&code2=w0100&VIB">
+								<div class="bx_lank1">
+									<strong class="num">3</strong><span class="tit">‘작은 칩’의 반란… 벤츠도 현대차도 속수무책인 ‘반도체’ 쇼크</span>
+								</div>
+							</a>
+						</li>
+			
+						<li class="bundle">
+							<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102911438037457&type=4&code=w0408&code2=w0100&VIB">
+								<div class="bx_lank1">
+									<strong class="num">4</strong><span class="tit">"국민 저력 믿는다"… 11월부터 위드코로나, 식당·카페 24시간 운영(종합)</span>
+								</div>
+							</a>
+						</li>
+			
+						<li class="bundle">
+							<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102217058053368&type=4&code=w0402&code2=w0100&VIB">
+								<div class="bx_lank1">
+									<strong class="num">5</strong><span class="tit">우리가 ‘오징어게임’을 못 만드는 이유</span>
+								</div>
+							</a>
+						</li>
+							</ul>
+			</div>
+
+			<!-- 커버스토리 -->
+			    <div class="cover_story lin_t1 mgt30">
+        <h4><img src="https://menu.mt.co.kr/new_moneyweek/images/title/title_a_coverStory.gif" alt="커버스토리"></h4>
+        <ul>
+            <li id="covercon0" style="display:block">				<div class="num">
+												<span class="ho">제720호</span><strong class="tit">공급망 대란</strong>
+											</div>
+											<div class="book_area">
+                                                <span class="thum"><img src="https://menu.mt.co.kr/upload/moneyweek/2021/10/cover_202110251046_720.jpg?rnd=2717" alt="공급망 대란" /></span>
+                                                <!--
+                                                <strong class="tit"></strong>
+                                                <span class="txt"></span>
+                                                -->
+											</div>				<ul class="relevance_list"><li>
+											<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102215368035260&type=4&code=w0401&code2=w0100&VCS">“공급망 주도권 잡아라”… 자립 나서는 韓 기업들</a>
+									  </li><li>
+											<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102215328084922&type=4&code=w0401&code2=w0100&VCS">공급망 차질에 먹구름 낀 ‘세계 경제’… 韓 영향은</a>
+									  </li><li>
+											<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021102215078080911&type=4&code=w0401&code2=w0100&VCS">갈수록 커지는 ‘공급망 쇼크’… 병목현상 장기화 우려</a>
+									  </li>				</ul></li><li id="covercon1" style="display:none">				<div class="num">
+												<span class="ho">제719호</span><strong class="tit">오징어게임 흥행이 불편한 이유</strong>
+											</div>
+											<div class="book_area">
+                                                <span class="thum"><img src="https://menu.mt.co.kr/upload/moneyweek/2021/10/cover_202110180914_719.jpg?rnd=2717" alt="오징어게임 흥행이 불편한 이유" /></span>
+                                                <!--
+                                                <strong class="tit"></strong>
+                                                <span class="txt"></span>
+                                                -->
+											</div>				<ul class="relevance_list"><li>
+											<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021101519378061994&type=4&code=w0402&code2=w0100&VCS">넷플릭스 세금은 &#39;모르쇠&#39;… 韓 콘텐츠 대박에도 영업이익률 2%?</a>
+									  </li><li>
+											<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021101517248040680&type=4&code=w0402&code2=w0100&VCS">넷플릭스는 왜 망 이용대가를 안 낼까… &#034;작가가 도서관에 돈 내는 꼴&#034;</a>
+									  </li><li>
+											<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021101517348079677&type=4&code=w0402&code2=w0100&VCS">&#034;통신료는 발신자만 내냐&#034;… &#39;망 이용대가&#39; 논란, SKB는 답답하다</a>
+									  </li><li>
+											<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021101508128025022&type=4&code=w0402&code2=w0100&VCS">&#39;253억→1조&#39; 오징어게임 대박났는데… 넷플릭스 ‘독식’ VS 영진위 ‘빈손’</a>
+									  </li>				</ul></li><li id="covercon2" style="display:none">				<div class="num">
+												<span class="ho">제718호</span><strong class="tit">새판짜는 SK</strong>
+											</div>
+											<div class="book_area">
+                                                <span class="thum"><img src="https://menu.mt.co.kr/upload/moneyweek/2021/10/cover_202110120728_718.jpg?rnd=2717" alt="새판짜는 SK" /></span>
+                                                <!--
+                                                <strong class="tit"></strong>
+                                                <span class="txt"></span>
+                                                -->
+											</div>				<ul class="relevance_list"><li>
+											<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021100815148027584&type=4&code=w0401&code2=w0100&VCS">붙이고 떼고… 속도 붙은 SK ‘딥체인지’</a>
+									  </li><li>
+											<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021100816308024146&type=4&code=w0401&code2=w0100&VCS">‘친환경’ 입는 SK… 최태원式 ‘파이낸셜 스토리’ 본격화</a>
+									  </li><li>
+											<a href="https://moneys.mt.co.kr/news/mwView.php?no=2021100815198055756&type=4&code=w0401&code2=w0100&VCS">‘한 지붕 두 가족’ SK… 사촌들의 분가는?</a>
+									  </li>				</ul></li>        </ul>
+        <div class="prev_next" id="cover_tab">
+            <a href="javascript:content_mouse2('1','2');" class="next"><img src="https://menu.mt.co.kr/new_moneyweek/images/button/btn_left.png" alt="이전"></a>
+            <a href="javascript:content_mouse2('2','2');" class="prev"><img src="https://menu.mt.co.kr/new_moneyweek/images/button/btn_right.png" alt="다음"></a>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        function content_mouse2(num, tab) {
+            for (var i = 0; i <= tab; i++) {
+                document.getElementById('covercon' + i).style.display = 'none';
+            }
+            document.getElementById('covercon' + num).style.display = 'block';
+
+            left_num = (num * 1) - 1;
+            right_num = (num * 1) + 1;
+
+            if (left_num < 0) {
+                left_num = '2';
+            }
+            if (right_num > '2') {
+                right_num = 0;
+            }
+
+            document.getElementById('cover_tab').innerHTML = '<a href="javascript:content_mouse2(\'' + right_num + '\',\'2\')" class="next"><img src="https://menu.mt.co.kr/new_moneyweek/images/button/btn_left.png" alt="이전" /></a><a href="javascript:content_mouse2(\'' + left_num + '\',\'2\')" class="prev"><img src="https://menu.mt.co.kr/new_moneyweek/images/button/btn_right.png" alt="다음" /></a>';
+        }
+    </script>
+
+
+			<div class="banner2 mgt25">
+				<a href="https://moneys.mt.co.kr/corp/mwSubscription.html"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/subscription_btn.png" alt="정기구독신청"></a>
+				<a href="https://moneys.mt.co.kr/corp/mwOpinion.html" style="display:inline-block; margin-top:1px;"><img src="https://menu.mt.co.kr/new_moneyweek/images/etc/opinion_btn.png" alt="독자의견"></a>
+			</div>
+    </div>
+    <!--// aside -->
+    <div class="cboth"></div>
+
+    <iframe width=0 height=0 name='hiddenframe' id='hiddenframe' style='display:none;'></iframe>
+
+
+    <!--[4] ?? ?? ?? / 21-09-27 / ??? -->
+    <div style="position:absolute; top:160px; left:-175px; width:120px; height:600px;">
+        <div class="iwm_ba" data-ad="{'id':'0619E60A'}" style="display:inline-block;width:160px;height:600px;"></div> <script type="text/javascript" src="https://cdn.interworksmedia.co.kr/js/tm/ba/latest/ba.js" async></script>
+    </div>
+    <!-- Right_120x600 -->
+    <ul style="position:absolute; top:160px; right:-135px; width:120px;">
+        <li>
+            <!-- [5] ?? ???? / 21-09-27 / ??? -->
+            <!-- AD Plus Script Start (??S ????? 3??) -->
+            <script language="javascript" src="//adimg.wisenut.co.kr/common/js/amc/wiseAdSvc.pj?code=28918e58d2df5340bcea6bc68bd0d3ab" type="text/javascript"></script>
+            <!-- AD Plus Script End -->
+        </li>
+
+        <li style="margin-top:10px;">
+            <!-- [7] ?? ?? ?? ?? / 21-09-27 / ??? -->
+            <div id="dcamp_ad_3402" style="width:160px;height:600px"></div>
+            <script src="https://tracker.digitalcamp.co.kr/dcamp_load_V2.php?mc=MzQwMg&t=script&w=160&h=600&url={INSERT PASSBACK URL}" async></script>
+        </li>
+
+    </ul>
+
+    <!-- 플로팅 배너 인터웍스 Top_300x300 추가 -->
+    <div style="position:absolute; top:200px; left:600px; z-index:999999;">
+        <!-- 머니앤밸류_머니S_기사_팝업지면_300X250_우측상단 2019-07-18-->
+        <div class="iwm_ba" data-ad="{'id':'9E5E821D'}" style="display:inline-block;width:0;height:0;"></div>
+        <script type="text/javascript" src="//cdn.interworksmedia.co.kr/js/tm/ba/latest/ba.js" async></script>
+    </div>
+
+    <script>
+    document.write("<d" + "iv id='mobonDivBanner_382296' style='position:absolute; z-index:10; top: 300px;left: 60px;'><d" + "iv id='mobonButton' style='cursor: pointer;position: absolute; top: 235px;z-index: 9999;'onclick='document.getElementById(\"mobonDivBanner_382296\").setAttribute(\"style\",\"display:none\")'><img src='https://img.mobon.net/mediaCategory/image/x.jpg' style='width: 15px;height: 15px;'></d" + "iv><iframe name='ifrad' width='300' height='250' id='mobonIframe_382296' src='//www.mediacategory.com/servlet/adBanner?from=" + escape(document.referrer) + "&s=382296&iwh=300_250&igb=74&cntad=1&cntsr=1' frameBorder='0' marginWidth='0' marginHeight='0' scrolling='no' ></iframe></d" + "iv>");
+    $(document).ready(function () {
+        var mobonBanner = $('#mobonDivBanner_382296');
+        var textBodyHeight = $('#textBody').height();
+        if (textBodyHeight > 460) {
+            mobonBanner.css({ top: '870px', left: '-80px' });
+        }  else {
+            mobonBanner.hide();
+        }
+
+        var articleAd = $('.article_ad');
+        var articleAdHeight = $('.article_ad').height();
+        if (articleAdHeight < 0) {
+            articleAd.remove();
+        }
+    });
+</script>
+</div>
+<!-- //container -->
+
+<!-- footer -->
+</div>
+<!--// container -->
+
+<!-- footer -->
+<!-- <div id="footer"> -->
+<div id="footer"><!-- class추가 180515 세종 -->
+    <div class="bxcn w1024">
+        <div class="flogo lgroup">
+            <img src="https://menu.mt.co.kr/moneys/images/flogo.png" alt="머니S"/>
+            <a href="https://inc.or.kr/" target="_blank" style="display:block; margin:14px 0 0 7px; width:160px;">
+                <img src="https://menu.mt.co.kr/moneys/images/logo_inc.png" alt="자율심의준수 서약사">
+            </a>
+        </div>
+        <div class="lgroup">
+            <div class="etc_area">
+                <ul class="etc_link">
+                    <li><a href="/corp/mwCorpIntro.html">회사소개</a></li>
+                    <li><a href="/corp/mwSubscription.html">정기구독</a></li>
+                    <li class="ct1"><a href="/corp/mwService.html">사이버몰이용약관</a></li>
+                    <li class="ct1"><a href="/corp/mwCopyright.html">저작권규약</a></li>
+                    <li class="ct1"><a href="/corp/mwPrivacy.html">개인정보처리방침</a></li>
+                    <li><a href="/corp/mwCorpConnect.html">광고안내</a></li>
+                    <li><a href="/corp/mwOpinion.html">독자의견</a></li>
+                </ul>
+                <!-- float 해제 -->
+                <div class="cboth"></div>
+
+                
+            </div>
+            <div class="copy">
+                <p class="txt">머니앤밸류&nbsp;&nbsp;&nbsp;서울시 종로구 청계천로 11(서린동, 청계한국빌딩)&nbsp;&nbsp;&nbsp;제호: 머니에스&nbsp;&nbsp;&nbsp;대표이사/발행인/편집인:
+                    박정용<br>등록번호:서울 아01082&nbsp;&nbsp;&nbsp;&nbsp;등록일/발행일:2010.1.5&nbsp;&nbsp;&nbsp;&nbsp;사업자등록번호
+                    101-81-94590<br>통신판매신고번호 제 01-1022호&nbsp;&nbsp;&nbsp;&nbsp;호스팅사업자 주식회사 후이즈<br>전자우편주소 moneys@mt.co.kr&nbsp;&nbsp;&nbsp;&nbsp;Tel:
+                    02-724-0959&nbsp;&nbsp;&nbsp;&nbsp;청소년보호책임자: 강인귀</p>
+                <span class="copyright">COPYRIGHT &copy; MONEYS ALL RIGHTS RESERVED.</span>
+            </div>
+        </div>
+        <!-- float 해제 -->
+        <div class="cboth"></div>
+
+        <!-- 2020.01.17부로 랭키닷컴 계약 종료로 인한 이미지 삭제
+		<img src="https://menu.mt.co.kr/moneys/images/img_badge_rankey3.png" alt="시사/경제전문지 분야 1위 - 2017년 연간 결산"
+             style="position:absolute; top:100px; right:39px;"/>
+		-->
+    </div>
+</div>
+<!--// footer -->
+
+
+</div>
+
+    <!-- taboola광고 플러시 코드  ask 2018.12.20 -->
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({flush: true});
+    </script>
+
+    <!-- [12] 페이지뷰 태그 코드삭제 /21-09-27 / 한지선-->
+        <script type="text/javascript"src="https://ads.mtgroup.kr/RealMedia/ads/adstream_jx.ads/moneys_pc/news@x96"></script>
+        <!-- 인라이플 창닫은후뜨는 광고 20160406 -->
+    <script>
+        (function () {
+            var d = !1,
+                e = "//www.mediacategory.com/servlet/iadbn?from=" + escape(document.referrer) + "&s=7423&psb=99",
+                c = function () {
+                    d = !0;
+                    var a = document.createElement("iframe");
+                    a.src = e;
+                    a.width = "0";
+                    a.height = "0";
+                    a.frameBorder = 0;
+                    a.marginWidth = 0;
+                    a.marginHeight = 0;
+                    a.scrolling = "no";
+                    a.async ? a.async = !0 : a.defer && (a.defer = !0);
+                    if (document.body) document.body.appendChild(a); else {
+                        var b = document.getElementsByTagName("html")[0], c = document.createElement("body");
+                        b.appendChild(c);
+                        c.appendChild(a)
+                    }
+                };
+            try {
+                var f = setTimeout(c, 1E3), g = document.getElementsByTagName("head").item(0),
+                    b = document.createElement("script");
+                b.src = "//cdn.megadata.co.kr/js/media/1.1/MBSHandler.js";
+                b.type = "text/javascript";
+                b.async ? b.async = !0 : b.defer = !0;
+                b.onload = function () {
+                    !0 !== d && (clearTimeout(f), enlipleMBSHandler(enlipleMBSHandler.getProductTypeCode("ico"), enlipleMBSHandler.getWebCode(), 7423).appendICover(e))
+                };
+                g.appendChild(b)
+            } catch (a) {
+                c()
+            }
+        })();
+    </script>
+
+    <!-- 아이엔비넷 문단뒤광고 20150318 -->
+    <!-- 2020.02.20, @dotorinamu, MTMONEYS-299
+    <script type="text/javascript" src="//js2.keywordsconnect.com/inspace_moneyweek.js"></script>
+    -->
+
+    <!-- 중앙하단 -->
+    <script type="text/javascript" src="https://ads.mtgroup.kr/RealMedia/ads/adstream_jx.ads/moneys_pc/news@Frame1"></script>
+
+
+
+
+</body>
+</html><!-- //footer -->

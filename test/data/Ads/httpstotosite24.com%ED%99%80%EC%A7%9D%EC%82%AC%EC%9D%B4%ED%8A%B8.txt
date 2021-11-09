@@ -1,0 +1,1140 @@
+
+!DOCTYPE html
+html lang=ko-KR prefix=og httpsogp.mens#
+headmeta charset=UTF-8scriptif(navigator.userAgent.match(MSIEInternet Exploreri)navigator.userAgent.match(Trident7..rv11i)){var href=document.location.href;if(!href.match([&]nowprocket)){if(href.indexOf()==-1){if(href.indexOf(#)==-1){document.location.href=href+nowprocket=1}else{document.location.href=href.replace(#,nowprocket=1#)}}else{if(href.indexOf(#)==-1){document.location.href=href+&nowprocket=1}else{document.location.href=href.replace(#,&nowprocket=1#)}}}}scriptscriptclass RocketLazyLoadScripts{constructor(e){this.triggerEvents=e,this.eventOptions={passive!0},this.userEventListener=this.triggerListener.bind(this),this.delayedScripts={normal[],async[],defer[]},this.allJQueries=[]}_addUserInteractionListener(e){this.triggerEvents.forEach((t=window.addEventListener(t,e.userEventListener,e.eventOptions)))}_removeUserInteractionListener(e){this.triggerEvents.forEach((t=window.removeEventListener(t,e.userEventListener,e.eventOptions)))}triggerListener(){this._removeUserInteractionListener(this),loading===document.readyStatedocument.addEventListener(DOMContentLoaded,this._loadEverythingNow.bind(this))this._loadEverythingNow()}async _loadEverythingNow(){this._delayEventListeners(),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async),await this._triggerDOMContentLoaded(),await this._triggerWindowLoad(),window.dispatchEvent(new Event(rocket-allScriptsLoaded))}_registerAllDelayedScripts(){document.querySelectorAll(script[type=rocketlazyloadscript]).forEach((e={e.hasAttribute(src)e.hasAttribute(async)&&!1!==e.asyncthis.delayedScripts.async.push(e)e.hasAttribute(defer)&&!1!==e.defermodule===e.getAttribute(data-rocket-type)this.delayedScripts.defer.push(e)this.delayedScripts.normal.push(e)this.delayedScripts.normal.push(e)}))}async _transformScript(e){return await this._requestAnimFrame(),new Promise((t={const n=document.createElement(script);let r;[...e.attributes].forEach((e={let t=e.nodeName;type!==t&&(data-rocket-type===t&&(t=type,r=e.nodeValue),n.setAttribute(t,e.nodeValue))})),e.hasAttribute(src)(n.addEventListener(load,t),n.addEventListener(error,t))(n.text=e.text,t()),e.parentNode.replaceChild(n,e)}))}async _loadScriptsFromList(e){const t=e.shift();return t(await this._transformScript(t),this._loadScriptsFromList(e))Promise.resolve()}_preloadAllScripts(){var e=document.createDocumentFragment();[...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async].forEach((t={const n=t.getAttribute(src);if(n){const t=document.createElement(link);t.href=n,t.rel=preload,t.as=script,e.appendChild(t)}})),document.head.appendChild(e)}_delayEventListeners(){let e={};function t(t,n){!function(t){function n(n){return e[t].eventsToRewrite.indexOf(n)=0rocket-+nn}e[t](e[t]={originalFunctions{addt.addEventListener,removet.removeEventListener},eventsToRewrite[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(n)}function n(e,t){let n=e[t];Object.defineProperty(e,t,{get()=nfunction(){},set(r){e[rocket+t]=n=r}})}t(document,DOMContentLoaded),t(window,DOMContentLoaded),t(window,load),t(window,pageshow),t(document,readystatechange),n(document,onreadystatechange),n(window,onload),n(window,onpageshow)}_delayJQueryReady(e){let t=window.jQuery;Object.defineProperty(window,jQuery,{get()=t,set(n){if(n&&n.fn&&!e.allJQueries.includes(n)){n.fn.ready=n.fn.init.prototype.ready=function(t){e.domReadyFiredt.bind(document)(n)document.addEventListener(rocket-DOMContentLoaded,(()=t.bind(document)(n)))};const t=n.fn.on;n.fn.on=n.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e.split( ).map((e=load===e0===e.indexOf(load.)rocket-jquery-loade)).join( )}string==typeof arguments[0]arguments[0]instanceof Stringarguments[0]=e(arguments[0])object==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t={delete Object.assign(arguments[0],{[e(t)]arguments[0][t]})[t]}))}return t.apply(this,arguments),this},e.allJQueries.push(n)}t=n}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._requestAnimFrame(),document.dispatchEvent(new Event(rocket-DOMContentLoaded)),await this._requestAnimFrame(),window.dispatchEvent(new Event(rocket-DOMContentLoaded)),await this._requestAnimFrame(),document.dispatchEvent(new Event(rocket-readystatechange)),await this._requestAnimFrame(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._requestAnimFrame(),window.dispatchEvent(new Event(rocket-load)),await this._requestAnimFrame(),window.rocketonload&&window.rocketonload(),await this._requestAnimFrame(),this.allJQueries.forEach((e=e(window).trigger(rocket-jquery-load))),window.dispatchEvent(new Event(rocket-pageshow)),await this._requestAnimFrame(),window.rocketonpageshow&&window.rocketonpageshow()}_handleDocumentWrite(){const e=new Map;document.write=document.writeln=function(t){const n=document.currentScript,r=document.createRange(),i=n.parentElement;let o=e.get(n);void 0===o&&(o=n.nextSibling,e.set(n,o));const a=document.createDocumentFragment();r.setStart(a,0),a.appendChild(r.createContextualFragment(t)),i.insertBefore(a,o)}}async _requestAnimFrame(){return new Promise((e=requestAnimationFrame(e)))}static run(){const e=new RocketLazyLoadScripts([keydown,mousemove,touchmove,touchstart,touchend,wheel]);e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();script
+
+meta name=viewport content=width=device-width, initial-scale=1
+link rel=profile href=httpsgmpg.orgxfn11
+
+
+!-- Search Engine Optimization by Rank Math - httpss.rankmath.comhome --
+title홀짝사이트  MGM 로투스 사다리 파워볼 NO.1 메이저 업체 추천titlestyle id=rocket-critical-cssa,body,div,h1,h2,h3,html,li,span,ul{border0;font-size100%;font-styleinherit;font-weightinherit;margin0;outline0;padding0;vertical-alignbaseline}html{-webkit-text-size-adjust100%;-ms-text-size-adjust100%}body{margin0}article,header,main,nav,section{displayblock}a{background-colortransparent}a,avisited{text-decorationnone}img{border0}@media (min-width544px){.ast-container{max-width100%}}@media (min-width768px){.ast-container{max-width100%}}@media (min-width992px){.ast-container{max-width100%}}@media (min-width1200px){.ast-container{max-width100%}}.ast-container{margin-leftauto;margin-rightauto;padding-left20px;padding-right20px}.ast-containerafter{content;displaytable;clearboth}h1,h2,h3{clearboth}.entry-content h1,h1{color#808285;font-size2em;line-height1.2}.entry-content h2,h2{color#808285;font-size1.7em;line-height1.3}.entry-content h3,h3{color#808285;font-size1.5em;line-height1.4}html{box-sizingborder-box},after,before{box-sizinginherit}body{color#808285;background#fff;font-stylenormal}ul{margin0 0 1.5em 3em}ul{list-styledisc}i{font-styleitalic}img{heightauto;max-width100%}ul{margin0 0 1.5em 3em}ul{list-styledisc}a{color#4169e1}.screen-reader-text{border0;cliprect(1px,1px,1px,1px);height1px;margin-1px;overflowhidden;padding0;positionabsolute;width1px;word-wrapnormal!important}#primaryafter,#primarybefore,.ast-containerafter,.ast-containerbefore,.clearafter,.clearbefore,.site-contentafter,.site-contentbefore,.site-mainafter,.site-mainbefore{content;displaytable}#primaryafter,.ast-containerafter,.clearafter,.site-contentafter,.site-mainafter{clearboth}body{-webkit-font-smoothingantialiased;-moz-osx-font-smoothinggrayscale}bodynot(.logged-in){positionrelative}#page{positionrelative}a{text-decorationnone}img{vertical-alignmiddle}.entry-content h1,.entry-content h2,.entry-content h3{margin-bottom20px}.site .skip-link{background-color#f1f1f1;box-shadow0 0 1px 1px rgba(0,0,0,.2);color#21759b;displayblock;font-familyMontserrat,Helvetica Neue,sans-serif;font-size14px;font-weight700;left-9999em;outline0;padding15px 23px 14px;text-decorationnone;text-transformnone;top-9999em}body{line-height1.85714285714286}body{background-color#fff}#page{displayblock}#primary{displayblock;positionrelative;floatleft;width100%}#primary{margin4em 0}.ast-page-builder-template .site-content.ast-container{max-width100%;padding0}.ast-page-builder-template .site-content #primary{padding0;margin0}.ast-page-builder-template .entry-header{margin-top4em;margin-leftauto;margin-rightauto;padding-left20px;padding-right20px}.ast-page-builder-template .entry-header.ast-header-without-markup{margin-top0;margin-bottom0}.entry-contentlast-child{margin-bottom0}body{overflow-xhidden}.page .entry-header{margin-bottom1.5em}.ast-single-post .entry-header.ast-header-without-markup{margin-bottom0}.entry-header{margin-bottom1em;word-wrapbreak-word}.entry-content{word-wrapbreak-word}[class^=eicon]{displayinline-block;font-familyeicons;font-sizeinherit;font-weight400;font-stylenormal;font-variantnormal;line-height1;text-renderingauto;-webkit-font-smoothingantialiased;-moz-osx-font-smoothinggrayscale}.eicon-menu-barbefore{content'e816'}.elementor-column-gap-default.elementor-row.elementor-column.elementor-element-populated{padding10px}@media (max-width767px){.elementor-column{width100%}}.elementor-screen-only,.screen-reader-text{positionabsolute;top-10000em;width1px;height1px;margin-1px;padding0;overflowhidden;cliprect(0,0,0,0);border0}.elementor-clearfixafter{content;displayblock;clearboth;width0;height0}.elementor{-webkit-hyphensmanual;-ms-hyphensmanual;hyphensmanual}.elementor ,.elementor after,.elementor before{-webkit-box-sizingborder-box;box-sizingborder-box}.elementor a{-webkit-box-shadownone;box-shadownone;text-decorationnone}.elementor img{heightauto;max-width100%;bordernone;-webkit-border-radius0;border-radius0;-webkit-box-shadownone;box-shadownone}@media (max-width767px){.elementor-mobile-align-center{text-aligncenter}}root{--page-title-displayblock}.elementor-section{positionrelative}.elementor-section .elementor-container{display-webkit-box;display-ms-flexbox;displayflex;margin-rightauto;margin-leftauto;positionrelative}@media (max-width1024px){.elementor-section .elementor-container{-ms-flex-wrapwrap;flex-wrapwrap}}.elementor-section.elementor-section-boxed.elementor-container{max-width1140px}.elementor-section.elementor-section-items-middle.elementor-container{-webkit-box-aligncenter;-ms-flex-aligncenter;align-itemscenter}.elementor-row{width100%;display-webkit-box;display-ms-flexbox;displayflex}@media (max-width1024px){.elementor-row{-ms-flex-wrapwrap;flex-wrapwrap}}.elementor-widget-wrap{positionrelative;width100%;-ms-flex-wrapwrap;flex-wrapwrap;-ms-flex-line-packstart;align-contentflex-start}.elementornot(.elementor-bc-flex-widget) .elementor-widget-wrap{display-webkit-box;display-ms-flexbox;displayflex}.elementor-widget-wrap.elementor-element{width100%}.elementor-widget{positionrelative}.elementor-widgetnot(last-child){margin-bottom20px}.elementor-column{min-height1px}.elementor-column,.elementor-column-wrap{positionrelative;display-webkit-box;display-ms-flexbox;displayflex}.elementor-column-wrap{width100%}@media (min-width768px){.elementor-column.elementor-col-33{width33.333%}.elementor-column.elementor-col-50{width50%}.elementor-column.elementor-col-100{width100%}}@media (max-width767px){.elementor-column{width100%}}ul.elementor-icon-list-items.elementor-inline-items{display-webkit-box;display-ms-flexbox;displayflex;-ms-flex-wrapwrap;flex-wrapwrap}ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item{word-breakbreak-word}.elementor-grid{displaygrid;grid-column-gapvar(--grid-column-gap);grid-row-gapvar(--grid-row-gap)}.elementor-grid .elementor-grid-item{min-width0}.elementor-grid-0 .elementor-grid{displayinline-block;width100%;word-spacingvar(--grid-column-gap);margin-bottomcalc(-1  var(--grid-row-gap))}.elementor-grid-0 .elementor-grid .elementor-grid-item{displayinline-block;margin-bottomvar(--grid-row-gap);word-breakbreak-word}@media (min-width1025px){#elementor-device-modeafter{contentdesktop}}@media (min-width768px) and (max-width1024px){#elementor-device-modeafter{contenttablet}}@media (max-width767px){#elementor-device-modeafter{contentmobile}}[class^=eicon]{displayinline-block;font-familyeicons;font-sizeinherit;font-weight400;font-stylenormal;font-variantnormal;line-height1;text-renderingauto;-webkit-font-smoothingantialiased;-moz-osx-font-smoothinggrayscale}.eicon-menu-barbefore{contente816}.elementor-heading-title{padding0;margin0;line-height1}.elementor-icon{displayinline-block;line-height1;color#818a91;font-size50px;text-aligncenter}.elementor-icon i{width1em;height1em;positionrelative;displayblock}.elementor-icon ibefore{positionabsolute;left50%;-webkit-transformtranslateX(-50%);-ms-transformtranslateX(-50%);transformtranslateX(-50%)}.elementor-widget.elementor-icon-list--layout-inline .elementor-widget-container{overflowhidden}.elementor-widget .elementor-icon-list-items.elementor-inline-items{margin-right-8px;margin-left-8px}.elementor-widget .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right8px;margin-left8px}.elementor-widget .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-itemafter{widthauto;leftauto;rightauto;positionrelative;height100%;top50%;-webkit-transformtranslateY(-50%);-ms-transformtranslateY(-50%);transformtranslateY(-50%);border-top0;border-bottom0;border-right0;border-left-width1px;border-stylesolid;right-8px}.elementor-widget .elementor-icon-list-items{list-style-typenone;margin0;padding0}.elementor-widget .elementor-icon-list-item{margin0;padding0;positionrelative}.elementor-widget .elementor-icon-list-itemafter{positionabsolute;bottom0;width100%}.elementor-widget .elementor-icon-list-item,.elementor-widget .elementor-icon-list-item a{display-webkit-box;display-ms-flexbox;displayflex;-webkit-box-alignstart;-ms-flex-alignstart;align-itemsflex-start}.elementor-widget .elementor-icon-list-icon+.elementor-icon-list-text{-ms-flex-item-aligncenter;align-selfcenter;padding-left5px}.elementor-widget .elementor-icon-list-icon{-ms-flex-negative0;flex-shrink0}.elementor-widget .elementor-icon-list-icon i{width1.25em}.elementor-widget.elementor-list-item-link-full_width a{width100%}.elementor-widgetnot(.elementor-align-right) .elementor-icon-list-itemafter{left0}.elementor-widgetnot(.elementor-align-left) .elementor-icon-list-itemafter{right0}@media (max-width1024px){.elementor-widgetnot(.elementor-tablet-align-right) .elementor-icon-list-itemafter{left0}.elementor-widgetnot(.elementor-tablet-align-left) .elementor-icon-list-itemafter{right0}}@media (max-width767px){.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item a,.elementor-widget.elementor-mobile-align-center .elementor-icon-list-items{-webkit-box-packcenter;-ms-flex-packcenter;justify-contentcenter}.elementor-widget.elementor-mobile-align-center .elementor-icon-list-itemafter{marginauto}.elementor-widgetnot(.elementor-mobile-align-right) .elementor-icon-list-itemafter{left0}.elementor-widgetnot(.elementor-mobile-align-left) .elementor-icon-list-itemafter{right0}}.elementor-widget-image{text-aligncenter}.elementor-widget-image a{displayinline-block}.elementor-widget-image img{vertical-alignmiddle;displayinline-block}.elementor-widget-social-icons.elementor-grid-0 .elementor-widget-container{line-height1;font-size0}.elementor-widget-social-icons .elementor-grid{grid-column-gapvar(--grid-column-gap,5px);grid-row-gapvar(--grid-row-gap,5px);grid-template-columnsvar(--grid-template-columns);-webkit-box-packvar(--justify-content,center);-ms-flex-packvar(--justify-content,center);justify-contentvar(--justify-content,center);justify-itemsvar(--justify-content,center)}.elementor-icon.elementor-social-icon{font-sizevar(--icon-size,25px);line-heightvar(--icon-size,25px);widthcalc(var(--icon-size, 25px) + (2  var(--icon-padding, .5em)));heightcalc(var(--icon-size, 25px) + (2  var(--icon-padding, .5em)))}.elementor-social-icon{display-webkit-inline-box;display-ms-inline-flexbox;displayinline-flex;background-color#818a91;-webkit-box-aligncenter;-ms-flex-aligncenter;align-itemscenter;-webkit-box-packcenter;-ms-flex-packcenter;justify-contentcenter;text-aligncenter}.elementor-social-icon i{color#fff}.elementor-social-iconlast-child{margin0}.elementor-social-icon-facebook-f{background-color#3b5998}.elementor-social-icon-instagram{background-color#262626}.elementor-social-icon-pinterest{background-color#bd081c}.elementor-social-icon-twitter{background-color#1da1f2}.elementor-social-icon-youtube{background-color#cd201f}.elementor .elementor-element ul.elementor-icon-list-items{padding0}.elementor-kit-18{--e-global-color-primary#6EC1E4;--e-global-color-secondary#54595F;--e-global-color-text#7A7A7A;--e-global-color-accent#61CE70;--e-global-typography-primary-font-familyRoboto;--e-global-typography-primary-font-weight600;--e-global-typography-secondary-font-familyRoboto Slab;--e-global-typography-secondary-font-weight400;--e-global-typography-text-font-familyRoboto;--e-global-typography-text-font-weight400;--e-global-typography-accent-font-familyRoboto;--e-global-typography-accent-font-weight500}.elementor-section.elementor-section-boxed.elementor-container{max-width1140px}.elementor-widgetnot(last-child){margin-bottom20px}@media (max-width1024px){.elementor-section.elementor-section-boxed.elementor-container{max-width1024px}}@media (max-width767px){.elementor-section.elementor-section-boxed.elementor-container{max-width767px}}.elementor-itemafter,.elementor-itembefore{displayblock;positionabsolute}.elementor-itemnot(hover)not(focus)not(.elementor-item-active)not(.highlighted)after,.elementor-itemnot(hover)not(focus)not(.elementor-item-active)not(.highlighted)before{opacity0}.elementor-item-activeafter,.elementor-item-activebefore{-webkit-transformscale(1);-ms-transformscale(1);transformscale(1)}.e--pointer-underline .elementor-itemafter,.e--pointer-underline .elementor-itembefore{height3px;width100%;left0;background-color#55595c;z-index2}.e--pointer-underline .elementor-itemafter{content;bottom0}.elementor-nav-menu--main .elementor-nav-menu a{padding13px 20px}.elementor-nav-menu--layout-horizontal{display-webkit-box;display-ms-flexbox;displayflex}.elementor-nav-menu--layout-horizontal .elementor-nav-menu{display-webkit-box;display-ms-flexbox;displayflex;-ms-flex-wrapwrap;flex-wrapwrap}.elementor-nav-menu--layout-horizontal .elementor-nav-menu a{white-spacenowrap}.elementor-nav-menu__align-center .elementor-nav-menu{margin-leftauto;margin-rightauto;-webkit-box-packcenter;-ms-flex-packcenter;justify-contentcenter}.elementor-widget-nav-menu .elementor-widget-container{display-webkit-box;display-ms-flexbox;displayflex;-webkit-box-orientvertical;-webkit-box-directionnormal;-ms-flex-directioncolumn;flex-directioncolumn}.elementor-nav-menu{positionrelative;z-index2}.elementor-nav-menuafter{content00a0;displayblock;height0;font00 serif;clearboth;visibilityhidden;overflowhidden}.elementor-nav-menu,.elementor-nav-menu li{displayblock;list-stylenone;margin0;padding0;line-heightnormal}.elementor-nav-menu a,.elementor-nav-menu li{positionrelative}.elementor-nav-menu li{border-width0}.elementor-nav-menu a{display-webkit-box;display-ms-flexbox;displayflex;-webkit-box-aligncenter;-ms-flex-aligncenter;align-itemscenter}.elementor-nav-menu a{padding10px 20px;line-height20px}.elementor-nav-menu--dropdown .elementor-item.elementor-item-active{background-color#55595c;color#fff}.elementor-menu-toggle{display-webkit-box;display-ms-flexbox;displayflex;-webkit-box-aligncenter;-ms-flex-aligncenter;align-itemscenter;-webkit-box-packcenter;-ms-flex-packcenter;justify-contentcenter;font-size22px;padding.25em;border0 solid;border-radius3px;background-colorrgba(0,0,0,.05);color#494c4f}.elementor-nav-menu--dropdown{background-color#fff;font-size13px}.elementor-nav-menu--dropdown.elementor-nav-menu__container{margin-top10px;-webkit-transform-origintop;-ms-transform-origintop;transform-origintop;overflowauto}.elementor-nav-menu--dropdown a{color#494c4f;-webkit-box-packjustify;-ms-flex-packjustify;justify-contentspace-between}.elementor-nav-menu--toggle .elementor-menu-togglenot(.elementor-active)+.elementor-nav-menu__container{-webkit-transformscaleY(0);-ms-transformscaleY(0);transformscaleY(0);max-height0}.elementor-nav-menu--stretch .elementor-nav-menu__container.elementor-nav-menu--dropdown{positionabsolute;z-index9997}@media (min-width1025px){.elementor-nav-menu--dropdown-tablet .elementor-menu-toggle,.elementor-nav-menu--dropdown-tablet .elementor-nav-menu--dropdown{displaynone}}@media (max-width1024px){.elementor-nav-menu--dropdown-tablet .elementor-nav-menu--main{displaynone}}.elementor-location-headerbefore{content;displaytable;clearboth}.elementor-icon-list-items .elementor-icon-list-item .elementor-icon-list-text{displayinline-block}.elementor-2209 .elementor-element.elementor-element-0582c6anot(.elementor-motion-effects-element-type-background){background-color#252A41;background-imageurl(httpstotosite24.comwp-contentuploads202010toto24-배경10.jpg);background-sizecover}.elementor-2209 .elementor-element.elementor-element-0582c6a{padding50px 0px 50px 0px}.elementor-2209 .elementor-element.elementor-element-80cdc9cnot(.elementor-motion-effects-element-type-background).elementor-column-wrap{background-color#0502027A}.elementor-2209 .elementor-element.elementor-element-4f35e19{text-aligncenter}.elementor-2209 .elementor-element.elementor-element-4f35e19 .elementor-heading-title{color#FFFFFF}.elementor-2209 .elementor-element.elementor-element-4f35e19.elementor-widget-container{padding25px 0px 0px 0px}.elementor-2209 .elementor-element.elementor-element-1568c5b{text-aligncenter}.elementor-2209 .elementor-element.elementor-element-1568c5b .elementor-heading-title{color#FFFFFF}.elementor-2209 .elementor-element.elementor-element-1568c5b.elementor-widget-container{margin0px 0px 0px 0px}.elementor-2209 .elementor-element.elementor-element-20e0834{padding25px 0px 0px 0px}.elementor-2209 .elementor-element.elementor-element-96295fanot(.elementor-motion-effects-element-type-background).elementor-column-wrap{background-color#020101B8}.elementor-2209 .elementor-element.elementor-element-96295fa.elementor-element-populated{margin10px 10px 10px 10px}.elementor-2209 .elementor-element.elementor-element-bcf99f7 .elementor-icon-wrapper{text-aligncenter}.elementor-2209 .elementor-element.elementor-element-bcf99f7.elementor-view-default .elementor-icon{color#FFFFFF;border-color#FFFFFF}.elementor-2209 .elementor-element.elementor-element-bcf99f7 .elementor-icon i{transformrotate(0deg)}.elementor-2209 .elementor-element.elementor-element-0fd3312{text-aligncenter}.elementor-2209 .elementor-element.elementor-element-0fd3312 .elementor-heading-title{color#FFFFFF}.elementor-2209 .elementor-element.elementor-element-38285bb{color#FFFFFF}.elementor-2209 .elementor-element.elementor-element-38285bb.elementor-widget-container{padding15px 15px 15px 15px}.elementor-2209 .elementor-element.elementor-element-e38f84fnot(.elementor-motion-effects-element-type-background).elementor-column-wrap{background-color#020101C7}.elementor-2209 .elementor-element.elementor-element-e38f84f.elementor-element-populated{margin10px 10px 10px 10px}.elementor-2209 .elementor-element.elementor-element-577f778 .elementor-icon-wrapper{text-aligncenter}.elementor-2209 .elementor-element.elementor-element-577f778.elementor-view-default .elementor-icon{color#FFFFFF;border-color#FFFFFF}.elementor-2209 .elementor-element.elementor-element-577f778 .elementor-icon i{transformrotate(0deg)}.elementor-2209 .elementor-element.elementor-element-777a858{text-aligncenter}.elementor-2209 .elementor-element.elementor-element-777a858 .elementor-heading-title{color#FFFFFF}.elementor-2209 .elementor-element.elementor-element-aa01ed1{color#FFFFFF}.elementor-2209 .elementor-element.elementor-element-aa01ed1.elementor-widget-container{padding15px 15px 15px 15px}.elementor-2209 .elementor-element.elementor-element-370b5e7not(.elementor-motion-effects-element-type-background).elementor-column-wrap{background-color#020101C7}.elementor-2209 .elementor-element.elementor-element-370b5e7.elementor-element-populated{margin10px 10px 10px 10px}.elementor-2209 .elementor-element.elementor-element-8d6da5a .elementor-icon-wrapper{text-aligncenter}.elementor-2209 .elementor-element.elementor-element-8d6da5a.elementor-view-default .elementor-icon{color#FFFFFF;border-color#FFFFFF}.elementor-2209 .elementor-element.elementor-element-8d6da5a .elementor-icon i{transformrotate(0deg)}.elementor-2209 .elementor-element.elementor-element-6ed5a0f{text-aligncenter}.elementor-2209 .elementor-element.elementor-element-6ed5a0f .elementor-heading-title{color#FFFFFF}.elementor-2209 .elementor-element.elementor-element-51feb56{color#FFFFFF}.elementor-2209 .elementor-element.elementor-element-51feb56.elementor-widget-container{padding15px 15px 15px 15px}.elementor-2209 .elementor-element.elementor-element-78356d1not(.elementor-motion-effects-element-type-background){background-color#0F1012}.elementor-2209 .elementor-element.elementor-element-78356d1{padding50px 0px 50px 0px}.elementor-34 .elementor-element.elementor-element-5acb9287.elementor-container{min-height45px}.elementor-34 .elementor-element.elementor-element-5acb9287.elementor-container.elementor-row.elementor-column.elementor-column-wrap.elementor-widget-wrap{align-contentcenter;align-itemscenter}.elementor-34 .elementor-element.elementor-element-5acb9287not(.elementor-motion-effects-element-type-background){background-color#27393E}.elementor-34 .elementor-element.elementor-element-371e0ccb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-rightcalc(28px2);margin-leftcalc(28px2)}.elementor-34 .elementor-element.elementor-element-371e0ccb .elementor-icon-list-items.elementor-inline-items{margin-rightcalc(-28px2);margin-leftcalc(-28px2)}bodynot(.rtl) .elementor-34 .elementor-element.elementor-element-371e0ccb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-itemafter{rightcalc(-28px2)}.elementor-34 .elementor-element.elementor-element-371e0ccb .elementor-icon-list-icon i{color#00AFFF;font-size14px}.elementor-34 .elementor-element.elementor-element-371e0ccb .elementor-icon-list-text{color#FFFFFF;padding-left10px}.elementor-34 .elementor-element.elementor-element-371e0ccb .elementor-icon-list-item,.elementor-34 .elementor-element.elementor-element-371e0ccb .elementor-icon-list-item a{font-size12px}.elementor-34 .elementor-element.elementor-element-3b6fe39f{--grid-template-columnsrepeat(0, auto);--icon-size14px;--grid-column-gap0px;--grid-row-gap0px}.elementor-34 .elementor-element.elementor-element-3b6fe39f .elementor-widget-container{text-alignright}.elementor-34 .elementor-element.elementor-element-3b6fe39f .elementor-social-icon{background-colorrgba(0,0,0,0);--icon-padding1.1em}.elementor-34 .elementor-element.elementor-element-3b6fe39f .elementor-social-icon i{color#ffffff}.elementor-34 .elementor-element.elementor-element-721e3b16.elementor-container.elementor-row.elementor-column.elementor-column-wrap.elementor-widget-wrap{align-contentcenter;align-itemscenter}.elementor-34 .elementor-element.elementor-element-721e3b16not(.elementor-motion-effects-element-type-background){background-color#FFFFFF}.elementor-34 .elementor-element.elementor-element-721e3b16{border-stylesolid;border-width0px 0px 0px 0px;border-color#d8d8d8}.elementor-34 .elementor-element.elementor-element-155b429f img{width80%}.elementor-34 .elementor-element.elementor-element-155b429f.elementor-widget-container{margin20px 0px 10px 0px}.elementor-34 .elementor-element.elementor-element-51af0d71 .elementor-menu-toggle{margin0 auto;background-colorrgba(0,0,0,0)}.elementor-34 .elementor-element.elementor-element-51af0d71 .elementor-nav-menu .elementor-item{font-size16px;font-weight700}.elementor-34 .elementor-element.elementor-element-51af0d71 .elementor-nav-menu--main .elementor-item{color#1D1F20}.elementor-34 .elementor-element.elementor-element-51af0d71 .elementor-nav-menu--mainnot(.e--pointer-framed) .elementor-itembefore,.elementor-34 .elementor-element.elementor-element-51af0d71 .elementor-nav-menu--mainnot(.e--pointer-framed) .elementor-itemafter{background-color#00AFFF}bodynot(.rtl) .elementor-34 .elementor-element.elementor-element-51af0d71 .elementor-nav-menu--layout-horizontal .elementor-nav-menulinot(last-child){margin-right25px}.elementor-34 .elementor-element.elementor-element-51af0d71 .elementor-nav-menu--dropdown{background-color#f9f9f9}.elementor-34 .elementor-element.elementor-element-51af0d71 .elementor-nav-menu--dropdown a.elementor-item-active{background-color#23211C}.elementor-34 .elementor-element.elementor-element-51af0d71 div.elementor-menu-toggle{color#000000}@media (min-width768px){.elementor-34 .elementor-element.elementor-element-5c63a903{width30.088%}.elementor-34 .elementor-element.elementor-element-22802dde{width69.912%}}@media (max-width1024px){.elementor-34 .elementor-element.elementor-element-5acb9287{padding0px 15px 0px 15px}.elementor-34 .elementor-element.elementor-element-3b6fe39f .elementor-social-icon{--icon-padding0.9em}.elementor-34 .elementor-element.elementor-element-721e3b16{padding15px 15px 15px 15px}.elementor-34 .elementor-element.elementor-element-155b429f img{width80%}.elementor-34 .elementor-element.elementor-element-51af0d71 .elementor-nav-menu--dropdown .elementor-item{font-size16px}.elementor-34 .elementor-element.elementor-element-51af0d71 .elementor-nav-menu__container.elementor-nav-menu--dropdown{margin-top32px!important}.elementor-34 .elementor-element.elementor-element-51af0d71.elementor-widget-container{padding0px 0px 0px 0px}}@media (max-width767px){.elementor-34 .elementor-element.elementor-element-5acb9287{padding10px 20px 10px 20px}.elementor-34 .elementor-element.elementor-element-4ad90476{width45%}.elementor-34 .elementor-element.elementor-element-371e0ccb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-rightcalc(20px2);margin-leftcalc(20px2)}.elementor-34 .elementor-element.elementor-element-371e0ccb .elementor-icon-list-items.elementor-inline-items{margin-rightcalc(-20px2);margin-leftcalc(-20px2)}bodynot(.rtl) .elementor-34 .elementor-element.elementor-element-371e0ccb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-itemafter{rightcalc(-20px2)}.elementor-34 .elementor-element.elementor-element-371e0ccb .elementor-icon-list-item,.elementor-34 .elementor-element.elementor-element-371e0ccb .elementor-icon-list-item a{line-height1.9em}.elementor-34 .elementor-element.elementor-element-315cb150{width55%}.elementor-34 .elementor-element.elementor-element-315cb150.elementor-element-populated{margin0px 0px 0px 0px}.elementor-34 .elementor-element.elementor-element-3b6fe39f .elementor-widget-container{text-aligncenter}.elementor-34 .elementor-element.elementor-element-721e3b16{padding0px 0px 0px 0px}.elementor-34 .elementor-element.elementor-element-5c63a903{width70%}.elementor-34 .elementor-element.elementor-element-155b429f{text-alignleft}.elementor-34 .elementor-element.elementor-element-155b429f img{width170px}.elementor-34 .elementor-element.elementor-element-22802dde{width30%}.elementor-34 .elementor-element.elementor-element-51af0d71 .elementor-nav-menu .elementor-item{font-size14px}.elementor-34 .elementor-element.elementor-element-51af0d71 .elementor-nav-menu__container.elementor-nav-menu--dropdown{margin-top18px!important}.elementor-34 .elementor-element.elementor-element-51af0d71.elementor-widget-container{padding0px 0px 0px 0px}}@media (max-width1024px) and (min-width768px){.elementor-34 .elementor-element.elementor-element-4ad90476{width70%}.elementor-34 .elementor-element.elementor-element-315cb150{width30%}}.fab,.fas{-moz-osx-font-smoothinggrayscale;-webkit-font-smoothingantialiased;displayinline-block;font-stylenormal;font-variantnormal;text-renderingauto;line-height1}.fa-checkbefore{contentf00c}.fa-dollar-signbefore{contentf155}.fa-facebook-fbefore{contentf39e}.fa-instagrambefore{contentf16d}.fa-pinterestbefore{contentf0d2}.fa-signalbefore{contentf012}.fa-tasksbefore{contentf0ae}.fa-telegram-planebefore{contentf3fe}.fa-twitterbefore{contentf099}.fa-youtubebefore{contentf167}.fas{font-familyFont Awesome 5 Free;font-weight900}.fab{font-familyFont Awesome 5 Brands;font-weight400}stylelink rel=preload as=style href=httpsfonts.googleapis.comcssfamily=Noto%20Sans%20KR%3A400%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap link rel=stylesheet href=httpsfonts.googleapis.comcssfamily=Noto%20Sans%20KR%3A400%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap media=print onload=this.media='all' noscriptlink rel=preload href=httpsfonts.googleapis.comcssfamily=Noto%20Sans%20KR%3A400%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap data-rocket-async=style as=style onload=this.onload=null;this.rel='stylesheet' noscriptlink rel=preload href=httpstotosite24.comwp-contentcachemin1e9fab537d4f068a80bf67249c37ef96f.css data-rocket-async=style as=style onload=this.onload=null;this.rel='stylesheet' media=all data-minify=1 
+meta name=description content=홀짝사이트  MGM 로투스 lotus 사다리 파워볼 홀짝 검증이 완료된 메이저놀이터 업체를 추천드립니다. 먹튀 걱정 없이 안전하게 이용하세요!
+meta name=robots content=follow, index, max-snippet-1, max-video-preview-1, max-image-previewlarge
+link rel=canonical href=httpstotosite24.com%ed%99%80%ec%a7%9d%ec%82%ac%ec%9d%b4%ed%8a%b8 
+meta property=oglocale content=ko_KR 
+meta property=ogtype content=article 
+meta property=ogtitle content=홀짝사이트  MGM 로투스 사다리 파워볼 NO.1 메이저 업체 추천 
+meta property=ogdescription content=홀짝사이트  MGM 로투스 lotus 사다리 파워볼 홀짝 검증이 완료된 메이저놀이터 업체를 추천드립니다. 먹튀 걱정 없이 안전하게 이용하세요! 
+meta property=ogurl content=httpstotosite24.com%ed%99%80%ec%a7%9d%ec%82%ac%ec%9d%b4%ed%8a%b8 
+meta property=ogsite_name content=안전놀이터 토토사이트 
+meta property=ogupdated_time content=2021-10-20T161416+0900 
+meta property=ogimage content=httpstotosite24.comwp-contentuploads202009toto24-특성이미지2.jpg 
+meta property=ogimagesecure_url content=httpstotosite24.comwp-contentuploads202009toto24-특성이미지2.jpg 
+meta property=ogimagewidth content=350 
+meta property=ogimageheight content=200 
+meta property=ogimagealt content=사다리사이트 홀짝사이트 
+meta property=ogimagetype content=imagejpeg 
+meta name=twittercard content=summary_large_image 
+meta name=twittertitle content=홀짝사이트  MGM 로투스 사다리 파워볼 NO.1 메이저 업체 추천 
+meta name=twitterdescription content=홀짝사이트  MGM 로투스 lotus 사다리 파워볼 홀짝 검증이 완료된 메이저놀이터 업체를 추천드립니다. 먹튀 걱정 없이 안전하게 이용하세요! 
+meta name=twittersite content=@totosite24 
+meta name=twittercreator content=@totosite24 
+meta name=twitterimage content=httpstotosite24.comwp-contentuploads202009toto24-특성이미지2.jpg 
+script type=applicationld+json class=rank-math-schema{@contexthttpsschema.org,@graph[{@type[Person,Organization],@idhttpstotosite24.com#person,nameuad00ub9acuc790,logo{@typeImageObject,@idhttpstotosite24.com#logo,urlhttpstotosite24.comwp-contentuploads202009toto24-1.png,captionuad00ub9acuc790,inLanguageko-KR,width288,height75},image{@typeImageObject,@idhttpstotosite24.com#logo,urlhttpstotosite24.comwp-contentuploads202009toto24-1.png,captionuad00ub9acuc790,inLanguageko-KR,width288,height75}},{@typeWebSite,@idhttpstotosite24.com#website,urlhttpstotosite24.com,nameuad00ub9acuc790,publisher{@idhttpstotosite24.com#person},inLanguageko-KR},{@typeImageObject,@idhttpstotosite24.comwp-contentuploads202009toto24-ud2b9uc131uc774ubbf8uc9c02.jpg,urlhttpstotosite24.comwp-contentuploads202009toto24-ud2b9uc131uc774ubbf8uc9c02.jpg,width350,height200,captionuc0acub2e4ub9acuc0acuc774ud2b8 ud640uc9dduc0acuc774ud2b8,inLanguageko-KR},{@typeBreadcrumbList,@idhttpstotosite24.com%ed%99%80%ec%a7%9d%ec%82%ac%ec%9d%b4%ed%8a%b8#breadcrumb,itemListElement[{@typeListItem,position1,item{@idhttpstotosite24.com,nameHome}},{@typeListItem,position2,item{@idhttpstotosite24.com%ed%99%80%ec%a7%9d%ec%82%ac%ec%9d%b4%ed%8a%b8,nameud640uc9dduc0acuc774ud2b8}}]},{@typePerson,@idhttpstotosite24.comauthortnsla0511gmail-com,nameuad00ub9acuc790,urlhttpstotosite24.comauthortnsla0511gmail-com,image{@typeImageObject,@idhttpssecure.gravatar.comavatara42a0d98f5cac291b51eedce4f4dd3f4s=96&amp;d=mm&amp;r=g,urlhttpssecure.gravatar.comavatara42a0d98f5cac291b51eedce4f4dd3f4s=96&amp;d=mm&amp;r=g,captionuad00ub9acuc790,inLanguageko-KR},sameAs[httpstotosite24.com]},{@typeWebPage,@idhttpstotosite24.com%ed%99%80%ec%a7%9d%ec%82%ac%ec%9d%b4%ed%8a%b8#webpage,urlhttpstotosite24.com%ed%99%80%ec%a7%9d%ec%82%ac%ec%9d%b4%ed%8a%b8,nameud640uc9dduc0acuc774ud2b8  MGM ub85cud22cuc2a4 uc0acub2e4ub9ac ud30cuc6ccubcfc NO.1 uba54uc774uc800 uc5c5uccb4 ucd94ucc9c,datePublished2020-10-23T030643+0900,dateModified2021-10-20T161416+0900,author{@idhttpstotosite24.comauthortnsla0511gmail-com},isPartOf{@idhttpstotosite24.com#website},primaryImageOfPage{@idhttpstotosite24.comwp-contentuploads202009toto24-ud2b9uc131uc774ubbf8uc9c02.jpg},inLanguageko-KR,breadcrumb{@idhttpstotosite24.com%ed%99%80%ec%a7%9d%ec%82%ac%ec%9d%b4%ed%8a%b8#breadcrumb}},{@typeArticle,headlineud640uc9dduc0acuc774ud2b8  MGM ub85cud22cuc2a4 uc0acub2e4ub9ac ud30cuc6ccubcfc NO.1 uba54uc774uc800 uc5c5uccb4 ucd94ucc9c,keywordsud640uc9dduc0acuc774ud2b8,datePublished2020-10-23T030643+0900,dateModified2021-10-20T161416+0900,author{@idhttpstotosite24.comauthortnsla0511gmail-com},publisher{@idhttpstotosite24.com#person},descriptionud640uc9dduc0acuc774ud2b8  MGM ub85cud22cuc2a4 lotus uc0acub2e4ub9ac ud30cuc6ccubcfc ud640uc9dd uac80uc99duc774 uc644ub8ccub41c uba54uc774uc800ub180uc774ud130 uc5c5uccb4ub97c ucd94ucc9cub4dcub9bdub2c8ub2e4. uba39ud280 uac71uc815 uc5c6uc774 uc548uc804ud558uac8c uc774uc6a9ud558uc138uc694!,nameud640uc9dduc0acuc774ud2b8  MGM ub85cud22cuc2a4 uc0acub2e4ub9ac ud30cuc6ccubcfc NO.1 uba54uc774uc800 uc5c5uccb4 ucd94ucc9c,@idhttpstotosite24.com%ed%99%80%ec%a7%9d%ec%82%ac%ec%9d%b4%ed%8a%b8#richSnippet,isPartOf{@idhttpstotosite24.com%ed%99%80%ec%a7%9d%ec%82%ac%ec%9d%b4%ed%8a%b8#webpage},image{@idhttpstotosite24.comwp-contentuploads202009toto24-ud2b9uc131uc774ubbf8uc9c02.jpg},inLanguageko-KR,mainEntityOfPage{@idhttpstotosite24.com%ed%99%80%ec%a7%9d%ec%82%ac%ec%9d%b4%ed%8a%b8#webpage}}]}script
+!-- Rank Math WordPress SEO plugin --
+
+link rel='dns-prefetch' href='fonts.googleapis.com' 
+link href='httpsfonts.gstatic.com' crossorigin rel='preconnect' 
+link rel=alternate type=applicationrss+xml title=안전놀이터 토토사이트 &raquo; 피드 href=httpstotosite24.comfeed 
+link rel=alternate type=applicationrss+xml title=안전놀이터 토토사이트 &raquo; 댓글 피드 href=httpstotosite24.comcommentsfeed 
+style
+img.wp-smiley,
+img.emoji {
+	display inline !important;
+	border none !important;
+	box-shadow none !important;
+	height 1em !important;
+	width 1em !important;
+	margin 0 .07em !important;
+	vertical-align -0.1em !important;
+	background none !important;
+	padding 0 !important;
+}
+style
+	
+style id='astra-theme-css-inline-css'
+html{font-size93.75%;}a,.page-title{colorvar(--ast-global-color-0);}ahover,afocus{colorvar(--ast-global-color-1);}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-family'Noto Sans KR',sans-serif;font-weight400;font-size15px;font-size1rem;}blockquote{colorvar(--ast-global-color-3);}.site-title{font-size35px;font-size2.3333333333333rem;displaynone;}.ast-archive-description .ast-archive-title{font-size40px;font-size2.6666666666667rem;}.site-header .site-description{font-size15px;font-size1rem;displaynone;}.entry-title{font-size30px;font-size2rem;}h1,.entry-content h1{font-size40px;font-size2.6666666666667rem;font-weight700;}h2,.entry-content h2{font-size30px;font-size2rem;font-weight600;}h3,.entry-content h3{font-size25px;font-size1.6666666666667rem;}h4,.entry-content h4{font-size20px;font-size1.3333333333333rem;}h5,.entry-content h5{font-size18px;font-size1.2rem;}h6,.entry-content h6{font-size15px;font-size1rem;}.ast-single-post .entry-title,.page-title{font-size30px;font-size2rem;}selection{background-colorvar(--ast-global-color-0);color#ffffff;}body,h1,.entry-title a,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6{colorvar(--ast-global-color-3);}.tagcloud ahover,.tagcloud afocus,.tagcloud a.current-item{color#ffffff;border-colorvar(--ast-global-color-0);background-colorvar(--ast-global-color-0);}inputfocus,input[type=text]focus,input[type=email]focus,input[type=url]focus,input[type=password]focus,input[type=reset]focus,input[type=search]focus,textareafocus{border-colorvar(--ast-global-color-0);}input[type=radio]checked,input[type=reset],input[type=checkbox]checked,input[type=checkbox]hoverchecked,input[type=checkbox]focuschecked,input[type=range]-webkit-slider-thumb{border-colorvar(--ast-global-color-0);background-colorvar(--ast-global-color-0);box-shadownone;}.site-footer ahover + .post-count,.site-footer afocus + .post-count{backgroundvar(--ast-global-color-0);border-colorvar(--ast-global-color-0);}.single .nav-links .nav-previous,.single .nav-links .nav-next{colorvar(--ast-global-color-0);}.entry-meta,.entry-meta {line-height1.45;colorvar(--ast-global-color-0);}.entry-meta ahover,.entry-meta ahover ,.entry-meta afocus,.entry-meta afocus ,.page-links  .page-link,.page-links .page-linkhover,.post-navigation ahover{colorvar(--ast-global-color-1);}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead avisited{colorvar(--ast-global-color-0);}.secondary .calendar_wrap #today,.ast-progress-val span{backgroundvar(--ast-global-color-0);}.secondary ahover + .post-count,.secondary afocus + .post-count{backgroundvar(--ast-global-color-0);border-colorvar(--ast-global-color-0);}.calendar_wrap #today  a{color#ffffff;}.page-links .page-link,.single .post-navigation a{colorvar(--ast-global-color-0);}.widget-title{font-size21px;font-size1.4rem;colorvar(--ast-global-color-3);}.main-header-menu .menu-link,.ast-header-custom-item a{colorvar(--ast-global-color-3);}.main-header-menu .menu-itemhover  .menu-link,.main-header-menu .menu-itemhover  .ast-menu-toggle,.main-header-menu .ast-masthead-custom-menu-items ahover,.main-header-menu .menu-item.focus  .menu-link,.main-header-menu .menu-item.focus  .ast-menu-toggle,.main-header-menu .current-menu-item  .menu-link,.main-header-menu .current-menu-ancestor  .menu-link,.main-header-menu .current-menu-item  .ast-menu-toggle,.main-header-menu .current-menu-ancestor  .ast-menu-toggle{colorvar(--ast-global-color-0);}.header-main-layout-3 .ast-main-header-bar-alignment{margin-rightauto;}.header-main-layout-2 .site-header-section-left .ast-site-identity{text-alignleft;}.ast-logo-title-inline .site-logo-img{padding-right1em;}.site-logo-img img{ transitionall 0.2s linear;}.ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle{backgroundtransparent;colorvar(--ast-global-color-0);}.ast-header-break-point .ast-mobile-menu-buttons-outline.menu-toggle{backgroundtransparent;border1px solid var(--ast-global-color-0);colorvar(--ast-global-color-0);}.ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle{backgroundvar(--ast-global-color-0);}.ast-page-builder-template .hentry {margin 0;}.ast-page-builder-template .site-content  .ast-container {max-width 100%;padding 0;}.ast-page-builder-template .site-content #primary {padding 0;margin 0;}.ast-page-builder-template .no-results {text-align center;margin 4em auto;}.ast-page-builder-template .ast-pagination {padding 2em;} .ast-page-builder-template .entry-header.ast-no-title.ast-no-thumbnail {margin-top 0;}.ast-page-builder-template .entry-header.ast-header-without-markup {margin-top 0;margin-bottom 0;}.ast-page-builder-template .entry-header.ast-no-title.ast-no-meta {margin-bottom 0;}.ast-page-builder-template.single .post-navigation {padding-bottom 2em;}.ast-page-builder-template.single-post .site-content  .ast-container {max-width 100%;}.ast-page-builder-template.single-post .site-content  .ast-container {max-width 100%;}.ast-page-builder-template .entry-header {margin-top 4em;margin-left auto;margin-right auto;padding-left 20px;padding-right 20px;}.ast-page-builder-template .ast-archive-description {margin-top 4em;margin-left auto;margin-right auto;padding-left 20px;padding-right 20px;}.ast-page-builder-template.ast-no-sidebar .entry-content .alignwide {margin-left 0;margin-right 0;}.single.ast-page-builder-template .entry-header {padding-left 20px;padding-right 20px;}.ast-page-builder-template.ast-no-sidebar .entry-content .alignwide {margin-left 0;margin-right 0;}.footer-adv .footer-adv-overlay{border-top-stylesolid;border-top-width0;border-top-color#0a0a0a;}.wp-block-buttons.aligncenter{justify-contentcenter;}@media (min-width1200px){.wp-block-group .has-background{padding20px;}}@media (min-width1200px){.ast-no-sidebar.ast-separate-container .entry-content .wp-block-group.alignwide,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-cover.alignwide{margin-left-20px;margin-right-20px;padding-left20px;padding-right20px;}.ast-no-sidebar.ast-separate-container .entry-content .wp-block-cover.alignfull,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-group.alignfull{margin-left-6.67em;margin-right-6.67em;padding-left6.67em;padding-right6.67em;}}@media (min-width1200px){.wp-block-cover-image.alignwide .wp-block-cover__inner-container,.wp-block-cover.alignwide .wp-block-cover__inner-container,.wp-block-cover-image.alignfull .wp-block-cover__inner-container,.wp-block-cover.alignfull .wp-block-cover__inner-container{width100%;}}@media (max-width921px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding1.5em 2.14em;}.ast-separate-container #primary,.ast-separate-container #secondary{padding1.5em 0;}#primary,#secondary{padding1.5em 0;margin0;}.ast-left-sidebar #content  .ast-container{displayflex;flex-directioncolumn-reverse;width100%;}.ast-author-box img.avatar{margin20px 0 0 0;}}@media (min-width922px){.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary{border0;}.search-no-results.ast-separate-container #primary{margin-bottom4em;}}.elementor-button-wrapper .elementor-button{border-stylesolid;text-decorationnone;border-top-width0;border-right-width0;border-left-width0;border-bottom-width0;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{border-radius2px;padding-top10px;padding-right40px;padding-bottom10px;padding-left40px;}.elementor-button-wrapper .elementor-button{border-colorvar(--ast-global-color-0);background-colorvar(--ast-global-color-0);}.elementor-button-wrapper .elementor-buttonhover,.elementor-button-wrapper .elementor-buttonfocus{color#ffffff;background-colorvar(--ast-global-color-1);border-colorvar(--ast-global-color-1);}.wp-block-button .wp-block-button__link,.elementor-button-wrapper .elementor-button,.elementor-button-wrapper .elementor-buttonvisited{color#ffffff;}.elementor-button-wrapper .elementor-button{font-familyinherit;font-weightinherit;line-height1;}.wp-block-button .wp-block-button__linkhover,.wp-block-button .wp-block-button__linkfocus{color#ffffff;background-colorvar(--ast-global-color-1);border-colorvar(--ast-global-color-1);}.wp-block-button .wp-block-button__link{border-stylesolid;border-top-width0;border-right-width0;border-left-width0;border-bottom-width0;border-colorvar(--ast-global-color-0);background-colorvar(--ast-global-color-0);color#ffffff;font-familyinherit;font-weightinherit;line-height1;border-radius2px;padding-top10px;padding-right40px;padding-bottom10px;padding-left40px;}.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type=button],input[type=submit],input[type=reset]{border-stylesolid;border-top-width0;border-right-width0;border-left-width0;border-bottom-width0;color#ffffff;border-colorvar(--ast-global-color-0);background-colorvar(--ast-global-color-0);border-radius2px;padding-top10px;padding-right40px;padding-bottom10px;padding-left40px;font-familyinherit;font-weightinherit;line-height1;}buttonfocus,.menu-togglehover,buttonhover,.ast-buttonhover,.ast-custom-buttonhover .buttonhover,.ast-custom-buttonhover ,input[type=reset]hover,input[type=reset]focus,input#submithover,input#submitfocus,input[type=button]hover,input[type=button]focus,input[type=submit]hover,input[type=submit]focus{color#ffffff;background-colorvar(--ast-global-color-1);border-colorvar(--ast-global-color-1);}@media (min-width544px){.ast-container{max-width100%;}}@media (max-width544px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .comments-title,.ast-separate-container .ast-archive-description{padding1.5em 1em;}.ast-separate-container #content .ast-container{padding-left0.54em;padding-right0.54em;}.ast-separate-container .ast-comment-list li.depth-1{padding1.5em 1em;margin-bottom1.5em;}.ast-separate-container .ast-comment-list .bypostauthor{padding.5em;}.ast-search-menu-icon.ast-dropdown-active .search-field{width170px;}.site-branding img,.site-header .site-logo-img .custom-logo-link img{max-width100%;}}@media (max-width921px){.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon{displayinline-block;}.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon{margin0;}.ast-comment-avatar-wrap img{max-width2.5em;}.ast-separate-container .ast-comment-list li.depth-1{padding1.5em 2.14em;}.ast-separate-container .comment-respond{padding2em 2.14em;}.ast-comment-meta{padding0 1.8888em 1.3333em;}}@media (max-width921px){.site-title{displaynone;}.ast-archive-description .ast-archive-title{font-size40px;}.site-header .site-description{displaynone;}.entry-title{font-size30px;}h1,.entry-content h1{font-size30px;}h2,.entry-content h2{font-size25px;}h3,.entry-content h3{font-size20px;}.ast-single-post .entry-title,.page-title{font-size30px;}}@media (max-width544px){.site-title{displaynone;}.ast-archive-description .ast-archive-title{font-size40px;}.site-header .site-description{displaynone;}.entry-title{font-size30px;}h1,.entry-content h1{font-size30px;}h2,.entry-content h2{font-size25px;}h3,.entry-content h3{font-size20px;}.ast-single-post .entry-title,.page-title{font-size30px;}}@media (max-width921px){html{font-size85.5%;}}@media (max-width544px){html{font-size85.5%;}}@media (min-width922px){.ast-container{max-width1240px;}}@font-face {font-family Astra;src url(httpstotosite24.comwp-contentthemesastraassetsfontsastra.woff) format(woff),url(httpstotosite24.comwp-contentthemesastraassetsfontsastra.ttf) format(truetype),url(httpstotosite24.comwp-contentthemesastraassetsfontsastra.svg#astra) format(svg);font-weight normal;font-style normal;font-display fallback;}@media (max-width921px) {.main-header-bar .main-header-bar-navigation{displaynone;}}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .astra-full-megamenu-wrapper{border-colorvar(--ast-global-color-0);}.ast-desktop .main-header-menu.submenu-with-border .sub-menu{border-top-width2px;border-right-width0px;border-left-width0px;border-bottom-width0px;border-stylesolid;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .sub-menu{top-2px;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .menu-link,.ast-desktop .main-header-menu.submenu-with-border .children .menu-link{border-bottom-width0px;border-stylesolid;border-color#eaeaea;}@media (min-width922px){.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menuhover  .sub-menu,.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu.focus  .sub-menu{margin-left-0px;}}.ast-header-break-point.ast-header-custom-item-inside .main-header-bar .main-header-bar-navigation .ast-search-icon {display none;}.ast-header-break-point.ast-header-custom-item-inside .main-header-bar .ast-search-menu-icon .search-form {padding 0;display block;overflow hidden;}.ast-header-break-point .ast-header-custom-item .widgetlast-child {margin-bottom 1em;}.ast-header-custom-item .widget {margin 0.5em;display inline-block;vertical-align middle;}.ast-header-custom-item .widget p {margin-bottom 0;}.ast-header-custom-item .widget li {width auto;}.ast-header-custom-item-inside .button-custom-menu-item .menu-link {display none;}.ast-header-custom-item-inside.ast-header-break-point .button-custom-menu-item .ast-custom-button-link {display none;}.ast-header-custom-item-inside.ast-header-break-point .button-custom-menu-item .menu-link {display block;}.ast-header-break-point.ast-header-custom-item-outside .main-header-bar .ast-search-icon {margin-right 1em;}.ast-header-break-point.ast-header-custom-item-inside .main-header-bar .ast-search-menu-icon .search-field,.ast-header-break-point.ast-header-custom-item-inside .main-header-bar .ast-search-menu-icon.ast-inline-search .search-field {width 100%;padding-right 5.5em;}.ast-header-break-point.ast-header-custom-item-inside .main-header-bar .ast-search-menu-icon .search-submit {display block;position absolute;height 100%;top 0;right 0;padding 0 1em;border-radius 0;}.ast-header-break-point .ast-header-custom-item .ast-masthead-custom-menu-items {padding-left 20px;padding-right 20px;margin-bottom 1em;margin-top 1em;}.ast-header-custom-item-inside.ast-header-break-point .button-custom-menu-item {padding-left 0;padding-right 0;margin-top 0;margin-bottom 0;}.astra-icon-down_arrowafter {content e900;font-family Astra;}.astra-icon-closeafter {content e5cd;font-family Astra;}.astra-icon-drag_handleafter {content e25d;font-family Astra;}.astra-icon-format_align_justifyafter {content e235;font-family Astra;}.astra-icon-menuafter {content e5d2;font-family Astra;}.astra-icon-reorderafter {content e8fe;font-family Astra;}.astra-icon-searchafter {content e8b6;font-family Astra;}.astra-icon-zoom_inafter {content e56b;font-family Astra;}.astra-icon-check-circleafter {content e901;font-family Astra;}.astra-icon-shopping-cartafter {content f07a;font-family Astra;}.astra-icon-shopping-bagafter {content f290;font-family Astra;}.astra-icon-shopping-basketafter {content f291;font-family Astra;}.astra-icon-circle-oafter {content e903;font-family Astra;}.astra-icon-certificateafter {content e902;font-family Astra;}root .has-ast-global-color-0-color{colorvar(--ast-global-color-0);}root .has-ast-global-color-0-background-color{background-colorvar(--ast-global-color-0);}root .wp-block-button .has-ast-global-color-0-color{colorvar(--ast-global-color-0);}root .wp-block-button .has-ast-global-color-0-background-color{background-colorvar(--ast-global-color-0);}root .has-ast-global-color-1-color{colorvar(--ast-global-color-1);}root .has-ast-global-color-1-background-color{background-colorvar(--ast-global-color-1);}root .wp-block-button .has-ast-global-color-1-color{colorvar(--ast-global-color-1);}root .wp-block-button .has-ast-global-color-1-background-color{background-colorvar(--ast-global-color-1);}root .has-ast-global-color-2-color{colorvar(--ast-global-color-2);}root .has-ast-global-color-2-background-color{background-colorvar(--ast-global-color-2);}root .wp-block-button .has-ast-global-color-2-color{colorvar(--ast-global-color-2);}root .wp-block-button .has-ast-global-color-2-background-color{background-colorvar(--ast-global-color-2);}root .has-ast-global-color-3-color{colorvar(--ast-global-color-3);}root .has-ast-global-color-3-background-color{background-colorvar(--ast-global-color-3);}root .wp-block-button .has-ast-global-color-3-color{colorvar(--ast-global-color-3);}root .wp-block-button .has-ast-global-color-3-background-color{background-colorvar(--ast-global-color-3);}root .has-ast-global-color-4-color{colorvar(--ast-global-color-4);}root .has-ast-global-color-4-background-color{background-colorvar(--ast-global-color-4);}root .wp-block-button .has-ast-global-color-4-color{colorvar(--ast-global-color-4);}root .wp-block-button .has-ast-global-color-4-background-color{background-colorvar(--ast-global-color-4);}root .has-ast-global-color-5-color{colorvar(--ast-global-color-5);}root .has-ast-global-color-5-background-color{background-colorvar(--ast-global-color-5);}root .wp-block-button .has-ast-global-color-5-color{colorvar(--ast-global-color-5);}root .wp-block-button .has-ast-global-color-5-background-color{background-colorvar(--ast-global-color-5);}root .has-ast-global-color-6-color{colorvar(--ast-global-color-6);}root .has-ast-global-color-6-background-color{background-colorvar(--ast-global-color-6);}root .wp-block-button .has-ast-global-color-6-color{colorvar(--ast-global-color-6);}root .wp-block-button .has-ast-global-color-6-background-color{background-colorvar(--ast-global-color-6);}root .has-ast-global-color-7-color{colorvar(--ast-global-color-7);}root .has-ast-global-color-7-background-color{background-colorvar(--ast-global-color-7);}root .wp-block-button .has-ast-global-color-7-color{colorvar(--ast-global-color-7);}root .wp-block-button .has-ast-global-color-7-background-color{background-colorvar(--ast-global-color-7);}root .has-ast-global-color-8-color{colorvar(--ast-global-color-8);}root .has-ast-global-color-8-background-color{background-colorvar(--ast-global-color-8);}root .wp-block-button .has-ast-global-color-8-color{colorvar(--ast-global-color-8);}root .wp-block-button .has-ast-global-color-8-background-color{background-colorvar(--ast-global-color-8);}root{--ast-global-color-0#0170B9;--ast-global-color-1#3a3a3a;--ast-global-color-2#3a3a3a;--ast-global-color-3#4B4F58;--ast-global-color-4#F5F5F5;--ast-global-color-5#FFFFFF;--ast-global-color-6#F2F5F7;--ast-global-color-7#424242;--ast-global-color-8#000000;}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{displayinline-block;margin0;padding0;bordernone;backgroundinherit;text-indent0;}.ast-breadcrumbs .trail-browse{font-sizeinherit;font-styleinherit;font-weightinherit;colorinherit;}.ast-breadcrumbs .trail-items{list-stylenone;}.trail-items liafter{padding0 0.3em;content00bb;}.trail-items lilast-of-typeafter{displaynone;}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6{colorvar(--ast-global-color-2);}.elementor-widget-heading .elementor-heading-title{margin0;}.elementor-post.elementor-grid-item.hentry{margin-bottom0;}.woocommerce div.product .elementor-element.elementor-products-grid .related.products ul.products li.product,.elementor-element .elementor-wc-products .woocommerce[class='columns-'] ul.products li.product{widthauto;margin0;floatnone;}.ast-left-sidebar .elementor-section.elementor-section-stretched,.ast-right-sidebar .elementor-section.elementor-section-stretched{max-width100%;left0 !important;}.elementor-template-full-width .ast-container{displayblock;}@media (max-width544px){.elementor-element .elementor-wc-products .woocommerce[class=columns-] ul.products li.product{widthauto;margin0;}.elementor-element .woocommerce .woocommerce-result-count{floatnone;}}.ast-header-break-point .main-header-bar{border-bottom-width1px;}@media (min-width922px){.main-header-bar{border-bottom-width1px;}}.ast-safari-browser-less-than-11 .main-header-menu .menu-item, .ast-safari-browser-less-than-11 .main-header-bar .ast-masthead-custom-menu-items{displayblock;}.main-header-menu .menu-item, #astra-footer-menu .menu-item, .main-header-bar .ast-masthead-custom-menu-items{-js-displayflex;displayflex;-webkit-box-packcenter;-webkit-justify-contentcenter;-moz-box-packcenter;-ms-flex-packcenter;justify-contentcenter;-webkit-box-orientvertical;-webkit-box-directionnormal;-webkit-flex-directioncolumn;-moz-box-orientvertical;-moz-box-directionnormal;-ms-flex-directioncolumn;flex-directioncolumn;}.main-header-menu  .menu-item  .menu-link, #astra-footer-menu  .menu-item  .menu-link,{height100%;-webkit-box-aligncenter;-webkit-align-itemscenter;-moz-box-aligncenter;-ms-flex-aligncenter;align-itemscenter;-js-displayflex;displayflex;}.ast-primary-menu-disabled .main-header-bar .ast-masthead-custom-menu-items{flexunset;}.main-header-menu .sub-menu .menu-item.menu-item-has-children  .menu-linkafter{positionabsolute;right1em;top50%;transformtranslate(0,-50%) rotate(270deg);}.ast-header-break-point .main-header-bar .main-header-bar-navigation .page_item_has_children  .ast-menu-togglebefore, .ast-header-break-point .main-header-bar .main-header-bar-navigation .menu-item-has-children  .ast-menu-togglebefore, .ast-mobile-popup-drawer .main-header-bar-navigation .menu-item-has-children.ast-menu-togglebefore, .ast-header-break-point .ast-mobile-header-wrap .main-header-bar-navigation .menu-item-has-children  .ast-menu-togglebefore{font-weightbold;contente900;font-familyAstra;text-decorationinherit;displayinline-block;}.ast-header-break-point .main-navigation ul.sub-menu .menu-item .menu-linkbefore{contente900;font-familyAstra;font-size.65em;text-decorationinherit;displayinline-block;transformtranslate(0, -2px) rotateZ(270deg);margin-right5px;}.widget_search .search-formafter{font-familyAstra;font-size1.2em;font-weightnormal;contente8b6;positionabsolute;top50%;right15px;transformtranslate(0, -50%);}.astra-search-iconbefore{contente8b6;font-familyAstra;font-stylenormal;font-weightnormal;text-decorationinherit;text-aligncenter;-webkit-font-smoothingantialiased;-moz-osx-font-smoothinggrayscale;}.main-header-bar .main-header-bar-navigation .page_item_has_children  aafter, .main-header-bar .main-header-bar-navigation .menu-item-has-children  aafter, .site-header-focus-item .main-header-bar-navigation .menu-item-has-children  .menu-linkafter{contente900;displayinline-block;font-familyAstra;font-size.6rem;font-weightbold;text-renderingauto;-webkit-font-smoothingantialiased;-moz-osx-font-smoothinggrayscale;margin-left10px;line-heightnormal;}.ast-mobile-popup-drawer .main-header-bar-navigation .ast-submenu-expanded.ast-menu-togglebefore{transformrotateX(180deg);}.ast-header-break-point .main-header-bar-navigation .menu-item-has-children  .menu-linkafter{displaynone;}.ast-separate-container .blog-layout-1, .ast-separate-container .blog-layout-2, .ast-separate-container .blog-layout-3{background-colortransparent;background-imagenone;}.ast-separate-container .ast-article-post{background-colorvar(--ast-global-color-5);;}@media (max-width921px){.ast-separate-container .ast-article-post{background-colorvar(--ast-global-color-5);;}}@media (max-width544px){.ast-separate-container .ast-article-post{background-colorvar(--ast-global-color-5);;}}.ast-separate-container .ast-article-singlenot(.ast-related-post), .ast-separate-container .comments-area .comment-respond,.ast-separate-container .comments-area .ast-comment-list li, .ast-separate-container .ast-woocommerce-container, .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container .ast-author-meta, .ast-separate-container .related-posts-title-wrapper, .ast-separate-container.ast-two-container #secondary .widget,.ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content,.ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .comments-area .comments-title{background-colorvar(--ast-global-color-5);;}@media (max-width921px){.ast-separate-container .ast-article-singlenot(.ast-related-post), .ast-separate-container .comments-area .comment-respond,.ast-separate-container .comments-area .ast-comment-list li, .ast-separate-container .ast-woocommerce-container, .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container .ast-author-meta, .ast-separate-container .related-posts-title-wrapper, .ast-separate-container.ast-two-container #secondary .widget,.ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content,.ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .comments-area .comments-title{background-colorvar(--ast-global-color-5);;}}@media (max-width544px){.ast-separate-container .ast-article-singlenot(.ast-related-post), .ast-separate-container .comments-area .comment-respond,.ast-separate-container .comments-area .ast-comment-list li, .ast-separate-container .ast-woocommerce-container, .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container .ast-author-meta, .ast-separate-container .related-posts-title-wrapper, .ast-separate-container.ast-two-container #secondary .widget,.ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content,.ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .comments-area .comments-title{background-colorvar(--ast-global-color-5);;}}root{--e-global-color-astglobalcolor0#0170B9;--e-global-color-astglobalcolor1#3a3a3a;--e-global-color-astglobalcolor2#3a3a3a;--e-global-color-astglobalcolor3#4B4F58;--e-global-color-astglobalcolor4#F5F5F5;--e-global-color-astglobalcolor5#FFFFFF;--e-global-color-astglobalcolor6#F2F5F7;--e-global-color-astglobalcolor7#424242;--e-global-color-astglobalcolor8#000000;}
+style
+
+
+
+
+
+style id='elementor-frontend-inline-css'
+@font-face{font-familyeicons;srcurl(httpstotosite24.comwp-contentpluginselementorassetslibeiconsfontseicons.eot5.10.0);srcurl(httpstotosite24.comwp-contentpluginselementorassetslibeiconsfontseicons.eot5.10.0#iefix) format(embedded-opentype),url(httpstotosite24.comwp-contentpluginselementorassetslibeiconsfontseicons.woff25.10.0) format(woff2),url(httpstotosite24.comwp-contentpluginselementorassetslibeiconsfontseicons.woff5.10.0) format(woff),url(httpstotosite24.comwp-contentpluginselementorassetslibeiconsfontseicons.ttf5.10.0) format(truetype),url(httpstotosite24.comwp-contentpluginselementorassetslibeiconsfontseicons.svg5.10.0#eicon) format(svg);font-weight400;font-stylenormal}
+style
+
+
+
+
+
+
+
+
+
+
+!--[if IE]
+script src='httpstotosite24.comwp-contentthemesastraassetsjsminifiedflexibility.min.jsver=3.7.3' id='astra-flexibility-js'script
+script id='astra-flexibility-js-after'
+flexibility(document.documentElement);script
+![endif]--
+link rel=httpsapi.w.org href=httpstotosite24.comwp-json link rel=alternate type=applicationjson href=httpstotosite24.comwp-jsonwpv2pages2206 link rel=EditURI type=applicationrsd+xml title=RSD href=httpstotosite24.comxmlrpc.phprsd 
+link rel=wlwmanifest type=applicationwlwmanifest+xml href=httpstotosite24.comwp-includeswlwmanifest.xml  
+meta name=generator content=WordPress 5.8.1 
+link rel='shortlink' href='httpstotosite24.comp=2206' 
+link rel=alternate type=applicationjson+oembed href=httpstotosite24.comwp-jsonoembed1.0embedurl=https%3A%2F%2Ftotosite24.com%2F%25ed%2599%2580%25ec%25a7%259d%25ec%2582%25ac%25ec%259d%25b4%25ed%258a%25b8%2F 
+link rel=alternate type=textxml+oembed href=httpstotosite24.comwp-jsonoembed1.0embedurl=https%3A%2F%2Ftotosite24.com%2F%25ed%2599%2580%25ec%25a7%259d%25ec%2582%25ac%25ec%259d%25b4%25ed%258a%25b8%2F&#038;format=xml 
+link rel=icon href=httpstotosite24.comwp-contentuploads202009totosite_icon-150x150.png sizes=32x32 
+link rel=icon href=httpstotosite24.comwp-contentuploads202009totosite_icon-300x300.png sizes=192x192 
+link rel=apple-touch-icon href=httpstotosite24.comwp-contentuploads202009totosite_icon-300x300.png 
+meta name=msapplication-TileImage content=httpstotosite24.comwp-contentuploads202009totosite_icon-300x300.png 
+noscriptstyle id=rocket-lazyload-nojs-css.rll-youtube-player, [data-lazy-src]{displaynone !important;}stylenoscriptscript type=rocketlazyloadscript
+! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License 
+(function(w){use strict;if(!w.loadCSS){w.loadCSS=function(){}}
+var rp=loadCSS.relpreload={};rp.support=(function(){var ret;try{ret=w.document.createElement(link).relList.supports(preload)}catch(e){ret=!1}
+return function(){return ret}})();rp.bindMediaToggle=function(link){var finalMedia=link.mediaall;function enableStylesheet(){link.media=finalMedia}
+if(link.addEventListener){link.addEventListener(load,enableStylesheet)}else if(link.attachEvent){link.attachEvent(onload,enableStylesheet)}
+setTimeout(function(){link.rel=stylesheet;link.media=only x});setTimeout(enableStylesheet,3000)};rp.poly=function(){if(rp.support()){return}
+var links=w.document.getElementsByTagName(link);for(var i=0;ilinks.length;i++){var link=links[i];if(link.rel===preload&&link.getAttribute(as)===style&&!link.getAttribute(data-loadcss)){link.setAttribute(data-loadcss,!0);rp.bindMediaToggle(link)}}};if(!rp.support()){rp.poly();var run=w.setInterval(rp.poly,500);if(w.addEventListener){w.addEventListener(load,function(){rp.poly();w.clearInterval(run)})}else if(w.attachEvent){w.attachEvent(onload,function(){rp.poly();w.clearInterval(run)})}}
+if(typeof exports!==undefined){exports.loadCSS=loadCSS}
+else{w.loadCSS=loadCSS}}(typeof global!==undefinedglobalthis))
+scripthead
+
+body itemtype='httpsschema.orgWebPage' itemscope='itemscope' class=page-template-default page page-id-2206 wp-custom-logo ast-desktop ast-page-builder-template ast-no-sidebar astra-3.7.3 ast-header-custom-item-inside ast-single-post ast-inherit-site-logo-transparent elementor-default elementor-kit-18 elementor-page elementor-page-2206
+div 
+class=hfeed site id=page
+	a class=skip-link screen-reader-text href=#content콘텐츠로 건너뛰기a
+			div data-elementor-type=header data-elementor-id=34 class=elementor elementor-34 elementor-location-header data-elementor-settings=[]
+		div class=elementor-section-wrap
+					section class=elementor-section elementor-top-section elementor-element elementor-element-5acb9287 elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle data-id=5acb9287 data-element_type=section data-settings={&quot;background_background&quot;&quot;classic&quot;}
+						div class=elementor-container elementor-column-gap-no
+							div class=elementor-row
+					div class=elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4ad90476 data-id=4ad90476 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-371e0ccb elementor-icon-list--layout-inline elementor-mobile-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list data-id=371e0ccb data-element_type=widget data-widget_type=icon-list.default
+				div class=elementor-widget-container
+					ul class=elementor-icon-list-items elementor-inline-items
+							li class=elementor-icon-list-item elementor-inline-item
+											a href=httpstotosite24.com
+
+												span class=elementor-icon-list-icon
+							i aria-hidden=true class=fas fa-checki						span
+										span class=elementor-icon-list-texttotosite24.comspan
+											a
+									li
+								li class=elementor-icon-list-item elementor-inline-item
+											a href=httpst.meonba77
+
+												span class=elementor-icon-list-icon
+							i aria-hidden=true class=fab fa-telegram-planei						span
+										span class=elementor-icon-list-textonba77span
+											a
+									li
+						ul
+				div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-315cb150 data-id=315cb150 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-3b6fe39f e-grid-align-right elementor-shape-square e-grid-align-mobile-center elementor-grid-0 elementor-widget elementor-widget-social-icons data-id=3b6fe39f data-element_type=widget data-widget_type=social-icons.default
+				div class=elementor-widget-container
+					div class=elementor-social-icons-wrapper elementor-grid
+							span class=elementor-grid-item
+					a class=elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-5646027 href=httpswww.facebook.comtotosite24com target=_blank
+						span class=elementor-screen-onlyFacebook-fspan
+						i class=fab fa-facebook-fi					a
+				span
+							span class=elementor-grid-item
+					a class=elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-72bc942 href=httpstwitter.comtotosite24com target=_blank
+						span class=elementor-screen-onlyTwitterspan
+						i class=fab fa-twitteri					a
+				span
+							span class=elementor-grid-item
+					a class=elementor-icon elementor-social-icon elementor-social-icon-pinterest elementor-repeater-item-96bd910 href=httpswww.pinterest.comtotosite24 target=_blank
+						span class=elementor-screen-onlyPinterestspan
+						i class=fab fa-pinteresti					a
+				span
+							span class=elementor-grid-item
+					a class=elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-7c2bcc0 href=httpswww.instagram.comtotosite24 target=_blank
+						span class=elementor-screen-onlyInstagramspan
+						i class=fab fa-instagrami					a
+				span
+							span class=elementor-grid-item
+					a class=elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-e898a02 href=httpswww.youtube.comchannelUCdEAG9QgW55Df-yGBy0KuvQabout target=_blank
+						span class=elementor-screen-onlyYoutubespan
+						i class=fab fa-youtubei					a
+				span
+					div
+				div
+				div
+						div
+					div
+		div
+								div
+					div
+		section
+				section class=elementor-section elementor-top-section elementor-element elementor-element-721e3b16 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default data-id=721e3b16 data-element_type=section data-settings={&quot;background_background&quot;&quot;classic&quot;,&quot;sticky&quot;&quot;top&quot;,&quot;sticky_on&quot;[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;0,&quot;sticky_effects_offset&quot;0}
+						div class=elementor-container elementor-column-gap-no
+							div class=elementor-row
+					div class=elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5c63a903 data-id=5c63a903 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-155b429f elementor-widget elementor-widget-theme-site-logo elementor-widget-image data-id=155b429f data-element_type=widget data-settings={&quot;_animation&quot;&quot;none&quot;} data-widget_type=theme-site-logo.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com
+							img width=288 height=75 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20288%2075'%3E%3Csvg%3E class=attachment-full size-full alt=totosite24 data-lazy-src=httpstotosite24.comwp-contentuploads202009toto24-1-e1604093418821.png noscriptimg width=288 height=75 src=httpstotosite24.comwp-contentuploads202009toto24-1-e1604093418821.png class=attachment-full size-full alt=totosite24 noscript								a
+														div
+						div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-22802dde data-id=22802dde data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-51af0d71 elementor-nav-menu__align-center elementor-nav-menu--stretch elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu data-id=51af0d71 data-element_type=widget data-settings={&quot;full_width&quot;&quot;stretch&quot;,&quot;layout&quot;&quot;horizontal&quot;,&quot;submenu_icon&quot;{&quot;value&quot;&quot;&lt;i class=&quot;fas fa-caret-down&quot;&gt;&lt;i&gt;&quot;,&quot;library&quot;&quot;fa-solid&quot;},&quot;toggle&quot;&quot;burger&quot;} data-widget_type=nav-menu.default
+				div class=elementor-widget-container
+						nav migration_allowed=1 migrated=0 role=navigation class=elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fadeul id=menu-1-51af0d71 class=elementor-nav-menuli class=menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-28a href=httpstotosite24.com class=elementor-item menu-link안전놀이터ali
+li class=menu-item menu-item-type-post_type menu-item-object-page menu-item-29a href=httpstotosite24.com%ed%86%a0%ed%86%a0%ec%82%ac%ec%9d%b4%ed%8a%b8 class=elementor-item menu-link토토사이트ali
+li class=menu-item menu-item-type-post_type menu-item-object-page menu-item-30a href=httpstotosite24.com%eb%a9%94%ec%9d%b4%ec%a0%80%eb%86%80%ec%9d%b4%ed%84%b0 class=elementor-item menu-link메이저놀이터ali
+li class=menu-item menu-item-type-post_type menu-item-object-page menu-item-2211a href=httpstotosite24.com%ec%82%ac%eb%8b%a4%eb%a6%ac%ec%82%ac%ec%9d%b4%ed%8a%b8 class=elementor-item menu-link사다리사이트ali
+li class=menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2206 current_page_item menu-item-2207a href=httpstotosite24.com%ed%99%80%ec%a7%9d%ec%82%ac%ec%9d%b4%ed%8a%b8 aria-current=page class=elementor-item elementor-item-active menu-link홀짝사이트ali
+ulnav
+					div class=elementor-menu-toggle role=button tabindex=0 aria-label=Menu Toggle aria-expanded=false
+			i aria-hidden=true role=presentation class=eicon-menu-bari			span class=elementor-screen-onlyMenuspan
+		div
+			nav class=elementor-nav-menu--dropdown elementor-nav-menu__container role=navigation aria-hidden=trueul id=menu-2-51af0d71 class=elementor-nav-menuli class=menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-28a href=httpstotosite24.com class=elementor-item menu-link tabindex=-1안전놀이터ali
+li class=menu-item menu-item-type-post_type menu-item-object-page menu-item-29a href=httpstotosite24.com%ed%86%a0%ed%86%a0%ec%82%ac%ec%9d%b4%ed%8a%b8 class=elementor-item menu-link tabindex=-1토토사이트ali
+li class=menu-item menu-item-type-post_type menu-item-object-page menu-item-30a href=httpstotosite24.com%eb%a9%94%ec%9d%b4%ec%a0%80%eb%86%80%ec%9d%b4%ed%84%b0 class=elementor-item menu-link tabindex=-1메이저놀이터ali
+li class=menu-item menu-item-type-post_type menu-item-object-page menu-item-2211a href=httpstotosite24.com%ec%82%ac%eb%8b%a4%eb%a6%ac%ec%82%ac%ec%9d%b4%ed%8a%b8 class=elementor-item menu-link tabindex=-1사다리사이트ali
+li class=menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2206 current_page_item menu-item-2207a href=httpstotosite24.com%ed%99%80%ec%a7%9d%ec%82%ac%ec%9d%b4%ed%8a%b8 aria-current=page class=elementor-item elementor-item-active menu-link tabindex=-1홀짝사이트ali
+ulnav
+				div
+				div
+						div
+					div
+		div
+								div
+					div
+		section
+				div
+		div
+			div id=content class=site-content
+		div class=ast-container
+		
+
+	div id=primary class=content-area primary
+
+		
+					main id=main class=site-main
+				article
+class=post-2206 page type-page status-publish has-post-thumbnail ast-article-single id=post-2206 itemtype=httpsschema.orgCreativeWork itemscope=itemscope
+		header class=entry-header ast-header-without-markup
+		
+			header!-- .entry-header --
+
+	div class=entry-content clear 
+		itemprop=text	
+
+		
+				div data-elementor-type=wp-page data-elementor-id=2206 class=elementor elementor-2206 data-elementor-settings=[]
+						div class=elementor-inner
+							div class=elementor-section-wrap
+							section class=elementor-section elementor-top-section elementor-element elementor-element-533ba86 elementor-section-boxed elementor-section-height-default elementor-section-height-default data-id=533ba86 data-element_type=section data-settings={&quot;background_background&quot;&quot;classic&quot;,&quot;background_motion_fx_motion_fx_scrolling&quot;&quot;yes&quot;,&quot;background_motion_fx_devices&quot;[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}
+						div class=elementor-container elementor-column-gap-default
+							div class=elementor-row
+					div class=elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-136ce4d data-id=136ce4d data-element_type=column data-settings={&quot;background_background&quot;&quot;classic&quot;}
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-efba7d5 elementor-widget elementor-widget-heading data-id=efba7d5 data-element_type=widget data-widget_type=heading.default
+				div class=elementor-widget-container
+			h1 class=elementor-heading-title elementor-size-default홀짝사이트 쉽고 안전하게 즐기세요.
+h1		div
+				div
+				div class=elementor-element elementor-element-3451cd9 elementor-widget elementor-widget-heading data-id=3451cd9 data-element_type=widget data-widget_type=heading.default
+				div class=elementor-widget-container
+			h2 class=elementor-heading-title elementor-size-default안전한 홀짝사이트 MGM 로투스 파워사다리 추천드립니다.h2		div
+				div
+				div class=elementor-element elementor-element-46b6db8 elementor-widget elementor-widget-text-editor data-id=46b6db8 data-element_type=widget data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				홀짝 게임은 누구나 들어도 알 수 있는 단순한 룰의 게임입니다. 결과 값이 홀이 나올지 짝이 나올지 맞추는 게임으로 여러분들도 어렸을 때 부터 친구들과 단순하게 내기를 하기 위해서 했던 게임이기도 합니다. 우리가 알고 있는 대표적인 게임으로 가장 인기가 많았던 사다리 게임을 예를 들 수 있습니다. 단순하지만 게임의 진행이 빨라 크게 인기를 끌었던 게임입니다. 계속해서 변형된 홀짝사이트는 늘어나는 추세입니다. 파워볼, 파워사다리, 로투스 홀짝, MGM 홀짝 등 많은 인기를 누리고 있습니다. 유저들이 많이 이용하고 즐기는 만큼 악의적으로 만들어지는 홀짝사이트에서 피해를 보는 유저도 있어 안전하게 이용하기 위해서는 토토24에서 정확한 먹튀 검증을 거친 안전놀이터에서 이용해야 합니다.					div
+						div
+				div
+				section class=elementor-section elementor-inner-section elementor-element elementor-element-fda128b elementor-section-boxed elementor-section-height-default elementor-section-height-default data-id=fda128b data-element_type=section
+						div class=elementor-container elementor-column-gap-default
+							div class=elementor-row
+					div class=elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7b9b391 data-id=7b9b391 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-2e38f8b elementor-view-default elementor-widget elementor-widget-icon data-id=2e38f8b data-element_type=widget data-widget_type=icon.default
+				div class=elementor-widget-container
+					div class=elementor-icon-wrapper
+			div class=elementor-icon
+			i aria-hidden=true class=fas fa-checki			div
+		div
+				div
+				div
+				div class=elementor-element elementor-element-b556dda elementor-widget elementor-widget-heading data-id=b556dda data-element_type=widget data-widget_type=heading.default
+				div class=elementor-widget-container
+			h3 class=elementor-heading-title elementor-size-default홀짝사이트 안전 검증 받는 방법h3		div
+				div
+				div class=elementor-element elementor-element-7ccbdd2 elementor-widget elementor-widget-text-editor data-id=7ccbdd2 data-element_type=widget data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				사설 토토사이트를 이용하시면서 먹튀 피해를 보는 유저는 여러분들이 생각하시는 것보다 훨씬 많이 있습니다. 먹튀 검증 커뮤니티를 통해서 a href=httpstotosite24.com안전놀이터a를 이용했다고 하여도 피해를 보기도 합니다. 몇몇 커뮤니티는 제대로 먹튀 검증을 하지 않고 말로만 안전하다며 광고하는 곳들이 운영되고 있어 신중하게 선택하고 이용하셔야 합니다. 토토24는 여러분들에게 거짓 된 정보를 제공하지 않고 정확한 데이터들을 수집하고 꼼꼼하게 검토하여 먹튀 검증을 진행하고 있습니다. 신뢰 있는 근거와 자료를 제공하여 홀짝사이트 추천해 드릴 것을 약속드립니다.					div
+						div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-cc93c69 data-id=cc93c69 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-436e5fd elementor-view-default elementor-widget elementor-widget-icon data-id=436e5fd data-element_type=widget data-widget_type=icon.default
+				div class=elementor-widget-container
+					div class=elementor-icon-wrapper
+			div class=elementor-icon
+			i aria-hidden=true class=fas fa-user-shieldi			div
+		div
+				div
+				div
+				div class=elementor-element elementor-element-c7cd516 elementor-widget elementor-widget-heading data-id=c7cd516 data-element_type=widget data-widget_type=heading.default
+				div class=elementor-widget-container
+			h3 class=elementor-heading-title elementor-size-default신뢰있는 먹튀검증 커뮤니티h3		div
+				div
+				div class=elementor-element elementor-element-6b34f29 elementor-widget elementor-widget-text-editor data-id=6b34f29 data-element_type=widget data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				유저들은 파워볼 홀짝사이트를 이용하기 전에 안전놀이터 메이저놀이터를 찾기 위해서 먹튀 검증 커뮤니티를 찾습니다. 하지만 근거 없는 자료들로만 안전하다고 광고하고 해당 커뮤니티를 통해 이용하던 유저가 피해를 입게되면 나몰라라 하는 경우가 있습니다. 100% 안전한 사설 토토사이트를 찾기란 쉬운 일이 아니라면 피해를 보상해 줄 수 있는 커뮤니티를 통해 이용하셔야 합니다. 저희 토토24에서는 엄격한 먹튀 검증으로 안전놀이터 메이저놀이터로 선별하고 제휴 업체로부터 보증금을 수령하고 먹튀 피해시 보증금으로 보상해드리고 있습니다.					div
+						div
+				div
+						div
+					div
+		div
+								div
+					div
+		section
+						div
+					div
+		div
+								div
+					div
+		section
+				section class=elementor-section elementor-top-section elementor-element elementor-element-190b949 elementor-section-boxed elementor-section-height-default elementor-section-height-default data-id=190b949 data-element_type=section data-settings={&quot;background_background&quot;&quot;classic&quot;}
+						div class=elementor-container elementor-column-gap-default
+							div class=elementor-row
+					div class=elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ea952c2 data-id=ea952c2 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-b18ce28 elementor-widget elementor-widget-heading data-id=b18ce28 data-element_type=widget data-widget_type=heading.default
+				div class=elementor-widget-container
+			h3 class=elementor-heading-title elementor-size-default메이저놀이터 메이저사이트 검증 업체h3		div
+				div
+				section class=elementor-section elementor-inner-section elementor-element elementor-element-1074df9 elementor-section-boxed elementor-section-height-default elementor-section-height-default data-id=1074df9 data-element_type=section
+						div class=elementor-container elementor-column-gap-default
+							div class=elementor-row
+					div class=elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-f8df335 data-id=f8df335 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-f516e4d elementor-widget elementor-widget-image data-id=f516e4d data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com%ec%95%88%ec%a0%84%eb%86%80%ec%9d%b4%ed%84%b0-%ed%8c%8c%eb%9d%bc%ec%98%a4%ec%b9%b4%ec%a7%80%eb%85%b8 target=_blank
+							img width=330 height=330 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20330%20330'%3E%3Csvg%3E class=attachment-large size-large alt=파라오카지노_배너 data-lazy-srcset=httpstotosite24.comwp-contentuploads202110파라오카지노_배너.jpg 330w, httpstotosite24.comwp-contentuploads202110파라오카지노_배너-300x300.jpg 300w, httpstotosite24.comwp-contentuploads202110파라오카지노_배너-150x150.jpg 150w data-lazy-sizes=(max-width 330px) 100vw, 330px data-lazy-src=httpstotosite24.comwp-contentuploads202110파라오카지노_배너.jpg noscriptimg width=330 height=330 src=httpstotosite24.comwp-contentuploads202110파라오카지노_배너.jpg class=attachment-large size-large alt=파라오카지노_배너 srcset=httpstotosite24.comwp-contentuploads202110파라오카지노_배너.jpg 330w, httpstotosite24.comwp-contentuploads202110파라오카지노_배너-300x300.jpg 300w, httpstotosite24.comwp-contentuploads202110파라오카지노_배너-150x150.jpg 150w sizes=(max-width 330px) 100vw, 330px noscript								a
+														div
+						div
+				div
+				div class=elementor-element elementor-element-87c8c91 animated-fast elementor-widget elementor-widget-text-editor data-id=87c8c91 data-element_type=widget data-settings={&quot;_animation&quot;&quot;none&quot;,&quot;_animation_delay&quot;200} data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				안전놀이터 &#8211; 파라오카지노					div
+						div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-e82936c data-id=e82936c data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-c96a233 elementor-widget elementor-widget-image data-id=c96a233 data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com%ec%95%88%ec%a0%84%eb%86%80%ec%9d%b4%ed%84%b0-%ec%8a%a4%eb%a7%88%ec%9d%bc
+							img width=330 height=330 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20330%20330'%3E%3Csvg%3E class=attachment-large size-large alt=스마일_배너 data-lazy-srcset=httpstotosite24.comwp-contentuploads202105스마일_배너_1.png 330w, httpstotosite24.comwp-contentuploads202105스마일_배너_1-300x300.png 300w, httpstotosite24.comwp-contentuploads202105스마일_배너_1-150x150.png 150w data-lazy-sizes=(max-width 330px) 100vw, 330px data-lazy-src=httpstotosite24.comwp-contentuploads202105스마일_배너_1.png noscriptimg width=330 height=330 src=httpstotosite24.comwp-contentuploads202105스마일_배너_1.png class=attachment-large size-large alt=스마일_배너 srcset=httpstotosite24.comwp-contentuploads202105스마일_배너_1.png 330w, httpstotosite24.comwp-contentuploads202105스마일_배너_1-300x300.png 300w, httpstotosite24.comwp-contentuploads202105스마일_배너_1-150x150.png 150w sizes=(max-width 330px) 100vw, 330px noscript								a
+														div
+						div
+				div
+				div class=elementor-element elementor-element-8296414 animated-fast elementor-widget elementor-widget-text-editor data-id=8296414 data-element_type=widget data-settings={&quot;_animation&quot;&quot;none&quot;,&quot;_animation_delay&quot;200} data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				안전놀이터 &#8211; 스마일					div
+						div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-2fe3dce data-id=2fe3dce data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-e8541fe elementor-widget elementor-widget-image data-id=e8541fe data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com%ec%95%88%ec%a0%84%eb%86%80%ec%9d%b4%ed%84%b0-%ec%9c%88%ec%9c%88
+							img width=330 height=330 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20330%20330'%3E%3Csvg%3E class=attachment-large size-large alt=윈윈 winwin 배너 data-lazy-srcset=httpstotosite24.comwp-contentuploads202012윈윈배너.png 330w, httpstotosite24.comwp-contentuploads202012윈윈배너-300x300.png 300w, httpstotosite24.comwp-contentuploads202012윈윈배너-150x150.png 150w data-lazy-sizes=(max-width 330px) 100vw, 330px data-lazy-src=httpstotosite24.comwp-contentuploads202012윈윈배너.png noscriptimg width=330 height=330 src=httpstotosite24.comwp-contentuploads202012윈윈배너.png class=attachment-large size-large alt=윈윈 winwin 배너 srcset=httpstotosite24.comwp-contentuploads202012윈윈배너.png 330w, httpstotosite24.comwp-contentuploads202012윈윈배너-300x300.png 300w, httpstotosite24.comwp-contentuploads202012윈윈배너-150x150.png 150w sizes=(max-width 330px) 100vw, 330px noscript								a
+														div
+						div
+				div
+				div class=elementor-element elementor-element-cbed3c1 animated-fast elementor-widget elementor-widget-text-editor data-id=cbed3c1 data-element_type=widget data-settings={&quot;_animation&quot;&quot;none&quot;,&quot;_animation_delay&quot;200} data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				안전놀이터 &#8211; 윈윈					div
+						div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-46f54ef data-id=46f54ef data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-af767a3 elementor-widget elementor-widget-image data-id=af767a3 data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com%ec%95%88%ec%a0%84%eb%86%80%ec%9d%b4%ed%84%b0-%ed%85%90%eb%b2%b3
+							img width=330 height=330 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20330%20330'%3E%3Csvg%3E class=attachment-large size-large alt=텐벳_배너 data-lazy-srcset=httpstotosite24.comwp-contentuploads202103텐벳_배너.png 330w, httpstotosite24.comwp-contentuploads202103텐벳_배너-300x300.png 300w, httpstotosite24.comwp-contentuploads202103텐벳_배너-150x150.png 150w data-lazy-sizes=(max-width 330px) 100vw, 330px data-lazy-src=httpstotosite24.comwp-contentuploads202103텐벳_배너.png noscriptimg width=330 height=330 src=httpstotosite24.comwp-contentuploads202103텐벳_배너.png class=attachment-large size-large alt=텐벳_배너 srcset=httpstotosite24.comwp-contentuploads202103텐벳_배너.png 330w, httpstotosite24.comwp-contentuploads202103텐벳_배너-300x300.png 300w, httpstotosite24.comwp-contentuploads202103텐벳_배너-150x150.png 150w sizes=(max-width 330px) 100vw, 330px noscript								a
+														div
+						div
+				div
+				div class=elementor-element elementor-element-7236c73 animated-fast elementor-widget elementor-widget-text-editor data-id=7236c73 data-element_type=widget data-settings={&quot;_animation&quot;&quot;none&quot;,&quot;_animation_delay&quot;200} data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				안전놀이터 &#8211; 텐벳					div
+						div
+				div
+						div
+					div
+		div
+								div
+					div
+		section
+				section class=elementor-section elementor-inner-section elementor-element elementor-element-2ae275b elementor-section-boxed elementor-section-height-default elementor-section-height-default data-id=2ae275b data-element_type=section
+						div class=elementor-container elementor-column-gap-default
+							div class=elementor-row
+					div class=elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-ebdbecf data-id=ebdbecf data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-8d3774b elementor-widget elementor-widget-image data-id=8d3774b data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com%ec%95%88%ec%a0%84%eb%86%80%ec%9d%b4%ed%84%b0-%ec%9c%84%eb%8b%89%ec%8a%a4
+							img width=330 height=330 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20330%20330'%3E%3Csvg%3E class=attachment-large size-large alt=위닉스배너 data-lazy-srcset=httpstotosite24.comwp-contentuploads202012위닉스_배너.png 330w, httpstotosite24.comwp-contentuploads202012위닉스_배너-300x300.png 300w, httpstotosite24.comwp-contentuploads202012위닉스_배너-150x150.png 150w data-lazy-sizes=(max-width 330px) 100vw, 330px data-lazy-src=httpstotosite24.comwp-contentuploads202012위닉스_배너.png noscriptimg width=330 height=330 src=httpstotosite24.comwp-contentuploads202012위닉스_배너.png class=attachment-large size-large alt=위닉스배너 srcset=httpstotosite24.comwp-contentuploads202012위닉스_배너.png 330w, httpstotosite24.comwp-contentuploads202012위닉스_배너-300x300.png 300w, httpstotosite24.comwp-contentuploads202012위닉스_배너-150x150.png 150w sizes=(max-width 330px) 100vw, 330px noscript								a
+														div
+						div
+				div
+				div class=elementor-element elementor-element-0db290d animated-fast elementor-widget elementor-widget-text-editor data-id=0db290d data-element_type=widget data-settings={&quot;_animation&quot;&quot;none&quot;,&quot;_animation_delay&quot;200} data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				안전사이트 &#8211; 위닉스					div
+						div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-cd64aa6 data-id=cd64aa6 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-d6e6566 elementor-widget elementor-widget-image data-id=d6e6566 data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com%ec%95%88%ec%a0%84%eb%86%80%ec%9d%b4%ed%84%b0-%eb%84%b7%eb%a7%88%eb%b8%94
+							img width=330 height=330 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20330%20330'%3E%3Csvg%3E class=attachment-large size-large alt=넷마블_배너 data-lazy-srcset=httpstotosite24.comwp-contentuploads202105넷마블_배너356.png 330w, httpstotosite24.comwp-contentuploads202105넷마블_배너356-300x300.png 300w, httpstotosite24.comwp-contentuploads202105넷마블_배너356-150x150.png 150w data-lazy-sizes=(max-width 330px) 100vw, 330px data-lazy-src=httpstotosite24.comwp-contentuploads202105넷마블_배너356.png noscriptimg width=330 height=330 src=httpstotosite24.comwp-contentuploads202105넷마블_배너356.png class=attachment-large size-large alt=넷마블_배너 srcset=httpstotosite24.comwp-contentuploads202105넷마블_배너356.png 330w, httpstotosite24.comwp-contentuploads202105넷마블_배너356-300x300.png 300w, httpstotosite24.comwp-contentuploads202105넷마블_배너356-150x150.png 150w sizes=(max-width 330px) 100vw, 330px noscript								a
+														div
+						div
+				div
+				div class=elementor-element elementor-element-a3f2757 animated-fast elementor-widget elementor-widget-text-editor data-id=a3f2757 data-element_type=widget data-settings={&quot;_animation&quot;&quot;none&quot;,&quot;_animation_delay&quot;200} data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				안전사이트 &#8211; 넷마블					div
+						div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-002babc data-id=002babc data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-8b1505c elementor-widget elementor-widget-image data-id=8b1505c data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com%ec%95%88%ec%a0%84%eb%86%80%ec%9d%b4%ed%84%b0-%ec%83%a4%ec%98%a4%eb%af%b8
+							img width=330 height=330 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20330%20330'%3E%3Csvg%3E class=attachment-large size-large alt=샤오미배너 data-lazy-srcset=httpstotosite24.comwp-contentuploads202012샤오미배너.png 330w, httpstotosite24.comwp-contentuploads202012샤오미배너-300x300.png 300w, httpstotosite24.comwp-contentuploads202012샤오미배너-150x150.png 150w data-lazy-sizes=(max-width 330px) 100vw, 330px data-lazy-src=httpstotosite24.comwp-contentuploads202012샤오미배너.png noscriptimg width=330 height=330 src=httpstotosite24.comwp-contentuploads202012샤오미배너.png class=attachment-large size-large alt=샤오미배너 srcset=httpstotosite24.comwp-contentuploads202012샤오미배너.png 330w, httpstotosite24.comwp-contentuploads202012샤오미배너-300x300.png 300w, httpstotosite24.comwp-contentuploads202012샤오미배너-150x150.png 150w sizes=(max-width 330px) 100vw, 330px noscript								a
+														div
+						div
+				div
+				div class=elementor-element elementor-element-9e7bb22 animated-fast elementor-widget elementor-widget-text-editor data-id=9e7bb22 data-element_type=widget data-settings={&quot;_animation&quot;&quot;none&quot;,&quot;_animation_delay&quot;200} data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				안전사이트 &#8211; 샤오미					div
+						div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-b627aa9 data-id=b627aa9 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-ed08ed0 elementor-widget elementor-widget-image data-id=ed08ed0 data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com%ec%95%88%ec%a0%84%eb%86%80%ec%9d%b4%ed%84%b0-%eb%b6%80%eb%9d%a0%eb%81%84
+							img width=330 height=330 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20330%20330'%3E%3Csvg%3E class=attachment-large size-large alt=부띠끄_배너(2244) data-lazy-srcset=httpstotosite24.comwp-contentuploads202012부띠끄_배너2244.png 330w, httpstotosite24.comwp-contentuploads202012부띠끄_배너2244-300x300.png 300w, httpstotosite24.comwp-contentuploads202012부띠끄_배너2244-150x150.png 150w data-lazy-sizes=(max-width 330px) 100vw, 330px data-lazy-src=httpstotosite24.comwp-contentuploads202012부띠끄_배너2244.png noscriptimg width=330 height=330 src=httpstotosite24.comwp-contentuploads202012부띠끄_배너2244.png class=attachment-large size-large alt=부띠끄_배너(2244) srcset=httpstotosite24.comwp-contentuploads202012부띠끄_배너2244.png 330w, httpstotosite24.comwp-contentuploads202012부띠끄_배너2244-300x300.png 300w, httpstotosite24.comwp-contentuploads202012부띠끄_배너2244-150x150.png 150w sizes=(max-width 330px) 100vw, 330px noscript								a
+														div
+						div
+				div
+				div class=elementor-element elementor-element-51ae381 animated-fast elementor-widget elementor-widget-text-editor data-id=51ae381 data-element_type=widget data-settings={&quot;_animation&quot;&quot;none&quot;,&quot;_animation_delay&quot;200} data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				안전사이트 &#8211; 부띠끄					div
+						div
+				div
+						div
+					div
+		div
+								div
+					div
+		section
+				section class=elementor-section elementor-inner-section elementor-element elementor-element-e876491 elementor-section-boxed elementor-section-height-default elementor-section-height-default data-id=e876491 data-element_type=section
+						div class=elementor-container elementor-column-gap-default
+							div class=elementor-row
+					div class=elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-56a94b7 data-id=56a94b7 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-5692bfc elementor-widget elementor-widget-image data-id=5692bfc data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com%ec%95%88%ec%a0%84%eb%86%80%ec%9d%b4%ed%84%b0-%eb%a1%9c%ec%bc%93
+							img width=330 height=330 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20330%20330'%3E%3Csvg%3E class=attachment-large size-large alt=로켓_배너(2424) data-lazy-srcset=httpstotosite24.comwp-contentuploads202110로켓_배너24241.jpg 330w, httpstotosite24.comwp-contentuploads202110로켓_배너24241-300x300.jpg 300w, httpstotosite24.comwp-contentuploads202110로켓_배너24241-150x150.jpg 150w data-lazy-sizes=(max-width 330px) 100vw, 330px data-lazy-src=httpstotosite24.comwp-contentuploads202110로켓_배너24241.jpg noscriptimg width=330 height=330 src=httpstotosite24.comwp-contentuploads202110로켓_배너24241.jpg class=attachment-large size-large alt=로켓_배너(2424) srcset=httpstotosite24.comwp-contentuploads202110로켓_배너24241.jpg 330w, httpstotosite24.comwp-contentuploads202110로켓_배너24241-300x300.jpg 300w, httpstotosite24.comwp-contentuploads202110로켓_배너24241-150x150.jpg 150w sizes=(max-width 330px) 100vw, 330px noscript								a
+														div
+						div
+				div
+				div class=elementor-element elementor-element-f0523fe animated-fast elementor-widget elementor-widget-text-editor data-id=f0523fe data-element_type=widget data-settings={&quot;_animation&quot;&quot;none&quot;,&quot;_animation_delay&quot;200} data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				검증사이트 &#8211; 로켓					div
+						div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-a970198 data-id=a970198 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-3754808 elementor-widget elementor-widget-image data-id=3754808 data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com%ec%95%88%ec%a0%84%eb%86%80%ec%9d%b4%ed%84%b0-%ec%84%b8%eb%b8%90
+							img width=330 height=330 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20330%20330'%3E%3Csvg%3E class=attachment-large size-large alt=세븐_배너 data-lazy-srcset=httpstotosite24.comwp-contentuploads202108세븐_배너2424.png 330w, httpstotosite24.comwp-contentuploads202108세븐_배너2424-300x300.png 300w, httpstotosite24.comwp-contentuploads202108세븐_배너2424-150x150.png 150w data-lazy-sizes=(max-width 330px) 100vw, 330px data-lazy-src=httpstotosite24.comwp-contentuploads202108세븐_배너2424.png noscriptimg width=330 height=330 src=httpstotosite24.comwp-contentuploads202108세븐_배너2424.png class=attachment-large size-large alt=세븐_배너 srcset=httpstotosite24.comwp-contentuploads202108세븐_배너2424.png 330w, httpstotosite24.comwp-contentuploads202108세븐_배너2424-300x300.png 300w, httpstotosite24.comwp-contentuploads202108세븐_배너2424-150x150.png 150w sizes=(max-width 330px) 100vw, 330px noscript								a
+														div
+						div
+				div
+				div class=elementor-element elementor-element-72e8fdd animated-fast elementor-widget elementor-widget-text-editor data-id=72e8fdd data-element_type=widget data-settings={&quot;_animation&quot;&quot;none&quot;,&quot;_animation_delay&quot;200} data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				검증사이트 &#8211; 세븐					div
+						div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3461a57 data-id=3461a57 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-b389713 elementor-widget elementor-widget-image data-id=b389713 data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com%ec%95%88%ec%a0%84%eb%86%80%ec%9d%b4%ed%84%b0-%ec%a7%84%eb%a1%9c
+							img width=330 height=330 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20330%20330'%3E%3Csvg%3E class=attachment-large size-large alt=진로_배너 data-lazy-srcset=httpstotosite24.comwp-contentuploads202012진로_배너.png 330w, httpstotosite24.comwp-contentuploads202012진로_배너-300x300.png 300w, httpstotosite24.comwp-contentuploads202012진로_배너-150x150.png 150w data-lazy-sizes=(max-width 330px) 100vw, 330px data-lazy-src=httpstotosite24.comwp-contentuploads202012진로_배너.png noscriptimg width=330 height=330 src=httpstotosite24.comwp-contentuploads202012진로_배너.png class=attachment-large size-large alt=진로_배너 srcset=httpstotosite24.comwp-contentuploads202012진로_배너.png 330w, httpstotosite24.comwp-contentuploads202012진로_배너-300x300.png 300w, httpstotosite24.comwp-contentuploads202012진로_배너-150x150.png 150w sizes=(max-width 330px) 100vw, 330px noscript								a
+														div
+						div
+				div
+				div class=elementor-element elementor-element-dde982b animated-fast elementor-widget elementor-widget-text-editor data-id=dde982b data-element_type=widget data-settings={&quot;_animation&quot;&quot;none&quot;,&quot;_animation_delay&quot;200} data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				검증사이트 &#8211; 진로					div
+						div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-a87fcd8 data-id=a87fcd8 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-7303a60 elementor-widget elementor-widget-image data-id=7303a60 data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com%ec%95%88%ec%a0%84%eb%86%80%ec%9d%b4%ed%84%b0-%ed%94%84%eb%9d%bc%ed%95%98
+							img width=330 height=330 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20330%20330'%3E%3Csvg%3E class=attachment-large size-large alt=프라하_배너 data-lazy-srcset=httpstotosite24.comwp-contentuploads202012프라하_배너.png 330w, httpstotosite24.comwp-contentuploads202012프라하_배너-300x300.png 300w, httpstotosite24.comwp-contentuploads202012프라하_배너-150x150.png 150w data-lazy-sizes=(max-width 330px) 100vw, 330px data-lazy-src=httpstotosite24.comwp-contentuploads202012프라하_배너.png noscriptimg width=330 height=330 src=httpstotosite24.comwp-contentuploads202012프라하_배너.png class=attachment-large size-large alt=프라하_배너 srcset=httpstotosite24.comwp-contentuploads202012프라하_배너.png 330w, httpstotosite24.comwp-contentuploads202012프라하_배너-300x300.png 300w, httpstotosite24.comwp-contentuploads202012프라하_배너-150x150.png 150w sizes=(max-width 330px) 100vw, 330px noscript								a
+														div
+						div
+				div
+				div class=elementor-element elementor-element-bc66a0c animated-fast elementor-widget elementor-widget-text-editor data-id=bc66a0c data-element_type=widget data-settings={&quot;_animation&quot;&quot;none&quot;,&quot;_animation_delay&quot;200} data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				검증사이트 &#8211; 프라하					div
+						div
+				div
+						div
+					div
+		div
+								div
+					div
+		section
+				section class=elementor-section elementor-inner-section elementor-element elementor-element-b53bb88 elementor-section-boxed elementor-section-height-default elementor-section-height-default data-id=b53bb88 data-element_type=section
+						div class=elementor-container elementor-column-gap-default
+							div class=elementor-row
+					div class=elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-61c25d3 data-id=61c25d3 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-bd76da6 elementor-widget elementor-widget-image data-id=bd76da6 data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com%ec%95%88%ec%a0%84%eb%86%80%ec%9d%b4%ed%84%b0-%ec%a0%95%eb%a5%98%ec%9e%a5
+							img width=330 height=330 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20330%20330'%3E%3Csvg%3E class=attachment-large size-large alt=정류장배너(5555) data-lazy-srcset=httpstotosite24.comwp-contentuploads202109정류장배너5555.png 330w, httpstotosite24.comwp-contentuploads202109정류장배너5555-300x300.png 300w, httpstotosite24.comwp-contentuploads202109정류장배너5555-150x150.png 150w data-lazy-sizes=(max-width 330px) 100vw, 330px data-lazy-src=httpstotosite24.comwp-contentuploads202109정류장배너5555.png noscriptimg width=330 height=330 src=httpstotosite24.comwp-contentuploads202109정류장배너5555.png class=attachment-large size-large alt=정류장배너(5555) srcset=httpstotosite24.comwp-contentuploads202109정류장배너5555.png 330w, httpstotosite24.comwp-contentuploads202109정류장배너5555-300x300.png 300w, httpstotosite24.comwp-contentuploads202109정류장배너5555-150x150.png 150w sizes=(max-width 330px) 100vw, 330px noscript								a
+														div
+						div
+				div
+				div class=elementor-element elementor-element-603dbd7 animated-fast elementor-widget elementor-widget-text-editor data-id=603dbd7 data-element_type=widget data-settings={&quot;_animation&quot;&quot;none&quot;,&quot;_animation_delay&quot;200} data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				검증놀이터 &#8211; 정류장					div
+						div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-07b4c4d data-id=07b4c4d data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-be7f4e4 elementor-widget elementor-widget-image data-id=be7f4e4 data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com%ec%95%88%ec%a0%84%eb%86%80%ec%9d%b4%ed%84%b0-%ed%8c%8c%eb%9e%91%ec%83%88
+							img width=330 height=330 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20330%20330'%3E%3Csvg%3E class=attachment-large size-large alt=파랑새배너(2040) data-lazy-srcset=httpstotosite24.comwp-contentuploads202107파랑새배너2040.png 330w, httpstotosite24.comwp-contentuploads202107파랑새배너2040-300x300.png 300w, httpstotosite24.comwp-contentuploads202107파랑새배너2040-150x150.png 150w data-lazy-sizes=(max-width 330px) 100vw, 330px data-lazy-src=httpstotosite24.comwp-contentuploads202107파랑새배너2040.png noscriptimg width=330 height=330 src=httpstotosite24.comwp-contentuploads202107파랑새배너2040.png class=attachment-large size-large alt=파랑새배너(2040) srcset=httpstotosite24.comwp-contentuploads202107파랑새배너2040.png 330w, httpstotosite24.comwp-contentuploads202107파랑새배너2040-300x300.png 300w, httpstotosite24.comwp-contentuploads202107파랑새배너2040-150x150.png 150w sizes=(max-width 330px) 100vw, 330px noscript								a
+														div
+						div
+				div
+				div class=elementor-element elementor-element-8da0206 animated-fast elementor-widget elementor-widget-text-editor data-id=8da0206 data-element_type=widget data-settings={&quot;_animation&quot;&quot;none&quot;,&quot;_animation_delay&quot;200} data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				검증놀이터 &#8211; 파랑새					div
+						div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-bcc0cf9 data-id=bcc0cf9 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-4f81d70 elementor-widget elementor-widget-image data-id=4f81d70 data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com%ec%95%88%ec%a0%84%eb%86%80%ec%9d%b4%ed%84%b0-%ed%94%bc%eb%82%98%ed%81%b4
+							img width=330 height=330 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20330%20330'%3E%3Csvg%3E class=attachment-large size-large alt=피나클_배너 data-lazy-srcset=httpstotosite24.comwp-contentuploads202107피나클_배너2424.jpg 330w, httpstotosite24.comwp-contentuploads202107피나클_배너2424-300x300.jpg 300w, httpstotosite24.comwp-contentuploads202107피나클_배너2424-150x150.jpg 150w data-lazy-sizes=(max-width 330px) 100vw, 330px data-lazy-src=httpstotosite24.comwp-contentuploads202107피나클_배너2424.jpg noscriptimg width=330 height=330 src=httpstotosite24.comwp-contentuploads202107피나클_배너2424.jpg class=attachment-large size-large alt=피나클_배너 srcset=httpstotosite24.comwp-contentuploads202107피나클_배너2424.jpg 330w, httpstotosite24.comwp-contentuploads202107피나클_배너2424-300x300.jpg 300w, httpstotosite24.comwp-contentuploads202107피나클_배너2424-150x150.jpg 150w sizes=(max-width 330px) 100vw, 330px noscript								a
+														div
+						div
+				div
+				div class=elementor-element elementor-element-9c2d7ad animated-fast elementor-widget elementor-widget-text-editor data-id=9c2d7ad data-element_type=widget data-settings={&quot;_animation&quot;&quot;none&ququot;,&quot;_animation_delay&quot;200} data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				검증놀이터 &#8211; 피나클					div
+						div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-14bbef1 data-id=14bbef1 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-b447e00 elementor-widget elementor-widget-image data-id=b447e00 data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com%ec%95%88%ec%a0%84%eb%86%80%ec%9d%b4%ed%84%b0-%ec%8a%88%ec%96%b4%eb%b1%83
+							img width=330 height=330 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20330%20330'%3E%3Csvg%3E class=attachment-large size-large alt=슈어뱃배너(2244) data-lazy-srcset=httpstotosite24.comwp-contentuploads202109슈어뱃배너2244.png 330w, httpstotosite24.comwp-contentuploads202109슈어뱃배너2244-300x300.png 300w, httpstotosite24.comwp-contentuploads202109슈어뱃배너2244-150x150.png 150w data-lazy-sizes=(max-width 330px) 100vw, 330px data-lazy-src=httpstotosite24.comwp-contentuploads202109슈어뱃배너2244.png noscriptimg width=330 height=330 src=httpstotosite24.comwp-contentuploads202109슈어뱃배너2244.png class=attachment-large size-large alt=슈어뱃배너(2244) srcset=httpstotosite24.comwp-contentuploads202109슈어뱃배너2244.png 330w, httpstotosite24.comwp-contentuploads202109슈어뱃배너2244-300x300.png 300w, httpstotosite24.comwp-contentuploads202109슈어뱃배너2244-150x150.png 150w sizes=(max-width 330px) 100vw, 330px noscript								a
+														div
+						div
+				div
+				div class=elementor-element elementor-element-1966a37 animated-fast elementor-widget elementor-widget-text-editor data-id=1966a37 data-element_type=widget data-settings={&quot;_animation&quot;&quot;none&quot;,&quot;_animation_delay&quot;200} data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				검증놀이터 &#8211; 슈어뱃					div
+						div
+				div
+						div
+					div
+		div
+								div
+					div
+		section
+						div
+					div
+		div
+								div
+					div
+		section
+				section class=elementor-section elementor-top-section elementor-element elementor-element-37bd60a elementor-section-boxed elementor-section-height-default elementor-section-height-default data-id=37bd60a data-element_type=section data-settings={&quot;background_background&quot;&quot;classic&quot;}
+						div class=elementor-container elementor-column-gap-default
+							div class=elementor-row
+					div class=elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-15fef9c data-id=15fef9c data-element_type=column data-settings={&quot;background_background&quot;&quot;classic&quot;}
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						section class=elementor-section elementor-inner-section elementor-element elementor-element-91a2259 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default data-id=91a2259 data-element_type=section
+						div class=elementor-container elementor-column-gap-default
+							div class=elementor-row
+					div class=elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3fa37f9 data-id=3fa37f9 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-ccfb975 elementor-widget elementor-widget-image data-id=ccfb975 data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com%EC%95%88%EC%A0%84%EB%86%80%EC%9D%B4%ED%84%B0-%ED%81%B4%EB%9D%BC%EC%9E%84
+							img width=600 height=150 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20600%20150'%3E%3Csvg%3E class=attachment-large size-large alt=클라임 배너 data-lazy-srcset=httpstotosite24.comwp-contentuploads202104클라임-600x150_LO77.png 600w, httpstotosite24.comwp-contentuploads202104클라임-600x150_LO77-300x75.png 300w data-lazy-sizes=(max-width 600px) 100vw, 600px data-lazy-src=httpstotosite24.comwp-contentuploads202104클라임-600x150_LO77.png noscriptimg width=600 height=150 src=httpstotosite24.comwp-contentuploads202104클라임-600x150_LO77.png class=attachment-large size-large alt=클라임 배너 srcset=httpstotosite24.comwp-contentuploads202104클라임-600x150_LO77.png 600w, httpstotosite24.comwp-contentuploads202104클라임-600x150_LO77-300x75.png 300w sizes=(max-width 600px) 100vw, 600px noscript								a
+														div
+						div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7dcb75a data-id=7dcb75a data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-21a46e4 elementor-widget elementor-widget-image data-id=21a46e4 data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com%EC%95%88%EC%A0%84%EB%86%80%EC%9D%B4%ED%84%B0-%ED%81%B4%EB%9D%BC%EC%9E%84
+							img width=600 height=150 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20600%20150'%3E%3Csvg%3E class=attachment-large size-large alt=클라임 배너 data-lazy-srcset=httpstotosite24.comwp-contentuploads202105클라임-배너-600x150미니게임LO77.png 600w, httpstotosite24.comwp-contentuploads202105클라임-배너-600x150미니게임LO77-300x75.png 300w data-lazy-sizes=(max-width 600px) 100vw, 600px data-lazy-src=httpstotosite24.comwp-contentuploads202105클라임-배너-600x150미니게임LO77.png noscriptimg width=600 height=150 src=httpstotosite24.comwp-contentuploads202105클라임-배너-600x150미니게임LO77.png class=attachment-large size-large alt=클라임 배너 srcset=httpstotosite24.comwp-contentuploads202105클라임-배너-600x150미니게임LO77.png 600w, httpstotosite24.comwp-contentuploads202105클라임-배너-600x150미니게임LO77-300x75.png 300w sizes=(max-width 600px) 100vw, 600px noscript								a
+														div
+						div
+				div
+						div
+					div
+		div
+								div
+					div
+		section
+				div class=elementor-element elementor-element-7f24eeb elementor-widget elementor-widget-heading data-id=7f24eeb data-element_type=widget data-widget_type=heading.default
+				div class=elementor-widget-container
+			h2 class=elementor-heading-title elementor-size-default다양한 홀짝사이트 종류 알아보기h2		div
+				div
+				section class=elementor-section elementor-inner-section elementor-element elementor-element-c7b3b97 elementor-section-boxed elementor-section-height-default elementor-section-height-default data-id=c7b3b97 data-element_type=section
+						div class=elementor-container elementor-column-gap-default
+							div class=elementor-row
+					div class=elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-fd9aae7 data-id=fd9aae7 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-e994fa0 elementor-widget elementor-widget-heading data-id=e994fa0 data-element_type=widget data-widget_type=heading.default
+				div class=elementor-widget-container
+			h3 class=elementor-heading-title elementor-size-default사다리 게임h3		div
+				div
+				div class=elementor-element elementor-element-fa5eebd elementor-widget elementor-widget-text-editor data-id=fa5eebd data-element_type=widget data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				a href=httpstotosite24.com%ed%86%a0%ed%86%a0%ec%82%ac%ec%9d%b4%ed%8a%b8토토사이트a에서 미니 게임을 한 번쯤 해보셨다면 안 해본 유저는 없을 정도로 홀짝사이트의 대표적으로 흔히 알려진 게임이라고 볼 수 있습니다. 네임드 사이트에서 사다리 게임을 시작으로 단순하게 홀인지 짝인지를 배팅을 하고 맞추는 게임으로 누구나 쉽게 접근할 수 있고 스포츠 배팅과 달리 빠른 진행으로 인기가 많은 게임입니다. 현재에는 파워 사다리 게임으로 알려진 대표적인 홀짝 게임입니다. 과거에 조작 논란이 일어나면서 사다리사이트를 이용하던 유저들이 많이 줄어들었었지만, 현재에는 다시 많은 유저가 이용하고 있으며 과거와 달리 조작을 할 수 없도록 설계되어 안전놀이터 메이저놀이터에서도 이용이 가능합니다.					div
+						div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-828c87d data-id=828c87d data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-bf396ea elementor-widget elementor-widget-heading data-id=bf396ea data-element_type=widget data-widget_type=heading.default
+				div class=elementor-widget-container
+			h3 class=elementor-heading-title elementor-size-default파워볼 게임h3		div
+				div
+				div class=elementor-element elementor-element-80304dd elementor-widget elementor-widget-text-editor data-id=80304dd data-element_type=widget data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				a href=httpstotosite24.com%ec%82%ac%eb%8b%a4%eb%a6%ac%ec%82%ac%ec%9d%b4%ed%8a%b8사다리사이트a 이후로 인기를 끌고 있는 게임을 뽑자면 파워볼 게임이 아닐까 합니다. 파워볼 게임은 숫자 선택 게임과 숫자 합 게임으로 구성되어 있습니다. 홀짝사이트 게임 중 인기가 많은 이유가 여러 가지 있지만 가장 큰 이유는 동행복권 파워볼이라는 복권위원회에서 운영하는 게임의 결과 값을 그대로 가져오기 때문에 조작 가능성이 없고 배터들도 언제든지 결과를 알 수 있다는 점이 가장 큰 장점입니다. 동행복권 파워볼은 1.5 배당으로 이루어져 있어 대부분의 유저는 배당이 높은 홀짝사이트를 통해 이용하고 있습니다. span style=color #ffffff;a style=color #ffffff; href=httpsnamu.wikiw%ED%8C%8C%EC%9B%8C%EB%B3%BC target=_blank rel=noopener파워볼aspan 배팅에는 여러 가지 방법이 있어 게임을 시작하기 전에 룰에 대하여 숙지하시고 이용하시는 것이 좋습니다.					div
+						div
+				div
+						div
+					div
+		div
+								div
+					div
+		section
+				section class=elementor-section elementor-inner-section elementor-element elementor-element-b255d82 elementor-section-boxed elementor-section-height-default elementor-section-height-default data-id=b255d82 data-element_type=section
+						div class=elementor-container elementor-column-gap-default
+							div class=elementor-row
+					div class=elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2b0c994 data-id=2b0c994 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-659ffac elementor-widget elementor-widget-heading data-id=659ffac data-element_type=widget data-widget_type=heading.default
+				div class=elementor-widget-container
+			h3 class=elementor-heading-title elementor-size-default로투스 홀짝, MGM홀짝h3		div
+				div
+				div class=elementor-element elementor-element-2ab9f4c elementor-widget elementor-widget-text-editor data-id=2ab9f4c data-element_type=widget data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				p로투스 홀짝과 MGM 홀짝은 실시간으로 영상을 제공하는 영상서비스로 안정적이고 조작 없는 게임을 제공하는 것으로 알려져 있으며 국내에도 많은 사설 토토사이트들과 계약을 맺고 서비스를 제공하고 있습니다. 각 토토사이트에 영상과 결과만 제공하며 각 홀짝사이트 마다 배당은 다른 설정되어있습니다. 너무 높은 배당을 제공하는 span style=color #ffffff;a style=color #ffffff; href=httpsko.wiktionary.orgwiki%ED%99%80%EC%A7%9D target=_blank rel=noopener홀짝aspan사이트는 먹튀의 위험이 있어 조심하셔야 합니다. 로투스와 MGM은 차이가 조금 있을 수 있지만 한 장의 카드를 먼저 보여주고 나중에 보여주는 카드와 합이 홀인지 짝인지를 맞추는 게임입니다. 안전한 a href=httpsnuevascarreras.com%ed%99%80%ec%a7%9d%ec%82%ac%ec%9d%b4%ed%8a%b8 target=_blank rel=noopener홀짝사이트a를 제공하기 위해 우선 로투스와 MGM 공식 계약사이트임을 확인하고 여러분께 추천해 드리고 있습니다.p					div
+						div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d36a170 data-id=d36a170 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-610a6f9 elementor-widget elementor-widget-heading data-id=610a6f9 data-element_type=widget data-widget_type=heading.default
+				div class=elementor-widget-container
+			h3 class=elementor-heading-title elementor-size-defaultFX게임h3		div
+				div
+				div class=elementor-element elementor-element-ba8ba41 elementor-widget elementor-widget-text-editor data-id=ba8ba41 data-element_type=widget data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				pFX 마진거래가 한참 유행을 하고 난 뒤, 네임드와 엔트리에서 시작한 FX 게임이 나왔습니다. 기존의 FX 마진거래를 변형하여 만든 게임으로 환율을 이용한 데이터를 증권사로부터 가져와서 이루어지기 때문에 결과의 조작이 불가능합니다. FX 게임은 1분 게임부터 5분 게임까지 총 다섯 가지 방식으로 이루어지고 있으며 매수와 매도 배팅 방식이 존재하며 지수의 마지막 자리가 홀인지 짝인지 선택하는 게임입니다. span style=font-size 15px;간단한 배팅 방식으로 쉽게 이익을 볼 수 있기 때문에 많은 유저가 이용하고 있으며 홀짝사이트를 전문적으로 운영하는 곳도 있지만 먹튀사이트일 가능성이 높아 추천해 드리지 않습니다. 안전놀이터 메이저놀이터 정보는 저희 커뮤니티에서 공유드립니다.spanp					div
+						div
+				div
+						div
+					div
+		div
+								div
+					div
+		section
+				div class=elementor-element elementor-element-f994d41 elementor-widget elementor-widget-image data-id=f994d41 data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+												img width=1100 height=256 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%201100%20256'%3E%3Csvg%3E class=attachment-full size-full alt=홀짝 사이트 data-lazy-srcset=httpstotosite24.comwp-contentuploads202010홀짝사이트-1.jpg 1100w, httpstotosite24.comwp-contentuploads202010홀짝사이트-1-300x70.jpg 300w, httpstotosite24.comwp-contentuploads202010홀짝사이트-1-1024x238.jpg 1024w, httpstotosite24.comwp-contentuploads202010홀짝사이트-1-768x179.jpg 768w data-lazy-sizes=(max-width 1100px) 100vw, 1100px data-lazy-src=httpstotosite24.comwp-contentuploads202010홀짝사이트-1.jpg noscriptimg width=1100 height=256 src=httpstotosite24.comwp-contentuploads202010홀짝사이트-1.jpg class=attachment-full size-full alt=홀짝 사이트 srcset=httpstotosite24.comwp-contentuploads202010홀짝사이트-1.jpg 1100w, httpstotosite24.comwp-contentuploads202010홀짝사이트-1-300x70.jpg 300w, httpstotosite24.comwp-contentuploads202010홀짝사이트-1-1024x238.jpg 1024w, httpstotosite24.comwp-contentuploads202010홀짝사이트-1-768x179.jpg 768w sizes=(max-width 1100px) 100vw, 1100px noscript														div
+						div
+				div
+						div
+					div
+		div
+								div
+					div
+		section
+				section class=elementor-section elementor-top-section elementor-element elementor-element-b81ef64 elementor-section-boxed elementor-section-height-default elementor-section-height-default data-id=b81ef64 data-element_type=section data-settings={&quot;background_background&quot;&quot;classic&quot;}
+						div class=elementor-container elementor-column-gap-default
+							div class=elementor-row
+					div class=elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8cf182e data-id=8cf182e data-element_type=column data-settings={&quot;background_background&quot;&quot;classic&quot;}
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-28da9e3 elementor-widget elementor-widget-heading data-id=28da9e3 data-element_type=widget data-widget_type=heading.default
+				div class=elementor-widget-container
+			h2 class=elementor-heading-title elementor-size-default검증 절차를 거친 홀짝사이트만을 추천해 드립니다.h2		div
+				div
+				div class=elementor-element elementor-element-83d6a84 elementor-widget elementor-widget-text-editor data-id=83d6a84 data-element_type=widget data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				계속해서 홀짝사이트들이 생겨나고 있고 홀짝 게임을 변형해 새로운 게임들이 생겨나는 추세입니다. 남녀노소 누구나 쉽게 접할 수 있고 빠른 게임 진행과 높은 배당률로 이용하는 유저가 많아지고 있습니다. 인기가 많아지는 만큼 새로운 홀짝사이트가 생겨나지만, 그 안에는 먹튀사이트들이 존재하고 계속해서 만들어지고 있습니다. 먹튀 검증 절차가 제대로 이루어지지 않은 홀짝사이트를 이용하시다가 먹튀 피해를 보시는 유저도 계속해서 늘어납니다. 스포츠토토사이트를 포함해 카지노, 미니 게임, 실시간 게임 등 모든 사설 토토 사이트는 먹튀 검증을 거치고 안정성이 보장되어야지만 안전놀이터 a href=httpstotosite24.com%eb%a9%94%ec%9d%b4%ec%a0%80%eb%86%80%ec%9d%b4%ed%84%b0메이저놀이터a로 선별될 수 있으며 유저의 안전성이 보장되지 않는 사이트는 추천해 드리지 않습니다. 많은 먹튀 검증 커뮤니티가 활동하고 있지만 신뢰 없는 글들로 유저에게 혼란을 주고 안전이 보장되지 않은 토토사이트를 추천해 피해가 발생하고 있어 토토를 즐기는 배터들이 혼란을 겪기도 합니다. 안전한 홀짝사이트 이용을 위해 정확한 데이터와 신뢰 있는 자료들을 여러분들에게 제공하고 추천해 드리고 있습니다.					div
+						div
+				div
+				div class=elementor-element elementor-element-ccc1d4c elementor-widget elementor-widget-heading data-id=ccc1d4c data-element_type=widget data-widget_type=heading.default
+				div class=elementor-widget-container
+			h3 class=elementor-heading-title elementor-size-default홀짝 사이트 확실하고 정확한 먹튀검증으로 진행합니다.h3		div
+				div
+				div class=elementor-element elementor-element-4a1dbe0 elementor-widget elementor-widget-text-editor data-id=4a1dbe0 data-element_type=widget data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				p홀짝 span style=color #999999;a style=color #999999; href=httpsxx-system.net%ED%8C%8C%EC%9B%8C%EB%B3%BC%EA%B2%8C%EC%9E%84 target=_blank rel=noopener파워볼게임aspan 안전놀이터 메이저놀이터를 찾아보시다 보면 서로가 더 안전하다며 말하고 광고하고 있는 먹튀 검증 커뮤니티를 보셨을 겁니다. 물론 정확한 먹튀 검증으로 올바른 정보를 제공하고 있는 커뮤니티들도 있지만 잘못된 정보를 제공하며 간혹 먹튀사이트를 광고하여 유저들에게 혼란을 주고 피해를 주고 있습니다. 잘못된 정보를 제공하는 커뮤니티를 통해 이용하시다가 먹튀 피해를 보게 되면 보상을 받으실 수 없습니다. 우리 주변에서도 많은 광고를 접하셨을 겁니다. 문자 광고, SNS 광고, 전화 광고, 성인 사이트 등 흔히 일상 생활 속에서 쉽게 볼 수 있고 현혹되는 말들과 조작된 영상들로 현혹하고 있습니다.pp 무분별하게 제공되는 광고에 속아 이용하시다가 피해를 보게 되면 누구도 보상해주지 않기 때문에 확실하고 정확한 먹튀 검증을 진행하는 저희 토토24 커뮤니티를 통해 이용하셔야 합니다. 오랫동안 확실한 데이터만을 수집하고 전문가들이 꼼꼼하게 확인하여 홀짝사이트 먹튀검증을 진행하고 있습니다. 유저들의 안전한 배팅 문화를 만들기 위해서 선행하고 먹튀 사이트를 철저하게 검거하는 먹튀 검증 커뮤니티가 되도록 노력하겠습니다.p					div
+						div
+				div
+				div class=elementor-element elementor-element-12d1eb3 elementor-widget elementor-widget-heading data-id=12d1eb3 data-element_type=widget data-widget_type=heading.default
+				div class=elementor-widget-container
+			h4 class=elementor-heading-title elementor-size-default홀짝사이트 먹튀 피해 신고h4		div
+				div
+				section class=elementor-section elementor-inner-section elementor-element elementor-element-256ada4 elementor-section-boxed elementor-section-height-default elementor-section-height-default data-id=256ada4 data-element_type=section data-settings={&quot;background_background&quot;&quot;classic&quot;}
+						div class=elementor-container elementor-column-gap-default
+							div class=elementor-row
+					div class=elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3c22b9e data-id=3c22b9e data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-f1e9140 elementor-widget elementor-widget-image data-id=f1e9140 data-element_type=widget data-widget_type=image.default
+				div class=elementor-widget-container
+								div class=elementor-image
+												img width=225 height=225 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20225%20225'%3E%3Csvg%3E class=attachment-large size-large alt=홀짝사이트 data-lazy-srcset=httpstotosite24.comwp-contentuploads202010홀짝사이트.jpg 225w, httpstotosite24.comwp-contentuploads202010홀짝사이트-150x150.jpg 150w data-lazy-sizes=(max-width 225px) 100vw, 225px data-lazy-src=httpstotosite24.comwp-contentuploads202010홀짝사이트.jpg noscriptimg width=225 height=225 src=httpstotosite24.comwp-contentuploads202010홀짝사이트.jpg class=attachment-large size-large alt=홀짝사이트 srcset=httpstotosite24.comwp-contentuploads202010홀짝사이트.jpg 225w, httpstotosite24.comwp-contentuploads202010홀짝사이트-150x150.jpg 150w sizes=(max-width 225px) 100vw, 225px noscript														div
+						div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d549fd9 data-id=d549fd9 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-5516ce2 elementor-widget elementor-widget-text-editor data-id=5516ce2 data-element_type=widget data-widget_type=text-editor.default
+				div class=elementor-widget-container
+								div class=elementor-text-editor elementor-clearfix
+				p계속해서 매년 먹튀사이트의 수법들이 발전하고 안전놀이터 메이저놀이터를 이용하지 못하고 피해를 보는 유저가 늘어나고 있습니다. 먹튀 피해를 본 피해자들은 억울함을 호소하지 못하고 혼자서 속상함을 앓고 있습니다. 대부분 새로 생겨나고 많은 광고를 하는 신규 a href=httpssportstotosafe.com%ed%99%80%ec%a7%9d%ec%82%ac%ec%9d%b4%ed%8a%b8 target=_blank rel=noopener홀짝사이트a에서 먹튀 사건이 자주 발생하고 있어 먹튀 검증 커뮤니티에서 신규 사이트를 검증하고 있지만, 하루에도 수십 개의 사설 토토 사이트가 생기고 없어지고 데이터를 수집하는데 시간이 소요되기 때문에 모든 신규 사이트를 검증하는 것이 무리가 있습니다. 배팅을 즐기는 유저들이 먹튀 사이트의 수법과 유형들을 파악하고 인지하여 스스로 먹튀 사이트가 의심되는 곳을 피하고 커뮤니티를 통해 검증받고 이용하시길 바랍니다. 억울하게 피해를 보신 회원님들은 커뮤니티에 신고를 통해 다른 유저들이 피해를 보는 것을 막고 안전놀이터와 메이저놀이터를 통해 안전한 배팅을 즐기세요.p					div
+						div
+				div
+						div
+					div
+		div
+								div
+					div
+		section
+						div
+					div
+		div
+								div
+					div
+		section
+						div
+						div
+					div
+		
+		
+		
+	div!-- .entry-content .clear --
+
+	
+	
+article!-- #post-## --
+
+			main!-- #main --
+			
+		
+	div!-- #primary --
+
+
+	div !-- ast-container --
+	div!-- #content --
+		div data-elementor-type=footer data-elementor-id=2119 class=elementor elementor-2119 elementor-location-footer data-elementor-settings=[]
+		div class=elementor-section-wrap
+					section class=elementor-section elementor-top-section elementor-element elementor-element-46c1334c elementor-section-boxed elementor-section-height-default elementor-section-height-default data-id=46c1334c data-element_type=section data-settings={&quot;background_background&quot;&quot;classic&quot;}
+						div class=elementor-container elementor-column-gap-default
+							div class=elementor-row
+					div class=elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-454c434f data-id=454c434f data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-723f3852 elementor-widget elementor-widget-theme-site-logo elementor-widget-image data-id=723f3852 data-element_type=widget data-widget_type=theme-site-logo.default
+				div class=elementor-widget-container
+								div class=elementor-image
+													a href=httpstotosite24.com
+							img width=288 height=75 src=dataimagesvg+xml,%3Csvg%20xmlns='httpwww.w3.org2000svg'%20viewBox='0%200%20288%2075'%3E%3Csvg%3E class=attachment-full size-full alt=totosite24 data-lazy-src=httpstotosite24.comwp-contentuploads202009toto24-1-e1604093418821.png noscriptimg width=288 height=75 src=httpstotosite24.comwp-contentuploads202009toto24-1-e1604093418821.png class=attachment-full size-full alt=totosite24 noscript								a
+														div
+						div
+				div
+				div class=elementor-element elementor-element-3a734bd0 e-grid-align-mobile-center elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons data-id=3a734bd0 data-element_type=widget data-widget_type=social-icons.default
+				div class=elementor-widget-container
+					div class=elementor-social-icons-wrapper elementor-grid
+							span class=elementor-grid-item
+					a class=elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-dc10550 href=httpstwitter.comtotosite24_ target=_blank
+						span class=elementor-screen-onlyTwitterspan
+						i class=fab fa-twitteri					a
+				span
+							span class=elementor-grid-item
+					a class=elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-0267196 target=_blank
+						span class=elementor-screen-onlyFacebook-fspan
+						i class=fab fa-facebook-fi					a
+				span
+							span class=elementor-grid-item
+					a class=elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-dbaeb71 href=httpswww.youtube.comchannelUCdEAG9QgW55Df-yGBy0KuvQabout target=_blank
+						span class=elementor-screen-onlyYoutubespan
+						i class=fab fa-youtubei					a
+				span
+							span class=elementor-grid-item
+					a class=elementor-icon elementor-social-icon elementor-social-icon-pinterest elementor-repeater-item-d2d5c50 href=httpswww.pinterest.comtotosite24 target=_blank
+						span class=elementor-screen-onlyPinterestspan
+						i class=fab fa-pinteresti					a
+				span
+							span class=elementor-grid-item
+					a class=elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-19e1555 href=httpswww.instagram.comtotosite24 target=_blank
+						span class=elementor-screen-onlyInstagramspan
+						i class=fab fa-instagrami					a
+				span
+					div
+				div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-52bac0c3 data-id=52bac0c3 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-7e0868cb elementor-widget elementor-widget-heading data-id=7e0868cb data-element_type=widget data-widget_type=heading.default
+				div class=elementor-widget-container
+			h4 class=elementor-heading-title elementor-size-default안전놀이터 추천h4		div
+				div
+				div class=elementor-element elementor-element-4e4297c4 elementor-align-left elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list data-id=4e4297c4 data-element_type=widget data-widget_type=icon-list.default
+				div class=elementor-widget-container
+					ul class=elementor-icon-list-items
+							li class=elementor-icon-list-item
+										span class=elementor-icon-list-text안전놀이터 추천span
+									li
+								li class=elementor-icon-list-item
+										span class=elementor-icon-list-text토토사이트 추천span
+									li
+								li class=elementor-icon-list-item
+										span class=elementor-icon-list-text메이저놀이터 추천span
+									li
+								li class=elementor-icon-list-item
+											span class=elementor-icon-list-icon
+							i aria-hidden=true class=fas fa-checki						span
+										span class=elementor-icon-list-text사다리사이트 홀짝사이트span
+									li
+								li class=elementor-icon-list-item
+										span class=elementor-icon-list-text안전하게 이용하세요.span
+									li
+						ul
+				div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-4c52f67e data-id=4c52f67e data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-ea5c5ee elementor-widget elementor-widget-heading data-id=ea5c5ee data-element_type=widget data-widget_type=heading.default
+				div class=elementor-widget-container
+			h4 class=elementor-heading-title elementor-size-defaulttoto24 안내h4		div
+				div
+				div class=elementor-element elementor-element-15269f34 elementor-align-left elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list data-id=15269f34 data-element_type=widget data-widget_type=icon-list.default
+				div class=elementor-widget-container
+					ul class=elementor-icon-list-items
+							li class=elementor-icon-list-item
+											a href=httpstotosite24.com
+
+											span class=elementor-icon-list-text안전놀이터span
+											a
+									li
+								li class=elementor-icon-list-item
+											a href=httpstotosite24.com%ed%86%a0%ed%86%a0%ec%82%ac%ec%9d%b4%ed%8a%b8
+
+											span class=elementor-icon-list-text토토사이트span
+											a
+									li
+								li class=elementor-icon-list-item
+											a href=httpstotosite24.com%eb%a9%94%ec%9d%b4%ec%a0%80%eb%86%80%ec%9d%b4%ed%84%b0
+
+											span class=elementor-icon-list-text메이저놀이터span
+											a
+									li
+								li class=elementor-icon-list-item
+											a href=httpstotosite24.com%ec%82%ac%eb%8b%a4%eb%a6%ac%ec%82%ac%ec%9d%b4%ed%8a%b8
+
+											span class=elementor-icon-list-text사다리사이트span
+											a
+									li
+								li class=elementor-icon-list-item
+											a href=httpstotosite24.com%ed%99%80%ec%a7%9d%ec%82%ac%ec%9d%b4%ed%8a%b8
+
+											span class=elementor-icon-list-text홀짝사이트span
+											a
+									li
+						ul
+				div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-c364942 data-id=c364942 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-78935a12 elementor-widget elementor-widget-heading data-id=78935a12 data-element_type=widget data-widget_type=heading.default
+				div class=elementor-widget-container
+			h4 class=elementor-heading-title elementor-size-default고객센터 안내h4		div
+				div
+				div class=elementor-element elementor-element-2b75efef elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list data-id=2b75efef data-element_type=widget data-widget_type=icon-list.default
+				div class=elementor-widget-container
+					ul class=elementor-icon-list-items
+							li class=elementor-icon-list-item
+											a href=httpst.meonba77
+
+											span class=elementor-icon-list-text텔레그램 @onba77span
+											a
+									li
+								li class=elementor-icon-list-item
+										span class=elementor-icon-list-text24시간 문의 환영span
+									li
+								li class=elementor-icon-list-item
+										span class=elementor-icon-list-text먹튀사이트 제보 span
+									li
+								li class=elementor-icon-list-item
+										span class=elementor-icon-list-text안전놀이터 문의span
+									li
+								li class=elementor-icon-list-item
+										span class=elementor-icon-list-text언제든지 문의주세요span
+									li
+						ul
+				div
+				div
+						div
+					div
+		div
+								div
+					div
+		section
+				footer class=elementor-section elementor-top-section elementor-element elementor-element-79068f7b elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle data-id=79068f7b data-element_type=section data-settings={&quot;background_background&quot;&quot;classic&quot;}
+						div class=elementor-container elementor-column-gap-default
+							div class=elementor-row
+					div class=elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-655f18c6 data-id=655f18c6 data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-7f5db025 elementor-widget elementor-widget-heading data-id=7f5db025 data-element_type=widget data-widget_type=heading.default
+				div class=elementor-widget-container
+			h5 class=elementor-heading-title elementor-size-defaultCopyright © toto24 All Right Reserved.h5		div
+				div
+						div
+					div
+		div
+				div class=elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-253ae15b data-id=253ae15b data-element_type=column
+			div class=elementor-column-wrap elementor-element-populated
+							div class=elementor-widget-wrap
+						div class=elementor-element elementor-element-540b70f7 elementor-widget elementor-widget-heading data-id=540b70f7 data-element_type=widget data-widget_type=heading.default
+				div class=elementor-widget-container
+			h5 class=elementor-heading-title elementor-size-defaulta href=httpstotosite24.comtotosite24.comah5		div
+				div
+						div
+					div
+		div
+								div
+					div
+		footer
+				div
+		div
+			div!-- #page --
+
+script id='astra-theme-js-js-extra'
+var astra = {break_point921,isRtl};
+script
+script src='httpstotosite24.comwp-contentthemesastraassetsjsminifiedstyle.min.jsver=3.7.3' id='astra-theme-js-js' deferscript
+script src='httpstotosite24.comwp-includesjswp-embed.min.jsver=5.8.1' id='wp-embed-js' deferscript
+script src='httpstotosite24.comwp-includesjsjqueryjquery.min.jsver=3.6.0' id='jquery-core-js' deferscript
+script src='httpstotosite24.comwp-includesjsjqueryjquery-migrate.min.jsver=3.3.2' id='jquery-migrate-js' deferscript
+script src='httpstotosite24.comwp-contentpluginselementor-proassetslibsmartmenusjquery.smartmenus.min.jsver=1.0.1' id='smartmenus-js' deferscript
+script src='httpstotosite24.comwp-contentpluginselementor-proassetsjswebpack-pro.runtime.min.jsver=3.4.2' id='elementor-pro-webpack-runtime-js' deferscript
+script src='httpstotosite24.comwp-contentpluginselementorassetsjswebpack.runtime.min.jsver=3.4.6' id='elementor-webpack-runtime-js' deferscript
+script src='httpstotosite24.comwp-contentpluginselementorassetsjsfrontend-modules.min.jsver=3.4.6' id='elementor-frontend-modules-js' deferscript
+script id='elementor-pro-frontend-js-before'
+var ElementorProFrontendConfig = {ajaxurlhttpstotosite24.comwp-adminadmin-ajax.php,noncec9043515b9,urls{assetshttpstotosite24.comwp-contentpluginselementor-proassets,resthttpstotosite24.comwp-json},i18n{toc_no_headings_foundNo headings were found on this page.},shareButtonsNetworks{facebook{titleFacebook,has_countertrue},twitter{titleTwitter},google{titleGoogle+,has_countertrue},linkedin{titleLinkedIn,has_countertrue},pinterest{titlePinterest,has_countertrue},reddit{titleReddit,has_countertrue},vk{titleVK,has_countertrue},odnoklassniki{titleOK,has_countertrue},tumblr{titleTumblr},digg{titleDigg},skype{titleSkype},stumbleupon{titleStumbleUpon,has_countertrue},mix{titleMix},telegram{titleTelegram},pocket{titlePocket,has_countertrue},xing{titleXING,has_countertrue},whatsapp{titleWhatsApp},email{titleEmail},print{titlePrint}},facebook_sdk{langko_KR,app_id},lottie{defaultAnimationUrlhttpstotosite24.comwp-contentpluginselementor-promoduleslottieassetsanimationsdefault.json}};
+script
+script src='httpstotosite24.comwp-contentpluginselementor-proassetsjsfrontend.min.jsver=3.4.2' id='elementor-pro-frontend-js' deferscript
+script src='httpstotosite24.comwp-contentpluginselementorassetslibwaypointswaypoints.min.jsver=4.0.2' id='elementor-waypoints-js' deferscript
+script src='httpstotosite24.comwp-includesjsjqueryuicore.min.jsver=1.12.1' id='jquery-ui-core-js' deferscript
+script src='httpstotosite24.comwp-contentpluginselementorassetslibswiperswiper.min.jsver=5.3.6' id='swiper-js' deferscript
+script src='httpstotosite24.comwp-contentpluginselementorassetslibshare-linkshare-link.min.jsver=3.4.6' id='share-link-js' deferscript
+script src='httpstotosite24.comwp-contentpluginselementorassetslibdialogdialog.min.jsver=4.8.1' id='elementor-dialog-js' deferscript
+script id='elementor-frontend-js-before'
+var elementorFrontendConfig = {environmentMode{editfalse,wpPreviewfalse,isScriptDebugfalse},i18n{shareOnFacebookud398uc774uc2a4ubd81 uacf5uc720,shareOnTwitterud2b8uc704ud130 uacf5uc720,pinItuace0uc815ud558uae30,downloadDownload,downloadImageuc774ubbf8uc9c0 ub2e4uc6b4ub85cub4dc,fullscreenuc804uccb4ud654uba74,zoomuc90c,shareuacf5uc720,playVideoube44ub514uc624 uc7acuc0dd,previousuc774uc804,nextub2e4uc74c,closeub2ebuae30},is_rtlfalse,breakpoints{xs0,sm480,md768,lg1025,xl1440,xxl1600},responsive{breakpoints{mobile{labelubaa8ubc14uc77c,value767,default_value767,directionmax,is_enabledtrue},mobile_extra{labelMobile Extra,value880,default_value880,directionmax,is_enabledfalse},tablet{labelud0dcube14ub9bf,value1024,default_value1024,directionmax,is_enabledtrue},tablet_extra{labelTablet Extra,value1200,default_value1200,directionmax,is_enabledfalse},laptop{labelLaptop,value1366,default_value1366,directionmax,is_enabledfalse},widescreen{labelWidescreen,value2400,default_value2400,directionmin,is_enabledfalse}}},version3.4.6,is_staticfalse,experimentalFeatures{e_import_exporttrue,landing-pagestrue,elements-color-pickertrue,admin-top-bartrue,form-submissionstrue},urls{assetshttpstotosite24.comwp-contentpluginselementorassets},settings{page[],editorPreferences[]},kit{active_breakpoints[viewport_mobile,viewport_tablet],global_image_lightboxyes,lightbox_enable_counteryes,lightbox_enable_fullscreenyes,lightbox_enable_zoomyes,lightbox_enable_shareyes,lightbox_title_srctitle,lightbox_description_srcdescription},post{id2206,title%ED%99%80%EC%A7%9D%EC%82%AC%EC%9D%B4%ED%8A%B8%20%7C%20MGM%20%EB%A1%9C%ED%88%AC%EC%8A%A4%20%EC%82%AC%EB%8B%A4%EB%A6%AC%20%ED%8C%8C%EC%9B%8C%EB%B3%BC%20NO.1%20%EB%A9%94%EC%9D%B4%EC%A0%80%20%EC%97%85%EC%B2%B4%20%EC%B6%94%EC%B2%9C,excerpt,featuredImagehttpstotosite24.comwp-contentuploads202009toto24-ud2b9uc131uc774ubbf8uc9c02.jpg}};
+script
+script src='httpstotosite24.comwp-contentpluginselementorassetsjsfrontend.min.jsver=3.4.6' id='elementor-frontend-js' deferscript
+script src='httpstotosite24.comwp-contentpluginselementor-proassetsjspreloaded-elements-handlers.min.jsver=3.4.2' id='pro-preloaded-elements-handlers-js' deferscript
+script src='httpstotosite24.comwp-contentpluginselementorassetsjspreloaded-modules.min.jsver=3.4.6' id='preloaded-modules-js' deferscript
+script src='httpstotosite24.comwp-contentpluginselementor-proassetslibstickyjquery.sticky.min.jsver=3.4.2' id='e-sticky-js' deferscript
+			script type=rocketlazyloadscript
+			(tridentmsie)i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener(hashchange,function(){var t,e=location.hash.substring(1);^[A-z0-9_-]+$.test(e)&&(t=document.getElementById(e))&&(^(aselectinputbuttontextarea)$i.test(t.tagName)(t.tabIndex=-1),t.focus())},!1);
+			script
+			scriptwindow.lazyLoadOptions={elements_selectorimg[data-lazy-src],.rocket-lazyload,data_srclazy-src,data_srcsetlazy-srcset,data_sizeslazy-sizes,class_loadinglazyloading,class_loadedlazyloaded,threshold300,callback_loadedfunction(element){if(element.tagName===IFRAME&&element.dataset.rocketLazyload==fitvidscompatible){if(element.classList.contains(lazyloaded)){if(typeof window.jQuery!=undefined){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoadInitialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;imutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName==IMG;iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName==IFRAME;rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count0iframe_count0rocketlazy_count0){lazyLoadInstance.update()}});var b=document.getElementsByTagName(body)[0];var config={childList!0,subtree!0};observer.observe(b,config)}},!1)scriptscript data-no-minify=1 async src=httpstotosite24.comwp-contentpluginswp-rocketassetsjslazyload16.1lazyload.min.jsscript	script type=rocketlazyloadscriptuse strict;var wprRemoveCPCSS=function wprRemoveCPCSS(){var elem;document.querySelector('link[data-rocket-async=style][rel=preload]')setTimeout(wprRemoveCPCSS,200)(elem=document.getElementById(rocket-critical-css))&&removein elem&&elem.remove()};window.addEventListenerwindow.addEventListener(load,wprRemoveCPCSS)window.attachEvent&&window.attachEvent(onload,wprRemoveCPCSS);scriptscriptclass RocketElementorAnimation{constructor(){this.deviceMode=document.createElement(span),this.deviceMode.id=elementor-device-mode,this.deviceMode.setAttribute(class,elementor-screen-only),document.body.appendChild(this.deviceMode)}_detectAnimations(){let t=getComputedStyle(this.deviceMode,after).content.replace(g,);this.animationSettingKeys=this._listAnimationSettingsKeys(t),document.querySelectorAll(.elementor-invisible[data-settings]).forEach(t={const e=t.getBoundingClientRect();if(e.bottom=0&&e.top=window.innerHeight)try{this._animateElement(t)}catch(t){}})}_animateElement(t){const e=JSON.parse(t.dataset.settings),i=e._animation_delaye.animation_delay0,n=e[this.animationSettingKeys.find(t=e[t])];if(none===n)return void t.classList.remove(elementor-invisible);t.classList.remove(n),this.currentAnimation&&t.classList.remove(this.currentAnimation),this.currentAnimation=n;let s=setTimeout(()={t.classList.remove(elementor-invisible),t.classList.add(animated,n),this._removeAnimationSettings(t,e)},i);window.addEventListener(rocket-startLoading,function(){clearTimeout(s)})}_listAnimationSettingsKeys(t=mobile){const e=[];switch(t){casemobilee.unshift(_mobile);casetablete.unshift(_tablet);casedesktope.unshift(_desktop)}const i=[];return[animation,_animation].forEach(t={e.forEach(e={i.push(t+e)})}),i}_removeAnimationSettings(t,e){this._listAnimationSettingsKeys().forEach(t=delete e[t]),t.dataset.settings=JSON.stringify(e)}static run(){const t=new RocketElementorAnimation;requestAnimationFrame(t._detectAnimations.bind(t))}}document.addEventListener(DOMContentLoaded,RocketElementorAnimation.run);scriptnoscriptlink rel=stylesheet href=httpsfonts.googleapis.comcssfamily=Noto%20Sans%20KR%3A400%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap link rel=stylesheet href=httpstotosite24.comwp-contentcachemin1e9fab537d4f068a80bf67249c37ef96f.css media=all data-minify=1 noscriptbody
+html
+
+!-- This website is like a Rocket, isn't it Performance optimized by WP Rocket. Learn more httpswp-rocket.me - Debug cached@1634728712 --

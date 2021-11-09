@@ -1,0 +1,2070 @@
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="referrer" content="unsafe-url">
+    <meta name="google-site-verification" content="cDwzyIRRkyBbxvpU2738F1fw3C9pFhRZ-k6j8hk3BxA" />
+    <meta name="keywords" content="김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰 - 경향신문" />
+    <meta name="news_keywords" content="김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰 - 경향신문" />
+    <meta name="description" content="‘대장동 개발 비리’ 의혹 핵심 인물인 김만배씨의 구속영장이 기각된 데 이어 긴급체포된 남욱..." />
+    <meta property="fb:pages" content="161649467207997" />
+
+    <meta property="article_id" content="202110201613001" />
+    <meta property="og:url" content="https://www.khan.co.kr/article/202110201613001" />
+    <meta property="og:site" content="https://www.khan.co.kr/article/202110201613001" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰" />
+    <meta property="og:description" content="‘대장동 개발 비리’ 의혹 핵심 인물인 김만배씨의 구속영장이 기각된 데 이어 긴급체포된 남욱..." />
+    <meta property="og:image" content="https://img.khan.co.kr/news/2021/10/20/2021102001002601300220331.jpg" />
+    <meta property="fb:app_id" content="2819874668152275" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰" />
+    <meta name="twitter:description" content="‘대장동 개발 비리’ 의혹 핵심 인물인 김만배씨의 구속영장이 기각된 데 이어 긴급체포된 남욱..." />
+    <meta name="twitter:image" content="https://img.khan.co.kr/news/2021/10/20/2021102001002601300220331.jpg" />
+    <meta name="twitter:site" content="@kyunghyang" />
+    <meta name="twitter:creator" content="@kyunghyang" />
+    <meta property="article:author" content="이보라기자 purple@kyunghyang.com" />
+    <meta property="article:section" content="사회" />
+    <meta property="article:section2" content="법원·검찰" />
+    <meta property="article:published_time" content="2021-10-20T16:13:00+09:00" />
+    <meta property="dable:item_id" content="202110201613001" />
+    <meta property="dable:author" content="이보라기자 purple@kyunghyang.com" />
+    <meta property="dable:image" content="https://img.khan.co.kr/news/r/Xx300/2021/10/20/2021102001002601300220331.jpg" />
+
+    <link rel="shortcut icon" href="//img.khan.co.kr/spko/icon/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon-precomposed" href="//img.khan.co.kr/spko/icon/apple-touch-icon-precomposed-web.png" />
+<script>
+document.domain = 'khan.co.kr';
+
+if (navigator.userAgent.match(/iPhone|BlackBerry|Mobile|Android|Windows CE/i) && !navigator.userAgent.match(/SHW-M380S|SHW-M180S|SHW-M180L|SCH-I800|SGH-T849|SHW-M480W/i)) {
+    var murl = '';
+
+    if (location.href.match(/[\?|&]www/)) {
+        var e = new Date();
+        e.setMinutes(e.getMinutes() + 5);
+        document.cookie = "browser_mode=pc; path=/; domain=.khan.co.kr; expires="+e.toGMTString()+";";
+    } else if (!document.cookie.match(/browser_mode=pc/i)) {
+        murl = "https://m.khan.co.kr/national/court-law/article/202110201613001"; 
+
+        if (document.referrer.match(/^http?:\/\/m.([^\/]+\.)?naver\.com(\/|$)/i) && (murl.indexOf("artid") != -1 || murl.indexOf("art_id") != -1)) { 
+            var ref = document.referrer.replace("http://", ""); 
+            ref = ref.split( '/' ); 
+            murl += '&ref='+ref[0]; 
+        }
+        
+        if (document.referrer.match(/^http?:\/\/v.([^\/]+\.)?daum\.net(\/|$)/i) && (murl.indexOf("artid") != -1 || murl.indexOf("art_id") != -1)) { 
+            var ref = document.referrer.replace("http://", ""); 
+            ref = ref.split('/'); 
+            murl += '&ref='+ref[0]; 
+        } 
+        
+        if (document.referrer.match(/^http?:\/\/m.([^\/]+\.)?daum\.net(\/|$)/i) && (murl.indexOf("artid") != -1 || murl.indexOf("art_id") != -1)) { 
+            var ref = document.referrer.replace("http://", ""); 
+            ref = ref.split( '/' ); 
+            murl += '&ref='+ref[0]; 
+        }
+    }
+
+    //if (murl != '' && navigator.userAgent.includes('wv') !== true) { 
+    //if (murl != '' && window.navigator.userAgent.indexOf('FBAV') > 0) { 
+    if (murl != '') { 
+        window.location.href = murl;
+
+        //var meta = document.createElement('meta');
+        //meta.httpEquiv = "refresh";
+        //meta.content = "0; url="+murl;
+        //document.getElementsByTagName('head')[0].appendChild(meta);
+    }
+}
+</script>    <link rel="stylesheet" href="//img.khan.co.kr/css/khan/pc/common.css?v=20211018">
+    <title>김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰 - 경향신문</title>
+
+    <link rel="canonical" id="canonical" href="https://www.khan.co.kr/article/202110201613001">
+
+                <link rel="stylesheet" type="text/css" href="//img.khan.co.kr/css/khan/pc/view.css?v=20211018" />
+                <link rel="stylesheet" type="text/css" href="//img.khan.co.kr/spko/css/common/plugin/jquery.fancybox.css" />
+                <link rel="stylesheet" type="text/css" href="//static.khan.co.kr/plugin/modal/jquery.modal.min.css" />
+
+    <script>
+    if (document.location.protocol == 'http:') {
+        document.location.href = document.location.href.replace('http:', 'https:');
+    }
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5Q32MWB');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <script type="text/javascript" src="//static.khan.co.kr/plugin/jquery/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="//static.khan.co.kr/plugin/jquery/jquery.cookie.js?v=202110151756"></script>
+    <script type="text/javascript" src="//static.khan.co.kr/js/khan/common.js?v=202110151756"></script>
+    <!--[if lt IE 9]><script src="//www.khan.co.kr/spko/js/plugin/html5shiv.min.js"></script><![endif]-->
+    <script type="text/javascript" src="//static.khan.co.kr/js/khan/p/khan_sectionScript_tmp.js?v=202110151756"></script>
+    <script type="text/javascript" src="//static.khan.co.kr/js/khan/p/article_link.js?v=202110151756"></script>
+    <script type="text/javascript" src="//static.khan.co.kr/plugin/jquery/jquery.fancybox.pack.js"></script>
+    <script type="text/javascript" src="//static.khan.co.kr/plugin/modal/jquery.modal.min.js"></script>
+    <script type="text/javascript" src="//static.khan.co.kr/plugin/moment/moment.min.js"></script>
+    <script type="text/javascript" src="//static.khan.co.kr/js/khan/p/_view.js?v=202110151756&a=5"></script>
+    <script type="text/javascript">document.domain="khan.co.kr";</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-24561295-6"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-24561295-6');
+
+
+    gtag('event', 'page_view', { 'send_to': 'UA-79840639-4' }); //����(PC+Mobile)
+    gtag('event', 'page_view', { 'send_to': 'UA-79840639-7' }); //����ü����(PC+Mobile)
+
+
+//    gtag('config', 'UA-79840639-4', {
+//        'custom_map': {'dimension1': 'section'}
+//    });
+//    gtag('config', 'UA-102427281-2', {
+//        'custom_map': {'dimension1': 'section'}
+//    });
+
+//    gtag('event', 'page_view', {'section': 'society'});
+//    gtag('event', 'put_dimension1', {'section': 'society'});
+//    gtag('event', 'page_view', {'section': 'society'});
+
+
+function gaEventCall(category, action, label, value)
+{
+    if (typeof value == 'undefined') value = '';
+
+    gtag('event', action, {
+      'send_to': 'UA-79840639-2',
+      'event_category': category,
+      'event_label': label,
+      'value': value
+    });
+}
+
+</script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics V4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NXKM133K18"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NXKM133K18');
+</script>
+
+    <script>
+    (function(d,a,b,l,e,_) { 
+        d[b]=d[b]||function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l); 
+        e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js'; 
+        _=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_); 
+    })(window,document,'dable','script'); 
+    dable('setService', 'khan.co.kr'); 
+    dable('sendLogOnce');
+    </script>
+
+    <script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({article:'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)){
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/kyunghyangnews-desktop/loader.js',
+        'tb_loader_script');
+    if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+    </script>
+</head>
+
+<body>
+    <div id="wrap">
+        <!-- header -->
+        <header>
+            <!-- 기사 뷰 탑 바 -->
+            <div id="topBarWrap" class="fx_topbar_wrap">
+                <input type="hidden" id="javascript_use_art_id" value="202110201613001">
+                <script>
+                var mod = "";
+                var location_url = window.location.href;
+
+                setTimeout(function() {
+                    if (mod == "clapping" && $(".clapping").length > 0) {
+                        var top_size = document.querySelector(".clapping").offsetTop;
+                        window.scrollTo({top:top_size , behavior:'auto'});
+
+                        var domain = window.location.protocol + "//" + window.location.hostname;
+                        var lo_url = location_url.replace(domain, "");
+                        lo_url = lo_url.replace("?mod=clapping", "");
+                        history.pushState("", document.title, lo_url);
+                    }
+                }, 500);
+                </script>
+                <div class="fx_topbar">
+                    <div class="btn_all">
+                        <a href="javascript:menu_box_abtn()" title="전체 메뉴 열기">
+                            <span class="all_txt">전체</span>
+                        </a>
+                    </div>
+                    <div class="search">
+                        <span class="search_btn open">
+                            <a href="javascript:;" title="검색창 열기" onclick="return false;" id="main_top_search_open">검색창 열기</a>
+                        </span>
+                        <span class="search_btn close" style="display:none;">
+                            <a href="/" title="검색창 닫기" onclick="return false;" id="main_top_search_close" title="검색창 닫기">검색창 닫기</a>
+                        </span>
+                    </div>
+                    <div class="logo">
+                        <a href="https://www.khan.co.kr" title="경향신문">경향신문</a>
+                    </div>
+                    <ul class="gnb">
+                        <li><a href="https://www.khan.co.kr/national" title="사회">사회</a></li>
+                    </ul>
+
+                    <div id="head_right_issue" class="r-issue">
+                        <span class="issue-txt">
+                            <a href="https://www.khan.co.kr/issue/articles/aha87" title="대장동 개발 의혹 수사">#대장동 개발 의혹 수사</a>
+                        </span>
+                    </div>
+
+                    <div id="head_right_menu" class="fn_wrap" style="display:none;">
+                        <div class="fn-btn" >
+                            <ul>
+                                                                <li class="share">
+                                    <a href="#" title="공유하기">공유하기</a>
+
+                                <div class="slt_sns_menu"><!-- 공유하기 버튼 클릭 시 .open 클래스를 부여하여 레이어를 활성화 -->
+                                    <ul class="area_sns_menu">
+                                        <li><a class="facebook" href="javascript:;" onclick="getShortUrl('https%3A%2F%2Fwww.khan.co.kr%2Fnational%2Fcourt-law%2Farticle%2F202110201613001%3Futm_source%3Dfacebook%26utm_medium%3Dsocial_share', snsShare, this);" data-sns="facebook" data-text="김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰">페이스북 공유하기</a></li>
+                                        <li><a class="twitter" href="javascript:;" onclick="getShortUrl('https%3A%2F%2Fwww.khan.co.kr%2Fnational%2Fcourt-law%2Farticle%2F202110201613001%3Futm_source%3Dtwitter%26utm_medium%3Dsocial_share', snsShare, this);" data-sns="twitter" data-text="김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰">트위터 공유하기</a></li>
+                                        <li><a class="kakaotalk" href="javascript:;" onclick="getShortUrl('https%3A%2F%2Fwww.khan.co.kr%2Fnational%2Fcourt-law%2Farticle%2F202110201613001%3Futm_source%3Dkakaostory%26utm_medium%3Dsocial_share', snsShare, this);" data-sns="kakaostory" data-text="김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰">카카오스토리 공유하기</a></li>
+                                        <li><a class="band" href="javascript:;" onclick="getShortUrl('https%3A%2F%2Fwww.khan.co.kr%2Fnational%2Fcourt-law%2Farticle%2F202110201613001%3Futm_source%3Dnaver_band%26utm_medium%3Dsocial_share', snsShare, this);" data-sns="band" data-text="김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰">밴드 공유하기</a></li>
+                                        <li><a class="nhnblog" href="javascript:;" onclick="getShortUrl('https%3A%2F%2Fwww.khan.co.kr%2Fnational%2Fcourt-law%2Farticle%2F202110201613001%3Futm_source%3Dnaver_blog%26utm_medium%3Dsocial_share', snsShare, this);" data-sns="nblog" data-text="">네이버블로그 공유하기</a></li>
+                                        <li><a class="email" href="javascript:;" onclick="send_mail('202110201613001', 'khan', 'khan', 'https://www.khan.co.kr/national/court-law/article/202110201613001');">이메일로 공유하기</a></li>
+                                    </ul>
+                                </div>
+                                </li>
+                                <li class="bookmark">
+                                    <a href="javascript:;" onclick="setbookmark(this);" title="북마크" data-art_id="202110201613001" data-bookmark_name="bookmark_khan" data-med_id="khan">북마크</a>
+                                </li>
+                                <li class="reply replyBalloon">
+                                    <a href="javascript:;" onclick="goPosReply();" title="댓글">댓글</a>
+                                    <span class="count"></span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="title" id="top_title" style="display:none;">
+                        <p>김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰</p>
+                    </div>
+                </div>
+                <div class="srch-bar blind">
+                    <form name="search" method="get" onsubmit="return false" accept-charset="UTF-8" action="//search.khan.co.kr/search.html" target="_top">
+                        <input type="hidden" name="sect" value="1">
+                        <input type="hidden" name="path" value="1">
+                        <div class="search_area">
+                            <span class="input_search">
+                                <input accesskey="s" class="keyword" placeholder="검색어를 입력해 주세요." title="검색어 입력" type="text" name="q" id="main_top_search_input">
+                                <a href="//search.khan.co.kr/search.html" title="검색" onclick="return false;" class="btn_sch" id="searchSubmit">검색</a>
+                            </span>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <!-- // 기사뷰 탑 바 -->
+        </header>
+
+        <script type="text/javascript">
+        function logout() {
+            window.location.href = "https://member.khan.co.kr/login/logout.html?url="+ encodeURIComponent(location.href);
+        }
+
+        if (document.cookie.match(/khan_uid/i) || document.cookie.match(/khan_id/i)) {
+            jQuery("#log_in").hide();
+            jQuery("#log_out").show();
+        } else {
+            jQuery("#log_in").show();
+            jQuery("#log_out").hide();
+        }
+        </script>
+        <!-- // header -->
+
+        <!-- 좌측 메뉴 박스 -->
+        <div id="menuBox" class="blind">
+            <div class="menuBox_wrap">
+                <div class="open_menu">
+                    <div class="menubox-logo">
+                        <a href="https://www.khan.co.kr" title="경향닷컴 홈으로 이동">경향닷컴 홈으로 이동</a>
+                    </div>
+                    <h3 class="hide">전체 메뉴</h3>
+                    <ul class="mn_news">
+                        <li class="only_link"><span class="line"></span></li>
+                        <li class="only_link"><a href="https://www.khan.co.kr/newest/articles" title="최신기사">최신기사</a></li>
+                        <li class="only_link"><a href="https://www.khan.co.kr/realtime/articles" title="실시간 랭킹 기사">실시간 랭킹 기사</a></li>
+                        <!-- 오피니언 -->
+                        <li class="">
+                            <a href="https://www.khan.co.kr/opinion" title="오피니언">오피니언</a>
+                            <span class="arw"></span>
+                            <ul class="sub_mn" style="display:none;">
+                                <li class=""><a href="https://www.khan.co.kr/opinion/editorial/articles" title="사설">사설</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/opinion/yeojeok/articles" title="여적">여적</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/opinion/journalist/articles" title="기자메모">기자메모</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/opinion/column/articles" title="칼럼">칼럼</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/cartoon" title="만평">만평</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/opinion/readers-opinion/articles" title="독자마당">독자마당</a></li>
+                            </ul>
+                        </li>
+                        <!-- 정치 -->
+                        <li class="">
+                            <a href="https://www.khan.co.kr/politics" title="정치">정치</a>
+                            <span class="arw"></span>
+                            <ul class="sub_mn" style="display:none;">
+                                <li class=""><a href="https://www.khan.co.kr/politics/president/articles" title="청와대">청와대</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/politics/assembly/articles" title="국회정당">국회&middot;정당</a></li>
+                                <li class="">
+                                    <a href="https://www.khan.co.kr/politics/defense-diplomacy/articles" title="국방외교">국방&middot;외교</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://www.khan.co.kr/politics/north-korea/articles" title="북한한반도">북한&middot;한반도</a>
+                                </li>
+                                <li class=""><a href="https://www.khan.co.kr/politics/election/articles" title="선거">선거</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/politics/politics-general/articles" title="정치 일반">정치 일반</a></li>
+                            </ul>
+                        </li>
+                        <!-- 경제 -->
+                        <li class="">
+                            <a href="https://www.khan.co.kr/economy" title="경제">경제</a>
+                            <span class="arw"></span>
+                            <ul class="sub_mn" style="display:none;">
+                                <li><a href="https://www.khan.co.kr/economy/finance/articles" title="금융재테크">금융·재테크</a></li>
+                                <li><a href="https://www.khan.co.kr/economy/industry/articles" title="산업">산업</a></li>
+                                <li><a href="https://www.khan.co.kr/economy/it-electronic/articles" title="IT가전">IT&middot;가전</a></li>
+                                <li><a href="https://www.khan.co.kr/economy/real_estate/articles" title="부동산">부동산</a></li>
+                                <li><a href="https://www.khan.co.kr/economy/auto/articles" title="자동차">자동차</a></li>
+                                <li><a href="https://www.khan.co.kr/economy/market-trend/articles" title="생활경제">생활경제</a></li>
+                                <li><a href="https://www.khan.co.kr/economy/venture-job/articles" title="취업창업">취업&middot;창업</a></li>
+                                <li><a href="https://www.khan.co.kr/economy/economy-general/articles" title="경제 일반">경제 일반</a></li>
+                            </ul>
+                        </li>
+                        <!-- 사회 -->
+                        <li class="">
+                            <a href="https://www.khan.co.kr/national" title="사회">사회</a>
+                            <span class="arw"></span>
+                            <ul class="sub_mn" style="display:none;">
+                                <li class=""><a href="https://www.khan.co.kr/national/incident/articles" title="사건사고">사건&middot;사고</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/national/court-law/articles" title="법원검찰">법원&middot;검찰</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/national/education/articles" title="교육입시">교육&middot;입시</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/national/labor/articles" title="노동">노동</a></li>
+                                <li class="">
+                                    <a href="https://www.khan.co.kr/national/health-welfare/articles" title="보건복지">보건&middot;복지</a>
+                                </li>
+                                <li class=""><a href="https://www.khan.co.kr/national/media/articles" title="미디어">미디어</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/national/national-general/articles" title="사회 일반">사회 일반</a></li>
+                            </ul>
+                        </li>
+                        <!-- 국제 -->
+                        <li class="">
+                            <a href="https://www.khan.co.kr/world" title="국제">국제</a>
+                            <span class="arw"></span>
+                            <ul class="sub_mn" style="display:none;">
+                                <li class=""><a href="https://www.khan.co.kr/world/america/articles" title="미국중남미">미국&middot;중남미</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/world/japan/articles" title="일본">일본</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/world/china/articles" title="중국대만">중국&middot;대만</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/world/europe-russia/articles" title="유럽">유럽</a></li>
+                                <li class="">
+                                    <a href="https://www.khan.co.kr/world/asia-australia/articles" title="아시아호주">아시아&middot;호주</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://www.khan.co.kr/world/mideast-africa/articles" title="중동아프리카">중동&middot;아프리카</a>
+                                </li>
+                                <li class=""><a href="https://www.khan.co.kr/world/world-general/articles" title="국제 일반">국제 일반</a></li>
+                            </ul>
+                        </li>
+                        <!-- 문화 -->
+                        <li class="">
+                            <a href="https://www.khan.co.kr/culture" title="문화">문화</a>
+                            <span class="arw"></span>
+                            <ul class="sub_mn" style="display:none;">
+                                <li class=""><a href="https://www.khan.co.kr/culture/book/articles" title="책">책</a></li>
+                                <li class="">
+                                    <a href="https://www.khan.co.kr/culture/performance/articles" title="연극클래식">연극&middot;클래식</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://www.khan.co.kr/culture/scholarship-heritage/articles" title="학술문화재">학술&middot;문화재</a>
+                                </li>
+                                <li class=""><a href="https://www.khan.co.kr/culture/religion/articles" title="종교">종교</a></li>
+                                <li class="">
+                                    <a href="https://www.khan.co.kr/culture/art-architecture/articles" title="미술건축">미술&middot;건축</a>
+                                </li>
+                                <li class=""><a href="https://www.khan.co.kr/culture/popular_music/articles" title="대중음악">대중음악</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/culture/movie/articles" title="영화">영화</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/culture/tv/articles" title="방송">방송</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/culture/culture-general/articles" title="문화 일반">문화 일반</a></li>
+                            </ul>
+                        </li>
+                        <!-- 스포츠 -->
+                        <li class="">
+                            <a href="https://www.khan.co.kr/sports" title="스포츠">스포츠</a>
+                            <span class="arw"></span>
+                            <ul class="sub_mn" style="display:none;">
+                                <li class=""><a href="https://www.khan.co.kr/sports/baseball/articles" title="야구">야구</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/sports/football/articles" title="축구">축구</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/sports/golf/articles" title="골프">골프</a></li>
+                                <li class="">
+                                    <a href="https://www.khan.co.kr/sports/basketball-volleyball/articles" title="농구배구">농구&middot;배구</a>
+                                </li>
+                                <li class=""><a href="https://www.khan.co.kr/sports/sports-general/articles" title="스포츠종합">스포츠종합</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/sports/worldcup/articles" title="월드컵">월드컵</a></li>
+                                <li class="">
+                                    <a href="https://www.khan.co.kr/sports/olympic-asian_games/articles" title="올림픽아시안게임">올림픽&middot;아시안게임</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <!-- 연예 -->
+                        <li class="only_link">
+                            <a href="https://www.khan.co.kr/entertain" title="연예">연예</a>
+                        </li>
+                        <!-- 지역 -->
+                        <li class="">
+                            <a href="https://www.khan.co.kr/local" title="지역">지역</a>
+                            <span class="arw"></span>
+                            <ul class="sub_mn" style="display:none;">
+                                <li class="">
+                                    <a href="https://www.khan.co.kr/local/Seoul-Gyeonggi/articles" title="서울수도권">서울&middot;수도권</a>
+                                </li>
+                                <li class=""><a href="https://www.khan.co.kr/local/Chungcheong/articles" title="충청">충청</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/local/Gangwon/articles" title="강원">강원</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/local/Yeongnam/articles" title="영남">영남</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/local/Honam/articles" title="호남">호남</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/local/Jeju/articles" title="제주">제주</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/local/local-general/articles" title="지역 일반">지역 일반</a></li>
+                            </ul>
+                        </li>
+                        <!-- 과학환경 -->
+                        <li class="">
+                            <a href="https://www.khan.co.kr/science" title="과학&middot;환경">과학&middot;환경</a>
+                            <span class="arw"></span>
+                            <ul class="sub_mn" style="display:none;">
+                                <li class=""><a href="https://www.khan.co.kr/science/aerospace/articles" title="우주항공">우주&middot;항공</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/environment/climate/articles" title="기후날씨">기후&middot;날씨</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/science/environment/articles" title="환경생태">환경&middot;생태</a></li>
+                                <li class="">
+                                    <a href="https://www.khan.co.kr/science/science-general/articles" title="과학환경 일반">과학&middot;환경 일반</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <!-- 영상 -->
+                        <li class="only_link">
+                            <a href="https://www.khan.co.kr/video" title="영상">영상</a>
+                        </li>
+                        <!-- 포토 -->
+                        <li class="only_link">
+                            <a href="https://www.khan.co.kr/gallery" title="포토">포토</a>
+                        </li>
+                        <!-- 인터랙티브 -->
+                        <li class="only_link">
+                            <a href="https://www.khan.co.kr/interactive" title="인터랙티브">인터랙티브</a>
+                        </li>
+                        <!-- 라이프 -->
+                        <li>
+                            <a href="https://www.khan.co.kr/life" title="라이프">라이프</a>
+                            <span class="arw"></span>
+                            <ul class="sub_mn" style="display:none;">
+                                <li class=""><a href="https://www.khan.co.kr/life/travel/articles" title="여행">여행</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/life/health/articles" title="건강의학">건강&middot;의학</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/life/style/articles" title="스타일">스타일</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/life/living/articles" title="생활">생활</a></li>
+                            </ul>
+                        </li>
+                        <!-- 사람 -->
+                        <li class="">
+                            <a href="https://www.khan.co.kr/people" title="사람">사람</a>
+                            <span class="arw"></span>
+                            <ul class="sub_mn" style="display:none;">
+                                <li class=""><a href="https://www.khan.co.kr/people/personnel_shift/articles" title="인사">인사</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/people/obituary/articles" title="부고">부고</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/people/news/articles" title="동정">동정</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/people/people-general/articles" title="인물 일반">인물 일반</a></li>
+                            </ul>
+                        </li>
+                        <!-- 이슈 -->
+                        <li class="only_link">
+                            <a href="https://www.khan.co.kr/issue" title="이슈">이슈</a>
+                        </li>
+                        <!-- 기획연재 -->
+                        <li class="only_link">
+                            <a href="https://www.khan.co.kr/series" title="기획연재">기획&middot;연재</a>
+                        </li>
+                        <!-- ENGLISH -->
+                        <li class="only_link">
+                            <a href="http://english.khan.co.kr" title="ENGLISH(새창)" target="_blank">ENGLISH</a>
+                        </li>
+                        <li class="only_link"><span class="line"></span></li>
+                        <!-- 토요판 -->
+                        <li class="only_link">
+                            <a href="https://www.khan.co.kr/saturday" title="토요판(새창)" target="_blank">토요판</a>
+                        </li>
+                        <!-- 만평 -->
+                        <li class="only_link">
+                            <a href="https://www.khan.co.kr/cartoon" title="만평">만평</a>
+                        </li>
+                        <!-- 올댓아트 -->
+                        <li class="only_link">
+                            <a href="https://www.khan.co.kr/allthatart" title="올댓아트(새창)" target="_blank">올댓아트</a>
+                        </li>
+                        <!-- 경향 noon -->
+                        <li class="only_link">
+                            <a href="https://contents.premium.naver.com/khan/noon" title="경향 noon(새창)" target="_blank">경향 noon</a>
+                        </li>
+                        <!-- 이메일 뉴스레터 -->
+                        <li class="only_link">
+                            <a href="https://www.khan.co.kr/newsletter/articles" title="이메일 뉴스레터">이메일 뉴스레터</a>
+                        </li>
+                        <li>
+                            <a href="javascript:">독자 서비스</a>
+                            <span class="arw"></span>
+                            <ul class="sub_mn" style="display:none;">
+                                <li><a class="jebo" href="http://jebo.khan.co.kr" title="기사제보(새창)" target="_blank">기사제보</a></li>
+                                <li>
+                                    <a href="http://smile.khan.co.kr/gudoc/gudoc_input_step3.html?media_cd=201" title="구독신청(새창)" target="_blank">구독신청</a>
+                                </li>
+                                <li><a href="http://epaper.khan.co.kr" title="지면보기(새창)" target="_blank">지면보기</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/help/help_rss.html" title="RSS">RSS</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/ePR/articles" title="보도자료">보도자료</a></li>
+                                <li class=""><a href="https://www.khan.co.kr/notice/articles" title="알림">알림</a></li>
+                            </ul>
+                        </li>
+                        <li class="only_link">
+                            <a href="https://www.khan.co.kr/sitemap.html" title="사이트맵">사이트맵</a>
+                        </li>
+                    </ul>
+                </div>
+                <button class="btn_mb_close" type="button" id="menu_box_btn">닫기</button>
+            </div>
+            <div class="bg_overlay"></div>
+        </div>
+        <!-- // 좌측 메뉴 박스 -->
+        <input type="hidden" id="menu_box_state" value="0">
+
+        <script type="text/javascript">
+        $('html').on('click', '.bg_overlay', function () {
+            $("#menu_box_btn").trigger('click');
+        });
+
+        $("#menu_box_btn").on("click", function() {
+            menu_box_abtn();
+        });
+        </script>
+
+        <script type="text/javascript">
+        function menu_box_abtn() {
+            var box_state = $("#menu_box_state").val();
+            if (box_state == "0") {
+                $("#menuBox").stop().animate({"left" : "0px"}, {"complete" : function() {}}, 300);
+                $("#menu_box_state").val("1");
+                $("#menuBox").removeClass('blind');
+            } else {
+                $("#menuBox").stop().animate({"left" : "-430px"}, 300);
+                $("#menu_box_state").val("0");
+                $("#menuBox").addClass('blind');
+            }
+        }
+
+        $(".open_menu > ul > li").on("mouseover", function() {
+            var menu_index = $(this).index();
+            if (menu_index > 24) {
+                $(this).addClass("on");
+                $(this).addClass("service");
+            } else {
+                $(this).addClass("on");
+            }
+
+            if (!$(this).hasClass('only_link')) {
+                $(".open_menu > ul > li:eq("+$(this).index()+") > ul, #menu_box_sub ").show();
+                $("#menuBox").css("width", "410px");
+            } else {
+                $("#menuBox").css("width", "200px");
+            }
+        });
+
+        $(".open_menu > ul > li").on("mouseout", function() {
+            var menu_index = $(this).index();
+            if (menu_index > 23) {
+                $(this).removeClass("on");
+                $(this).removeClass("service");
+            } else {
+                $(this).removeClass("on");
+            }
+
+            $(".open_menu > ul > li > ul , #menu_box_sub").hide();
+            $("#menuBox").css("width","200px");
+        });
+
+        $(".open_menu > ul > li > ul > li").on("mouseover", function() {
+            $(this).addClass("on");
+        });
+
+        $(".open_menu > ul > li> ul > li").on("mouseout", function() {
+            $(this).removeClass("on");
+        });
+        </script>
+
+        <div class="ad_subwing_wrap">
+<!-- AD. 기사면 좌측 날개 배너 (160x600) -->
+
+                
+<div class="left_wing" id="ads1"></div>
+<script>createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@Left1', '160', '600', '좌측 날개 배너', 'ads1', '3000', '');</script>
+<!--  AD. 기사면 좌측 날개 배너 (160x600) -->
+<!-- AD. 기사면 우측 날개 배너 (160x600) -->
+<div class="right_wing" id="AD2">
+    <div id="txt2"></div>
+</div>
+<script>
+        var ad2_src = "//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@Right1?p_pageUrl3="+document.location.href;
+        createIframe(ad2_src, '160', '600', '우측 날개 배너', 'AD2', '3000', '');
+</script>
+<!--  AD. 기사면 우측 날개 배너 (160x600) -->
+				<!-- AD. 기사면 우측 하단 여백 배너 (160x600) -->
+				<div class="ad_subwing_mid" id="AD22">
+					<script>createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@x61', '160', '600', '우측 하단 여백 배너', 'AD22', '6000', '');</script>
+				</div>
+				<!--  AD. 기사면 우측 하단 여백 배너 (160x600) -->        </div>
+
+        <script type="text/javascript">
+        document.write('<img src="//ad.khan.co.kr/imp/khan_imp.php?dp=0105" width="0" height="0" style="display: none;" alt="img" />');
+        document.write('<img src="//ad.khan.co.kr/imp/ga_imp.php?dp=001001" width="0" height="0" style="display: none;" alt="img" />');
+
+        if (location.href.indexOf('nv=stand') > 0) {
+            if (location.href.indexOf('&C') < 0) {
+                document.write('<img height="0" width="0" src="//ad.khan.co.kr/artCnt/khanArt_cnt.php?artid=202110201613001&code=940301&mode=khan&nv=stand" style="display:none" />');
+            } else if (location.href.indexOf('&C') > 0) {
+                document.write('<img height="0" width="0" src="//ad.khan.co.kr/artCnt/khanArt_cnt.php?artid=202110201613001&code=940301&mode=khan&nv=cast" style="display:none" />');
+            }
+        } else {
+            var chr = '202110201613001'.substr(14, 1);
+            var med_id = 'khan';
+            if (chr == '9' || chr == 'A') med_id = 'cp';
+            document.write('<img src="//ad.khan.co.kr/artCnt/khanArt_cnt.php?artid=202110201613001&code=940301&mode='+ med_id +'" width="0" height="0" style="display: none;" />');
+        }
+        </script>
+
+		<script type="text/javascript">
+		(function() {
+            function A1MakeIframe(path) {
+                var h = document;
+                var c = h.createElement("iframe");
+                c.src = path;
+                c.style.margin = "0px";
+                c.style.borderWidth = "0px";
+                c.style.padding = "0px";
+                c.scrolling = "no";
+                c.frameBorder = "0";
+                c.style.width = "0px";
+                c.style.height = "0px";
+                document.body.appendChild(c);
+            }
+
+			var this_page_url = document.location;
+			var hidden_location = "//adv.khan.co.kr/RealMedia/ads/Creatives/khan/A1_google_gateway/hidden.html?oax_url="+this_page_url;
+			var hidden_location2 = "//adv.khan.co.kr/RealMedia/ads/Creatives/khan/A1_google_gateway/hidden.html?oax_url="+this_page_url;
+			A1MakeIframe(hidden_location);
+			A1MakeIframe(hidden_location2);
+		})();
+		</script>
+
+<!-- **************************************** container **************************************** -->
+
+		<form name="frmPrint" method="post">
+			<div>
+				<input type="hidden" name="title" />
+				<input type="hidden" name="content" />
+				<input type="hidden" name="reporter" />
+				<input type="hidden" name="byline" />
+				<input type="hidden" name="opener_url" />
+			</div>
+		</form>
+
+		<!-- container -->
+		<div id="container">
+		<!-- AD. 기사면 최상단 탑배너 (970x90) -->
+		<div class="ad_wide_top" id="ads4">
+			<iframe src="//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@Top1" width="970" height="90" frameborder="no" scrolling="no" marginwidth="0" marginheight="0" hspace="0" vspace="0" title="최상단 탑배너"></iframe>
+		</div>
+		<!--  AD. 기사면 최상단 탑배너 (970x90) -->
+            <!-- art_header -->
+			<div class="art_header borderless">
+				<div class="subject">
+
+					<h1 id="article_title" class="headline">김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰</h1>
+				</div>
+
+				<div class="function_wrap">
+					<div class="art_info">
+						<span class="author"><a href="/reporter_article.html?id=368" title="이 기자의 다른 기사 보기(새창)" target="_blank">이보라 기자</a></span>
+						<div class="byline">
+							<em>입력 : 2021.10.20 16:13</em>
+                            <em>수정 : 2021.10.20 16:55</em>
+						</div>
+					</div>
+					<div class="pagecontrol">
+						<div class="fn-btn">
+							<ul>
+																<li class="share">
+									<a href="javascript:;" title="공유하기">공유하기</a>
+
+                                <div class="slt_sns_menu"><!-- 공유하기 버튼 클릭 시 .open 클래스를 부여하여 레이어를 활성화 -->
+                                    <ul class="area_sns_menu">
+                                        <li><a class="facebook" href="javascript:;" onclick="getShortUrl('https%3A%2F%2Fwww.khan.co.kr%2Fnational%2Fcourt-law%2Farticle%2F202110201613001%3Futm_source%3Dfacebook%26utm_medium%3Dsocial_share', snsShare, this);" data-sns="facebook" data-text="김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰">페이스북 공유하기</a></li>
+                                        <li><a class="twitter" href="javascript:;" onclick="getShortUrl('https%3A%2F%2Fwww.khan.co.kr%2Fnational%2Fcourt-law%2Farticle%2F202110201613001%3Futm_source%3Dtwitter%26utm_medium%3Dsocial_share', snsShare, this);" data-sns="twitter" data-text="김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰">트위터 공유하기</a></li>
+                                        <li><a class="kakaotalk" href="javascript:;" onclick="getShortUrl('https%3A%2F%2Fwww.khan.co.kr%2Fnational%2Fcourt-law%2Farticle%2F202110201613001%3Futm_source%3Dkakaostory%26utm_medium%3Dsocial_share', snsShare, this);" data-sns="kakaostory" data-text="김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰">카카오스토리 공유하기</a></li>
+                                        <li><a class="band" href="javascript:;" onclick="getShortUrl('https%3A%2F%2Fwww.khan.co.kr%2Fnational%2Fcourt-law%2Farticle%2F202110201613001%3Futm_source%3Dnaver_band%26utm_medium%3Dsocial_share', snsShare, this);" data-sns="band" data-text="김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰">밴드 공유하기</a></li>
+                                        <li><a class="nhnblog" href="javascript:;" onclick="getShortUrl('https%3A%2F%2Fwww.khan.co.kr%2Fnational%2Fcourt-law%2Farticle%2F202110201613001%3Futm_source%3Dnaver_blog%26utm_medium%3Dsocial_share', snsShare, this);" data-sns="nblog" data-text="">네이버블로그 공유하기</a></li>
+                                        <li><a class="email" href="javascript:;" onclick="send_mail('202110201613001', 'khan', 'khan', 'https://www.khan.co.kr/national/court-law/article/202110201613001');">이메일로 공유하기</a></li>
+                                    </ul>
+                                </div>
+								</li>
+								<li class="bookmark">
+									<a href="javascript:;" onclick="setbookmark(this);" title="북마크" data-art_id="202110201613001" data-bookmark_name="bookmark_khan" data-med_id="khan">북마크</a>
+								</li>
+								<li class="reply replyBalloon">
+									<a href="javascript:;" onclick="goPosReply();"></a>
+									<span class="count"></span>
+								</li>
+								<li class="text">
+									<a href="#" title="글자크기 변경">글자크기 변경</a>
+									<div class="slt_font_menu">
+										<div class="slt_font_menu-inner">
+											<div class="area_btn_menu">
+												<button class="button btn_slt_font_menu slt_font_opt1" onclick="set_font_size(14);">
+													<span class="slt_font_opt_text">가<em class="screen_out">1단계</em></span>
+												</button>
+												<button class="button btn_slt_font_menu slt_font_opt2" onclick="set_font_size(16);">
+													<span class="slt_font_opt_text">가<em class="screen_out">2단계</em></span>
+												</button>
+												<button class="button btn_slt_font_menu slt_font_opt3 on" onclick="set_font_size(18);" >
+													<span class="slt_font_opt_text">가<em class="screen_out" >3단계</em></span>
+												</button>
+												<button class="button btn_slt_font_menu slt_font_opt4" onclick="set_font_size(20);">
+													<span class="slt_font_opt_text">가<em class="screen_out">4단계</em></span>
+												</button>
+												<button class="button btn_slt_font_menu slt_font_opt5" onclick="set_font_size(22);">
+													<span class="slt_font_opt_text">가<em class="screen_out">5단계</em></span>
+												</button>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li class="print">
+									<a href="javascript:;" onclick="print_open('202110201613001', 'khan');">인쇄하기</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+            <!-- // art_header -->
+
+			<!-- art_cont -->
+			<div class="art_cont">
+<!-- TargetPushAD_����Ź� -->
+<script src='//cdn.targetpush.co.kr/js/targetpushad.js' charset='utf-8'></script>
+        <script> (function(){ if(typeof adtive_targetpush_ad != 'undefined') adtive_targetpush_ad.start('M1444448','YALLLLLF')}(document)) </script>
+<!--// TargetPushAD_����Ź� -->
+				<!-- art_body -->
+				<div class="art_body" id="articleBody" itemprop="articleBody">
+
+
+					<div class="art_photo photo_center">
+						<div class="art_photo_wrap">
+							<picture>
+								<source type="image/webp" srcset="//img.khan.co.kr/news/2021/10/20/l_2021102001002601300220331.webp" loading="lazy">
+								<img width="700" src="//img.khan.co.kr/news/2021/10/20/l_2021102001002601300220331.jpg" alt="성남 대장동 개발 로비·특혜 의혹의 핵심 인물 남욱 변호사가 18일 미국에서 인천공항을 통해 귀국해 검찰 관계자들과 공항을 나서고 있다.  이석우 기자" />
+							</picture>
+							<p class="caption">
+성남 대장동 개발 로비·특혜 의혹의 핵심 인물 남욱 변호사가 18일 미국에서 인천공항을 통해 귀국해 검찰 관계자들과 공항을 나서고 있다.  이석우 기자                            </p>
+						</div>
+					</div>
+					<p class="content_text">
+‘대장동 개발 비리’ 의혹 핵심 인물인 김만배씨의 구속영장이 기각된 데 이어 긴급체포된 남욱 변호사도 20일 석방되자 검찰의 수사 능력과 의지에 대한 의구심이 커지고 있다. 남 변호사의 구속영장마저 기각되는 사태를 피하려고 일단 석방한 뒤 보완 조사를 거쳐 구속영장을 청구하려는 것으로 보이지만, 수사에 착수한 지 20일이 다 되도록 핵심 인물인 남 변호사의 범죄사실을 뒷받침할 근거도 확보하지 못했다고 자인한 셈이 됐다는 것이다.<br />                    </p>
+					<p class="content_text">
+서울중앙지검 전담수사팀(김태훈 4차장검사)은 이날 오후 석방 상태인 천화동인 4호 소유주 남 변호사와 김만배씨, 정영학 회계사, 구속 수감된 유동규 전 성남도시개발공사 기획본부장을 불러 조사했다. 의혹 핵심 ‘4인방’을 모두 불러 모은 셈이다. 이들의 진술이 엇갈림에 따라 대질조사 가능성도 있다. 앞서 검찰은 이날 오전 0시20분쯤 남 변호사를 석방했다. 검찰은 지난 18일 새벽 5시쯤 미국에서 귀국한 남 변호사를 인천국제공항에서 체포해 조사해왔다.<br />                    </p>
+					<p class="content_text">
+검찰이 자진 귀국한 핵심 피의자를 입국과 동시에 체포해놓고도 구속영장을 청구하지 못한 것은 매우 이례적이다. 한 고검장 출신 변호사는 “수사팀이 남 변호사에 대한 범죄 혐의 입증에 실패한 것으로 보인다”며 “김씨처럼 영장이 기각되면 수사팀에 대한 불신이 커질 것을 우려해 조사를 더 한 뒤 영장을 청구하려는 것 같다”고 말했다. 검찰은 김씨에 대해 구속영장을 청구했지만 지난 14일 기각됐다.<br />                    </p>
+					<p class="content_text">
+검찰이 핵심 인물들의 신병을 확보하지 못한 것은 물증 확보에 실패했기 때문이라는 지적이 나온다. 정 회계사가 제출한 녹취록에만 의존해 수사를 벌인 결과라는 것이다. 검찰은 김씨 영장이 기각된 이후 이날까지 성남시청에 대한 압수수색만 나흘째 이어갔다. 김씨가 유 전 본부장에게 5억원을 전달했다는 뇌물 혐의의 경우 뒤늦게 남 변호사의 비밀 사무실을 압수수색해 자금 흐름을 확인한 뒤 김씨 영장심사에서 5억원의 구성을 ‘현금 1억원+수표 4억원’에서 ‘현금 5억원’으로 바꾸기도 했다. 김씨 구속영장에 곽상도 무소속 의원에 대한 50억원 뇌물 혐의를 적시했지만 영장이 기각되자 지난 15일 문화재청에 대해 ‘뒷북’ 압수수색을 벌였다.<br />                    </p>
+					<p class="content_text">
+검찰의 수사 의지에 대한 우려도 커졌다. 의혹이 제기된 후 검찰은 정 회계사 녹취록 확보 전까지 이 사건을 공직선거법 위반 사건으로 취급해 공공수사2부에 배당했다. 전담수사팀으로 규모가 커진 이후에도 한 박자씩 수사가 뒤처졌다. 유 전 본부장의 주거지를 압수수색할 때 휴대전화 확보에 실패해 경찰이 대신 휴대전화를 찾았다. 배임이 주된 범죄 혐의임에도 대장동 개발 사업의 본진인 성남시청을 16일 만에 압수수색했고, 그나마 ‘윗선’으로 의심받는 시장실은 압수수색 대상에서 빠졌다.<br />                    </p>
+					<p class="content_text">
+특수수사 경험이 많은 김익수 부부장검사가 KT 불법 정치자금 후원 의혹 수사를 겸직하느라 대장동 비리 수사에 온전히 매달리지 못하는 것을 두고도 검찰 수뇌부의 수사의지 부족을 탓하는 말이 나온다. 수사팀장인 김 차장검사는 특수수사 경험이 부족한 데다 추미애 전 법무부 장관의 측근이어서 정치적 중립성도 의심받는다.<br />                    </p>
+					<p class="content_text">
+검찰이 핵심 인물들을 구속하지 못할 경우 수사 동력이 크게 떨어질 것이라는 전망이 나온다. 검찰 출신 김종민 변호사는 “핵심 인물들을 구속해야 말을 맞추고 증거를 인멸하는 것을 막을 수 있다. 다른 관련자들도 영향 받고 수사에 협조하게 된다”며 “핵심 인물의 신병을 확보하지 못하면 수사가 어려워질 수 있다”고 말했다.<br />                    </p>
+<!-- AD. 기사면 본문 배너 (250x250) -->					<div class="article_bottom_ad" id="ads5"></div>
+
+					<div id="ads5PgPv"></div>
+					<script>
+					createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@x07', '250', '250', '본문 배너', 'ads5', '0', ''); createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/pvcheck@x01', '1', '1', '본문 배너 통계', 'ads5PgPv', '0', 'style="display:block; width:0; height:0;" allowtransparency="true"');
+					</script><!-- AD. 기사면 본문 배너 (250x250) -->					<p class="content_text">
+검찰은 보완 조사를 마치는 대로 남 변호사에 대한 구속영장을 청구할 것으로 관측된다. 유 전 본부장의 경우 구속적부심 신청으로 구속 기한이 22일로 연장돼 이번주 기소된다. 검찰이 아직 물증을 확보하지 못한 것으로 보이는 유 전 본부장의 5억원 뇌물 혐의를 어떻게 처리할지도 과제로 남아 있다.<br />                    </p>
+				</div>
+				<!-- // art_body -->
+
+				<script type="text/javascript">
+				// 이미지 원본보기 설정 (plugin : fancybox)
+				$("a.fancy_group").fancybox({
+					'maxWidth': 4000,
+					'openSpeed': 600,
+					'closeSpeed': 200,
+					'hideOnContentClick': true,
+					'fitToView': false
+				});
+
+				// 마우스 이벤트 등록 (이미지 원본보기 아이콘 활성화)
+				$('a.fancy_group')
+					.on('mouseenter', function() { $(this).find('span.img_large').addClass('mover'); })
+					.on('mouseleave', function() { $(this).find('span.img_large').removeClass('mover'); });
+				</script>
+
+				
+
+
+
+
+
+				<!-- 공유, 제보, 구독 기능버튼 영역 -->
+				<div class="share-fn-wrap">
+					<div class="fn-btn">
+						<ul>
+							<li class="clapping">
+								<a href="javascript:;" onclick="set_like_article(this);" data-art_id="202110201613001" data-sec_id="940301" data-med_id="khan" data-uniqID="61701e76babff" data-function_name="set_like" title="박수치기">박수치기</a>
+								<span id="like_cnt" class="count">0</span>
+							</li>
+							<li class="reply replyBalloon">
+								<a href="javascript:;" onclick="goPosReply();">댓글</a>
+								<span class="count"></span>
+							</li>
+							<li class="share">
+								<a href="javascript:;" title="공유하기">공유하기</a>
+
+                                <div class="slt_sns_menu"><!-- 공유하기 버튼 클릭 시 .open 클래스를 부여하여 레이어를 활성화 -->
+                                    <ul class="area_sns_menu">
+                                        <li><a class="facebook" href="javascript:;" onclick="getShortUrl('https%3A%2F%2Fwww.khan.co.kr%2Fnational%2Fcourt-law%2Farticle%2F202110201613001%3Futm_source%3Dfacebook%26utm_medium%3Dsocial_share', snsShare, this);" data-sns="facebook" data-text="김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰">페이스북 공유하기</a></li>
+                                        <li><a class="twitter" href="javascript:;" onclick="getShortUrl('https%3A%2F%2Fwww.khan.co.kr%2Fnational%2Fcourt-law%2Farticle%2F202110201613001%3Futm_source%3Dtwitter%26utm_medium%3Dsocial_share', snsShare, this);" data-sns="twitter" data-text="김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰">트위터 공유하기</a></li>
+                                        <li><a class="kakaotalk" href="javascript:;" onclick="getShortUrl('https%3A%2F%2Fwww.khan.co.kr%2Fnational%2Fcourt-law%2Farticle%2F202110201613001%3Futm_source%3Dkakaostory%26utm_medium%3Dsocial_share', snsShare, this);" data-sns="kakaostory" data-text="김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰">카카오스토리 공유하기</a></li>
+                                        <li><a class="band" href="javascript:;" onclick="getShortUrl('https%3A%2F%2Fwww.khan.co.kr%2Fnational%2Fcourt-law%2Farticle%2F202110201613001%3Futm_source%3Dnaver_band%26utm_medium%3Dsocial_share', snsShare, this);" data-sns="band" data-text="김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰">밴드 공유하기</a></li>
+                                        <li><a class="nhnblog" href="javascript:;" onclick="getShortUrl('https%3A%2F%2Fwww.khan.co.kr%2Fnational%2Fcourt-law%2Farticle%2F202110201613001%3Futm_source%3Dnaver_blog%26utm_medium%3Dsocial_share', snsShare, this);" data-sns="nblog" data-text="">네이버블로그 공유하기</a></li>
+                                        <li><a class="email" href="javascript:;" onclick="send_mail('202110201613001', 'khan', 'khan', 'https://www.khan.co.kr/national/court-law/article/202110201613001');">이메일로 공유하기</a></li>
+                                    </ul>
+                                </div>
+							</li>
+							<li class="bookmark">
+								<a href="javascript:;" onclick="setbookmark(this);" title="북마크" data-art_id="202110201613001" data-bookmark_name="bookmark_khan" data-med_id="khan">북마크</a>
+							</li>
+						</ul>
+					</div>
+					<div class="khlink">
+						<a class="text_link jebo" href="https://jebo.khan.co.kr/" title="기사 제보(새창)" target="_blank">
+                            <span>기사 제보</span>
+                        </a>
+						<a class="text_link smile" href="http://smile.khan.co.kr/gudoc/gudoc_input_step3.html?media_cd=201" title="지면 구독신청(새창)" target="_blank">
+                            <span>지면 구독신청</span>
+                        </a>
+						<a class="text_link smile" href="http://epaper.khan.co.kr/index.html" title="온라인 구독신청(새창)" target="_blank">
+                            <span>온라인 구독신청</span>
+                        </a>
+					</div>
+				</div>
+				<!-- // 공유, 제보, 구독 기능버튼 영역 -->
+
+
+				<!-- AD. 기사면 본문 하단 텍스트 5줄 -->
+				<div class="ad_txt_cont_btm row5" id="ads6"></div>
+				<script>createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@x33', '710', '175', '본문 하단 텍스트 5줄', 'ads6', '4000', '');</script>
+				<!-- // AD. 기사면 본문 하단 텍스트 5줄 -->
+
+
+				<!-- AD. 기사면 본문 하단 투데이포커스 -->
+				<div class="ad_highlight_tf" id="ads7"></div>
+					<script>createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@x84', '710', '200', '본문 하단 투데이포커스', 'ads7', '4000', '');</script>
+				<!-- // AD. 기사면 본문 하단 투데이포커스 -->
+				<div class="wrap_ad_cont_btm">
+				<!-- AD. 기사면 본문 하단 텍스트 8줄 -->
+				<div class="f_l ad_txt_cont_btm row8">
+					<div id="ads8_1"></div>
+					<div id="ads8_2"></div>
+				</div>
+				<script>
+				createIframe('//io1.innorame.com/imp/Zb1eNb3X33jX.iframe', '380', '143', '본문 하단 텍스트 8줄_상', 'ads8_1', '5000', 'style="position:relative;z-index:99999999999;" allowTransparency="true"');
+				createIframe('//io1.innorame.com/imp/1AJ4WK3X33jX.iframe', '380', '143', '본문 하단 텍스트 8줄_하', 'ads8_2', '5000', 'style="position:relative;z-index:99999999999;" allowTransparency="true"');
+				</script>
+				<!-- // AD. 기사면 본문 하단 텍스트 8줄 -->
+				<!-- AD. 기사면 본문 하단 텍스트 8줄 우측 배너 (300x250) -->
+				<div class="f_r ad_bnr_cont_btm" id="ads9"></div>
+				<script>createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@x14', '300', '250', '본문 하단 텍스트 8줄 우측 배너', 'ads9', '5000', '');</script>
+				<!--  AD. 기사면 본문 하단 텍스트 8줄 우측 배너 (300x250) -->				</div>
+
+				<!-- 실시간 주요기사 -->
+				<div class="tm-list-wrap">
+					<div class="tit"><span>실시간 주요기사</span></div>
+					<ul class="media-list">
+<li>
+                <a href="https://www.khan.co.kr/culture/tv/article/202110201029001" title="김선호 “저의 불찰로 그분에게 상처 줬다” 사생활 잘못 인정">
+                                            <span class="thumb">
+                            <picture>
+                                <source type="image/webp" srcset="//img.khan.co.kr/news/c/240x160/2021/10/20/l_2021102001002549000216391.webp" loading="lazy">
+                                <img src="//img.khan.co.kr/news/c/240x160/2021/10/20/l_2021102001002549000216391.jpg" alt="김선호 “저의 불찰로 그분에게 상처 줬다” 사생활 잘못 인정" loading="lazy">
+                            </picture>
+                        </span>
+                                        <p class="tit line_clamp2">김선호 “저의 불찰로 그분에게 상처 줬다” 사생활 잘못 인정</p>
+                </a>
+            </li>
+                                
+            <li>
+                <a href="https://www.khan.co.kr/politics/politics-general/article/202110191500011" title="윤석열 “전두환, 정치 잘했다는 분들 많아···호남분들도 그런 얘기&quot; 실언  논란">
+                                            <span class="thumb">
+                            <picture>
+                                <source type="image/webp" srcset="//img.khan.co.kr/news/c/240x160/2021/10/19/l_2021101901002378800202591.webp" loading="lazy">
+                                <img src="//img.khan.co.kr/news/c/240x160/2021/10/19/l_2021101901002378800202591.jpg" alt="윤석열 “전두환, 정치 잘했다는 분들 많아···호남분들도 그런 얘기&quot; 실언  논란" loading="lazy">
+                            </picture>
+                        </span>
+                                        <p class="tit line_clamp2">윤석열 “전두환, 정치 잘했다는 분들 많아···호남분들도 그런 얘기" 실언  논란</p>
+                </a>
+            </li>
+                                
+            <li>
+                <a href="http://sports.khan.co.kr/news/sk_index.html?art_id=202110201756013&code=540101" title="김선호 전 연인 팬들 “비방행위 고발할 것” 성명">
+                                            <span class="thumb">
+                            <picture>
+                                <source type="image/webp" srcset="//images.khan.co.kr/article/c/240x160/2021/10/20/l_2021102002001012500222031.webp" loading="lazy">
+                                <img src="//images.khan.co.kr/article/c/240x160/2021/10/20/l_2021102002001012500222031.jpg" alt="김선호 전 연인 팬들 “비방행위 고발할 것” 성명" loading="lazy">
+                            </picture>
+                        </span>
+                                        <p class="tit line_clamp2">김선호 전 연인 팬들 “비방행위 고발할 것” 성명</p>
+                </a>
+            </li>
+                                
+            <li>
+                <a href="https://www.khan.co.kr/world/world-general/article/202110181207001" title="심야 전철서 벌어진 성폭행 외면한 승객들···&quot;개탄스럽다&quot;">
+                                            <span class="thumb">
+                            <picture>
+                                <source type="image/webp" srcset="//img.khan.co.kr/news/c/240x160/2021/10/18/l_2021101801002191300187221.webp" loading="lazy">
+                                <img src="//img.khan.co.kr/news/c/240x160/2021/10/18/l_2021101801002191300187221.jpg" alt="심야 전철서 벌어진 성폭행 외면한 승객들···&quot;개탄스럽다&quot;" loading="lazy">
+                            </picture>
+                        </span>
+                                        <p class="tit line_clamp2">심야 전철서 벌어진 성폭행 외면한 승객들···"개탄스럽다"</p>
+                </a>
+            </li>
+                                
+            <li>
+                <a href="https://www.khan.co.kr/national/national-general/article/202109221027001" title="‘여성 성기 모양 쿠키’가 ‘음란한 물건’?">
+                                            <span class="thumb">
+                            <picture>
+                                <source type="image/webp" srcset="//img.khan.co.kr/news/c/240x160/2021/09/22/l_2021092201002578200218901.webp" loading="lazy">
+                                <img src="//img.khan.co.kr/news/c/240x160/2021/09/22/l_2021092201002578200218901.jpg" alt="‘여성 성기 모양 쿠키’가 ‘음란한 물건’?" loading="lazy">
+                            </picture>
+                        </span>
+                                        <p class="tit line_clamp2">‘여성 성기 모양 쿠키’가 ‘음란한 물건’?</p>
+                </a>
+            </li>
+                                
+            <li>
+                <a href="https://www.khan.co.kr/national/court-law/article/202110191904001" title="[단독]남욱, 대장동 업체 직원 계좌로 박영수 전 특검 인척 회사에 수억원 송금">
+                                            <span class="thumb">
+                            <picture>
+                                <source type="image/webp" srcset="//img.khan.co.kr/news/c/240x160/2021/10/19/l_2021101901002446500206091.webp" loading="lazy">
+                                <img src="//img.khan.co.kr/news/c/240x160/2021/10/19/l_2021101901002446500206091.jpg" alt="[단독]남욱, 대장동 업체 직원 계좌로 박영수 전 특검 인척 회사에 수억원 송금" loading="lazy">
+                            </picture>
+                        </span>
+                                        <p class="tit line_clamp2">[단독]남욱, 대장동 업체 직원 계좌로 박영수 전 특검 인척 회사에 수억원 송금</p>
+                </a>
+            </li>
+                             					</ul>
+				</div>
+				<!-- // 실시간 주요기사 -->
+
+				<div class="ad_hotclip">
+					<div class="cont">
+							<!-- AD. 주요 기사 하단 텍스트 6슬롯 -->
+							<div id="ads23"></div>
+							<script>createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@x17', '480', '200', '주요 기사 하단 텍스트 6슬롯', 'ads23', '5000', '');</script>
+							<!--  AD. 주요 기사 하단 텍스트 6슬롯 -->
+							<!-- AD. 주요 기사 우측 핫클릭 배너 (200x200) -->
+							<div class="aside" id="ads10"></div>
+							<script>createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@x21', '200', '200', '주요 기사 우측 핫클릭 배너', 'ads10', '5000', '');</script>
+							<!--  AD. 주요 기사 우측 핫클릭 배너 (200x200) -->					</div>
+				</div>
+
+                <!-- AD. 기사면 본문 하단 썸네일 6개 (Dable) -->
+                <div class="wrap_ad_tba">
+                    <div id="dablewidget_QXepDBle" data-widget_id="QXepDBle">
+                    <script>
+                    (function(d,a,b,l,e,_) {
+                    if(d[b]&&d[b].q)return;d[b]=function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+                    e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+                    _=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+                    })(window,document,'dable','script');
+                    dable('setService', 'khan.co.kr');
+                    dable('sendLogOnce');
+                    dable('renderWidget', 'dablewidget_QXepDBle');
+                    </script>
+                    </div>
+                </div>
+                <!-- // AD. 기사면 본문 하단 썸네일 6개 (Dable) -->
+
+				<!-- 추천연재 -->
+				<div class="related_serial">
+					<div class="tit"><span>추천연재</span></div>
+					<ul class="relatelist pic">
+						<li class="clt">
+							<a href="https://www.khan.co.kr/opinion/column/article/202110150300065" title="[요리에 과학 한 스푼] 천연 주스가 더 맛없는 이유">
+								<span class="thumb">
+									<picture>
+										<source type="image/webp" srcset="//img.khan.co.kr/news/c/240x160/2021/10/15/l_2021101501001736300156221.webp" loading="lazy">
+										<img src="//img.khan.co.kr/news/c/240x160/2021/10/15/l_2021101501001736300156221.jpg" alt="[요리에 과학 한 스푼] 천연 주스가 더 맛없는 이유" loading="lazy">
+									</picture>
+								</span>
+								<span class="sub_tit line_clamp">요리에 과학 한 스푼</span>
+								<span class="txt line_clamp">천연 주스가 더 맛없는 이유</span>
+							</a>
+						</li>
+						<li class="cct">
+							<a href="https://www.khan.co.kr/opinion/column/article/202110140300015" title="[경향의 눈] 변희수, 이예람… 가해자는 대한민국 군대다">
+								<span class="thumb">
+									<picture>
+										<source type="image/webp" srcset="//img.khan.co.kr/news/c/240x160/2021/10/14/l_2021101401001642600140531.webp" loading="lazy">
+										<img src="//img.khan.co.kr/news/c/240x160/2021/10/14/l_2021101401001642600140531.jpg" alt="[경향의 눈] 변희수, 이예람… 가해자는 대한민국 군대다" loading="lazy">
+									</picture>
+								</span>
+								<span class="sub_tit line_clamp">경향의 눈</span>
+								<span class="txt line_clamp">변희수, 이예람… 가해자는 대한민국 군대다</span>
+							</a>
+						</li>
+						<li class="crt">
+							<a href="https://www.khan.co.kr/opinion/column/article/202110160300045" title="[숨] 당신처럼 살고 싶다는 마음">
+								<span class="thumb">
+									<picture>
+										<source type="image/webp" srcset="//img.khan.co.kr/news/c/240x160/2021/10/16/l_2021101601001945600166551.webp" loading="lazy">
+										<img src="//img.khan.co.kr/news/c/240x160/2021/10/16/l_2021101601001945600166551.jpg" alt="[숨] 당신처럼 살고 싶다는 마음" loading="lazy">
+									</picture>
+								</span>
+								<span class="sub_tit line_clamp">숨</span>
+								<span class="txt line_clamp">당신처럼 살고 싶다는 마음</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+				<!-- // 추천연재 -->
+
+				<div id="adsPgPv"></div>
+				<script>createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@x90', '1', '1', '기사면 통계', 'adsPgPv', '0', 'class="screen_out"');</script>
+
+                <!-- AD. 기사면 본문 하단 썸네일 8개 (Dable) -->
+                <div class="wrap_ad_tba">
+                    <div id="dablewidget_klrzDelm" data-widget_id="klrzDelm">
+                    <script>
+                    (function(d,a,b,l,e,_) {
+                    if(d[b]&&d[b].q)return;d[b]=function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+                    e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+                    _=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+                    })(window,document,'dable','script');
+                    dable('setService', 'khan.co.kr');
+                    dable('sendLogOnce');
+                    dable('renderWidget', 'dablewidget_klrzDelm');
+                    </script>
+                    </div>
+                </div>
+                <!-- // AD. 기사면 본문 하단 썸네일 8개 (Dable) -->
+
+				<!-- 추천 이슈 -->
+				<div class="related_serial" id="issueWrap" data-issue_serial="aha87">
+					<div class="tit"><span>추천 이슈</span></div>
+					<ul class="relatelist pic">
+						<li class="clt" id="firstIssue">
+							<a href="https://www.khan.co.kr/issue/articles/aha87" title="대장동 개발 의혹 수사">
+								<span class="thumb">
+									<picture>
+										<source type="image/webp" srcset="//img.khan.co.kr/news/c/240x160/2021/10/20/l_2021102001002648500222471.webp" loading="lazy">
+										<img src="//img.khan.co.kr/news/c/240x160/2021/10/20/l_2021102001002648500222471.jpg" alt="대장동 개발 의혹 수사" loading="lazy">
+									</picture>
+								</span>
+								<span class="sub_tit line_clamp">대장동 개발 의혹 수사</span>
+								<span class="txt line_clamp">'조폭 돈뭉치' 제보자 "이재명에 전달한 것은 확실" 주장</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+				<!-- // 추천 이슈 -->
+
+
+    <div id="livere_div" style="margin:-60px 0 120px 0;"></div>
+
+	<style>
+	body > iframe[title="livere"] {
+		display: none !important;
+	}
+	</style>
+
+	<script>
+	function goPosReply() {
+		var reply_offtop = Math.ceil($('#lv-container').offset().top);
+		var st = reply_offtop - 80;
+		$("html, body").animate({ scrollTop: st }, 300);}
+	</script>
+
+	<div id="lv-container" data-id="khan" data-uid="Ni82LzQ=">
+		<script type="text/javascript">
+		window.livereOptions = {
+			customMessage: {m_khan: '경향신문'},
+			refer: 'www.khan.co.kr/article/202110201613001',
+			site: '//www.khan.co.kr/article/202110201613001?utm_source=livere&utm_medium=social_share',
+					};
+
+		// Hooking
+		window.livereHooks = {
+			write : function(data) {
+				doHooking('write', data);
+			},
+			modify : function(data) {
+				doHooking('modify', data);
+			},
+			remove : function(data) {
+				doHooking('remove', data);
+			}
+		};
+
+		function doHooking(mode, data) {
+			var pars = {
+				mode: mode,
+				comment_seq: data.reply.replySeq
+			};
+
+			if (mode == 'write') {
+				pars.parent_seq = data.reply.parentSeq;
+				pars.content = data.reply.content;
+				pars.time = data.reply.regdate;
+				pars.member_icon = data.reply.writer.profileImageUrl;
+				pars.member_domain = data.reply.writer.strategy;
+				pars.is_mobile = data.reply.environment.isMobile;
+				pars.member_id = data.reply.writer.snsId;
+				pars.name = data.reply.writer.name;
+				pars.user_agent = data.reply.environment.agent;
+				pars.member_seq = data.reply.writer.id;
+				pars.site = data.reply.site.url;
+				pars.page = location.href;
+				pars.title = $( 'meta[property="og:title"]' ).attr( 'content' );
+				if(pars.title == '' || pars.title == undefined) pars.title = "김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰";
+				pars.art_img = $( 'meta[property="og:image"]' ).attr( 'content' );
+			}
+			else if (mode == 'modify') {
+				pars.content = data.reply.newContent;
+				pars.time = data.reply.editDate;
+			}
+			else if (mode == 'remove') {
+				pars.time = data.reply.deletedDate;
+			}
+
+			jQuery.ajax({
+				url : "https://www.khan.co.kr/livere_hook.html", // TEST
+				type : "POST",
+				dataType : "json",
+				data  : pars,
+				cache : false,
+				success: function(json) {},
+				error: function(xhr) {}
+			});
+
+			console.log('hooking', pars);
+		}
+
+		(function(d, s) {
+			var j, e = d.getElementsByTagName(s)[0];
+
+			if (typeof LivereTower === 'function') { return; }
+
+			j = d.createElement(s);
+			j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+			j.async = true;
+
+			e.parentNode.insertBefore(j, e);
+		})(document, 'script');
+
+		$(document).ready(function(){
+		});
+		</script>
+		<noscript>>Please activate JavaScript for write a comment in LiveRe.</noscript>
+	</div>
+				<script>
+				var refer = 'www.khan.co.kr/article/202110201613001';
+				get_livere_count(refer, 'pc_khan');
+				</script>
+
+				<!-- AD. 기사면 본문 하단 박스 광고 2개 (300x250) -->
+				<div class="ad_jcg" id="ads13_1"></div>
+				<div class="ad_jcg ar" id="ads13_2"></div>
+					<script>
+					createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@x51', '300', '250', '본문 하단 박스 광고_좌', 'ads13_1', '10000', '');
+					createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@x54', '300', '250', '본문 하단 박스 광고_우', 'ads13_2', '10000', '');
+					</script>
+				<!--  AD. 기사면 본문 하단 박스 광고 2개 (300x250) -->
+				<!-- AD. 기사면 우측 플로팅 배너 (300x300) -->
+				<script>
+				document.write('<script type="text/javascript" src="//adv.khan.co.kr/RealMedia/ads/adstream_jx.ads/www.khan.co.kr/news@x10"><\/script>');
+
+				if (adChkBrowser() == false) { document.write('<img src="//ad.khan.co.kr/imp/adChkChrome_imp.php?dp=2" alt="img" width="0" height="0" style="display: none;" />'); } 
+				else { document.write('<img src="//ad.khan.co.kr/imp/adChkChrome_imp.php?dp=1" alt="img" width="0" height="0" style="display: none;" />'); }
+				</script>
+				<!--  AD. 기사면 우측 플로팅 배너 (300x300) -->			</div>
+
+
+			<!-- art_side -->
+			<div class="art_side">
+
+
+
+
+				<div class="rt_box  pl00 noline">
+<!-- AD. ���� ���� ��Ŀ�� ��� (300x250) -->
+<div class="ad_movFocus" style="overflow:hidden; margin-bottom:0px; height:250px;">
+    <div style="margin:0px" id="ads15"></div>
+</div>
+<script>createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@x27', '300', '250', '���� ��Ŀ�� ���', 'ads15', '0', '');</script>
+<!-- AD. ���� ���� ��Ŀ�� ��� (300x250) -->				</div>
+				<!-- //.rt_box -->
+
+
+				<div class="rt_box ">
+<div class="art-list">
+                    <div class="tit"><strong>사회</strong> 많이 본 기사</div>
+                    <ul>
+						<li>
+							<span class="num">1</span>
+							<a href="https://www.khan.co.kr/national/national-general/article/202110200600031" title="[단독]유동규, 성남시설공단 '개발 사업 가능' 정관 개정...이재명 '승인'">
+								<span class="txt"><strong>[단독]유동규, 성남시설공단 '개발 사업 가능' 정관 개정...이재명 '승인'</strong></span>
+								<span class="thumb">
+									<picture>
+										<source type="image/webp" srcset="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021101901002457500207891.webp" loading="lazy">
+										<img src="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021101901002457500207891.jpg" alt="[단독]유동규, 성남시설공단 '개발 사업 가능' 정관 개정...이재명 '승인'" loading="lazy">
+									</picture>
+									<span class="trans_border"></span>
+								</span>
+                            </a>
+                        </li>
+						<li>
+							<span class="num">2</span>
+							<a href="https://www.khan.co.kr/national/national-general/article/202110201123001" title="'수사반장' 배우 최불암, 50년 만에 치안감 승진">
+								<span class="txt"><strong>'수사반장' 배우 최불암, 50년 만에 치안감 승진</strong></span>
+								<span class="thumb">
+									<picture>
+										<source type="image/webp" srcset="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102001002550900216571.webp" loading="lazy">
+										<img src="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102001002550900216571.jpg" alt="'수사반장' 배우 최불암, 50년 만에 치안감 승진" loading="lazy">
+									</picture>
+									<span class="trans_border"></span>
+								</span>
+                            </a>
+                        </li>
+						<li>
+							<span class="num">3</span>
+							<a href="https://www.khan.co.kr/national/court-law/article/202110200139001" title="남욱, 43시간만에 석방… 검찰, 혐의 못찾고 구속 카드 접어">
+								<span class="txt"><strong>남욱, 43시간만에 석방… 검찰, 혐의 못찾고 구속 카드 접어</strong></span>
+								<span class="thumb">
+									<picture>
+										<source type="image/webp" srcset="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102001002464500209251.webp" loading="lazy">
+										<img src="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102001002464500209251.jpg" alt="남욱, 43시간만에 석방… 검찰, 혐의 못찾고 구속 카드 접어" loading="lazy">
+									</picture>
+									<span class="trans_border"></span>
+								</span>
+                            </a>
+                        </li>
+						<li>
+							<span class="num">4</span>
+							<a href="https://www.khan.co.kr/national/education/article/202110201510001" title="국민대, 김건희씨 박사논문 의혹 검증한다···“22일 논의착수” 교육부에 회신">
+								<span class="txt"><strong>국민대, 김건희씨 박사논문 의혹 검증한다···“22일 논의착수” 교육부에 회신</strong></span>
+								<span class="thumb">
+									<picture>
+										<source type="image/webp" srcset="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102001002562400217381.webp" loading="lazy">
+										<img src="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102001002562400217381.jpg" alt="국민대, 김건희씨 박사논문 의혹 검증한다···“22일 논의착수” 교육부에 회신" loading="lazy">
+									</picture>
+									<span class="trans_border"></span>
+								</span>
+                            </a>
+                        </li>
+						<li>
+							<span class="num">5</span>
+							<a href="https://www.khan.co.kr/national/incident/article/202110201200011" title="생수병 물 마시고 쓰러진 직장인 2명···무단결근 1명은 숨진 채 발견">
+								<span class="txt"><strong>생수병 물 마시고 쓰러진 직장인 2명···무단결근 1명은 숨진 채 발견</strong></span>
+								<span class="thumb">
+									<picture>
+										<source type="image/webp" srcset="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102001002660500223811.webp" loading="lazy">
+										<img src="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102001002660500223811.jpg" alt="생수병 물 마시고 쓰러진 직장인 2명···무단결근 1명은 숨진 채 발견" loading="lazy">
+									</picture>
+									<span class="trans_border"></span>
+								</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>				</div>
+				<!-- //.rt_box -->
+
+
+				<div class="rt_box ">
+<!-- AD. 기사면 우측 오늘의 인기 정보 -->
+					<div class="ad_popularInfo">
+						<div class="cont" id="ads16"></div>
+					</div>
+					<script>createIframe('//ads.mncmedia.co.kr/mad/KHAN/khan_r_wrapper_5txt_2thumb_20210524.html', '300', '290', '우측 오늘의 인기 정보', 'ads16', '4000', '');</script>
+					<!-- AD. 기사면 우측 오늘의 인기 정보 -->				</div>
+				<!-- //.rt_box -->
+
+
+				<div class="rt_box ">
+<div class="art-list">
+                    <ul>
+						<li>
+							<span class="num">6</span>
+							<a href="https://www.khan.co.kr/national/court-law/article/202110201613001" title="김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰">
+								<span class="txt"><strong>김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰</strong></span>
+								<span class="thumb">
+									<picture>
+										<source type="image/webp" srcset="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102001002601300220331.webp" loading="lazy">
+										<img src="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102001002601300220331.jpg" alt="김만배 영장기각·남욱 석방…수사 능력·의지 의심받는 검찰" loading="lazy">
+									</picture>
+									<span class="trans_border"></span>
+								</span>
+                            </a>
+                        </li>
+						<li>
+							<span class="num">7</span>
+							<a href="https://www.khan.co.kr/national/health-welfare/article/202110200942011" title="[속보]코로나19 신규 확진 1571명···전날보다 498명 늘어">
+								<span class="txt"><strong>[속보]코로나19 신규 확진 1571명···전날보다 498명 늘어</strong></span>
+								<span class="thumb">
+									<picture>
+										<source type="image/webp" srcset="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102001002496700212871.webp" loading="lazy">
+										<img src="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102001002496700212871.jpg" alt="[속보]코로나19 신규 확진 1571명···전날보다 498명 늘어" loading="lazy">
+									</picture>
+									<span class="trans_border"></span>
+								</span>
+                            </a>
+                        </li>
+						<li>
+							<span class="num">8</span>
+							<a href="https://www.khan.co.kr/national/incident/article/202110201706001" title="독도 해상 전복 선박에 한국인 3명·외국인 6명 탑승">
+								<span class="txt"><strong>독도 해상 전복 선박에 한국인 3명·외국인 6명 탑승</strong></span>
+								<span class="thumb">
+									<picture>
+										<source type="image/webp" srcset="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102001002609900220801.webp" loading="lazy">
+										<img src="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102001002609900220801.jpg" alt="독도 해상 전복 선박에 한국인 3명·외국인 6명 탑승" loading="lazy">
+									</picture>
+									<span class="trans_border"></span>
+								</span>
+                            </a>
+                        </li>
+						<li>
+							<span class="num">9</span>
+							<a href="https://www.khan.co.kr/national/national-general/article/202110200600011" title="[단독]'제2의 대장동' 백현동 의혹 김인섭씨, 이재명 성남시장 때 로비 대가 '억대 수뢰'">
+								<span class="txt"><strong>[단독]'제2의 대장동' 백현동 의혹 김인섭씨, 이재명 성남시장 때 로비 대가 '억대 수뢰'</strong></span>
+                            </a>
+                        </li>
+						<li>
+							<span class="num">10</span>
+							<a href="https://www.khan.co.kr/national/incident/article/202110201638001" title="독도 인근 해상서 9명 타고 있던 통발어선 전복···해경 경비함정 급파 수색 중">
+								<span class="txt"><strong>독도 인근 해상서 9명 타고 있던 통발어선 전복···해경 경비함정 급파 수색 중</strong></span>
+								<span class="thumb">
+									<picture>
+										<source type="image/webp" srcset="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102001002671700225542.webp" loading="lazy">
+										<img src="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102001002671700225542.jpg" alt="독도 인근 해상서 9명 타고 있던 통발어선 전복···해경 경비함정 급파 수색 중" loading="lazy">
+									</picture>
+									<span class="trans_border"></span>
+								</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>				</div>
+				<!-- //.rt_box -->
+				<div id="FSLimit2">
+
+
+				<div class="rt_box  pl00 noline">
+<!-- AD. 기사면 우측 박스 배너 (300x600) -->
+					<div class="ad_movFocus2" style="margin-bottom:0" id="ads17"></div>
+					<script>createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@Middle1', '300', '600', '우측 박스 배너', 'ads17', '6000', '');</script>
+					<!--  AD. 기사면 우측 박스 배너 (300x600) -->				</div>
+				<!-- //.rt_box -->
+
+
+				<div class="rt_box  noline">
+<div class="best-video">
+        <div class="tit">볼만한 영상</div>
+        <div class="mov_wrap">
+            <iframe id="mov_auto_play" src="https://www.youtube.com/embed/AonpYCEc_2k" frameborder="0" allowfullscreen="" width="300" height="175" data-width="300" data-height="175" allow="autoplay;"></iframe>
+        </div>
+        <a href="https://www.khan.co.kr/national/national-general/article/202110201703001" class="best-video-tit line_clamp2" title="세계인들은 왜 '오징어 게임'에 열광할까?">세계인들은 왜 '오징어 게임'에 열광할까?</a>
+        <div class="art-list">
+            <ul>
+                    <li>
+                        <a href="https://www.khan.co.kr/national/national-general/article/202110152043001" title="요즘 친구들, 이렇게 덕질합니다">
+                            <span class="txt"><strong>요즘 친구들, 이렇게 덕질합니다</strong></span>
+                            <span class="thumb">
+                                <picture>
+                                    <source type="image/webp" srcset="//img.khan.co.kr/ranking/khan/mobile/MDPopular/242_1634298845_fW712PaWooEUnIdT.webp" loading="lazy">
+                                    <img src="//img.khan.co.kr/ranking/khan/mobile/MDPopular/242_1634298845_fW712PaWooEUnIdT.png" alt="요즘 친구들, 이렇게 덕질합니다" loading="lazy">
+                                </picture>
+                                <span class="media-icon"><i class="ico-video icon_sm">영상</i></span>
+                                <span class="trans_border"></span>
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.khan.co.kr/world/world-general/article/202110071646001" title="테러범 ‘외로운 늑대’ 키운 목소리의 주인공">
+                            <span class="txt"><strong>테러범 ‘외로운 늑대’ 키운 목소리의 주인공</strong></span>
+                            <span class="thumb">
+                                <picture>
+                                    <source type="image/webp" srcset="//img.khan.co.kr/ranking/khan/mobile/MDPopular/242_1634190237_DARdWnEN0jkHY60T.webp" loading="lazy">
+                                    <img src="//img.khan.co.kr/ranking/khan/mobile/MDPopular/242_1634190237_DARdWnEN0jkHY60T.png" alt="테러범 ‘외로운 늑대’ 키운 목소리의 주인공" loading="lazy">
+                                </picture>
+                                <span class="media-icon"><i class="ico-video icon_sm">영상</i></span>
+                                <span class="trans_border"></span>
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.khan.co.kr/national/media/article/202110060600051" title="신문사에서 '딴짓'하는 사람들">
+                            <span class="txt"><strong>신문사에서 '딴짓'하는 사람들</strong></span>
+                            <span class="thumb">
+                                <picture>
+                                    <source type="image/webp" srcset="//img.khan.co.kr/ranking/khan/mobile/MDPopular/242_1633469146_TyiWDOjv6yTGmPqb.webp" loading="lazy">
+                                    <img src="//img.khan.co.kr/ranking/khan/mobile/MDPopular/242_1633469146_TyiWDOjv6yTGmPqb.png" alt="신문사에서 '딴짓'하는 사람들" loading="lazy">
+                                </picture>
+                                <span class="media-icon"><i class="ico-video icon_sm">영상</i></span>
+                                <span class="trans_border"></span>
+                            </span>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </div>				</div>
+				<!-- //.rt_box -->
+
+
+				<div class="rt_box  pl00 noline">
+<!-- AD. 기사면 우측 쇼핑 박스 (300x250) -->
+					<div id="ads18"></div>
+						<script>createIframe('//adex.ednplus.com/xc/h/h2byDM2K', '300', '250', '우측 쇼핑 박스', 'ads18', '8000', '');</script>
+					<!-- AD. 기사면 우측 쇼핑 박스 (300x250) -->				</div>
+				<!-- //.rt_box -->
+
+
+				<div class="rt_box  noline">
+<div class="art-list">
+                        <div class="tit"><strong>사회</strong> 최신기사</div>
+                        <ul>
+							<li>
+								<a href="https://www.khan.co.kr/national/court-law/article/202110202222001" title="'26일' 노동부 해석 뒤집은 대법 &quot;1년만 근무한 계약직 유급휴가는 11일&quot;">
+									<span class="txt"><strong>'26일' 노동부 해석 뒤집은 대법 "1년만 근무한 계약직 유급휴가는 11일"</strong></span>
+
+								</a>
+							</li>
+							<li>
+								<a href="https://www.khan.co.kr/national/national-general/article/202110202150001" title="[속보]오후 9시까지 1256명 확진…전날보다 245명 적어">
+									<span class="txt"><strong>[속보]오후 9시까지 1256명 확진…전날보다 245명 적어</strong></span>
+									<span class="thumb">
+										<picture>
+											<source type="image/webp" srcset="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102001002667600225051.webp" loading="lazy">
+											<img src="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102001002667600225051.jpg" alt="[속보]오후 9시까지 1256명 확진…전날보다 245명 적어" loading="lazy">
+										</picture>
+										<span class="trans_border"></span>
+									</span>
+
+								</a>
+							</li>
+							<li>
+								<a href="https://www.khan.co.kr/national/incident/article/202110202101005" title="‘스모킹건’ 주목 유동규 휴대폰 풀렸다">
+									<span class="txt"><strong>‘스모킹건’ 주목 유동규 휴대폰 풀렸다</strong></span>
+
+								</a>
+							</li>
+							<li>
+								<a href="https://www.khan.co.kr/national/court-law/article/202110202100005" title="김만배 영장 기각, 남욱도 석방…또 ‘수사 부실’만 드러낸 검찰">
+									<span class="txt"><strong>김만배 영장 기각, 남욱도 석방…또 ‘수사 부실’만 드러낸 검찰</strong></span>
+									<span class="thumb">
+										<picture>
+											<source type="image/webp" srcset="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102101002619100224581.webp" loading="lazy">
+											<img src="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102101002619100224581.jpg" alt="김만배 영장 기각, 남욱도 석방…또 ‘수사 부실’만 드러낸 검찰" loading="lazy">
+										</picture>
+										<span class="trans_border"></span>
+									</span>
+
+								</a>
+							</li>
+							<li>
+								<a href="https://www.khan.co.kr/national/incident/article/202110202057045" title="독도 북동쪽 해상서 어선 전복…선원 9명 전원 실종">
+									<span class="txt"><strong>독도 북동쪽 해상서 어선 전복…선원 9명 전원 실종</strong></span>
+									<span class="thumb">
+										<picture>
+											<source type="image/webp" srcset="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102101002661900224541.webp" loading="lazy">
+											<img src="//img.khan.co.kr/news/c/130x100/2021/10/20/l_2021102101002661900224541.jpg" alt="독도 북동쪽 해상서 어선 전복…선원 9명 전원 실종" loading="lazy">
+										</picture>
+										<span class="trans_border"></span>
+									</span>
+
+								</a>
+							</li>
+						</ul>
+					</div>				</div>
+				<!-- //.rt_box -->
+
+
+				<div class="rt_box  pl00 noline">
+<!-- AD. 기사면 우측 중단 배너 (300x250) -->
+					<div id="ads19"></div>
+					<script>createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@x72', '300', '250', '우측 중단 배너', 'ads19', '10000', '');</script>
+					<!--  AD. 기사면 우측 중단 배너 (300x250) -->				</div>
+				<!-- //.rt_box -->
+
+
+				<div class="rt_box ">
+<!-- 문화사업 -->
+    <div class="sub_notice_as">
+        <div class="tit"><strong>문화사업</strong></div>
+        <div class="newscont_wrap" id="main_alarm_tab2">
+            <ul class="txtList">
+				<li><a target="_blank" href="https://www.khan.co.kr/opinion/notice/article/202110132215005" title="이화경향음악콩쿠르 지정곡 확정">이화경향음악콩쿠르 지정곡 확정</a></li>
+				<li><a target="_blank" href="https://www.khan.co.kr/opinion/notice/article/202110122056005" title="정동문화축제, 18~22일 온택트·비대면 행사">정동문화축제, 18~22일 온택트·비대면 행사</a></li>
+				<li><a target="_blank" href="https://www.khan.co.kr/opinion/notice/article/202108172151045" title="제16회 경향금융교육대상 공모">제16회 경향금융교육대상 공모</a></li>
+				<li><a target="_blank" href="https://www.khan.co.kr/opinion/notice/article/202109022047045" title="제29회 전태일문학상 수상자 선정">제29회 전태일문학상 수상자 선정</a></li>
+            </ul>
+        </div>
+    </div>
+    <!-- // 문화사업 -->				</div>
+				<!-- //.rt_box -->
+
+
+				<div class="rt_box ">
+<!-- AD. 기사면 우측 콘텐츠 광고 (POPIN) -->
+					<div id="ads20"></div>
+					<script>createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@x91', '300', '380', '우측 콘텐츠 광고', 'ads20', '10000', '');</script>
+					<!-- AD. 기사면 우측 콘텐츠 광고 (POPIN) -->				</div>
+				<!-- //.rt_box -->
+
+
+				<div class="rt_box  noline">
+<!-- 스포츠·연예 -->
+    <div class="spoenter">
+        <div class="tit"><strong>스포츠·연예</strong></div>
+        <div class="ctype_wrap">
+                <dl class="ctype cls">
+                    <dt>
+                        <a href="//sports.khan.co.kr/news/sk_index.html?art_id=202110201228003&sec_id=" target="_blank">
+                            <picture>
+                                <source type="image/webp" srcset="//img.khan.co.kr/ranking/c/140x140/khan/mobile/MHSpoEnt1/20_1634708811_4Rck57UEaCQfRgGm.webp" loading="lazy">
+                                <img src="//img.khan.co.kr/ranking/c/140x140/khan/mobile/MHSpoEnt1/20_1634708811_4Rck57UEaCQfRgGm.jpg" alt="" loading="lazy">
+                            </picture>
+                            <span class="trans_border"></span>
+                        </a>
+                    </dt>
+                    <dd><a href="//sports.khan.co.kr/news/sk_index.html?art_id=202110201228003&sec_id=" target="_blank" class="line_clamp2" title="">김선호 ‘1박2일’도 손절 (전문)</a></dd>
+                </dl>
+                <dl class="ctype crs">
+                    <dt>
+                        <a href="//sports.khan.co.kr/news/sk_index.html?art_id=202110200919013&sec_id=" target="_blank">
+                            <picture>
+                                <source type="image/webp" srcset="//img.khan.co.kr/ranking/c/140x140/khan/mobile/MHSpoEnt1/51_1634690424_ZfIO8kZM7uNtkvbl.webp" loading="lazy">
+                                <img src="//img.khan.co.kr/ranking/c/140x140/khan/mobile/MHSpoEnt1/51_1634690424_ZfIO8kZM7uNtkvbl.jpg" alt="" loading="lazy">
+                            </picture>
+                            <span class="trans_border"></span>
+                        </a>
+                    </dt>
+                    <dd><a href="//sports.khan.co.kr/news/sk_index.html?art_id=202110200919013&sec_id=" target="_blank" class="line_clamp2" title="">‘거짓 암투병 논란’ 최성봉, SNS 비공개 전환</a></dd>
+                </dl>
+                <dl class="ctype cls">
+                    <dt>
+                        <a href="//sports.khan.co.kr/news/sk_index.html?art_id=202110200939003&sec_id=" target="_blank">
+                            <picture>
+                                <source type="image/webp" srcset="//img.khan.co.kr/ranking/c/140x140/khan/mobile/MHSpoEnt1/52_1634690547_rzv7ht2bLqIwn3UH.webp" loading="lazy">
+                                <img src="//img.khan.co.kr/ranking/c/140x140/khan/mobile/MHSpoEnt1/52_1634690547_rzv7ht2bLqIwn3UH.jpg" alt="" loading="lazy">
+                            </picture>
+                            <span class="trans_border"></span>
+                        </a>
+                    </dt>
+                    <dd><a href="//sports.khan.co.kr/news/sk_index.html?art_id=202110200939003&sec_id=" target="_blank" class="line_clamp2" title="">오구나유라 ‘오징어게임’ 의상 3·1운동 비하 논란 해명</a></dd>
+                </dl>
+                <dl class="ctype crs">
+                    <dt>
+                        <a href="//sports.khan.co.kr/news/sk_index.html?art_id=202110201351003&sec_id=" target="_blank">
+                            <picture>
+                                <source type="image/webp" srcset="//img.khan.co.kr/ranking/c/140x140/khan/mobile/MHSpoEnt1/53_1634716806_EsROY5ux9sBkdXSM.webp" loading="lazy">
+                                <img src="//img.khan.co.kr/ranking/c/140x140/khan/mobile/MHSpoEnt1/53_1634716806_EsROY5ux9sBkdXSM.jpg" alt="" loading="lazy">
+                            </picture>
+                            <span class="trans_border"></span>
+                        </a>
+                    </dt>
+                    <dd><a href="//sports.khan.co.kr/news/sk_index.html?art_id=202110201351003&sec_id=" target="_blank" class="line_clamp2" title="">구자욱, 또 한 번의 ‘쿼드러플 더블’ 눈앞</a></dd>
+                </dl>
+        </div>
+    </div>
+    <!--// 스포츠·연예 -->				</div>
+				<!-- //.rt_box -->
+
+
+				<div class="rt_box  pl00 noline">
+<!-- AD. 기사면 우측 최하단 배너 上 (300x250) -->
+					<div class="ad_movFocus3" style="margin-top:20px; height:250px" id="ads21"></div>
+					<script>createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@x73', '300', '250', '우측 최하단 배너_상', 'ads21', '10000', '');</script>
+					<!-- AD. 기사면 우측 최하단 배너 上 (300x250) -->				</div>
+				<!-- //.rt_box -->
+
+
+				<div class="rt_box  noline">
+<!-- Today`s HOT -->
+            <div class="todayshot_wrap">
+                <div class="tit"><strong>Today`s HOT</strong></div>
+<div class="todayHot_wrap">
+                <div class="cont">
+                    <table width="288" height="288" cellpadding="0" cellspacing="0" border="0">
+                        <tbody id="todayThumbWrap">
+                        <tr>
+                            <td id="inews_thumb0"><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20210923150137" title="리오그란데강 건너 미국 향하는 이민자들" target="_blank"><img id="inews_big_thumb0" data-no="0" src="//img.khan.co.kr/ranking/c/65x65/khan/pc/ARPhotos/519_1632377653_KV00H7ckw6hJDR4x.jpg" alt="리오그란데강 건너 미국 향하는 이민자들"></a></td>
+                            <td id="inews_thumb1"><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20211008101513" title="AP가 선정한 이 주의 사진(아시아)" target="_blank"><img id="inews_big_thumb1" data-no="1" src="//img.khan.co.kr/ranking/c/65x65/khan/pc/ARPhotos/520_1633938728_nbSJWN5z1zjlqrJL.jpg" alt="AP가 선정한 이 주의 사진(아시아)"></a></td>
+                            <td id="inews_thumb2"><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20211007102533" title="부산국제영화제 개막 포토월" target="_blank"><img id="inews_big_thumb2" data-no="2" src="//img.khan.co.kr/ranking/c/65x65/khan/pc/ARPhotos/521_1633593875_hWfaCKmQsq8G9FSd.jpg" alt="부산국제영화제 개막 포토월"></a></td>
+                            <td id="inews_thumb3"><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20210926163707" title="코스모스로 수놓은 율곡습지공원" target="_blank"><img id="inews_big_thumb3" data-no="3" src="//img.khan.co.kr/ranking/c/65x65/khan/pc/ARPhotos/522_1632992648_vZd0Q2Scb51t34KN.jpg" alt="코스모스로 수놓은 율곡습지공원"></a></td>
+                        </tr>
+                        <tr>
+                            <td id="inews_thumb11" colspan="3"><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20210924145052" title="뉴스사진 속 일상" target="_blank"><img id="inews_big_thumb11" data-no="11" src="//img.khan.co.kr/ranking/c/65x65/khan/pc/ARPhotos/530_1632464073_EieieywYwU80An0B.jpg" alt="뉴스사진 속 일상"></a></td>
+                            <td id="inews_thumb4"><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20211005150351" title="파리 패션주간 2022 에탐 컬렉션" target="_blank"><img id="inews_big_thumb4" data-no="4" src="//img.khan.co.kr/ranking/c/65x65/khan/pc/ARPhotos/523_1633593875_AzBWrnxwG33xl6x5.jpg" alt="파리 패션주간 2022 에탐 컬렉션"></a></td>
+                        </tr>
+                        <tr>
+                            <td id="inews_thumb10" colspan="3"><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20211007130557" title="해인사 팔만대장경판 인경책 포쇄" target="_blank"><img id="inews_big_thumb10" data-no="10" src="//img.khan.co.kr/ranking/c/65x65/khan/pc/ARPhotos/529_1633593876_MhhEA6WSrrlxxNCD.jpg" alt="해인사 팔만대장경판 인경책 포쇄"></a></td>
+                            <td id="inews_thumb5"><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20210930131551" title="아기호랑이 5남매의 재롱" target="_blank"><img id="inews_big_thumb5" data-no="5" src="//img.khan.co.kr/ranking/c/65x65/khan/pc/ARPhotos/524_1632992649_6bIfmmkXZwTGlqns.jpg" alt="아기호랑이 5남매의 재롱"></a></td>
+                        </tr>
+                        <tr>
+                            <td id="inews_thumb9"><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20210920135934" title="파리 에펠탑에서 아슬아슬 줄타기" target="_blank"><img id="inews_big_thumb9" data-no="9" src="//img.khan.co.kr/ranking/c/65x65/khan/pc/ARPhotos/528_1632462842_FnnafCQ4FRakv53a.jpg" alt="파리 에펠탑에서 아슬아슬 줄타기"></a></td>
+                            <td id="inews_thumb8"><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20210930171634" title="해변까지 밀려온 용암." target="_blank"><img id="inews_big_thumb8" data-no="8" src="//img.khan.co.kr/ranking/c/65x65/khan/pc/ARPhotos/527_1632992649_XbrzosX68go9xvW9.jpg" alt="해변까지 밀려온 용암."></a></td>
+                            <td id="inews_thumb7"><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20211004104522" title="미국 캘리포니아 앞바다 기름 유출 사고" target="_blank"><img id="inews_big_thumb7" data-no="7" src="//img.khan.co.kr/ranking/c/65x65/khan/pc/ARPhotos/526_1633319681_S7hjtxkGz4XNzVtH.jpg" alt="미국 캘리포니아 앞바다 기름 유출 사고"></a></td>
+                            <td id="inews_thumb6"><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20210915111602" title="그린란드 디스코 섬 근처 빙산들이 녹고 있다." target="_blank"><img id="inews_big_thumb6" data-no="6" src="//img.khan.co.kr/ranking/c/65x65/khan/pc/ARPhotos/525_1631693372_SSYS0F3FOn1hEvmU.jpg" alt="그린란드 디스코 섬 근처 빙산들이 녹고 있다."></a></td>
+                        </tr>
+                        </tbody>
+                    </table>
+                                        <div id="inews_big_img0" class="todayHot_big_img p00" style="display: none;"><dl><dd><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20210923150137" title="리오그란데강 건너 미국 향하는 이민자들" target="_blank"><img id="inews_big_attr0" src="//img.khan.co.kr/ranking/c/220x220/khan/pc/ARPhotos/519_1632377653_KV00H7ckw6hJDR4x.jpg" alt="리오그란데강 건너 미국 향하는 이민자들"></a></dd><dt></dt><div>리오그란데강 건너 미국 향하는 이민자들</div></dl></div>
+                                        <div id="inews_big_img1" class="todayHot_big_img p01" style="display: none;"><dl><dd><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20211008101513" title="AP가 선정한 이 주의 사진(아시아)" target="_blank"><img id="inews_big_attr1" src="//img.khan.co.kr/ranking/c/220x220/khan/pc/ARPhotos/520_1633938728_nbSJWN5z1zjlqrJL.jpg" alt="AP가 선정한 이 주의 사진(아시아)"></a></dd><dt></dt><div>AP가 선정한 이 주의 사진(아시아)</div></dl></div>
+                                        <div id="inews_big_img2" class="todayHot_big_img p02" style="display: none;"><dl><dd><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20211007102533" title="부산국제영화제 개막 포토월" target="_blank"><img id="inews_big_attr2" src="//img.khan.co.kr/ranking/c/220x220/khan/pc/ARPhotos/521_1633593875_hWfaCKmQsq8G9FSd.jpg" alt="부산국제영화제 개막 포토월"></a></dd><dt></dt><div>부산국제영화제 개막 포토월</div></dl></div>
+                                        <div id="inews_big_img3" class="todayHot_big_img p03" style="display: none;"><dl><dd><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20210926163707" title="코스모스로 수놓은 율곡습지공원" target="_blank"><img id="inews_big_attr3" src="//img.khan.co.kr/ranking/c/220x220/khan/pc/ARPhotos/522_1632992648_vZd0Q2Scb51t34KN.jpg" alt="코스모스로 수놓은 율곡습지공원"></a></dd><dt></dt><div>코스모스로 수놓은 율곡습지공원</div></dl></div>
+                                        <div id="inews_big_img4" class="todayHot_big_img p04" style="display: none;"><dl><dd><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20211005150351" title="파리 패션주간 2022 에탐 컬렉션" target="_blank"><img id="inews_big_attr4" src="//img.khan.co.kr/ranking/c/220x220/khan/pc/ARPhotos/523_1633593875_AzBWrnxwG33xl6x5.jpg" alt="파리 패션주간 2022 에탐 컬렉션"></a></dd><dt></dt><div>파리 패션주간 2022 에탐 컬렉션</div></dl></div>
+                                        <div id="inews_big_img5" class="todayHot_big_img p05" style="display: none;"><dl><dd><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20210930131551" title="아기호랑이 5남매의 재롱" target="_blank"><img id="inews_big_attr5" src="//img.khan.co.kr/ranking/c/220x220/khan/pc/ARPhotos/524_1632992649_6bIfmmkXZwTGlqns.jpg" alt="아기호랑이 5남매의 재롱"></a></dd><dt></dt><div>아기호랑이 5남매의 재롱</div></dl></div>
+                                        <div id="inews_big_img6" class="todayHot_big_img p06" style="display: none;"><dl><dd><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20210915111602" title="그린란드 디스코 섬 근처 빙산들이 녹고 있다." target="_blank"><img id="inews_big_attr6" src="//img.khan.co.kr/ranking/c/220x220/khan/pc/ARPhotos/525_1631693372_SSYS0F3FOn1hEvmU.jpg" alt="그린란드 디스코 섬 근처 빙산들이 녹고 있다."></a></dd><dt></dt><div>그린란드 디스코 섬 근처 빙산들이 녹고 있다.</div></dl></div>
+                                        <div id="inews_big_img7" class="todayHot_big_img p07" style="display: none;"><dl><dd><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20211004104522" title="미국 캘리포니아 앞바다 기름 유출 사고" target="_blank"><img id="inews_big_attr7" src="//img.khan.co.kr/ranking/c/220x220/khan/pc/ARPhotos/526_1633319681_S7hjtxkGz4XNzVtH.jpg" alt="미국 캘리포니아 앞바다 기름 유출 사고"></a></dd><dt></dt><div>미국 캘리포니아 앞바다 기름 유출 사고</div></dl></div>
+                                        <div id="inews_big_img8" class="todayHot_big_img p08" style="display: none;"><dl><dd><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20210930171634" title="해변까지 밀려온 용암." target="_blank"><img id="inews_big_attr8" src="//img.khan.co.kr/ranking/c/220x220/khan/pc/ARPhotos/527_1632992649_XbrzosX68go9xvW9.jpg" alt="해변까지 밀려온 용암."></a></dd><dt></dt><div>해변까지 밀려온 용암.</div></dl></div>
+                                        <div id="inews_big_img9" class="todayHot_big_img p09" style="display: none;"><dl><dd><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20210920135934" title="파리 에펠탑에서 아슬아슬 줄타기" target="_blank"><img id="inews_big_attr9" src="//img.khan.co.kr/ranking/c/220x220/khan/pc/ARPhotos/528_1632462842_FnnafCQ4FRakv53a.jpg" alt="파리 에펠탑에서 아슬아슬 줄타기"></a></dd><dt></dt><div>파리 에펠탑에서 아슬아슬 줄타기</div></dl></div>
+                                        <div id="inews_big_img10" class="todayHot_big_img p10" style="display: none;"><dl><dd><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20211007130557" title="해인사 팔만대장경판 인경책 포쇄" target="_blank"><img id="inews_big_attr10" src="//img.khan.co.kr/ranking/c/220x220/khan/pc/ARPhotos/529_1633593876_MhhEA6WSrrlxxNCD.jpg" alt="해인사 팔만대장경판 인경책 포쇄"></a></dd><dt></dt><div>해인사 팔만대장경판 인경책 포쇄</div></dl></div>
+                                        <div id="inews_big_img11" class="todayHot_big_img p11" style="display: none;"><dl><dd><a href="https://photo.khan.co.kr/photo_collection.html?art_id=20210924145052" title="뉴스사진 속 일상" target="_blank"><img id="inews_big_attr11" src="//img.khan.co.kr/ranking/c/220x220/khan/pc/ARPhotos/530_1632464073_EieieywYwU80An0B.jpg" alt="뉴스사진 속 일상"></a></dd><dt></dt><div>뉴스사진 속 일상</div></dl></div>
+                                    </div>
+            </div>
+            <script>
+                /* IE 고려한 스크립트 */
+                let rnd = Math.floor(Math.random() * 12); /* 0 ~ 11 */
+                document.querySelector('#inews_big_img'+ rnd).style.display = 'block';
+                (function(){
+                    let nodes = document.querySelectorAll('#todayThumbWrap img');
+                    Array.prototype.forEach.call(nodes, function (el, i) {
+                        el.addEventListener('mouseenter', function(e){
+                            let no = el.dataset.no;
+                            imageOn(no);
+                        });
+                    });
+
+
+                    function imageOn(i)
+                    {
+                        let nodes = document.querySelectorAll('#todayThumbWrap img');
+                        Array.prototype.forEach.call(nodes, function (el) {
+                            el.classList.remove('thumb_on');
+                        });
+                        document.querySelector('#inews_big_thumb'+ i).classList.add('thumb_on');
+
+                        let bigNodes = document.querySelectorAll('.todayHot_wrap .todayHot_big_img');
+                        Array.prototype.forEach.call(bigNodes, function (el) {
+                            el.style.display = 'none';
+                        });
+                        document.querySelector('#inews_big_img'+ i).style.display = 'block';
+                    }
+                })();
+            </script>
+                        </div>
+            <!--// Today`s HOT -->				</div>
+				<!-- //.rt_box -->
+
+
+				<div class="rt_box  pl00 noline">
+<!-- AD. 기사면 우측 최하단 배너 下 (300x250) -->
+					<div class="ad_movFocus3" style="margin-top:20px; height:250px" id="ads22"></div>
+					<script>createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@Bottom1', '300', '250', '우측 최하단 배너_하', 'ads22', '10000', '');</script>
+					<!-- // AD. 기사면 우측 최하단 배너 下 (300x250) -->				</div>
+				<!-- //.rt_box -->
+            </div>
+			</div>
+			<!-- // art_side -->
+		</div>
+		<!-- // container -->
+
+		<!-- 설문,투표 가져오기 -->
+		<!-- // 설문,투표 가져오기 --><!--// **************************************** container **************************************** -->
+
+
+		<!-- footer -->
+		<footer class="footer">
+			<!-- 제호 SNS 링크 -->
+			<div class="service-link-wrap">
+				<div class="footer-logo"><span>경향신문</span></div>
+				<div class="wrap_corpinfo">
+					<ul class="list_corpinfo list_snslink">
+						<li class="item">
+							<a class="link_sns fb" href="//facebook.com/kyunghyangshinmun" title="경향신문 공식 페이스북(새창)" target="_blank"></a>
+						</li>
+						<li class="item">
+							<a class="link_sns tw" href="//twitter.com/kyunghyang" title="경향신문 공식 트위터(새창)" target="_blank"></a>
+						</li>
+						<li class="item">
+							<a class="link_sns ig" href="https://www.instagram.com/kyunghyangshinmun/" title="경향신문 공식 인스타그램(새창)" target="_blank"></a>
+						</li>
+						<li class="item">
+							<a class="link_sns yt" href="https://www.youtube.com/thekyunghyangtv" title="경향신문 공식 유튜브(새창)" target="_blank"></a>
+						</li>
+												<li class="item">
+							<a class="link_sns gl" href="https://news.google.com/publications/CAAiEGrpoD7iEt30Pjx8Jn9e-4cqFAgKIhBq6aA-4hLd9D48fCZ_XvuH?r=0&amp;oc=1&amp;hl=ko&amp;gl=KR&amp;ceid=KR:ko" title="경향신문 구글 뉴스(새창)" target="_blank"></a>
+						</li>
+						<li class="item">
+							<a class="link_sns rss" href="https://www.khan.co.kr/help/help_rss.html" title="경향신문 RSS"></a>
+						</li>
+						<li class="item">
+							<a class="link_sns gp" href="https://play.google.com/store/apps/details?id=kr.co.khan&hl=ko&gl=US" title="경향신문 안드로이드 앱 설치(새창)" target="_blank"></a>
+						</li>
+						<li class="item">
+							<a class="link_sns as" href="https://apps.apple.com/kr/app/%EA%B2%BD%ED%96%A5%EC%8B%A0%EB%AC%B8-the-kyunghyang-shinmun/id483987800" title="경향신문 IOS 앱 설치(새창)" target="_blank"></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<!-- // 제호 SNS 링크 -->
+
+			<!-- 사이트맵 -->
+			<div class="site-map">
+				<div class="khan-menu-wrap">
+					<div class="khan-menu">
+                        <!-- 오피니언 -->
+						<div class="khan-menu-list">
+							<dl>
+								<dt class="tit"><a href="https://www.khan.co.kr/opinion" title="오피니언">오피니언</a></dt>
+								<dd><a href="https://www.khan.co.kr/opinion/editorial/articles" title="사설">사설</a></dd>
+								<dd><a href="https://www.khan.co.kr/opinion/yeojeok/articles" title="여적">여적</a></dd>
+								<dd><a href="https://www.khan.co.kr/opinion/journalist/articles" title="기자메모">기자메모</a></dd>
+								<dd><a href="https://www.khan.co.kr/opinion/column/articles" title="칼럼">칼럼</a></dd>
+								<dd><a href="https://www.khan.co.kr/cartoon" title="만평">만평</a></dd>
+								<dd><a href="https://www.khan.co.kr/opinion/readers-opinion/articles" title="독자마당">독자마당</a></dd>
+							</dl>
+						</div>
+                        <!-- 정치 -->
+						<div class="khan-menu-list">
+							<dl>
+								<dt class="tit"><a href="https://www.khan.co.kr/politics" title="정치">정치</a></dt>
+								<dd><a href="https://www.khan.co.kr/politics/president/articles" title="청와대">청와대</a></dd>
+								<dd><a href="https://www.khan.co.kr/politics/assembly/articles" title="국회정당">국회&middot;정당</a></dd>
+								<dd><a href="https://www.khan.co.kr/politics/defense-diplomacy/articles" title="국방외교">국방&middot;외교</a></dd>
+								<dd><a href="https://www.khan.co.kr/politics/north-korea/articles" title="북한한반도">북한&middot;한반도</a></dd>
+								<dd><a href="https://www.khan.co.kr/politics/election/articles" title="선거">선거</a></dd>
+								<dd><a href="https://www.khan.co.kr/politics/politics-general/articles" title="정치 일반">정치 일반</a></dd>
+							</dl>
+						</div>
+                        <!-- 경제 -->
+						<div class="khan-menu-list">
+							<dl>
+								<dt class="tit"><a href="https://www.khan.co.kr/economy" title="경제">경제</a></dt>
+								<dd><a href="https://www.khan.co.kr/economy/finance/articles" title="금융재테크">금융&middot;재테크</a></dd>
+								<dd><a href="https://www.khan.co.kr/economy/industry/articles" title="산업">산업</a></dd>
+								<dd><a href="https://www.khan.co.kr/economy/it-electronic/articles" title="IT가전">IT&middot;가전</a></dd>
+								<dd><a href="https://www.khan.co.kr/economy/real_estate/articles" title="부동산">부동산</a></dd>
+								<dd><a href="https://www.khan.co.kr/economy/auto/articles" title="자동차">자동차</a></dd>
+								<dd><a href="https://www.khan.co.kr/economy/market-trend/articles" title="생활경제">생활경제</a></dd>
+								<dd><a href="https://www.khan.co.kr/economy/venture-job/articles" title="취업창업">취업&middot;창업</a></dd>
+								<dd><a href="https://www.khan.co.kr/economy/economy-general/articles" title="경제 일반">경제 일반</a></dd>
+							</dl>
+						</div>
+                        <!-- 사회 -->
+						<div class="khan-menu-list">
+							<dl>
+								<dt class="tit"><a href="https://www.khan.co.kr/national" title="사회">사회</a></dt>
+								<dd><a href="https://www.khan.co.kr/national/incident/articles" title="사건사고">사건&middot;사고</a></dd>
+								<dd><a href="https://www.khan.co.kr/national/court-law/articles" title="법원검찰">법원&middot;검찰</a></dd>
+								<dd><a href="https://www.khan.co.kr/national/education/articles" title="교육입시">교육&middot;입시</a></dd>
+								<dd><a href="https://www.khan.co.kr/national/labor/articles" title="노동">노동</a></dd>
+								<dd><a href="https://www.khan.co.kr/national/health-welfare/articles" title="보건복지">보건&middot;복지</a></dd>
+								<dd><a href="https://www.khan.co.kr/national/media/articles" title="미디어">미디어</a></dd>
+								<dd><a href="https://www.khan.co.kr/national/national-general/articles" title="사회 일반">사회 일반</a></dd>
+							</dl>
+						</div>
+                        <!-- 지역 -->
+						<div class="khan-menu-list">
+							<dl>
+								<dt class="tit"><a href="https://www.khan.co.kr/local" title="지역">지역</a></dt>
+								<dd><a href="https://www.khan.co.kr/local/Seoul-Gyeonggi/articles" title="서울수도권">서울&middot;수도권</a></dd>
+								<dd><a href="https://www.khan.co.kr/local/Chungcheong/articles" title="충청">충청</a></dd>
+								<dd><a href="https://www.khan.co.kr/local/Gangwon/articles" title="강원">강원</a></dd>
+								<dd><a href="https://www.khan.co.kr/local/Yeongnam/articles" title="영남">영남</a></dd>
+								<dd><a href="https://www.khan.co.kr/local/Honam/articles" title="호남">호남</a></dd>
+								<dd><a href="https://www.khan.co.kr/local/Jeju/articles" title="제주">제주</a></dd>
+								<dd><a href="https://www.khan.co.kr/local/local-general/articles" title="지역 일반">지역 일반</a></dd>
+							</dl>
+						</div>
+                        <!-- 국제 -->
+						<div class="khan-menu-list">
+							<dl>
+								<dt class="tit"><a href="https://www.khan.co.kr/world" title="국제">국제</a></dt>
+								<dd><a href="https://www.khan.co.kr/world/america/articles" title="미국중남미">미국&middot;중남미</a></dd>
+								<dd><a href="https://www.khan.co.kr/world/japan/articles" title="일본">일본</a></dd>
+								<dd><a href="https://www.khan.co.kr/world/china/articles" title="중국대만">중국&middot;대만</a></dd>
+								<dd><a href="https://www.khan.co.kr/world/europe-russia/articles" title="유럽">유럽</a></dd>
+								<dd><a href="https://www.khan.co.kr/world/asia-australia/articles" title="아시아호주">아시아&middot;호주</a></dd>
+								<dd><a href="https://www.khan.co.kr/world/mideast-africa/articles" title="중동아프리카">중동&middot;아프리카</a></dd>
+								<dd><a href="https://www.khan.co.kr/world/world-general/articles" title="국제 일반">국제 일반</a></dd>
+							</dl>
+						</div>
+                        <!-- 문화 -->
+						<div class="khan-menu-list">
+							<dl>
+								<dt class="tit"><a href="https://www.khan.co.kr/culture" title="문화">문화</a></dt>
+								<dd><a href="https://www.khan.co.kr/culture/book/articles" title="책">책</a></dd>
+								<dd><a href="https://www.khan.co.kr/culture/performance/articles" title="연극클래식">연극&middot;클래식</a></dd>
+								<dd>
+                                    <a href="https://www.khan.co.kr/culture/scholarship-heritage/articles" title="학술문화재">학술&middot;문화재</a>
+                                </dd>
+								<dd><a href="https://www.khan.co.kr/culture/religion/articles" title="종교">종교</a></dd>
+								<dd><a href="https://www.khan.co.kr/culture/art-architecture/articles" title="미술건축">미술&middot;건축</a></dd>
+								<dd><a href="https://www.khan.co.kr/culture/popular_music/articles" title="대중음악">대중음악</a></dd>
+								<dd><a href="https://www.khan.co.kr/culture/movie/articles" title="영화">영화</a></dd>
+								<dd><a href="https://www.khan.co.kr/culture/tv/articles" title="방송">방송</a></dd>
+								<dd><a href="https://www.khan.co.kr/culture/culture-general/articles" title="문화 일반">문화 일반</a></dd>
+							</dl>
+						</div>
+					</div>
+					<div class="khan-menu">
+                        <!-- 과학환경 -->
+						<div class="khan-menu-list">
+							<dl>
+								<dt class="tit"><a href="https://www.khan.co.kr/science" title="과학환경">과학&middot;환경</a></dt>
+								<dd><a href="https://www.khan.co.kr/science/aerospace/articles" title="우주항공">우주&middot;항공</a></dd>
+								<dd><a href="https://www.khan.co.kr/environment/climate/articles" title="기후날씨">기후&middot;날씨</a></dd>
+								<dd><a href="https://www.khan.co.kr/science/environment/articles" title="환경생태">환경&middot;생태</a></dd>
+								<dd>
+                                    <a href="https://www.khan.co.kr/science/science-general/articles" title="과학환경 일반">과학&middot;환경 일반</a>
+                                </dd>
+							</dl>
+						</div>
+                        <!-- 라이프 -->
+						<div class="khan-menu-list">
+							<dl>
+								<dt class="tit"><a href="https://www.khan.co.kr/life" title="라이프">라이프</a></dt>
+								<dd><a href="https://www.khan.co.kr/life/travel/articles" title="여행">여행</a></dd>
+								<dd><a href="https://www.khan.co.kr/life/health/articles" title="건강의학">건강&middot;의학</a></dd>
+								<dd><a href="https://www.khan.co.kr/life/style/articles" title="스타일">스타일</a></dd>
+								<dd><a href="https://www.khan.co.kr/life/living/articles" title="생활">생활</a></dd>
+							</dl>
+						</div>
+                        <!-- 사람 -->
+						<div class="khan-menu-list">
+							<dl>
+								<dt class="tit"><a href="https://www.khan.co.kr/people" title="사람">사람</a></dt>
+								<dd><a href="https://www.khan.co.kr/people/personnel_shift/articles" title="인사">인사</a></dd>
+								<dd><a href="https://www.khan.co.kr/people/obituary/articles" title="부고">부고</a></dd>
+								<dd><a href="https://www.khan.co.kr/people/news/articles" title="동정">동정</a></dd>
+								<dd><a href="https://www.khan.co.kr/people/people-general/articles" title="인물 일반">인물 일반</a></dd>
+							</dl>
+						</div>
+                        <!-- 스포츠 -->
+						<div class="khan-menu-list">
+							<dl>
+								<dt class="tit"><a href="https://www.khan.co.kr/sports" title="스포츠">스포츠</a></dt>
+								<dd><a href="https://www.khan.co.kr/sports/baseball/articles" title="야구">야구</a></dd>
+								<dd><a href="https://www.khan.co.kr/sports/football/articles" title="축구">축구</a></dd>
+								<dd><a href="https://www.khan.co.kr/sports/golf/articles" title="골프">골프</a></dd>
+								<dd><a href="https://www.khan.co.kr/sports/basketball-volleyball/articles" title="농구배구">농구&middot;배구</a></dd>
+								<dd><a href="https://www.khan.co.kr/sports/sports-general/articles" title="스포츠종합">스포츠종합</a></dd>
+							</dl>
+						</div>
+						<div class="khan-menu-list">
+							<dl><dt class="tit"><a href="https://www.khan.co.kr/entertain" title="연예">연예</a></dt></dl>
+							<dl><dt class="tit"><a href="https://www.khan.co.kr/video" title="영상">영상</a></dt></dl>
+							<dl><dt class="tit"><a href="https://www.khan.co.kr/gallery" title="포토">포토</a></dt></dl>
+							<dl><dt class="tit"><a href="https://www.khan.co.kr/interactive" title="인터랙티브">인터랙티브</a></dt></dl>
+							<dl><dt class="tit"><a href="https://www.khan.co.kr/saturday" title="토요판(새창)" target="_blank">토요판</a></dt></dl>
+							<dl><dt class="tit"><a href="https://www.khan.co.kr/allthatart" title="올댓아트(새창)" target="_blank">올댓아트</a></dt></dl>
+							<dl>
+                                <dt class="tit">
+                                    <a href="https://contents.premium.naver.com/khan/noon" title="경향 noon(새창)" target="_blank">경향 noon</a>
+                                </dt>
+                            </dl>
+						</div>
+						<div class="khan-menu-list">
+							<dl><dt class="tit"><a href="https://www.khan.co.kr/series" title="기획연재">기획&middot;연재</a></dt></dl>
+							<dl><dt class="tit"><a href="https://www.khan.co.kr/issue" title="이슈">이슈</a></dt></dl>
+							<dl><dt class="tit"><a href="https://www.khan.co.kr/newest/articles" title="최신기사">최신기사</a></dt></dl>
+							<dl><dt class="tit"><a href="https://www.khan.co.kr/realtime/articles" title="실시간 랭킹 기사">실시간 랭킹 기사</a></dt></dl>
+						</div>
+						<div class="khan-menu-list">
+							<dl>
+								<dt class="tit blind"><a href="#" title="기타" target="_blank">기타</a></dt>
+								<dd>
+                                    <a href="http://sports.khan.co.kr/news/page/art_list.html?sec_id=561300" title="오늘의 운세(새창)" target="_blank">오늘의 운세</a>
+                                </dd>
+								<dd><a href="https://www.khan.co.kr/newsletter/articles" title="이메일 뉴스레터">이메일 뉴스레터</a></dd>
+								<dd><a href="https://jebo.khan.co.kr/" title="기사제보(새창)" target="_blank">기사제보</a></dd>
+								<dd>
+                                    <a href="http://smile.khan.co.kr/gudoc/gudoc_input_step3.html?media_cd=201" title="지면 구독신청(새창)" target="_blank">지면 구독신청</a>
+                                </dd>
+								<dd><a href="http://epaper.khan.co.kr" title="디지털 지면 보기(새창)" target="_blank">디지털 지면 보기</a></dd>
+								<dd><a href="http://miri.khan.co.kr/" title="디지털 초판 보기(새창)" target="_blank">디지털 초판 보기</a></dd>
+								<dd>
+                                    <a href="https://newslibrary.naver.com/search/searchByDate.nhn" title="옛날 신문 보기(새창)" target="_blank">옛날 신문 보기</a>
+                                </dd>
+							</dl>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- // 사이트맵 -->
+
+			<!-- 기업 정보 -->
+			<div class="corp-info">
+				<address>
+					<span>서울시 중구 정동길3 경향신문사</span>
+					<span>고객센터 : 02-3701-1114</span>
+					<span>등록번호 : 서울 아02041</span>
+					<span>등록일자 : 2012.03.22</span><br />
+					<span>발행인 : 김석종</span>
+					<span>편집인 : 양권모</span>
+					<span>청소년보호책임자 : 장은교</span>
+					<p><strong>ⓒ경향신문, All rights reserved.</strong></p>
+				</address>
+
+				<!-- 패밀리 사이트 -->
+				<div class="family-link-wrap">
+					<section class="family-link-area">
+						<strong>familysite</strong>
+						<div class="family-link-list">
+							<ul class="inner">
+								<li><a href="http://sports.khan.co.kr" title="스포츠경향(새창)" target="_blank">스포츠경향</a></li>
+								<li><a href="http://weekly.khan.co.kr" title="주간경향(새창)" target="_blank">주간경향</a></li>
+								<li><a href="http://lady.khan.co.kr" title="레이디경향(새창)" target="_blank">레이디경향</a></li>
+								<li><a href="https://www.khan.co.kr/saturday" title="토요판(새창)" target="_blank">토요판</a></li>
+							</ul>
+						</div>
+					</section>
+				</div>
+				<!-- // 패밀리 사이트 -->
+			</div>
+			<!-- // 기업 정보 -->
+
+			<!-- 푸터 기타 메뉴 -->
+			<div class="btm-link">
+				<div class="btm-link-inner">
+					<a href="https://www.khan.co.kr/aboutkh/" title="회사소개"><span>회사소개</span></a>
+					<a href="http://smile.khan.co.kr/gudoc/index.html" title="구독신청(새창)" target="_blank"><span>구독신청</span></a>
+					<a href="https://www.khan.co.kr/company/sub02_1.html" title="온라인광고"><span>온라인광고</span></a>
+					<a href="https://www.khan.co.kr/company/sub04_1.html" title="사업제휴"><span>사업제휴</span></a>
+					<a href="https://recruit.khan.co.kr/" title="채용(새창)" target="_blank"><span>채용</span></a>
+					<a href="https://jebo.khan.co.kr/" title="기사제보(새창)" target="_blank"><span>기사제보</span></a>
+					<a href="https://www.khan.co.kr/help/help_digital.html" title="저작권콘텐츠 사용"><span>저작권&middot;콘텐츠 사용</span></a>
+					<a href="https://www.khan.co.kr/help/help_agreement.html" title="회원약관"><span>회원약관</span></a>
+					<a href="https://www.khan.co.kr/help/help_privately.html" title="개인정보처리방침"><span>개인정보처리방침</span></a>
+					<a href="https://www.khan.co.kr/opinion/notice/article/200509211710302" title="고충처리"><span>고충처리</span></a>
+					<a href="https://www.khan.co.kr/help/help_main.html" title="HELP"><span>HELP</span></a>
+					<a href="https://www.khan.co.kr/sitemap.html" title="사이트맵"><span>사이트맵</span></a>
+				</div>
+			</div>
+			<!-- // 푸터 기타 메뉴 -->
+
+			<a onclick="javascript:$('html,body').animate({scrollTop:0},200);" class="btn-gotop" title="맨 위로 가기">맨위로 가기</a>
+
+			<!-- Naver Channel connect -->
+			<span itemscope="" itemtype="http://schema.org/Organization">
+				<link itemprop="url" href="http://www.khan.co.kr">
+				<a itemprop="sameAs" href="https://www.facebook.com/kyunghyangshinmun"></a>
+				<a itemprop="sameAs" href="https://www.youtube.com/user/thekyunghyangtv"></a>
+				<a itemprop="sameAs" href="https://twitter.com/kyunghyang"></a>
+				<a itemprop="sameAs" href="https://www.instagram.com/kyunghyangshinmun/"></a>
+				<a itemprop="sameAs" href="https://plus.google.com/102809260248109943090"></a>
+				<a itemprop="sameAs" href="https://play.google.com/store/apps/details?id=kr.co.khan&hl=ko"></a>
+				<a itemprop="sameAs" href="https://itunes.apple.com/kr/app/id483987800"></a>
+			 </span>
+			<!-- Naver Channel connect -->
+
+		   <div class="gotomobile" style="display:none;">
+				<p>
+                    <a href="https://m.khan.co.kr/national/court-law/article/202110201613001" onclick="gomobile(this.href); return false;">
+                        <picture>
+                            <source type="image/webp" srcset="//img.khan.co.kr/spko/sub_2013/btn_gotomobile.webp" loading="lazy">
+					        <img src="//img.khan.co.kr/spko/sub_2013/btn_gotomobile.png" alt="모바일 화면으로 보기" width="430" height="130" loading="lazy">
+                        </picture>
+                    </a>
+				</p>
+			</div>
+
+			<script type="text/javascript">
+			if (navigator.userAgent.match(/iPhone|BlackBerry|Android|Windows CE/i) && !navigator.userAgent.match(/SHW-M380S|SHW-M180S|SHW-M180L|SCH-I800|SGH-T849|SHW-M480W/i)) { 
+				jQuery(".gotomobile").show(); 
+			}
+
+			// 모바일 화면으로 이동할 경우 브라우저 고정 쿠키 값 제거
+			function gomobile(murl) { 
+				document.cookie = "browser_mode=; path=/; domain=.khan.co.kr";
+				location.href = murl;
+			}
+			</script>
+		</footer>
+		<!-- // footer -->
+
+	<!-- [에이원플랫폼] 링크백 솔루션 -->
+	<script type="text/javascript">
+    var linkback = linkback|| {};
+    (function() {
+        var d = document, scr = d.createElement('script'), pro = d.location.protocol, tar = d.getElementsByTagName('head')[0];
+        scr.type = 'text/javascript';  scr.async = true;
+        scr.src = ((pro === 'https:') ? 'https' : 'http') + '://linkback.khan.co.kr/src/lb4khan.min.js';
+        scr.charset='utf-8';
+        if(!linkback.l){linkback.l=true; tar.insertBefore(scr, tar.firstChild);}
+    })();
+	</script><!-- AD. ���� �����÷��� ������ ���� -->
+<script src="//adv.khan.co.kr/RealMedia/ads/adstream_jx.ads/www.khan.co.kr/interplay@x01"></script>
+<!-- AD. ���� �����÷��� ������ ���� -->
+		<!-- AD. ���� ����Ŀ�� ���� -->
+		<script type="text/javascript" src="//adv.khan.co.kr/RealMedia/ads/adstream_jx.ads/www.khan.co.kr/news@x34"></script>
+		<!--  AD. ���� ����Ŀ�� ���� -->
+		<script type="text/javascript">
+		jQuery(document).ready(function() {
+			window._taboola = window._taboola || [];
+			_taboola.push({flush: true});
+		});
+		</script>
+
+    <!-- 10.41.179.189 -->
+    <!-- 49.50.169.147 -->
+
+	</div>
+	<!-- // wrap -->
+
+</body>
+</html>

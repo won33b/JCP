@@ -1,0 +1,949 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+
+	<meta name="apple-mobile-web-app-title" content="dt"/>
+	<meta name="msvalidate.01" content="64D4932DA24439B0A4CAEF7555F57FB4" />
+	<meta name="google-site-verification" content="ZpPcgUY7BDY-oSN4bo1xmEiEZtC5ZLveDbJZtM3ymA8" />
+	<meta name='dailymotion-domain-verification' content='dm225d7d5knjoq2rh' />
+
+	<title>문대통령 "대한민국 대통령 최초로 국산 전투기 탑승해 영공을 날았습니다" - 디지털타임스</title>
+		<link href="http://img.dt.co.kr/news/skin/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+		<link rel="apple-touch-icon-precomposed" href="http://img.dt.co.kr/news/skin/bu_pc.png" />
+		<meta name="robots" content="index,follow">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv="Content-Type" content="text/html; charset=euc-kr" />
+		<meta http-equiv="Refresh" content=1200>
+		<meta http-equiv="Expires" content="-1">
+		<meta http-equiv="Pragma" content="no-cache">
+		<meta http-equiv="cache-control" content="no-cache">
+		<meta name='copyright' content='www.dt.co.kr' />
+		<meta name="keywords" content="디지털타임스,디지털타임즈,디타,DT,dt.co.kr,DT파트너스,뉴스,News,최신뉴스,경제,증권,금융,생명공학,과학기술,정치,정보미디어,방송,통신,ICT과학,컴퓨팅,국제,모바일,콘텐츠,스포츠,e스포츠,골프,교육,게임,연예,갤러리,동영상,게임음악,넷트렌드" />
+		<meta name="description" content="디지털시대 경제 종합 일간지 디지털타임스" />
+    
+        <!-- Google Search Tag for view-->
+        <meta name='title' content="문대통령 &quot;대한민국 대통령 최초로 국산 전투기 탑승해 영공을 날았습니다&quot;">
+        <meta name='description' content="문재인 대통령이 역대 대통령 중 처음으로 전투기에 탑승해 영공을 비행했다.문 대..">
+        
+	<meta property="og:type"	content="article" >
+	<meta property="og:url"		content="http://www.dt.co.kr/contents.html?article_no=2021102002109919607006" >
+	<meta property="og:title"       content="문대통령 &quot;대한민국 대통령 최초로 국산 전투기 탑승해 영공을 날았습니다&quot;" >
+	<meta property="og:description" content="문재인 대통령이 역대 대통령 중 처음으로 전투기에 탑승해 영공을 비행했다.문 대.." >
+	<meta property="og:image"       content="http://contents.dt.co.kr/images/202110/2021102002109919607006[1].jpg?var=5539" >
+	<link rel="image_src" href="http://contents.dt.co.kr/images/202110/2021102002109919607006[1].jpg?var=5539" />
+
+
+	<link rel='stylesheet' type='text/css' href='http://www.dt.co.kr/css/common_news.css'>
+	<link rel='stylesheet' type='text/css' href='http://www.dt.co.kr/css/2019_re_news_article.css?v=3'>
+	<link rel='stylesheet' type='text/css' href='http://www.dt.co.kr/css/2019_re_section_comm.css?var=1'>
+
+        <script type='text/javascript' src="http://www.dt.co.kr/js/jquery-1.11.3.min.js"></script>
+
+	<script type='text/javascript' src='http://www.dt.co.kr/js/news_search.js'></script>
+
+	<script type="text/javascript" src="http://www.dt.co.kr/js/default.js"></script>
+
+
+<script type='text/javascript'>(function () {
+	var useSSL = 'https:' == document.location.protocol;
+	var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+	document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-6557109-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-6557109-1');
+</script>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-6557109-1']);
+	_gaq.push(['_setDomainName', '.dt.co.kr']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.dt.co.kr/contents.html?article_no=2021102002109919607006"
+  },
+  "headline": "문대통령 &quot;대한민국 대통령 최초로 국산 전투기 탑승해 영공을 날았습니다&quot;",
+    "image": [
+    "http://contents.dt.co.kr/images/202110/2021102002109919607006[1].jpg?var=5539","http://contents.dt.co.kr/images/202110/2021102002109919607006[2].jpg?var=5539"
+   ],
+  "datePublished": "2021-10-20T16:24:00+08:00",
+  "dateModified": "2021-10-20T16:24:00+08:00",
+  "author": {
+    "@type": "Person",
+    "name": "김광태"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "Digitaltimes",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://img.dt.co.kr/mobile/skin/dt_Btn.jpg"
+    }
+  },
+  "description": "문재인 대통령이 역대 대통령 중 처음으로 전투기에 탑승해 영공을 비행했다.문 대통령은 20일 성남 서울공항에서 열린 2021 서울 국제 항공우주 및 방위산업 전시회(ADEX) 개막식에 참석했다.. "
+}
+</script>
+
+
+
+
+
+
+
+
+    <style type="text/css">
+        #my .hover { cursor:pointer; }
+		#top_ad{}
+		#top_ad .ad_img { position:relative;}
+		#top_ad .ad_img .ad_close{ position:absolute; right:0; bottom:0;}
+        </style>
+
+    <script type="text/javascript">
+		function clickButton() {
+			document.getElementById('btn').click()
+		}
+        $(document).ready(function() {
+            $("#btn").click(function() {
+                $("#top_ad")
+                .fadeIn('slow') //서서히 보이기
+                //.slideUp('slow'); //슬라이드업 : 숨기기
+            });
+        });
+
+        $(document).ready(function() {
+            $("#ctn").click(function() {
+                $("#top_ad")
+                //.fadeIn('slow') //서서히 보이기
+                .slideUp('slow'); //슬라이드업 : 숨기기
+            });
+        });
+
+//인쇄
+function ArticlePrt(article_no){
+	var url = "http://www.dt.co.kr/etc/article_print.html?article_no="+article_no;
+	var width=600;
+	var height=500;
+	var obj="articlePrt";
+	var scrollbars="yes";
+	var resizable="no";
+	popup_window(width, height, url, obj, scrollbars, resizable);
+}
+
+//공통 팝업모듈
+function popup_window(width, height, url, obj, scrollbars, resizable){
+   var screenPosX = screen.availWidth/2 - width/2; 
+   var screenPosY = screen.availHeight/2 - height/2; 
+   var win = "'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars="+scrollbars+", resizable="+resizable+", top="+screenPosY+", left="+screenPosX+", width="+width+", height="+height+"'"; 
+   window.open(url, obj, win); 
+}
+
+function searchLayer() {
+	var sb	= document.getElementById( 'search_box' );
+	
+	if( sb.style.display == 'none' ) sb.style.display = 'block';
+	else sb.style.display = 'none';
+}
+
+</script>
+
+
+
+
+
+
+
+<script data-ad-client="ca-pub-8610528940089429" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-176089875-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-176089875-1');
+</script>
+
+<!-- 이디엘 -->
+<script type="text/javascript" src="//send.mci1.co.kr/delivery/js/29901904/22207177480" async></script>
+
+<!-- TargetPushAD_디지털타임스(edl) -->
+<script src='//cdn.targetpush.co.kr/js/targetpushad.js' charset='utf-8'></script>
+<script> (function(){adtive_targetpush_ad.start('S6444448','8QLLLLLF')}(document)) </script>
+<!--// TargetPushAD_디지털타임스(edl) -->
+<!-- 이디엘 20210112 P4 -->
+
+
+
+
+<!-- 이디엘 타블라 -->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/digitaltimes/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+<!-- 이디엘 타블라 -->
+
+
+
+
+<!-- 아인플래닛  -->
+<!-- 아인플래닛  -->
+<!-- 아인플래닛  -->
+<script type="text/java-script" src="//send.mci1.co.kr/delivery/js/30351081/22514288599" async></script>
+<!-- 아인플래닛  -->
+<!-- 아인플래닛  -->
+<!-- 아인플래닛  -->
+
+</head>
+<body>
+
+
+
+<div style="display:none;">
+<!-- Web Log -->
+
+<img src="http://web6.dt.co.kr/popular.htm?article_no=2021102002109919607006&section_no=24" width=0 height=0 alt='' />
+
+<!-- Web Log -->
+
+
+<log_side>
+<logISS>
+<scgisa_tong>
+<!-- //Web Log -->
+
+<!-- //Web Log -->
+</div>
+
+
+<!-- 상단 긴광고 
+<div id="topad"></div>
+<script type="text/javascript" src="http://www.dt.co.kr/js/top_ad.js?v=1"></script>
+-->
+<div id="topad"></div><script type="text/javascript" src="http://www.dt.co.kr/js/top_ad.js?v=1"></script>
+
+
+<div id="wrap">
+
+             			<!-- 공통 헤더 -->
+			
+    <!-- top nav -->
+    <div class="top_nav">
+        <div class="top_nav_in">
+            <ul class="top_nav_u">
+                <li><a href="http://www.dt.co.kr" alt='디지털타임스' title='디지털타임스'>디지털타임스</a></li>
+
+
+
+                <li><a href="https://newsstand.naver.com/029"  target="_blank">네이버 뉴스스텐드 구독</a></li>
+                <li><a href="https://media.naver.com/channel/promotion.nhn?oid=029" target="_blank">채널 구독</a></li>
+                <!--<li><a href="http://www.dt.co.kr/eyescrap/" target="_blank">지면보기서비스</a></li>-->
+            </ul>
+
+            <ul class="top_nav_u2">
+				<script>
+					var dt;
+					var dday;
+					var day;
+					dt = new Date();
+					dday=new Array('일','월','화','수','목','금','토');
+					day=dt.getDay();
+					dt = dt.getFullYear() + "년 " + (dt.getMonth() + 1) + "월 " + dt.getDate()+"일 "+dday[day]+"요일";
+					document.write("<li ><a href=''>" + dt + "</a></li>");
+				</script>
+
+                <script language='JavaScript' type='text/javascript'>
+					if ( (getCookie('ansghk_id') == null) || (getCookie('ansghk_id') == "") )	{
+						document.write("<li><a href='https://membership3.dt.co.kr/member_new/login.php' class='member'>로그인&nbsp;</a></li><li><a href='https://membership3.dt.co.kr/member_new/join.php' class='member'>&nbsp;회원가입&nbsp;</a></li>");
+					} else {
+						document.write("<li><a href='javascript:logout();' class='member'>로그아웃&nbsp;</a></li><li><a href='https://membership3.dt.co.kr/member_new/member.php?menu=pwd_auth&next=chp' class='member'>&nbsp;정보수정&nbsp;</a></li>");
+					}
+                </script>
+
+            </ul>
+        </div>
+    </div>
+    <!--// top nav -->
+
+
+   
+
+    <!-- header -->
+    <div id="header">
+        <!-- logo -->
+        <div id="header_logo">
+            <h1 class="logo"><a href="http://www.dt.co.kr/"><img src="http://img.dt.co.kr/news/skin/dt_logo_201902.jpg" alt="디지털타임스" title="디지털타임스" ></a></h1>
+        </div>
+        <!--// logo -->
+
+		<!-- 메인 상단 광고 -->
+        <div id='header_ad1'>
+            <IFRAME WIDTH=285 HEIGHT=65 NORESIZE SCROLLING=No FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 SRC="http://adreal.dt.co.kr/RealMedia/ads/adstream_sx.ads/dt.co.kr/index@x02"></IFRAME>
+        </div>
+        <div id='header_ad2'>
+            <IFRAME WIDTH=285 HEIGHT=65 NORESIZE SCROLLING=No FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 SRC="http://adreal.dt.co.kr/RealMedia/ads/adstream_sx.ads/dt.co.kr/index@x03"></IFRAME>
+        </div>		
+
+    </div>
+    <!--// header -->
+
+
+    <!--패딩 추가-->
+    <div class='pd10'>
+
+
+        <!-- gnb -->
+        <div id="gnbbx"><div id="gnbbx2">
+            <!--<h2 class="blind">서비스 메뉴</h2>
+            <div class="allmn"><a class="ham" id='service_open' onClick='javascript:serviceOpen();' alt='서비스 전체보기' title='서비스 전체보기'>
+                    <div id='service_str'>전체</div>
+                </a></div>-->
+
+            <ul class="gnb">
+                <li class="first"><a href="http://www.dt.co.kr/section.html?section_num=2900" alt='뉴스' title='뉴스' >뉴스</a></li>
+                <li><a href="http://www.dt.co.kr/section.html?section_num=2400" alt='정치' title='정치' >정치</a></li>
+                <li><a href="http://www.dt.co.kr/section.html?section_num=2300" alt='국제' title='국제' >국제</a></li>
+                <li><a href="http://www.dt.co.kr/section.html?section_num=3200" alt='경제' title='경제' >경제</a></li>
+                <li><a href="http://www.dt.co.kr/section.html?section_num=2200" alt='산업' title='산업' >산업</a></li>
+                <li><a href="http://www.dt.co.kr/section.html?section_num=2000" alt='ICT과학' title='ICT과학' >ICT과학</a></li>
+                <li><a href="http://www.dt.co.kr/section.html?section_num=3100" alt='금융' title='금융' >금융</a></li>
+		<li><a href="http://www.dt.co.kr/section.html?section_num=3400" alt='산업' title='산업' >증권</a></li>
+		<li><a href="http://www.dt.co.kr/section.html?section_num=3500" alt='산업' title='산업' >부동산</a></li>
+                <li><a href="http://www.dt.co.kr/section.html?section_num=0300" alt='피플' title='피플' >피플</a></li>
+                <li><a href="http://www.dt.co.kr/starnews.html" alt='방송연예' title='방송연예' >방송연예</a></li>
+                <li><a href="http://www.dt.co.kr/opinion.html" alt='오피니언' title='오피니언' >오피니언</a></li>
+		<!--<li><a href="http://dm.dt.co.kr/" alt='포토' title='포토' ><img src="http://img.dt.co.kr/news/tit/menu_video.png" style="vertical-align:Text-top;"/>월드뉴스</a></li>-->
+		<!--<li><a href="http://www.dt.co.kr/starnews.html?gcd=3301" alt='포토' title='포토' ><img src="http://img.dt.co.kr/news/tit/menu_star.png" style="vertical-align:Text-top;"/>스타포토</a></li>-->
+		<li><a href="http://video.dt.co.kr/" alt='포토' title='포토' ><img src="http://img.dt.co.kr/news/tit/menu_video.png" style="vertical-align:Text-top;"/>동영상</a></li>
+            </ul>
+	<!-- http://img.dt.co.kr/images/tit_star.png / http://img.dt.co.kr/images/tit_video.png -->
+            <div class="etcmn">
+                <a href="http://www.dt.co.kr/article_list.html?gcd=1&scd=110&lcd=1603&fcd=31&se_code=3269" class="btn" alt='고견을 듣는다' title='고견을 듣는다' ><img alt="고견을 듣는다" src="http://img.dt.co.kr/news/tit/naver_box.png" height=16 style="vertical-align:middle;">&nbsp;&nbsp;에게 고견을 듣는다</a>
+            </div>
+
+            <div class="srchmn"><a href="javascript:searchLayer();" class="srch" alt='검색' title='검색'>검색</a></div>
+
+            <!-- 검색 박스 //-->
+<div class='gnb_srch' style='display:none;' id='search_box'>
+	<form class="cf" name=rssSearch method=get action="http://www.dt.co.kr/searchInfo.php" target="_blank" onSubmit="return DT2search(this);">
+	<fieldset>
+	<legend>통합검색</legend>
+		<div class='srch_wrap'>
+		<label for='s_keyword'><input type='text' title='검색어 입력' align='middle' class='text' name='qt' placeholder='통합검색' autocapitalize='off' autocomplete='off'></label>
+		</div>
+		<label for='search'><input type='submit' class='img' value='검색' onClick="javascript:DT1search(this.rssSearch);" /></label>
+		<a href='javascript:searchLayer();' class='btn_close'>닫기</a>
+	</fieldset>
+	</form>
+</div>
+        </div></div>
+        <!--// gnb -->
+</div>	
+
+
+
+
+			<div class='bk10'></div>
+
+                <!-- view top  -->
+                <div id='top_header' style="z-index:9999;">
+                    <div class='news_title'>
+					
+
+			<!-- MEDIA_404_DT_CO_KR_GRP_DEVICE:PC#기사페이지#UNIT:페이지상단 -->
+			<ins class="adsbyaiinad" data-aiinad-inv="22206930015"></ins>
+			<!-- 이디엘 20210112 [5] -->
+
+                        <div class='news_title_text'>
+                            <h1 class='top_title'>문대통령 "대한민국 대통령 최초로 국산 전투기 탑승해 영공을 날았습니다"</h1>
+                            <h2 class='sub_title1'></h2>
+                            <div class='news_title_author'>
+                                <ul>
+                                    <li class='author'><a href=' ' target=_blank>김광태 기자</a>&nbsp;
+									</li>
+                                    <li class='lasttime'>입력: 2021-10-20 16:24</li>
+                                </ul>
+                            </div>
+                            <div class='sns_right'>
+                                <ul>
+					
+
+<li><a href="javascript:ArticlePrt('2021102002109919607006');" data-category='share' data-label='print' onclick='sendPrint();'><img src='http://img.dt.co.kr/images/print.png' alt='프린트' width=42></a></li>
+<!--<li><a href='javascript:void(0);' data-category='share' data-label='email' onclick='sendMail();'><img src='http://img.dt.co.kr/news/skin/ic_email.jpg' alt='이메일'></a></li>-->
+<li><a href="javascript:sendSNS('fa');" data-category='share' data-label='facebook'><img src='http://img.dt.co.kr/images/facebook.png'  width=42 alt='페이스북' class='sns_section_li' sns_name='facebook'></a></li>
+<li><a href="javascript:sendSNS('tw');" data-category='share' data-label='twitter'><img src='http://img.dt.co.kr/images/twitter.png' alt='트위터' width=42 class='sns_section_li' sns_name='twitter'></a></li>
+<li><a href='https://story.kakao.com/share?url=http://m.dt.co.kr/contents.html?article_no=2021102002109919607006' target='_blank' data-category='share' data-label='twitter' class='kakaostoryShareBtn'><img src='http://img.dt.co.kr/images/kakaostory.png' width=42 alt='카카오스토리'></a></li>
+<!--<li><a href='javascript:void(0);' data-category='share' data-label='source' onclick='sendShareArt()'><img src='http://img.dt.co.kr/news/skin/ic_other.jpg' alt='공유'></a></li>-->
+
+								
+
+<script type="text/javascript" >
+	var sendUrl,currentUrl;
+	currentUrl = window.location.href;
+
+	function openSNS2(){
+		var winObj;
+		winObj = window.open('http://csp.cyworld.com/bi/bi_recommend_pop.php?url=http://www.dt.co.kr/contents.html?article_no=2021102002109919607006&title=66y464yA7Ya166C5ICLrjIDtlZzrr7zqta0g64yA7Ya166C5IOy1nOy0iOuhnCDqta3sgrAg7KCE7Yis6riwIO2DkeyKue2VtCDsmIHqs7XsnYQg64Kg7JWY7Iq164uI64ukIg%3D%3D&summary_nobase64=%0D%0A%09%09%09%09%09%26lt%3Bdiv+class%3D%26%23039%3Bimg_center%26%23039%3B+style%3D%26%23039%3Bwidth%3A+540px%3B%26%23039%3B+originw%3D%26%23039%3B540%26%23039%3B+originh%3D%26%23039%3B540%26%23039%3B%26gt%3B%0D%0A%0D%0A%09%09%09%09%09%26lt%3Bimg+src%3D%26%23039%3Bhttp%3A%2F%2Fcontents.dt.co.kr%2Fimages%2F202110%2F2021102002109919607006%5B1%5D.jpg%3Fvar%3D5539%26%23039%3B+border%3D%26%23039%3B0%26%23039%3B+hspace%3D%26%23039%3B0%26%23039%3B&summary=&corpid=66604732', 'recom_icon_pop', 'width=400,height=364,scrollbars=no,resizable=no');
+	}
+
+	function openSNS(openUrl) {
+		var winObj;
+		winObj = window.open(openUrl,"sendSNSWin","width=1024, height=800");
+	} 
+
+	//페이스북
+	function facebookOpen(url) {
+		var winObj;
+		winObj = window.open(url,"facebook","width=1024, height=800");
+		(new Image).src = "http://contents.dt.co.kr/images/202110/2021102002109919607006[2].jpg?var=5539";
+	}
+
+	function sendSNS(media) {
+		switch(media) {
+			case "tw"://트위터
+				sendUrl = "http://twitter.com/home?status=%22%EB%AC%B8%EB%8C%80%ED%86%B5%EB%A0%B9+%27%27%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD+%EB%8C%80%ED%86%B5%EB%A0%B9+%EC%B5%9C%EC%B4%88%EB%A1%9C+%EA%B5%AD%EC%82%B0+%EC%A0%84%ED%88%AC%EA%B8%B0+%ED%83%91%EC%8A%B9%ED%95%B4+%EC%98%81%EA%B3%B5%EC%9D%84+%EB%82%A0%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4%27%27%22 "+escape(currentUrl)+" @todaydt";
+				openSNS(sendUrl);
+				break;
+			case "me"://미투데이
+				sendUrl = "http://me2day.net/plugins/post/new?new_post[body]=%22%EB%AC%B8%EB%8C%80%ED%86%B5%EB%A0%B9+%27%27%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD+%EB%8C%80%ED%86%B5%EB%A0%B9+%EC%B5%9C%EC%B4%88%EB%A1%9C+%EA%B5%AD%EC%82%B0+%EC%A0%84%ED%88%AC%EA%B8%B0+%ED%83%91%EC%8A%B9%ED%95%B4+%EC%98%81%EA%B3%B5%EC%9D%84+%EB%82%A0%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4%27%27%22:"+escape(currentUrl)+" %0D%09%09%09%09%09%3Cdiv+class%3D%27img_center%27+style%3D%27width%3A+540px%3B%27+originw%3D%27540%27+originh%3D%27540%27%3E%0D%0D%09%09%09%09%09%3Cimg+src%3D%27http%3A%2F%2Fcontents.dt.co.kr%2Fimages%2F202110%2F2021102002109919607006%5B1%5D.jpg%3Fvar%3D5539%27+border%3D%270%27+hspace%3D%270%27&new_post[tags]=Digital Times NEWS";
+				openSNS(sendUrl);
+				break;
+			case "fa"://페이스북
+				sendUrl = "http://www.facebook.com/sharer.php?u="+escape(currentUrl)+"&t=%22%EB%AC%B8%EB%8C%80%ED%86%B5%EB%A0%B9+%27%27%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD+%EB%8C%80%ED%86%B5%EB%A0%B9+%EC%B5%9C%EC%B4%88%EB%A1%9C+%EA%B5%AD%EC%82%B0+%EC%A0%84%ED%88%AC%EA%B8%B0+%ED%83%91%EC%8A%B9%ED%95%B4+%EC%98%81%EA%B3%B5%EC%9D%84+%EB%82%A0%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4%27%27%22";
+				openSNS(sendUrl);
+				break;
+			case "go"://구글
+				sendUrl = "http://www.google.com/bookmarks/mark?op=add&title=%22%EB%AC%B8%EB%8C%80%ED%86%B5%EB%A0%B9+%27%27%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD+%EB%8C%80%ED%86%B5%EB%A0%B9+%EC%B5%9C%EC%B4%88%EB%A1%9C+%EA%B5%AD%EC%82%B0+%EC%A0%84%ED%88%AC%EA%B8%B0+%ED%83%91%EC%8A%B9%ED%95%B4+%EC%98%81%EA%B3%B5%EC%9D%84+%EB%82%A0%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4%27%27%22&bkmk="+escape(currentUrl)+"&labels=Digital Times NEWS";
+				openSNS(sendUrl);
+				break;
+			case "da"://다음 요즘
+				sendUrl = "http://yozm.daum.net/api/popup/prePost?prefix=%22%EB%AC%B8%EB%8C%80%ED%86%B5%EB%A0%B9+%27%27%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD+%EB%8C%80%ED%86%B5%EB%A0%B9+%EC%B5%9C%EC%B4%88%EB%A1%9C+%EA%B5%AD%EC%82%B0+%EC%A0%84%ED%88%AC%EA%B8%B0+%ED%83%91%EC%8A%B9%ED%95%B4+%EC%98%81%EA%B3%B5%EC%9D%84+%EB%82%A0%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4%27%27%22&sourceid=0&link="+escape(currentUrl)+"&meta=&key=&imgurl=&crossdomain=0&callback=";
+				openSNS(sendUrl);
+				break;
+			case "sa"://싸이 공감
+				openSNS2();
+				break;
+		}
+	}
+
+</script>
+
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--// view top -->
+				<!-- wing left -->
+                <div class='sns_mbox2' >
+                    <div class='sns_left2' id='sns_left2' style="left:-690px;">
+                        <ul>
+                            <li>
+				<!-- MEDIA_404_DT_CO_KR_GRP_DEVICE:PC#기사페이지#UNIT:좌측상단날개 -->
+				<ins class="adsbyaiinad" data-aiinad-inv="22207177846"></ins>
+				<!-- 이디엘 20210112 [1] -->
+				<br/>
+				<!-- MEDIA_404_DT_CO_KR_GRP_DEVICE:PC#기사페이지#UNIT:좌측하단날개 -->
+				<ins class="adsbyaiinad" data-aiinad-inv="22207003877"></ins>
+				<!-- 이디엘 20210112 [2] -->
+			    </li>
+                        </ul>
+                    </div>
+                </div>
+				<!-- wing left -->
+				<!-- wing right -->
+                <div class='sns_mbox2' >
+                    <div class='sns_left2' id='sns_left2' style="width:55%; left:690px; ">
+                        <ul style="text-align:right; float:right;">
+                            <li>
+				<!-- MEDIA_404_DT_CO_KR_GRP_DEVICE:PC#기사페이지#UNIT:우측상단날개 -->
+				<ins class="adsbyaiinad" data-aiinad-inv="22206928965"></ins>
+				<!-- 이디엘 20210112 [3] -->
+				<br/>
+				<!-- MEDIA_404_DT_CO_KR_GRP_DEVICE:PC#기사페이지#UNIT:우측하단날개 -->
+				<ins class="adsbyaiinad" data-aiinad-inv="22207178422"></ins>
+				<!-- 이디엘 20210112 [4] -->
+			    </li>	
+                        </ul>
+                    </div>
+                </div>
+				<!-- wing right -->
+
+                <!-- content -->
+                <div id='Content'>
+                    <!--  left contets -->
+                    <div class='left_content'>
+
+                        <div id='article_body' itemprop='articleBody'>
+                            <div class='art_txt'>
+				
+				
+
+				
+					<div class='img_center' style='width: 540px;' originw='540' originh='540'>
+
+					<img src='http://contents.dt.co.kr/images/202110/2021102002109919607006[1].jpg?var=5539' border='0' hspace='0' vspace='0' width='540' alt='문대통령 "대한민국 대통령 최초로 국산 전투기 탑승해 영공을 날았습니다"' title='문대통령 "대한민국 대통령 최초로 국산 전투기 탑승해 영공을 날았습니다"' ><br>
+					<figure><figcaption>문재인 대통령이 20일 경기도 성남시 서울공항에서 열린 2021 서울 국제 항공우주 및 방위산업 전시회 기념식에 FA-50 경공격기를 타고 참석하고 있다.  연합뉴스<br>
+<br>
+ </figcaption></figure>
+
+					</div>
+					<div class='img_center' style='width: 540px;' originw='540' originh='540'>
+
+					<img src='http://contents.dt.co.kr/images/202110/2021102002109919607006[2].jpg?var=5539' border='0' hspace='0' vspace='0' width='540' alt='문대통령 "대한민국 대통령 최초로 국산 전투기 탑승해 영공을 날았습니다"' title='문대통령 "대한민국 대통령 최초로 국산 전투기 탑승해 영공을 날았습니다"' ><br>
+					<figure><figcaption>문재인 대통령이 20일 2021 서울 국제 항공우주 및 방위산업 전시회 기념식 참석을 위해 국산 경공격기 FA-50으로 경기도 성남시 서울공항에 도착한 뒤 행사장으로 이동하고 있다.   연합뉴스<br>
+<br>
+ </figcaption></figure>
+
+					</div><div class='img_right' style='width: 336px;' originw='336' originh='280'>
+<!-- MEDIA_404_DT_CO_KR_GRP_DEVICE:PC#기사페이지#UNIT:본문내상단 -->
+<ins class="adsbyaiinad" data-aiinad-inv="22207179487"></ins>
+</div>문재인 대통령이 역대 대통령 중 처음으로 전투기에 탑승해 영공을 비행했다.<br>
+<br>
+문 대통령은 20일 성남 서울공항에서 열린 2021 서울 국제 항공우주 및 방위산업 전시회(ADEX) 개막식에 참석했다.<br>
+<br>
+문 대통령이 ADEX 행사에 참석한 것은 4년 만이다. 통상 대통령은 행사장 입구까지 차량으로 이동해 도보로 입장하는 것이 일반적이지만 이번은 달랐다.<br>
+<br>
+문 대통령은 이날 오전 수원 공군기지에서 최초의 국산 전투기인 FA50에 탑승해 천안과 서울 상공을 날아 서울공항에 내렸다. 문 대통령은 천안 독립기념관과 서울 현충원, 용산 전쟁기념관 상공을 비행했다.<br>
+<br>
+독립을 위해 희생한 애국선열을 기리는 마음과 민족을 위해 순국한 호국 영령에 대한 추모, 전쟁의 아픈 역사를 겪지 않겠다는 다짐과 한반도 평화를 염원하는 뜻이 담겼다는 게 청와대의 설명이다.<br>
+<br>
+문 대통령도 축사에서 "우리 기술로 개발한 FA50의 늠름한 위용을 직접 체감할 수 있었다"며 "FA50은 세계로 수출되고, 우리의 영공도 굳건히 지키고 있다"고 강조했다.<br>
+<br>
+문 대통령은 공군 비행관리 정책 규정상 탑승 절차를 준수하는 동시에 비행에 앞서 조종사와 비행계획, 항공장비 사용절차, 비상탈출 절차 등의 교육을 이수했다.<br>
+<br>
+청와대는 문 대통령의 비행을 위해 비상상황에 대비한 경호 및 복귀계획을 수립했다고 전했다.<br>
+<br>
+김광태기자 ktkim@dt.co.kr<br>
+<br>
+<a style='font-size:12px;'><br/>
+			<!-- 애드오피 -->
+<script src='https://compass.adop.cc/assets/js/adop/adopJ.js?v=14' ></script><ins class='adsbyadop' _adop_zon = '77a902e5-a8c5-44f0-a0c4-4cdfa5d15e20' _adop_type = 're' style='display:inline-block;width:728px;height:90px;' _page_url=''></ins>
+			<!-- 애드오피 -->
+			<br/>
+			<!-- 이디엘 20210112 바이라인하단 텍스트 5슬롯[p1] -->
+			<iframe src='//io1.innorame.com/imp/KQpLmykqkLEX.iframe' width='100%' height='165' allowTransparency = 'true' marginwidth='0' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling='no' style='width:822px;min-width:100%;position:relative;z-index:99999999999;'></iframe>
+			<!-- 이디엘 20210112 바이라인하단 텍스트 5슬롯[p1] -->
+				<br/>[저작권자 ⓒ디지털타임스 무단 전재-재배포 금지]
+
+                            </div>
+                        </div>
+
+<!-- adop 동영상 광고 -->
+<div id='ADOP_V_2SAPKLAnQc' style='height:0;'></div>
+<script src='https://compasscdn.adop.cc/js/adop_new_collapse_width100_0.0.1.js' data-id='ADOP_V_2SAPKLAnQc' data-width='640' data-height='360' data-type='re' data-zone='90f1afda-acb5-4b71-a12c-81be0710b558' data-fl='Y' data-margin='0,0,10,0' data-fl-width='300' data-loc='lb'></script>
+
+
+
+
+	<!-- 미디어와이즈 -->
+	<div id="adshow">
+		<script type='text/javascript' src='http://www.mediaview.co.kr/ad_Viewer.js'></script>
+	</div>
+	<!-- 미디어와이즈 -->
+	
+	<!-- 나우콜 20191113 페이지 느림 원인
+	<div  id="now-sence">
+	 <script src="http://script.nowcall.co.kr/nowsence/nsLiveNewsBanner.js" type="text/javascript"></script>     
+	 </div>
+	 나우콜 -->
+
+	<!-- 쉐어맥스 -->
+	<div id="share_banner" style="width:100% !important; max-width:100% !important;">
+	 <script language="javascript" src="http://newsping.kr/ShareMaxBanner.php"></script>
+	</div>
+	<!-- 쉐어맥스 -->
+
+	<!-- 리얼투데이 -->
+	<div  id="real2ad"><script type="text/javascript" src="http://www.realtoday.co.kr/_ad/ad_dt.js"></script></div>
+	<!-- 리얼투데이 --> 
+
+	<!-- 오픈프레스 -->
+	<script type='text/javascript' src='http://marketingking.co.kr/pr/ad.js'></script>
+	<!-- 오픈프레스 -->
+
+	<!-- 디알람 -->
+	<script type='text/javascript' src='//thealarm2018.cafe24.com/banner/banner13pc.js'></script>
+	<!-- 디알람 -->
+
+                        <div id='bottom_art'>
+			
+			<!-- 관련기사 -->
+			
+
+			<!-- 관련기사 -->
+
+			
+
+<div style='width:820px;'>
+	<div style='width:410px;float:left;text-align: center;'>
+		<!-- MEDIA_404_DT_CO_KR_GRP_DEVICE:PC#기사페이지#UNIT:바이라인하단좌측 -->
+		<ins class='adsbyaiinad' data-aiinad-inv='22207005725'></ins>
+	</div>
+
+	<div style='width:410px;float:left;text-align: center;'>
+		<!-- MEDIA_404_DT_CO_KR_GRP_DEVICE:PC#기사페이지#UNIT:바이라인하단우측 -->
+		<ins class='adsbyaiinad' data-aiinad-inv='22206930426'></ins>
+	</div>
+</div>
+
+<div style='width:820px; '>
+<center>
+<!-- 2.바이라인하단 삽입 스크립트 -->
+<!-- 2.바이라인하단 삽입 스크립트 -->
+<!-- 2.바이라인하단 삽입 스크립트 -->
+<ins class="adsbyaiinfeed" data-aiinfeed-inv="225"></ins>
+
+<!-- 2.바이라인하단 삽입 스크립트 -->
+<!-- 2.바이라인하단 삽입 스크립트 -->
+<!-- 2.바이라인하단 삽입 스크립트 -->
+</center>
+</div>
+
+			<!-- 타블라기사 -->
+			<div class="reple_box">
+			    <!--<h3>추천기사 </h3>
+			    <div class="recommend_box">-->
+				
+
+			<!-- 이디엘 타블라 -->
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+			<!-- 이디엘 타블라 -->
+
+
+			    <!--</div>-->
+			</div>
+			<!-- 타블라기사 -->
+
+                            <br><br>
+                        </div>
+                        <!--// bottom art -->
+                    </div>
+                    <!--// left contets -->
+                    <!-- right aside -->
+		<div class='right_aside'>
+			
+
+<!-- 뉴스부 요청 기간 : 2021.10.22(금)~ 2021.11.04(금) 
+<a href="https://www.nipa.kr/index.jsp" target="_blank"><img src="http://img.dt.co.kr/images/ben_nipa_20211022.jpg" width=100%/></a>
+<div class='bk40'></div>
+뉴스부 요청 기간 : 2021.10.22(금)~ 2021.11.04(금)   -->
+		
+
+			<!-- MEDIA_404_DT_CO_KR_GRP_DEVICE:PC#기사페이지#UNIT:우측상단 -->
+			<ins class="adsbyaiinad" data-aiinad-inv="22206930519"></ins>
+			<!-- 이디엘 20210112 [10] -->
+
+			<div class='bk40'></div>
+
+
+
+
+			<!-- 핫 이슈 -->
+			<div class='right_bx' >
+						<h2 class='h2_tit'>
+							<a href='#'><span class='tit'>핫 이슈!</span></a>
+						</h2><dl class='uberin'>
+				<dt class='ubin_box1' >
+				<a href='http://www.dt.co.kr/contents.html?article_no=2021101902109932036002' ><div class='thumb_img'><img src='http://contents.dt.co.kr/thum2/2021101902109932036002.jpg'  alt=' ' width='140' height='82''><span class='im_boder'></span></div></a>
+				<span class='ubin_txt'><a href='http://www.dt.co.kr/contents.html?article_no=2021101902109932036002' >서울 중소형 아파트 `초강세` 평균 7억원… 文정부초 1.9배</a></span>
+				</dt><dt class='ubin_box2' >
+				<a href='http://www.dt.co.kr/contents.html?article_no=2021101702109932036004' ><div class='thumb_img'><img src='http://contents.dt.co.kr/thum2/2021101702109932036004.jpg' alt=' ' width='140' height='82''><span class='im_boder'></span></div></a>
+				<span class='ubin_txt'><a href='http://www.dt.co.kr/contents.html?article_no=2021101702109932036004' >"부동산 대출 더 해줄테니 집값 떠 받치라는 거냐"…무주택자들 분노 폭발</a></span>
+				</dt>
+				</dl><dl class='uberin'>
+				<dt class='ubin_box1' >
+				<a href='http://www.dt.co.kr/contents.html?article_no=2021101502109932036002' ><div class='thumb_img'><img src='http://contents.dt.co.kr/thum2/2021101502109932036002.jpg'  alt=' ' width='140' height='82''><span class='im_boder'></span></div></a>
+				<span class='ubin_txt'><a href='http://www.dt.co.kr/contents.html?article_no=2021101502109932036002' >주택산업연구원 "文정부 부동산 규제 영향…헝다 파산해도 집값 폭락 안해"</a></span>
+				</dt><dt class='ubin_box2' >
+				<a href='http://www.dt.co.kr/contents.html?article_no=2021101502109932036001' ><div class='thumb_img'><img src='http://contents.dt.co.kr/thum2/2021101502109932036001.jpg' alt=' ' width='140' height='82''><span class='im_boder'></span></div></a>
+				<span class='ubin_txt'><a href='http://www.dt.co.kr/contents.html?article_no=2021101502109932036001' >"부동산 실패, 이젠 전정권 탓 못하겠네"…친문 커뮤니티, 단단히 뿔났다</a></span>
+				</dt>
+				</dl></div>
+			<div class='bk40'></div>
+			
+
+
+<!-- 광고국 요청 9월 13일부터 11월 12일까지 -->
+<a href="http://www.dt.co.kr/article_list.html?gcd=1&scd=110&lcd=1602&fcd=20&se_code=3582" target="_blank"><img src="http://img.dt.co.kr/images/ben_20210913_gisa_300x200.png" width=100%/></a>
+<div class='bk40'></div>
+<!-- 광고국 요청 9월 13일부터 11월 12일까지 -->
+
+
+
+
+
+			<!-- 외부 구글광고 베너 -->
+			<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+			<center><div id="tdn_s003_dt_ga01_pc_post_right_mid_btf_300x250"><script>
+			if(!(navigator.userAgent.match(/Mobile|iP(hone)|Android|BlackBerry|IEMobile|Kindle|NetFront|Silk-Accelerated|(hpw|web)OS|Fennec|Minimo|Opera M(obi|ini)|Blazer|Dolfin|Dolphin|Skyfire|Zune/))){
+			window.googletag = window.googletag || {cmd: []};
+			 googletag.cmd.push(function() {
+			 googletag.defineSlot('/21682743634,9438664/S003/dt/ga01/pc/post_right_mid_btf_300x250', [300, 250], 'tdn_s003_dt_ga01_pc_post_right_mid_btf_300x250').addService(googletag.pubads().set('page_url', '//www.dt.co.kr'));
+			 googletag.enableServices(); googletag.display('tdn_s003_dt_ga01_pc_post_right_mid_btf_300x250'); }); }
+			</script></div></center>
+			<!-- 외부 구글광고 베너 -->                                 
+			<div class='bk40'></div>
+
+			
+
+
+			<!-- 광고국 배너 9월 17일 -->
+			<a href="https://www.familie.co.kr/" target="_blank"><img src="http://img.dt.co.kr/images/ben_sindonga.jpg" /></a>
+			<div class='bk40'></div>
+			<!-- 광고국 배너 9월 17일 -->			
+
+
+
+
+			<!-- 아인플레닛 PC 우측사이드 중간 삽입 코드 -->
+			<!-- 아인플레닛 PC 우측사이드 중간 삽입 코드 -->
+			<!-- 아인플레닛 PC 우측사이드 중간 삽입 코드 -->
+			<ins class="adsbyaiinfeed" data-aiinfeed-inv="226"></ins>
+			<!-- 아인플레닛 PC 우측사이드 중간 삽입 코드 -->
+			<!-- 아인플레닛 PC 우측사이드 중간 삽입 코드 -->
+			<!-- 아인플레닛 PC 우측사이드 중간 삽입 코드 -->
+			<div class='bk40'></div>
+
+
+
+			<!-- AD Plus Script Start (디지털타임스 브랜드배너 7타입) 4월 1일 부터 6월 30일까지 
+			<script language="javascript" src="http://adimg.wisenut.co.kr/common/js/amc/wiseAdSvc.pj?code=117fb210f55af9b9f2a4883e67da48f1" type="text/javascript"></script>
+			 AD Plus Script End -->
+
+
+
+
+			<!-- MEDIA_404_DT_CO_KR_GRP_DEVICE:PC#기사페이지#UNIT:우측중간1 -->
+			<ins class="adsbyaiinad" data-aiinad-inv="22206930576"></ins>
+			<!-- 이디엘 20210112 [11] -->
+			<div class='bk40'></div>
+			
+
+
+			<center>
+			<IFRAME WIDTH=280 HEIGHT=140 NORESIZE SCROLLING=No FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 SRC="http://adreal.dt.co.kr/RealMedia/ads/adstream_sx.ads/dt.co.kr/index@Right1" ></IFRAME>
+			</center>
+			<div class='bk40'></div>
+
+			<!-- 이시간 핫 이슈 -->
+			<div class='right_bx' >
+						<h2 class='h2_tit'>
+							<a href='#'><span class='tit'>이 시간 핫클릭</span></a>
+						</h2><dl class='uberin'>
+				<dt class='ubin_box1' >
+				<a href='http://www.dt.co.kr/contents.html?article_no=2021101902109958079008' ><div class='thumb_img'><img src='http://contents.dt.co.kr/thum2/2021101902109958079008.jpg'  alt=' ' width='140' height='82''><span class='im_boder'></span></div></a>
+				<span class='ubin_txt'><a href='http://www.dt.co.kr/contents.html?article_no=2021101902109958079008' >침묵 깬 김정화, 이재명 저격 “곧 전과 5범될 ‘그분’…썩은 내가 진동”[전문]</a></span>
+				</dt><dt class='ubin_box2' >
+				<a href='http://www.dt.co.kr/contents.html?article_no=2021101902109958079002' ><div class='thumb_img'><img src='http://contents.dt.co.kr/thum2/2021101902109958079002.jpg' alt=' ' width='140' height='82''><span class='im_boder'></span></div></a>
+				<span class='ubin_txt'><a href='http://www.dt.co.kr/contents.html?article_no=2021101902109958079002' >침묵 깬 김소연 변호사, ‘4·15 부정선거론’ 띄웠다…“발작하는 자가 범인”</a></span>
+				</dt>
+				</dl><dl class='uberin'>
+				<dt class='ubin_box1' >
+				<a href='http://www.dt.co.kr/contents.html?article_no=2021101902109958051001' ><div class='thumb_img'><img src='http://contents.dt.co.kr/thum2/2021101902109958051001.jpg'  alt=' ' width='140' height='82''><span class='im_boder'></span></div></a>
+				<span class='ubin_txt'><a href='http://www.dt.co.kr/contents.html?article_no=2021101902109958051001' >안철수 "광기어린 조커 이재명 앞 무기력한 국힘, 스스로를 고소고발하라"</a></span>
+				</dt><dt class='ubin_box2' >
+				<a href='http://www.dt.co.kr/contents.html?article_no=2021101802109958027001' ><div class='thumb_img'><img src='http://contents.dt.co.kr/thum/99/2021101802109958027001_99_22.jpg' alt=' ' width='140' height='82''><span class='im_boder'></span></div></a>
+				<span class='ubin_txt'><a href='http://www.dt.co.kr/contents.html?article_no=2021101802109958027001' >홍남기 "글로벌 기술패권 경쟁…선제적 기술확보·기술안전망 구축 시급"</a></span>
+				</dt>
+				</dl></div>
+			<div class='bk40'></div>
+			
+
+
+
+
+			<!-- 이디엘 20210112 우우측 중단 썸네일 4개   [p2] -->
+			<iframe src="//io1.innorame.com/imp/bLzkQykqkLEX.iframe" width="100%" height="342" allowTransparency = "true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" style="width:340px;min-width:100%;position:relative;z-index:99999999999;"></iframe>
+			<!-- 이디엘 20210112 우우측 중단 썸네일 4개   [p2] -->
+
+			<div class='bk40'></div>
+
+
+
+
+			<!-- 많이 본 기사 -->
+			<div class='aside1'>
+			    <div class='many_art_tit'>
+				<h3>가장 많이 본 기사</h3>
+			    </div>
+			    <div class='manyart_box'>
+				    <script src="http://rank.dt.co.kr/js/incm201903_section24_popular.js"></script>
+			    </div>
+			</div>
+			<!-- 많이 본 기사 -->
+			<div class='bk40'></div>
+
+			<!-- MEDIA_404_DT_CO_KR_GRP_DEVICE:PC#기사페이지#UNIT:우측중간2 -->
+			<ins class="adsbyaiinad" data-aiinad-inv="22206931338"></ins>
+			<!-- 이디엘 20210112 우측중간21 300*600   [12] -->
+			<div class='bk40'></div>
+			
+			<!-- 문화일보 -->
+			<div class='aside1'><div class='many_art_tit'><h3>문화일보 <font style='color:red;'>핫 뉴스</font></h3></div><div class='manyart_box'><dl class='bestclick_art'><dt><span class='num'>1</span><a href="http://www.munhwa.com/news/view.html?no=2021102001032421079002&naver=mh " target='_blank'>코로나 영업손실 80% 보상… 사전정산 동의 땐 증빙 없이 바로 준다</a></dt></dl>
+<dl class='bestclick_art'><dt><span class='num'>2</span><a href="http://www.munhwa.com/news/view.html?no=20211020MW204906385608&naver=mh " target='_blank'>자몽 크기 우박 ‘후드득’… 16㎝ 관측 이래 최대</a></dt></dl>
+<dl class='bestclick_art'><dt><span class='num'>3</span><a href="http://www.munhwa.com/news/view.html?no=2021102001031512069001&naver=mh " target='_blank'>“금세 잊혀 설 무대 없었다”… 절박함에 또 나온 오디션 우승자들</a></dt></dl>
+<dl class='bestclick_art'><dt><span class='num'>4</span><a href="http://www.munhwa.com/news/view.html?no=20211020MW191927221588&naver=mh " target='_blank'>독도 인근 전복 사고해역에 함정·헬기 급파…특수구조대 투입</a></dt></dl>
+<dl class='bestclick_art'><dt><span class='num'>5</span><a href="http://www.munhwa.com/news/view.html?no=20211020MW175342795824&naver=mh " target='_blank'>쌍용차 새주인 후보에 에디슨모터스…사실상 우선협상대상자 선정</a></dt></dl>
+</div></div>
+			<div class='bk40'></div>
+			<!-- 문화일보 -->
+			
+
+
+			<!-- 이디엘 20210112 우측 하단 텍스트 10슬롯     [p3] -->
+			<iframe src="//io1.innorame.com/imp/ym8OpAkqkLEX.iframe" width="100%" height="676" allowTransparency = "true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" style="width:340px;min-width:100%;position:relative;z-index:99999999999;"></iframe>
+			<!-- 이디엘 20210112 우측 하단 텍스트 10슬롯     [p3] -->
+			<div class='bk40'></div>
+
+			<!-- MEDIA_404_DT_CO_KR_GRP_DEVICE:PC#기사페이지#UNIT:우측하단1 -->
+			<ins class="adsbyaiinad" data-aiinad-inv="22207006751"></ins>			
+			<!-- 이디엘 20210112 [13] -->
+			<div class='bk40'></div>
+
+
+
+				
+				
+				<div class='bk40'></div>
+				<center>
+				<IFRAME WIDTH=280 HEIGHT=140 NORESIZE SCROLLING=No FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 SRC="http://adreal.dt.co.kr/RealMedia/ads/adstream_sx.ads/dt.co.kr/index@Right2" ></IFRAME>
+				</center>
+				<div class='bk40'></div>
+
+				<!-- 핫포토 
+				<div class='aside1'>
+				<div class='many_art_tit' style='margin-bottom:20px'>
+				    <h3>HOT 포토</h3>
+				</div>
+					<iframe id='xy_inc_todayPhoto' width='300' height='300' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://www.dt.co.kr/enter_photo.html?section=hot' title='포토'></iframe>
+				</div>-->
+
+
+				<!-- MEDIA_404_DT_CO_KR_GRP_DEVICE:PC#기사페이지#UNIT:우측하단2 -->
+				<ins class="adsbyaiinad" data-aiinad-inv="22206931467"></ins>
+				<!-- 이디엘 20210112 [14] -->
+				<div class='bk40'></div>
+
+
+</div>
+
+                </div>
+                <!--// content -->
+
+
+
+
+
+
+	<!-- 공통 하단 -->
+	<!-- footer -->
+<div id="footer">
+    <div class="inbox">
+            <div class='pd10'></div>
+        <div class="foot_sec1"><a href='http://www.dt.co.kr'><img src='http://img.dt.co.kr/news/skin/logo_b_bottom.jpg' alt='디지털타임스'></a></div>
+        <div class="foot_sec2">
+            <ul class="footer_u">
+		<li class='first'><a href="http://company.dt.co.kr/" target="_blank">회사소개</a></li>
+		<li><a href="http://company.dt.co.kr/index.html?lcd=303" target="_blank">고충처리</a></li>
+		<li><a href='https://membership3.dt.co.kr/newspaper/?lcd=204' target="_blank">구독신청</a></li>
+		<li><a href='http://company.dt.co.kr/?lcd=203' target="_blank">사업제휴</a></li>
+		<li><a href="http://company.dt.co.kr/?lcd=203" target="_blank">콘텐츠제휴</a></li>
+		<li><a href="http://company.dt.co.kr/?lcd=205" target="_blank">광고안내</a></li>
+		<li><a href='http://company.dt.co.kr/?lcd=301' target="_blank">개인정보취급방침</a></li>
+		<li><a href='http://company.dt.co.kr/?lcd=305' target="_blank">청소년보호정책(책임자 : 손치배)</a></li>
+		<li class='last'><a href='http://www.dt.co.kr/eyescrap/' target="_blank">지면보기</a></li>
+            </ul>
+            <ul class="footer_u">
+		<li class='first'>서울특별시 중구 새문안로22</li>
+		<li >☎ 02) 3701-5500</li>
+		<li >등록번호 : 서울 아01699</li>
+		<li >등록일자 : 2011.07.15</li>
+		<li >발행일 : 2000.03.03</li>
+		<li class='last'>발행인/편집인 : 박학용</li>
+            </ul>
+            <ul class="footer_u add_area">
+                 <li class='last'>THE DIGITALTIMES Copyright ⓒ The DigitalTimes. All Rights Reserved. ☎ 02) 3701-5500 Please forward any comment to webmaster</li>
+            </ul>
+        </div>
+        
+    </div>
+</div>
+<!--// footer -->
+
+
+
+
+</div>
+
+
+
+
+<script type='text/javascript' src='./js/view.js'></script>
+<script type='text/javascript' src='./js/util.js'></script>
+
+			<!-- 이디엘 타블라 -->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+			<!-- 이디엘 타블라 -->
+
+</body>
+</html>

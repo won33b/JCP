@@ -1,0 +1,541 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko">
+<head>
+<title>[단독]“초과이익 환수 조항, 문서상 삭제 맞다” 檢 진술 확보-국민일보</title>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=1120px" />
+<meta name="title" content="[단독]“초과이익 환수 조항, 문서상 삭제 맞다” 檢 진술 확보" />
+
+<meta name="description" content="국민일보" />
+<meta name="keywords" content="국민일보, kmib" />
+<meta property="fb:pages" content="118992638190529" />
+
+<meta property="og:title" content="[단독]“초과이익 환수 조항, 문서상 삭제 맞다” 檢 진술 확보" />
+<meta property="og:type" content="article">
+<meta property="og:image" content="http://image.kmib.co.kr/online_image/2021/1020/2021102018383375180_1634722713_0016382766.jpg" />
+<meta property="og:image:width" content="640" />
+<meta property="og:image:height" content="515" />
+<meta property="og:description" content="대장동 개발사업 실무에 참여한 성남도시개발공사(공사) 관계자가 “‘초과이익환수’ 조항은 문서상으로 보면 삭제된 것이 맞다”고 국민일보에 밝혔다. 그는 " />
+<meta property="og:url" content="http://news.kmib.co.kr/article/view.asp?arcid=0016382766" />
+<meta property="og:site_name" content="국민일보" />
+<meta property="og:article:author" content="국민일보">
+
+<meta property="article:section" content="사회" />
+<meta property="article:published_time" content="2021-10-20T18:40:00+09:00" />
+
+<meta property="dable:item_id" content="0016382766" />
+<meta property="dable:author" content="박성영,구승은" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="[단독]“초과이익 환수 조항, 문서상 삭제 맞다” 檢 진술 확보" />
+<meta name="twitter:description" content="대장동 개발사업 실무에 참여한 성남도시개발공사(공사) 관계자가 “‘초과이익환수’ 조항은 문서상으로 보면 삭제된 것이 맞다”고 국민일보에 밝혔다. 그는 " />
+<meta name="twitter:image" content="http://image.kmib.co.kr/online_image/2021/1020/2021102018383375180_1634722713_0016382766.jpg" />
+
+<link rel="amphtml" href="http://m.kmib.co.kr/view_amp.asp?arcid=0016382766">
+
+<link rel="apple-touch-icon-precomposed" href="http://news.kmib.co.kr/images/kmib_favicon120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://news.kmib.co.kr/images/kmib_favicon180x180.png">
+<link rel="shortcut icon" href="http://news.kmib.co.kr/images/kmib_favicon.ico" type="image/x-icon" />
+<link rel="icon" href="http://news.kmib.co.kr/images/favicon.png" type="image/png" />
+
+<script src="http://www.kmib.co.kr/js/jquery1_11.js"></script>
+
+<script type="text/javascript" src="http://www.kmib.co.kr/js/common.js?v=190308"></script>
+<script type="text/javascript" src="http://www.kmib.co.kr/js/slick.min.js"></script>
+<script type="text/javascript" src="http://news.kmib.co.kr/js/article_common.js?ver=20160704"></script>
+<script type="text/javascript" src="http://news.kmib.co.kr/js/sub_font.js?ver=20140616"></script>
+<script type="text/javascript" src="http://news.kmib.co.kr/script/km_util.js?v=20170804"></script>
+<link rel="stylesheet" href="http://www.kmib.co.kr/css/common.css?v=200331">
+<link type="text/css" href="http://news.kmib.co.kr/css/article.css?v=210830" rel="stylesheet">
+
+<script type="text/javascript">
+$(document).ready(function(){
+	var current_pic_idx = 0;
+
+	var gisaPicList = $(".pic>div");
+	var gisaPicLength = gisaPicList.length;
+	if (gisaPicLength>1)
+	{
+		$(".preimg").click(function () {view_gisa_image("p");});
+		$(".nextimg").click(function () {view_gisa_image("n");});
+	}
+
+	function view_gisa_image(dic)
+	{
+		if (current_pic_idx==0 && dic=="p")
+		{
+			return false;
+		}
+		if (current_pic_idx==gisaPicLength-1 && dic=="n")
+		{
+			return false;
+		}
+		if (dic=="p")
+		{
+			current_pic_idx = current_pic_idx - 1
+		}
+		else if (dic=="n")
+		{
+			current_pic_idx = current_pic_idx + 1
+		}
+		else
+		{
+			return false;
+		}
+		gisaPicList.each(function(index){
+			if (current_pic_idx==$(this).index())
+			{
+				$(this).show();
+				$(".morepic>img").eq($(this).index()).attr("src","/images/img_pic_on.gif");
+			}
+			else
+			{
+				$(this).hide();
+				$(".morepic>img").eq($(this).index()).attr("src","/images/img_pic_off.gif");
+			}
+		});
+	}
+
+	/* 상단 롤링 */
+	var timgnwsTimer;
+	var timgnwsObj = $("div.timgnws_inner>div.b_area>ul>li");
+	if (timgnwsObj.length>4)
+	{
+		timgnwsTimer = setInterval(function(){rollingTimgnws()}, 3000);
+		$("div.timgnws_inner>div.btn_area>a.prev").click(function(){
+			clearInterval(timgnwsTimer);
+			$("div.timgnws_inner>div.b_area>ul>li").eq(timgnwsObj.length-1).prependTo($("div.timgnws_inner>div.b_area>ul"));
+			timgnwsTimer = setInterval(function(){rollingTimgnws()}, 3000);
+		});
+		$("div.timgnws_inner>div.btn_area>a.next").click(function(){
+			clearInterval(timgnwsTimer);
+			$("div.timgnws_inner>div.b_area>ul>li").eq(0).appendTo($("div.timgnws_inner>div.b_area>ul"));
+			timgnwsTimer = setInterval(function(){rollingTimgnws()}, 3000);
+		});
+		$("div.timgnws_inner>div.b_area>ul>li").mouseover(function(){
+			clearInterval(timgnwsTimer);
+		});
+		$("div.timgnws_inner>div.b_area>ul>li").mouseout(function(){
+			timgnwsTimer = setInterval(function(){rollingTimgnws()}, 3000);
+		});
+	}
+
+	function rollingTimgnws()
+	{
+		$("div.timgnws_inner>div.b_area>ul>li").eq(0).appendTo($("div.timgnws_inner>div.b_area>ul"));
+	}
+
+	/* 실시간뉴스 */
+	var topH = $("div.sub_content").offset().top;
+	$(window).scroll(function() {
+		var currentPos = $(document).scrollTop();
+		if (currentPos>326)
+		{
+			$("#aside_news").stop().animate({"top" : currentPos-topH}, 500);
+		}
+		else
+		{
+			$("#aside_news").stop().animate({"top" : "0" }, 500);
+			// $("#aside_news").stop().animate({"top" : $("div.sub_header").height()}, 500);
+		}
+		if ($(document).scrollTop()+window.innerHeight<$('#footer').offset().top)
+		{
+			$('#aside_news').removeClass("btmStop");
+		}
+		else
+		{
+			$('#aside_news').addClass("btmStop");
+		}
+	});
+
+});
+
+function resizeImage(url)
+{
+	var imgObj = new Image();
+	imgObj.src = url;
+	if(imgObj.width <= 300)
+	{
+		$("#article").removeClass("nws_arti");
+		$("#article").addClass("nws_arti2");
+	}
+}
+
+//이미지 크게 보기 스크립트
+function show_large_image(imgUrl, imgW, imgH)
+{
+	var img_path = imgUrl.replace("http://", "").split("/");
+	var img_year, img_date, img_name, l_img_win;
+	if (img_path.length!=5)
+	{
+		return false;
+	}
+	img_year = img_path[2];
+	img_date = img_path[3];
+	img_name = img_path[4];
+
+	var pop_url = "view_large_img.asp?iy="+img_year+"&id="+img_date+"&im="+img_name;
+	var pop_width, pop_height;
+	pop_width = parseInt(imgW)+10;
+	pop_height = parseInt(imgH);
+	window.open(pop_url, "l_img_pop", "width="+pop_width+",height="+pop_height+",menubar=0,resizeble=1,scrollbars=1,status=0,titlebar=0,toolbar=0");
+	return false;
+}
+
+    function copy_play() {
+        if (window.event) {
+            window.event.returnValue = true;
+            window.setTimeout('capy_plus()', 25);
+        }
+    }
+
+    function capy_plus() {
+        if (window.clipboardData) {
+            var txt = window.clipboardData.getData('Text');
+            var retUrl = document.URL;
+
+            txt = txt + '\r\n출처: 국민일보 \r\n' + '원본링크: ' + retUrl;
+            var result = window.clipboardData.setData('Text', txt);
+        }
+    }
+
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1915171102083311');
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" src="https://www.facebook.com/tr?id=1915171102083311&ev=PageView&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- TABOOLA -->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/kmib/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+<!-- TABOOLA -->
+
+<style>
+.ms_mailing{clear: both;background: #edd3b2 url('http://www.kmib.co.kr/mission/image/img_ms_mailingtop2.jpg?v=200715') 0 0px no-repeat;padding:12px 12px;width: 460px;border: 2px solid #deb178;margin: 0 auto;}
+.ms_mailing h2{margin:6px 0 10px 210px;font-size: 22px;font-weight: 500;letter-spacing: -0.0733em;color: #764f1f;font-family: "Noto Sans KR", "Malgun Gothic", "맑은 고딕", Dotum, 돋움, sans-serif !important;}
+.ms_mailing p{background: #fffdf5;color:#525252;border:3px solid #ebc89d;padding:10px;font-size:14px;font-weight: 400;letter-spacing: -0.07888em;line-height: 18px;font-family: "Malgun Gothic", "맑은 고딕", Dotum, 돋움, sans-serif !important;text-align:center;}
+.ms_mailing p strong{color: #734918;font-size: 14px;font-weight: 500;}
+.ms_mailing_btn{text-align: center;margin:10px auto 0px;}
+.ms_mailing_btn a{display: inline-block;height: 30px;line-height: 28px;font-size: 15px;font-weight: 700;letter-spacing: -0.054em;text-align: center;padding:0 10px;}
+.ms_mailing_btn a.btn_sample{background: #494949;color: #f0edda;}
+.ms_mailing_btn a.btn_request{background: #883912;color: #fff;}
+
+.sub_content{position: relative;}
+#aside_news{position: absolute;top:0px;width: 200px;left:50%;margin-left:565px;padding-top:15px;}
+.btmStop{top:auto !important;bottom:0;}
+.aside_news_inner{border-left:1px solid #aaa;padding:10px 0 0px 15px;}
+#aside_news h4{margin-bottom:15px;font-size: 18px;letter-spacing: -0.0733em;}
+#aside_news ul{margin-bottom: 10px;}
+#aside_news li{position: relative;padding-bottom: 10px;}
+#aside_news li span.bar{display: block;border-radius:50%;width: 6px;height: 6px;background: #fff;border:1px solid #666;position: absolute;left: -19px;top: 7px;}
+#aside_news	li a{display: block;font-weight: bold;font-size: 13px;line-height:1.5;letter-spacing: -0.07333em;color: #444;width: 100%;overflow: hidden;text-overflow: ellipsis;max-height: 40px;display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;}
+#aside_news li:nth-child(5n+5){border-bottom:1px solid #bbb;margin-bottom: 15px;padding-bottom: 15px;}
+#aside_news li:last-child{border: none;}
+.aside_news_fixed {position:fixed !important;left:1571px;bottom:0}
+
+/*210510추가*/
+.ms_subscribe>div{float: left;width: 49%;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;}
+.ms_subscribe:after{clear: both;display: block;content: '';}
+.ms_subscribe>div:nth-child(1){margin-right:1%;background: #edd3b2 url('http://www.kmib.co.kr/mission/image/img_ms_mailingtop3.jpg') 0 0px no-repeat !important;}
+.ms_subscribe>div:nth-child(1) h2{text-indent: -999px;}
+.ms_subscribe>div:nth-child(2){margin-left:1%;}
+.ms_subscribe>div:nth-child(2) img{width: 372px;height: 180px;}
+</style>
+
+</head>
+<body>
+<div id="wrap">
+
+<!-- header -->
+
+<script src="http://www.kmib.co.kr/js/header.js?v=210506"></script>
+
+<!-- //header -->
+
+<div id="container">
+<!-- content -->
+<div id="content">
+	<div id="sub">
+		<div class="sub_header">
+
+
+			
+
+			<!-- 기사 상단 -->
+			<div class="nwsti_inner">
+				<!-- 경로-->
+				<div class="locabar">
+					<h2>
+						<!--a href="list.asp?sid1=mis">교계뉴스</a-->
+						
+						<a href="list.asp?sid1=all">시사</a>
+						
+						<span class="img_cmn"></span>
+					</h2>
+					<p class="loca">
+						<!--a href="list.asp?sid1=mis">미션</a><span>&gt;</span><a href="list.asp?sid1=chr">교계뉴스</a-->
+						
+						<a href="list.asp?sid1=all">시사</a><span>
+						
+						&gt;
+						
+						<a href="list.asp?sid1=soc">사회</a>
+						
+					</p>
+				</div>
+				<!-- //경로 -->
+				<!-- 타이틀 -->
+				<div class="nwsti">
+				<h3>[단독]“초과이익 환수 조항, 문서상 삭제 맞다” 檢 진술 확보</h3>
+				
+				<h4>사업협약서에서 지워진 경위 조사 중<br>“환수 조항, 넣었다가 빠져”</h4>
+				
+				<div class="nwsti_btm">
+				<div class="date"><strong>입력 : </strong> <span class="t11">2021-10-20 18:40</span><em class="bar">/</em><strong>수정 :</strong> <span class="t11">2021-10-20 20:53</span> </div>
+				<div class="btn_area">
+					<ul>
+						<li><iframe src="//www.facebook.com/plugins/like.php?href=http%3A//news.kmib.co.kr/article/view.asp%3Farcid%3D0016382766%26code%3D61121111%26sid1%3Dsoc%26cp%3Dnv2&layout=button_count&show_face=falseaction=like&share=false" scrolling="no" frameborder="0" width="92" height="22" class="mt5 mr5" allowtransparency="true"></iframe></li>
+						<li><a href="javascript:getShortUrl_new('t','http%3A//news.kmib.co.kr/article/view.asp%3Farcid%3D0016382766%26code%3D61121111%26sid1%3Dsoc%26cp%3Dnv2','[단독]“초과이익 환수 조항, 문서상 삭제 맞다” 檢 진술 확보','0016382766');" class="img_cmn btn_tw">트위터로 퍼가기</a></li>
+						<li><a href="javascript:getShortUrl_new('f','http%3A//news.kmib.co.kr/article/view.asp%3Farcid%3D0016382766%26code%3D61121111%26sid1%3Dsoc%26cp%3Dnv2','[단독]“초과이익 환수 조항, 문서상 삭제 맞다” 檢 진술 확보','0016382766');" class="img_cmn btn_fb">페이스북으로 퍼가기</a></li>
+						<li><a href="javascript:getShortUrl_new('g','http%3A//news.kmib.co.kr/article/view.asp%3Farcid%3D0016382766%26code%3D61121111%26sid1%3Dsoc%26cp%3Dnv2','[단독]“초과이익 환수 조항, 문서상 삭제 맞다” 檢 진술 확보','0016382766');" class="img_cmn btn_google">구글로 퍼가기</a></li>
+						<li class="print"><a href='javascript:printWin("0016382766");' class="img_cmn btn_print">인쇄하기</a></li>
+						<li class="mg0"><a href="javascript:fontPlus();" class="img_cmn btn_zoom_in">글자 크게</a></li>
+						<li class="mg0"><a href="javascript:fontMinus();" class="img_cmn btn_zoom_out">글자 작게</a></li>
+					</ul>
+				</div>
+				</div>
+				</div>
+				<!-- //기사 타이틀 -->
+			</div>
+			<!-- //기사 상단 -->
+	</div>
+
+	<div class="sub_content" >
+	<!-- NwsCon 전체 시작 -->
+	<div class="NwsCon">
+
+
+		<!-- nws_arti 시작 -->
+			
+			<div id="article" class="nws_arti">
+				
+				<div class="tx" id="articleBody" itemprop="articleBody">
+			
+				<!-- 기사 내용 -->
+
+					<div align="center"><figure style="display:table;"><img width="100%" alt="" src="http://image.kmib.co.kr/online_image/2021/1020/2021102018383375180_1634722713_0016382766.jpg" style="display:block;"><figcaption style="text-align:left !important; display:table-caption; caption-side:bottom;">화천대유 대주주 김만배(왼쪽)씨와 남욱 변호사가 20일 서울 서초구 서울중앙지검에 재소환돼 출석하고 있다. 연합뉴스</figcaption></figure></div><br>대장동 개발사업 실무에 참여한 성남도시개발공사(공사) 관계자가 “‘초과이익환수’ 조항은 문서상으로 보면 삭제된 것이 맞다”고 국민일보에 밝혔다. 그는 검찰 조사에서 이 조항이 “(오전) 10시에는 들어가 있었고 (오후) 5시에는 빠졌다”고 진술했다.<br><br>이는 이재명 경기지사가 “삭제한 게 아니고 일선 직원의 건의를 받아들이지 않은 것”이라고 설명한 것과 어느 정도 배치된다. 화천대유자산관리(화천대유) 등 민간 사업자의 이익을 뒷받침한 해당 조항이 누락된 이유가 ‘삭제’인지, ‘미채택’인지 여부는 배임죄 성립 문제와 직결된다.<br><br>20일 국민일보 취재를 종합하면 서울중앙지검 대장동 의혹 사건 전담수사팀(팀장 김태훈 차장검사)은 공사 관계자로부터 “초과이익환수 조항을 넣었다가 이후 빠진 것이 맞다”는 취지의 진술을 확보했다.<br><br>이 관계자는 “삭제였느냐 미채택이었냐 하는 부분에서 다른 시각이 있을 수는 있을 것”이라고 전제하면서도 “제 입장에서 이야기를 한다면 ‘기안에 있던 내용이 이후 삭제됐고 다시 올린 것’이었다”고 말했다. 그는 이 7시간여 사이 조항을 삭제한 윗선이나 경위는 알지 못한다고 했다.<br><br>2015년 5월 27일 오전 공사 개발사업1팀은 우선협상대상자였던 성남의뜰컨소시엄과 협의한 뒤 사업협약서 초안을 마련했고, 전략사업실에 보내 검토를 요청했다. 협약서 초안은 “평당 1400만원을 상회하는 분양이 이뤄질 경우 초과이익을 나눠야 한다”는 취지의 별도 조항이 부서 의견으로 첨부된 형태였다고 한다. 하지만 7시간 뒤 해당 조항은 사업협약서에서 빠졌다.<br><br>검찰은 민간사업자 초과이익을 환수하자는 건의가 사업 설계 중 적어도 2차례 있었다고 보고 건의가 받아들여지지 않은 경위를 파악해 왔다. 공모지침 공개 이전인 2015년 2월에도 개발사업1팀, 2팀에서 각각 “택지 조성이 오래 걸릴 수 있고, 부동산 경기가 좋아질 수 있다”며 “초과이익을 환수해야 한다”는 문서와 수기를 전략사업실에 보낸 것으로 전해졌다.<br><br>검찰은 확보한 문서들의 상신 및 결재 과정, ‘삭제’ 진술 등을 묶어 대장동 사업협약이 성남시의 피해를 낳았다고 판단했다. 유동규(구속) 전 공사 기획본부장, 김만배씨에 대한 구속영장 청구서에는 배임 액수를 정확히 특정하진 않았지만 수천억원에 달한다는 내용을 담았다.<br><br>검찰은 공사 내부에서 해당 조항이 건의되고 삭제되는 시기를 전후해 대장동 의혹에 얽힌 핵심 관계자들의 자금흐름도 추적하는 중이다.<br><br>애초 공모지침에 없던 초과이익환수 조항이 사업협약서에 갑자기 쓰일 수 있느냐는 반론도 제기된다. 하지만 2015년 2월 공고된 공모지침에는 “공사와 민간사업자는 사업기간 종료시점의 총수익금에 대해 사업협약 시 정한 방법으로 배분한다”고 명시돼 있다.<br><br>이 지사는 삭제 논란에 대해 “당시 상황을 정확히 알지 못하고, 언론보도를 보고 추론할 뿐”이라고 했다. 그는 “우선협상대상자가 선정된 상태에서 좀 더 이익을 확보하자는 실무자의 대안이 채택이 안 된 건 맞는 것 같고, 그 과정에서 삭제가 됐는지 이런 부분은 제가 알 수 없는 일”이라고 말했다.<br><br>박성영 구승은 기자 psy@kmib.co.kr
+					<br><br>
+					GoodNews paper ⓒ <a href=""http://www.kmib.co.kr"" target=""_blank"">국민일보(www.kmib.co.kr)</a>, 무단전재 및 수집, 재배포금지
+					<br>
+					
+					<br>
+					<br>
+					<div style="text-align:center;padding-bottom:20px;">
+						<a href="http://www.kmib.co.kr/subscribe/index.asp" target="_blank" title="국민일보 신문구독"><img src="http://news.kmib.co.kr/images/bnr_kmib_subscription.jpg" alt="국민일보 신문구독"></a>
+					</div>
+					
+				</div>
+				<!-- //기사 내용 -->
+
+		<!-- 인기기사 -->
+		<div class="best_nw"><h4>당신이 좋아할 만한 기사</h4><ul><li><a href="http://news.kmib.co.kr/article/view.asp?arcid=0016382996&code=61121211&sid1=soc">
+‘유리청소하다 추락’ 숨진 20대…용역업체 책임자 입건
+</a></li>
+<li><a href="http://news.kmib.co.kr/article/view.asp?arcid=0016382539&code=61181111&sid1=ent">
+김선호 논란에 최영아 모욕·비방 이어지자 팬들 “법적 대응” 예고
+</a></li>
+<li><a href="http://news.kmib.co.kr/article/view.asp?arcid=0016382696&code=61121211&sid1=soc">
+새로 연 제주 하얏트도 ‘물벼락’ … “안전 문제 없다”
+</a></li>
+<li><a href="http://news.kmib.co.kr/article/view.asp?arcid=0016382533&code=61131111&sid1=int">
+재감염자 쏟아진다…“미접종 땐 16개월마다 확진 우려”
+</a></li>
+<li><a href="http://news.kmib.co.kr/article/view.asp?arcid=0016382300&code=61111111&sid1=pol">
+“서울 집값 급등은 오세훈 때문” vs “책임 전가하냐”
+</a></li>
+<li><a href="http://news.kmib.co.kr/article/view.asp?arcid=0016381440&code=61121111&sid1=soc">
+환경부 국감에 곽상도 아들 ‘50억’ 등장한 이유
+</a></li>
+<li><a href="http://news.kmib.co.kr/article/view.asp?arcid=0016381123&code=61181111&sid1=ent">
+김선호, 결국 ‘1박2일’ 하차…“촬영분 최대한 편집”
+</a></li>
+<li><a href="http://news.kmib.co.kr/article/view.asp?arcid=0016380152&code=61121111&sid1=soc">
+“11사단 부대서 나온 진회색의 썩은 달걀”…또 부실 급식
+</a></li>
+<li><a href="http://news.kmib.co.kr/article/view.asp?arcid=0016380166&code=61121111&sid1=soc">
+“1인분 15000원짜리 삼겹살, 이게 맞나요?” [사연뉴스]
+</a></li>
+<li><a href="http://news.kmib.co.kr/article/view.asp?arcid=0016380259&code=61121111&sid1=soc">
+김선호 공식입장 “좋은 감정으로 만나…사과한다”[전문]
+</a></li>
+<li><a href="http://news.kmib.co.kr/article/view.asp?arcid=0016379809&code=61141111&sid1=eco">
+“대박없어”…‘채시라 남편’ 김태욱 회사, 청약 흥행 참패
+</a></li>
+</ul></div>
+		<!-- //인기기사 -->
+
+
+		<!-- 애드인 광고2줄 : 180302 -->
+		<div class="al">
+		<iframe width="700" height="58" src="//ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=08SK&out=iframe" allowTransparency = "true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe>
+		</div>
+		<!-- //애드인 광고2줄 : 180302 -->
+		<!-- 광고2줄 : 190314 -->
+		<div class="mb20 al">
+		<script type="text/javascript" src="//wr.catad5959.com/banner/ad917.control.js?madvc=WCR_hns_1068&adwcfg=1068&type=4"></script>
+		</div>
+		<!-- 광고2줄 : 190314 -->
+
+		</div>
+		<!-- //nws_arti 끝 -->
+
+		<!-- sns 영역 -->
+		<div class="b_sns" style="clear:both;margin-top:10px;">
+		<a href="javascript:getShortUrl_new('t','http%3A//news.kmib.co.kr/article/view.asp%3Farcid%3D0016382766%26code%3D61121111%26sid1%3Dsoc%26cp%3Dnv2','[단독]“초과이익 환수 조항, 문서상 삭제 맞다” 檢 진술 확보','0016382766');"><img src="http://news.kmib.co.kr/images/icn_sns_twt.gif" alt="트위터" /></a><a href="javascript:getShortUrl_new('f','http%3A//news.kmib.co.kr/article/view.asp%3Farcid%3D0016382766%26code%3D61121111%26sid1%3Dsoc%26cp%3Dnv2','[단독]“초과이익 환수 조항, 문서상 삭제 맞다” 檢 진술 확보','0016382766');"><img src="http://news.kmib.co.kr/images/icn_sns_fb.gif" alt="페이스북" /></a><a href="javascript:getShortUrl_new('g','http%3A//news.kmib.co.kr/article/view.asp%3Farcid%3D0016382766%26code%3D61121111%26sid1%3Dsoc%26cp%3Dnv2','[단독]“초과이익 환수 조항, 문서상 삭제 맞다” 檢 진술 확보','0016382766');"><img src="http://news.kmib.co.kr/images/icn_sns_gp.gif" alt="구글플러스" /></a>
+		</div>
+		<!-- //sns 영역 -->
+
+
+
+<!-- TABOOLA -->
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+<!-- TABOOLA -->
+
+<!-- 댓글영역 -->
+<div class="comnt_area">
+<!--라이브리 프리미엄 설치코드-->
+<div id="lv-container" data-id="kmib" data-uid="MTI3Ni8yMzAyNi8yMDQ0MA==">
+	<script type="text/javascript">
+	window.livereOptions ={
+		refer : "news.kmib.co.kr/article/view.asp?arcid=0016382766"
+	};
+	
+	(function(d,s) {
+		var j, e=d.getElementsByTagName(s)[0];
+		if (typeof LivereTower === 'function') {return;}
+		j=d.createElement(s);
+		j.src='https://cdn-city.livere.com/js/embed.dist.js';
+		j.async=true;
+		e.parentNode.insertBefore(j,e);
+	})(document,'script');
+	</script>
+	<noscript>라이브리 댓글 작성을 위해 JavaScript를 활성화해주세요</noscript>
+</div>
+</div>
+<!-- //댓글영역 -->
+
+</div>
+<!-- //NwsCon 전체 끝 -->
+
+<!-- SideCon 전체 시작 -->
+<div class="SideCon">
+  <iframe id="subIframe" src="http://news.kmib.co.kr/inc/ifm_sub_content.asp?sub_sid=soc&aid=0016382766&ads=1&mflag=n" width="250" height="3900" marginwidth="0" marginheight="0" frameborder="0" border="0" scrolling="no"></iframe>
+</div>
+<!-- //SideCon 전체 끝 -->
+
+<!-- 실시간뉴스 -->
+<div id="aside_news">
+	<div class="aside_news_inner">
+		<h4>실시간 뉴스</h4>
+			<ul>
+				<li><span class="bar"></span><a href="http://news.kmib.co.kr/article/view.asp?arcid=0016383307&code=61131111&stg=ws_real" title="비트코인, 사상 최고가…6만6000달러 돌파">비트코인, 사상 최고가…6만6000달러 돌파</a></li>
+<li><span class="bar"></span><a href="http://news.kmib.co.kr/article/view.asp?arcid=0016383276&code=61141111&stg=ws_real" title="비트코인 달러 기준 최고가…6만5000달러 첫 돌파 ">비트코인 달러 기준 최고가…6만5000달러 첫 돌파 </a></li>
+<li><span class="bar"></span><a href="http://news.kmib.co.kr/article/view.asp?arcid=0924214455&code=11151400&stg=ws_real" title="취향대로 49개 색상 조합… 갤Z플립3도 비스포크 입는다">취향대로 49개 색상 조합… 갤Z플립3도 비스포크 입는다</a></li>
+<li><span class="bar"></span><a href="http://news.kmib.co.kr/article/view.asp?arcid=0924214572&code=11123000&stg=ws_real" title="[포토] “충성”… FA-50 전투기 탄 문 대통령">[포토] “충성”… FA-50 전투기 탄 문 대통령</a></li>
+<li><span class="bar"></span><a href="http://news.kmib.co.kr/article/view.asp?arcid=0016383183&code=61171811&stg=ws_real" title="입연 김선호 전 여친 “무너지는 그 모습, 마음 안좋다” [전문] ">입연 김선호 전 여친 “무너지는 그 모습, 마음 안좋다” [전문] </a></li>
+<li><span class="bar"></span><a href="http://news.kmib.co.kr/article/view.asp?arcid=0924214571&code=11131000&stg=ws_real" title="[포토] 선별진료소 핫팩으로 추위 극복">[포토] 선별진료소 핫팩으로 추위 극복</a></li>
+<li><span class="bar"></span><a href="http://news.kmib.co.kr/article/view.asp?arcid=0016383155&code=61121111&stg=ws_real" title="인하대 컴퓨터공학과 권장우 교수팀 우수논문상 눈길">인하대 컴퓨터공학과 권장우 교수팀 우수논문상 눈길</a></li>
+<li><span class="bar"></span><a href="http://news.kmib.co.kr/article/view.asp?arcid=0016383128&code=61111111&stg=ws_real" title="尹 ‘전두환 발언’ 비판수위 높인 이준석 “명백한 실언”">尹 ‘전두환 발언’ 비판수위 높인 이준석 “명백한 실언”</a></li>
+<li><span class="bar"></span><a href="http://news.kmib.co.kr/article/view.asp?arcid=0016383118&code=61121111&stg=ws_real" title="인천대 과학영재교육연구소 사이언스119참여학교 모집">인천대 과학영재교육연구소 사이언스119참여학교 모집</a></li>
+<li><span class="bar"></span><a href="http://news.kmib.co.kr/article/view.asp?arcid=0924214562&code=11151700&stg=ws_real" title="[포토] 탁구공 만한 포도알">[포토] 탁구공 만한 포도알</a></li>
+<li><span class="bar"></span><a href="http://news.kmib.co.kr/article/view.asp?arcid=0924214563&code=11151700&stg=ws_real" title="[포토] 金겹살">[포토] 金겹살</a></li>
+<li><span class="bar"></span><a href="http://news.kmib.co.kr/article/view.asp?arcid=0924214564&code=11131000&stg=ws_real" title="[포토] 단풍 물들 틈 없이… 야속한 첫 눈">[포토] 단풍 물들 틈 없이… 야속한 첫 눈</a></li>
+<li><span class="bar"></span><a href="http://news.kmib.co.kr/article/view.asp?arcid=0924214559&code=11141800&stg=ws_real" title="[포토] 분화하는 일본 아소 화산">[포토] 분화하는 일본 아소 화산</a></li>
+<li><span class="bar"></span><a href="http://news.kmib.co.kr/article/view.asp?arcid=0924214561&code=11161600&stg=ws_real" title="[포토] 가자 우주로!… K로켓 ‘누리호’ 발사대 기립">[포토] 가자 우주로!… K로켓 ‘누리호’ 발사대 기립</a></li>
+<li><span class="bar"></span><a href="http://news.kmib.co.kr/article/view.asp?arcid=0016383025&code=61121211&stg=ws_real" title="‘사무실 생수병 미스터리’…“숨진 직원 독극물 정황” ">‘사무실 생수병 미스터리’…“숨진 직원 독극물 정황” </a></li>
+
+			</ul>
+	</div>
+</div>
+<!-- //실시간뉴스 -->
+
+</div>
+</div>
+<!-- //content -->
+</div>
+
+<!-- footer -->
+
+<script src="http://www.kmib.co.kr/js/footer.js?v=210216"></script>
+
+
+<!-- //footer -->
+<div style="height:195px;"></div>
+<!--NetInsight//-->
+
+<script src="http://www.kmib.co.kr/js/wanal.js?aid=0016382766&code=61121111&rDate=2021-10-20" type="text/javascript"></script>
+<script id="refCnt" type="text/javascript" src="http://api.kmib.co.kr/ref/ref_check_web.js?aid=0016382766&code=61121111&rDate=2021-10-20&stg=&t=1634774333"></script>
+
+<!-- netinsight recommend script start -->
+<script type="text/javascript" src="http://rec.netinsight.co.kr/facebook.netinsight.recommend.controller.js"></script>
+<script type="text/javascript">
+var NISPublisher = 'kmib'; // 발급받은 매체 아이디
+var recommend =  new NISRecommend(NISPublisher); // 추천기사용 인스턴스 생성
+recommend.setArticle('61121111', '61121111', '0016382766', '2021-10-20 18:40'); // 기사 설정
+recommend.send(); // 기사 전송
+</script>
+<!-- netinsight recommend end start -->
+
+<!-- 스크린뷰 시작 -->
+<script type="text/javascript" src="https://nscreen.neoebiz.co.kr/xJqScreen.php?data=kmib"></script>
+<!-- 스크린뷰 종료 -->
+
+<!-- TABOOLA -->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+<!-- TABOOLA -->
+
+</body>
+</html>

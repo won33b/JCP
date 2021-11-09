@@ -1,0 +1,573 @@
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- googlesyndication -->
+	<script data-ad-client="ca-pub-1557042468404647" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+	<title>카라이프 - 대한민국 최고의 자동차 전문지</title>
+	<!-- link rel="stylesheet" href="https://carlife.net/theme/basic/css/default.css?ver=171222" -->
+
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+	<link href="https://carlife.net/theme/basic/css/rs-settings.css" rel="stylesheet">
+	<link href="https://carlife.net/theme/basic/css/style-ext.css" rel="stylesheet">
+	<link href="https://carlife.net/theme/basic/css/customized.css" rel="stylesheet">
+
+
+	<!--[if lte IE 8]>
+	<script src="https://carlife.net/js/html5.js"></script>
+	<![endif]-->
+
+	<script>
+	// 자바스크립트에서 사용하는 전역변수 선언
+	var g5_url       = "https://carlife.net";
+	var g5_bbs_url   = "https://carlife.net/bbs";
+	var g5_is_member = "";
+	var g5_is_admin  = "";
+	var g5_is_mobile = "";
+	var g5_bo_table  = "cl_10_1";
+	var g5_sca       = "";
+	var g5_editor    = "smarteditor2";
+	var g5_cookie_domain = "";
+	</script>
+
+	<!-- s cript src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></s cript>
+	<s cript src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></s cript -->
+
+	<script src="https://carlife.net/js/jquery-1.8.3.min.js"></script>
+	<script src="https://carlife.net/js/jquery.menu.js?ver=171222"></script>
+	<script src="https://carlife.net/js/common.js?ver=171222"></script>
+	<script src="https://carlife.net/js/wrest.js?ver=171222"></script>
+	<script src="https://carlife.net/js/placeholders.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
+<!-- Google Tag Manager 200402 -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PQWRZ8H');</script>
+<!-- End Google Tag Manager -->
+
+<!-- link rel="stylesheet" href="https://carlife.net/js/font-awesome/css/font-awesome.min.css" -->
+
+
+	<script language="javascript">
+	$(document).ready(function() {
+
+		var current_page = "/bbs/board.php";
+
+		(function() {
+
+			// 로딩시 뉴스 컨텐츠 display 초기설정
+			$( "div#main_contents > div" ).css("display", "none");
+			$( "div#main_contents #cl_10_1" ).css("display", "block");
+
+			// if ( current_page != '/index.php' ) $("#main-header").css({"background-color":"#000000", "opacity":"1"});
+
+		})();
+
+		// 탭메뉴 - 메인 컨텐츠 선택에 따른 최근게시물 변경
+		$( "#main_tab" ).on( "mouseover", "li", function() {
+			// 메뉴 변경
+			$( "#main_tab" ).each(function() {
+				$(this).find("li").removeClass("active");
+			});
+			$(this).addClass("active");
+			// 컨텐츠 변경
+			var table_name = $(this).data("table");
+			$( "div#main_contents > div" ).css("display", "none");
+			$( "div#main_contents #" + table_name ).css("display", "block");
+		});
+
+		$( "#main_tab" ).on( "click", "li", function() {
+			// 메뉴 이동
+			var table = $(this).data("table");
+
+			if (table=="gomall") {
+				window.open('http://www.carlifemall.com/', '_blank');
+			} else {
+				location.href = "/bbs/board.php?bo_table=" + table;
+			}
+		});
+
+
+		// 레이싱모델 - 마우스오버
+		$( "#main-model" ).on( "mouseover", ".main-model-photo", function() {
+			$( ".main-model-photo" ).each(function() {
+				$(this).find(".main-model-desc").css("display", "none");
+			});
+			$(this).find(".main-model-desc").css("display", "block");
+		});
+
+
+	});
+	</script>
+
+</head>
+
+<body>
+
+
+<style>
+.menu > li {
+padding-left: 70px;
+padding-top: 10px;
+}
+.menu > li > .a1 {
+padding-top:0px;padding-bottom:0px
+}
+
+.menu > li > .a2 {
+padding-top:5px;padding-bottom:0px
+}
+
+.a1br{
+display:block;
+}
+
+
+
+
+@media(max-width:767px) {
+
+	.menu > li {
+	padding-left: 70px;
+	padding-top: 0px;
+	}
+	
+	.menu > li > .a1 {
+	padding-top:5px;
+	padding-bottom:5px;
+	}
+
+	.menu > li > .a2 {
+	padding-top:5px;
+	padding-bottom:5px;
+	}
+	.a1br{
+	display:none;
+	}
+}
+</style>
+
+	<div id="preloader">
+		<div id="status">&nbsp;</div>
+	</div>
+
+	<div id="wrapper">
+		<div class="h-wrapper">
+			<div class="topbar">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-6 hidden-xs">&nbsp;</div>
+						<div class="col-sm-6 col-xs-12 text-right">
+							<ul class="social-icon unstyled">
+																<li><a href="https://carlife.net/bbs/register.php" class="top-menu-a"></i> 회원가입</a></li>
+								<li><a href="https://carlife.net/bbs/login.php" class="top-menu-a"><b>로그인</b></a></li>
+								
+								<!-- li><a href="#" class="top-menu-a">로그인</a></li>
+								<li><a href="#" class="top-menu-a">회원가입</a></li>
+								<li><a href="#"><i class="fa fa-facebook"></i></a></li -->
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<header class="header-wrapper header-transparent with-topbar">
+				<div class="main-header" id="main-header">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-12 col-md-2">
+								<a href="/index.php" class="logo"></a>
+							</div>
+							<div class="col-sm-12 col-md-10">
+								<nav class="navbar-right">
+									<ul class="menu">
+										<li class="toggle-menu"><i class="fa icon_menu"></i></li>
+										<li >
+											<a href="http://carlife.net/bbs/board.php?bo_table=cl_10_1" class="a1">자동차뉴스</a>
+											<BR class="a1br">
+											<a href="http://carlife.net/bbs/board.php?bo_table=cl_5_1" class="a2">모터스포츠</a>
+										</li> 
+										<li >
+											<a href="http://carlife.net/bbs/board.php?bo_table=cl_1_1" class="a1">시승기</a>
+											<BR class="a1br">
+											<a href="http://carlife.net/bbs/board.php?bo_table=cl_9_1" class="a2">모델</a>
+										</li> 
+										<li >
+											<a href="http://carlife.net/bbs/board.php?bo_table=cl_2_1" class="a1">기획</a>
+											<BR class="a1br">
+											<a href="http://carlife.net/bbs/board.php?bo_table=cp_4_1_1" class="a2">E-BOOK</a>
+										</li> 
+										<li >
+											<a href="http://carlife.net/bbs/board.php?bo_table=cl_3_1" class="a1">라이프스타일</a>
+											<BR class="a1br">
+											<a href="http://carlife.net/bbs/board.php?bo_table=cl_7_6" class="a2">제휴/광고문의</a>
+										</li> 
+										<li >
+											<a href="http://carlife.net/bbs/board.php?bo_table=cl_4_1" class="a1">자동차상식</a>
+											<BR class="a1br">
+											<a href="http://www.carlifemall.com/" target="blank" class="a2">카라이프몰</a>
+										</li> 
+										
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div> 
+				</div> 
+			</header>
+		</div>
+
+		<div class="push-top"></div>
+
+<script src="https://carlife.net/js/viewimageresize.js"></script>
+
+<style>
+#bo_v_con { line-height:16px; }
+#bo_v_con p { padding: 0; margin: 0; line-height: 22px; }
+
+#bo_v .bo_v_cate, #bo_v .bo_v_tit { display: inline-block; width: 100%; font-size: 30px; font-weight: bold; color: #ffffff; line-height: 35px; text-align: center; }
+#bo_v .bo_v_date { font-size: 14px; }
+
+#delco {
+	width: 100%;
+	height: auto;
+}
+</style>
+
+<script>
+function locationAction() {
+	if($(window).width() > 767) {
+		window.open('http://www.carlifemall.com');
+	}else {
+		window.open('https://pf.kakao.com/_xkxdImT/chat');
+	}
+}
+
+function locationAction2() {
+	if($(window).width() <= 767) {
+		window.open('http://www.carlifemall.com');
+	}else {
+		window.open('https://pf.kakao.com/_xkxdImT/chat');
+	}
+}
+</script>
+
+
+
+<section class="section-page top-padding" style="font-family:Nanumgothic;">
+	<div class="container">
+
+		<div id="topBot" class="row" style="background:#ffffff;">
+
+      <section class="ad_banner_wrap pg_top">
+        <div class="inner_box">
+          <a href="https://www.newcarsign.com/" target="_blank" class="ad_banner mobile" data-location="ViewTop" data-subject="뉴카사인"><img src="https://carlife.net/theme/basic/img/banner/201027/newcarsign_m.gif" alt=""></a>
+          <a href="https://www.newcarsign.com/" target="_blank" class="ad_banner pc" data-location="ViewTop" data-subject="뉴카사인"><img src="https://carlife.net/theme/basic/img/banner/201027/newcarsign_pc.png" alt=""></a>
+        </div>
+      </section>
+
+
+			<div class="col-md-10" style="margin:0; padding:0;">
+
+
+			<div class="col-md-2 hidden-sm hidden-xs" style="margin:0; padding:0;">
+							</div>
+		</div>
+
+		<div class="bd_content">
+
+			<div class="col-md-9 col-sm-12 pt15" style="background-color: #ffffff;">
+
+				<!-- 게시물 읽기 시작 { -->
+				<article id="bo_v">
+
+					<header style="position: relative; width: 100%; height: 240px;">
+						<div style="width:100%; height: 100%; background: url(https://carlife.net/data/file/cl_10_1/3068223065_KpZEwW5Q_d249b83512129a48297ea93d1b9c1bb7670b6ee1.jpg) 50% 50% no-repeat; background-size: cover;"></div>
+						<div style="position: absolute; top: 40%; width: 100%; padding: 10px 20px; background-color: rgba(0,0,0,0.6); letter-spacing: -1px;">
+														<span class="bo_v_tit">
+							람보르기니의 슈퍼 SUV 우루스,  해발 5,883m 높이의 세계에서 가장 높은 도로 움링 라 도로(Umling La Pass…							</span>
+						</div>
+					</header>
+
+					<section id="bo_v_atc">
+
+						<div class="text-right">
+							<span class="bo_v_date">
+								2021-10-26 &nbsp;| &nbsp;
+							</span>
+							<span>
+								8,555 읽음
+							</span>
+						</div>
+
+						<!-- 본문 내용 시작 { -->
+						<div id="bo_v_con" class="mt50 mb50" style="min-height: 300px;">
+							<p><span style="font-size:18pt;"><b>람보르기니의 슈퍼 SUV 우루스,</b></span></p><p><span style="font-size:18pt;"><b>해발 5,883m 높이의 세계에서 가장 높은 도로 움링 라 도로(Umling La Pass) 횡단</b></span></p><p><br /></p><p>우루스, 에베레스트 산 베이스캠프보다 높은 고도에 위치한 세계에서 가장 높은 도로인 움링 라 도로 두 차례 횡단</p><p>움링 라 도로, 극도로 낮은 공기 밀도와 시속 40-80km의 강한 풍속이 결합된 지형으로 자동차가 정복하기 어려운 도로 중 하나</p><p>우루스에 탑재된 V8 트윈 터보 엔진의 650마력과 86.7 kg.m 토크 등 강력한 능력을 증명하는 데 성공</p><p><br /></p><div style="text-align:center;" align="center"><a href="https://carlife.net/bbs/view_image.php?fn=%2Fdata%2Feditor%2F2110%2F59b6cfcd0ee5b46747bf0dd7171d32c1_1635260044_5353.jpg" target="_blank" class="view_image"><img src="https://carlife.net/data/editor/2110/thumb-59b6cfcd0ee5b46747bf0dd7171d32c1_1635260044_5353_600x400.jpg" alt="59b6cfcd0ee5b46747bf0dd7171d32c1_1635260044_5353.jpg"/></a></div><div style="text-align:center;"><span style="font-size:14.6667px;"><br /></span></div><p>서울/ 2021. 10. 26 – 지난 10월 8일과 9일, 오토모빌리 람보르기니(Automobili Lamborghini)의 슈퍼 SUV 우루스(Urus)가 세계에서 가장 높은 주행 가능 도로인 움링 라 도로(Umling La Pass)를 두 차례 횡단하는 데 성공했다.</p><p>인도의 잠무-카슈미르 라다크 지역에 위치한 움링 라 도로는 해발 5,883m(19,300피트)에 위치하고 있으며 에베레스트 산 베이스캠프보다 높은 고도에 건설된 세계에서 가장 높은 주행 가능 도로로 알려져 있다.  움링 라 도로는 ▲극도로 낮은 공기 밀도 ▲자갈, 거친 콘크리트 표면 등의 예측 불가능한 도로 형태 ▲시속 40-80km의 강한 풍속이 결합된 지형으로 인해 자동차가 정복하기 어려운 도로 중 하나다.</p><p><br /></p><div style="text-align:center;" align="center"><a href="https://carlife.net/bbs/view_image.php?fn=%2Fdata%2Feditor%2F2110%2F59b6cfcd0ee5b46747bf0dd7171d32c1_1635260068_3939.jpg" target="_blank" class="view_image"><img src="https://carlife.net/data/editor/2110/thumb-59b6cfcd0ee5b46747bf0dd7171d32c1_1635260068_3939_600x400.jpg" alt="59b6cfcd0ee5b46747bf0dd7171d32c1_1635260068_3939.jpg"/></a></div><div style="text-align:center;"><span style="font-size:14.6667px;"><br /></span></div><p>람보르기니의 슈퍼 SUV 우루스는 이러한 극한의 조건을 가진 움링 라 도로를 두 차례나 정복함으로써 어떤 환경에서도 최상의 퍼포먼스를 보여줄 수 있다는 것을 보여주었다. 또한 우루스가 탑재하고 있는 V8 트윈터보 엔진의 강력한 성능을 증명해냈다. 우루스에 탑재된 V8 트윈터보 엔진은 650마력 (@6,800rpm)과 86.7 kg.m(@2,250rpm)의 최대 토크를 발휘한다.</p><p><br /></p><div style="text-align:center;" align="center"><a href="https://carlife.net/bbs/view_image.php?fn=%2Fdata%2Feditor%2F2110%2F59b6cfcd0ee5b46747bf0dd7171d32c1_1635260088_7038.jpg" target="_blank" class="view_image"><img src="https://carlife.net/data/editor/2110/thumb-59b6cfcd0ee5b46747bf0dd7171d32c1_1635260088_7038_600x400.jpg" alt="59b6cfcd0ee5b46747bf0dd7171d32c1_1635260088_7038.jpg"/></a></div><div style="text-align:center;"><span style="font-size:14.6667px;"><br /></span></div><p>람보르기니 인도 지역 총괄 샤라드 아가월(Sharad Agarwal)은 “우선 최저 기온이 영하 20도에서 영하 10도 사이인 극한의 기후 조건에서 움링 라 도로를 건설한 국경 도로 공사 (BRO: Border Roads Organisation) 와 그 팀에 경의를 표한다. 한레(Hanle) 마을에서 움링 라 지역까지 87.5 km를 주행하는 동안, 우루스는 테라(TERRA)와 스포츠(SPORT)모드를 활용해 훌륭하게 주행해냈다. 우루스가 고지대 주행의 정점인 움링 라 도로를 횡단하는 데 성공한 것은 람보르기니에게 매우 자랑스러운 순간으로 남을 것이다.”라고 말했다.</p><p><br /></p><div style="text-align:center;" align="center"><a href="https://carlife.net/bbs/view_image.php?fn=%2Fdata%2Feditor%2F2110%2F59b6cfcd0ee5b46747bf0dd7171d32c1_1635260113_3389.jpg" target="_blank" class="view_image"><img src="https://carlife.net/data/editor/2110/thumb-59b6cfcd0ee5b46747bf0dd7171d32c1_1635260113_3389_600x400.jpg" alt="59b6cfcd0ee5b46747bf0dd7171d32c1_1635260113_3389.jpg"/></a></div><div style="text-align:center;"><span style="font-size:14.6667px;"><br /></span></div><p>한편, 세계 최초의 슈퍼 SUV 우루스는 럭셔리SUV임과 동시에 슈퍼 스포츠카의 역동성을 지닌 모델로,  운전자와 승객 모두가 즐길 수 있는가장 강력한 모델이다. 650마력 (@6,800rpm)과 86.7 kg.m(@2,250rpm) 최대 토크를 내는 4.0리터 V8 트윈터보 엔진을 탑재한 우루스는 최고속도 305km/h, 정지상태에서 100km/h까지 이르는데 걸리는 시간은 3.6초에 불과하다. </p><p><br /></p><div style="text-align:center;" align="center"><a href="https://carlife.net/bbs/view_image.php?fn=%2Fdata%2Feditor%2F2110%2F59b6cfcd0ee5b46747bf0dd7171d32c1_1635260160_6827.jpg" target="_blank" class="view_image"><img src="https://carlife.net/data/editor/2110/thumb-59b6cfcd0ee5b46747bf0dd7171d32c1_1635260160_6827_600x900.jpg" alt="59b6cfcd0ee5b46747bf0dd7171d32c1_1635260160_6827.jpg"/></a></div><div style="text-align:center;"><span style="font-size:14.6667px;"> </span></div><p>또한 우루스의 아니마(ANIMA) 시스템은 운전자의 선호에 따라 어떤 극한의 주행 조건에서도 빠르게 적응할 수 있는 총 6가지의 주행 모드를 제공한다. 그 중 테라(TERRA) 모드를 선택하면 불안정하고 불완전한 지형 (비포장 도로)을 다루는 데있어 탁월한 민첩성, 견인력 및 이상적인 편안함을 누릴 수 있다.</p><p><br /></p>						</div>
+						<div class="mb50 text-center">< 저작권자 - (주)자동차생활, 무단전재 - 배포금지 ></div>
+												<!-- } 본문 내용 끝 -->
+
+						
+						<div class="clearfix"></div>
+
+						<!--  추천 비추천 시작 { -->
+												<!-- }  추천 비추천 끝 -->
+					</section>
+
+					<!-- div id="bo_v_share">
+						
+											</div -->
+
+					<a href="https://carlife.net/bbs/view_image.php?bo_table=cl_10_1&amp;fn=3068223065_KpZEwW5Q_d249b83512129a48297ea93d1b9c1bb7670b6ee1.jpg" target="_blank" class="view_image"><img src="https://carlife.net/data/file/cl_10_1/3068223065_KpZEwW5Q_d249b83512129a48297ea93d1b9c1bb7670b6ee1.jpg" alt=""  width="600" height="400" ></a>
+					
+					
+					<!-- 게시물 상단 버튼 시작 { -->
+					<div id="bo_v_top">
+						
+						<ul class="bo_v_left">
+																																									</ul>
+
+						<ul class="bo_v_com">
+						   <li><a href="./board.php?bo_table=cl_10_1&amp;page=" class="btn_b01 btn"><i class="fa fa-list" aria-hidden="true"></i> 목록</a></li>
+																				</ul>
+
+						<div class="clearfix"></div>
+
+												<ul class="bo_v_nb">
+							<li class="btn_prv"><span class="nb_tit"><i class="fa fa-caret-up" aria-hidden="true"></i> 이전글</span><a href="./board.php?bo_table=cl_10_1&amp;wr_id=1418">메르세데스-벤츠 코리아, GLE 패밀리 최초의 플러그-인 하이브리드 모델  ‘더 뉴 메르세데스-벤츠 GLE 350 e 4MATIC 및 GLE 350 e 4MATIC 쿠페’  국내 공식 출시</a> <span class="nb_date">21.10.27</span></li><br/>
+							<li class="btn_next"><span class="nb_tit"><i class="fa fa-caret-down" aria-hidden="true"></i> 다음글</span><a href="./board.php?bo_table=cl_10_1&amp;wr_id=1416">한국타이어 전기차 전용 타이어 장착한 폭스바겐 ‘ID.4 투어’,   기네스 세계 신기록 수립</a>  <span class="nb_date">21.10.22</span></li>						</ul>
+																	</div>
+					<!-- } 게시물 상단 버튼 끝 -->
+
+					<div class="clearfix"></div>
+
+									</article>
+
+				<!-- } 게시판 읽기 끝 -->
+
+			</div>
+			<div   class="col-md-3 col-sm-12" style="background:#ffffff;">
+								<a href="http://www.carlifemall.com" target=_blank><img id="rightBn" src="/img/new/250X250.jpg"></a>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<script>
+
+function board_move(href)
+{
+    window.open(href, "boardmove", "left=50, top=50, width=500, height=550, scrollbars=1");
+}
+</script>
+
+<script>
+$(function() {
+    $("a.view_image").click(function() {
+        window.open(this.href, "large_image", "location=yes,links=no,toolbar=no,top=10,left=10,width=10,height=10,resizable=yes,scrollbars=no,status=no");
+        return false;
+    });
+
+    // 추천, 비추천
+    $("#good_button, #nogood_button").click(function() {
+        var $tx;
+        if(this.id == "good_button")
+            $tx = $("#bo_v_act_good");
+        else
+            $tx = $("#bo_v_act_nogood");
+
+        excute_good(this.href, $(this), $tx);
+        return false;
+    });
+
+    // 이미지 리사이즈
+    $("#bo_v_atc").viewimageresize();
+
+    //sns공유
+    $(".btn_share").click(function(){
+        $("#bo_v_sns").fadeIn();
+
+    });
+
+    $(document).mouseup(function (e) {
+        var container = $("#bo_v_sns");
+        if (!container.is(e.target) && container.has(e.target).length === 0){
+        container.css("display","none");
+        }
+    });
+});
+
+function excute_good(href, $el, $tx)
+{
+    $.post(
+        href,
+        { js: "on" },
+        function(data) {
+            if(data.error) {
+                alert(data.error);
+                return false;
+            }
+
+            if(data.count) {
+                $el.find("strong").text(number_format(String(data.count)));
+                if($tx.attr("id").search("nogood") > -1) {
+                    $tx.text("이 글을 비추천하셨습니다.");
+                    $tx.fadeIn(200).delay(2500).fadeOut(200);
+                } else {
+                    $tx.text("이 글을 추천하셨습니다.");
+                    $tx.fadeIn(200).delay(2500).fadeOut(200);
+                }
+            }
+        }, "json"
+    );
+}
+</script>
+<!-- } 게시글 읽기 끝 -->		<section class="ad_banner_wrap">
+			<div class="inner_box">
+				<a href="https://www.newcarsign.com/" target="_blank" class="ad_banner mobile" data-location="공통_하단" data-subject="210630뉴카사인"><img src="https://carlife.net/theme/basic/img/banner/201027/newcarsign_m.gif" alt=""></a>
+				<a href="https://www.newcarsign.com/" target="_blank" class="ad_banner pc" data-location="공통_하단" data-subject="210630뉴카사인"><img src="https://carlife.net/theme/basic/img/banner/201027/newcarsign_pc.png" alt=""></a>
+
+				<a href="https://smartstore.naver.com/carlifeshop/category/16c0085812d04ee1bf9a44920ec8dd55?cp=1" target="_blank" class="ad_banner mobile" data-location="공통_하단" data-subject="200929_정기구독"><img src="https://carlife.net/theme/basic/img/banner/m_carlife_banner03_new.jpg" alt=""></a>
+				<a href="https://smartstore.naver.com/carlifeshop/category/16c0085812d04ee1bf9a44920ec8dd55?cp=1" target="_blank" class="ad_banner pc" data-location="공통_하단" data-subject="200929_정기구독"><img src="https://carlife.net/theme/basic/img/banner/pc_carlife_banner03.jpg" alt=""></a>
+			</div>
+		</section>
+
+		<footer class="footer-wrapper footer-bg">
+			<div class="container" style="font-size:11px;">
+				<div class="row col-p30">
+					<div class="col-lg-2 col-md-12 col-sm-12 col-xs-12 mb30">
+						<img src="https://carlife.net/theme/basic/img/logo.png">
+					</div>
+					<div class="col-lg-2 col-md-6 col-sm-6 col-xs-12 mb30">
+						<div class=""><a href="https://carlife.net/bbs/content.php?co_id=provision" style="color:#ffffff;">이용약관</a></div>
+						<div class=""><a href="https://carlife.net/bbs/content.php?co_id=privacy" style="color:#ffffff;">개인정보 취급방침</a></div>
+						<div class=""><a href="https://carlife.net/bbs/content.php?co_id=email" style="color:#ffffff;">이메일 무단 수집 거부</a></div>
+						<div class=""><a href="https://carlife.net/bbs/content.php?co_id=disclaimer" style="color:#ffffff;">책임의 한계와 법적고지</a></div>
+						<div class=""><a href="https://carlife.net/bbs/board.php?bo_table=cl_7_6" style="color:#ffffff;">제휴/광고문의</a></div>
+						<!-- div class=""><a href="https://carlife.net/bbs/board.php?bo_table=cl_7_6" style="color:#ffffff;">제휴/광고문의</a></div -->
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb30" style="padding-right:25px">
+						<div class="">
+							상호명 : ㈜자동차생활<br>
+							사업자등록번호 : 116-81-08854<br>
+							개인정보관리책임자 : 김택우(carlife@carlife.net)<br>
+							사업장소재지 : 서울시 강서구 마곡서로 158, 마곡센트럴타워2  1312호<br>
+							대표전화 : 02-780-7511<br>
+							팩스 : 02-3663-7513
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 mb30">
+						COPYRIGHT ⓒ WWW.CARLIFE.NET RIGHTS RESERVED
+					</div>
+				</div>
+			</div>
+			<div class="quickLink">
+				<div class="tit">CARLIFE SNS</div>
+				<div class="inner_box">
+					<a href="https://www.facebook.com/carlife.community" target="_blank"><img src="https://carlife.net/theme/basic/img/icon/001.png" alt="페이스북"></a>
+					<a href="https://www.instagram.com/carlife_magazine/?hl=ko" target="_blank"><img src="https://carlife.net/theme/basic/img/icon/002.png" alt="인스타그램"></a>
+					<a href="https://www.youtube.com/channel/UC-2GqIFV_Rk7dnv1kjqz_vA" target="_blank"><img src="https://carlife.net/theme/basic/img/icon/003.png" alt="유튜브"></a>
+					<a href="https://twitter.com/carlifeman" target="_blank"><img src="https://carlife.net/theme/basic/img/icon/004.png" alt="트위터"></a>
+					<a href="https://blog.naver.com/icarlife" target="_blank"><img src="https://carlife.net/theme/basic/img/icon/005.png" alt="네이버블로그"></a>
+					<a href="https://post.naver.com/icarlife" target="_blank"><img src="https://carlife.net/theme/basic/img/icon/006.png" alt="네이버포스팅"></a>
+					<a href="https://carlifedaum.tistory.com/" target="_blank"><img src="https://carlife.net/theme/basic/img/icon/007.png" alt="티스토리"></a>
+					<a href="http://www.carvisionnews.net" target="_blank"><img src="https://carlife.net/theme/basic/img/icon/008.png" alt="카비전"></a>
+				</div>
+			</div>
+		</footer>
+
+		<section class="ad_side_banner r_side" style="display: none;">
+		  <div class="inner_box">
+		    <a href="https://www.instagram.com/p/CHM7PphjhoL/?utm_source=ig_web_copy_link" class="ad_banner" target="_blank" data-location="공통_r_side" data-subject="201105_이벤트"><img src="https://carlife.net/theme/basic/img/banner/201105/pc_carlife_model_event.jpg" alt=""></a>
+		    <!-- <button type="button" class="btn-close_banner" onclick="$('.ad_push_banner').hide();"><img src="https://carlife.net/theme/basic/img/banner/btn-close.png" alt=""></button> -->
+		  </div>
+		</section>
+
+		<section class="ad_push_banner" style="display: none;">
+			<div class="inner_box">
+				<a href="https://www.instagram.com/p/CHM7PphjhoL/?utm_source=ig_web_copy_link" class="ad_banner" target="_blank" data-location="공통_push_less768" data-subject="201105_이벤트"><img src="https://carlife.net/theme/basic/img/banner/201105/m_carlife_model_event.jpg" alt=""></a>
+				<button type="button" class="btn-close_banner" onclick="$('.ad_push_banner').hide();"><img src="https://carlife.net/theme/basic/img/banner/btn-close.png" alt=""></button>
+			</div>
+		</section>
+
+<script>
+	var latest_box_controller = function() {
+		var position = $(window).scrollTop(); // 현재 스크롤바의 위치값을 반환합니다.
+		var banner_height = 0;	// 배너 높이 측정값.
+
+		// 배너 높이를 측정한다.
+		var len = 600;
+		for ( i = 0 ; i < len ; i++ ) banner_height += $(".stickybanner").eq(i).outerHeight()*1;
+
+		if(position > (700+banner_height)) { // $latest_scroll_top 는 wrap.header.php 파일에 위치.
+			$(".stickybanner").css("position","fixed");
+			$(".stickybanner").css("top","0px");
+			$(".stickybanner").css("margin-top","20px");
+		} else {
+			$(".stickybanner").css("position","");
+			$(".stickybanner").css("top","0px");
+			$(".stickybanner").css("margin-top","0px");
+		}
+	}
+	// 옵션 박스 위치조정후 버튼을 노출시킨다.
+	latest_box_controller();
+
+	$(window).scroll(latest_box_controller);
+	$(window).resize(latest_box_controller);
+</script>
+
+	</div>
+	<!-- // #wrapper -->
+
+	<script src="https://carlife.net/theme/basic/js/rs-slider.js"></script>
+	<script src="https://carlife.net/theme/basic/js/script-ext.js"></script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-57795561-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57795561-1');
+</script> -->
+
+<!-- Google Tag Manager (noscript) 200402 -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PQWRZ8H"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- 탭진 배너광고 -->
+<script src="//cdn.ads.tapzin.com/carlife/tdn_settings.js"></script>
+
+<!-- ie6,7에서 사이드뷰가 게시판 목록에서 아래 사이드뷰에 가려지는 현상 수정 -->
+<!--[if lte IE 7]>
+<script>
+$(function() {
+    var $sv_use = $(".sv_use");
+    var count = $sv_use.length;
+
+    $sv_use.each(function() {
+        $(this).css("z-index", count);
+        $(this).css("position", "relative");
+        count = count - 1;
+    });
+});
+</script>
+<![endif]-->
+
+</body>
+</html>
+
+
+<!-- 사용스킨 : theme/basic -->

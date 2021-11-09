@@ -1,0 +1,3186 @@
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <link href="/newCommon/fontawesome-free-5.10.0-web/css/all.css" rel="stylesheet">
+  <link href="/newCommon/css/media.css" rel="stylesheet" />
+  <script type="text/javascript" src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=o679bnuqnb"></script>
+  <!-- S:구글 분석-->
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-24536714-1']);
+    _gaq.push(['_trackPageview']);
+  
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  <!-- E:구글 분석-->
+  <script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({article:'auto'});
+    !function (e, f, u, i) {
+      if (!document.getElementById(i)){
+        e.async = 1;
+        e.src = u;
+        e.id = i;
+        f.parentNode.insertBefore(e, f);
+      }
+    }(document.createElement('script'),
+    document.getElementsByTagName('script')[0],
+    '//cdn.taboola.com/libtrc/mtreinc-dailian/loader.js',
+    'tb_loader_script');
+    if(window.performance && typeof window.performance.mark == 'function')
+      {window.performance.mark('tbl_ic');}
+  </script>
+  <script type="application/ld+json">
+    {
+     "@context": "http://schema.org",
+     "@type": "Organization",
+     "name": "데일리안 미디어",
+     "url": "http://www.dailian.co.kr",
+     "sameAs": [
+       "https://media.naver.com/press/119",
+       "https://www.facebook.com/dailiannews",
+       "https://twitter.com/dailiannews",
+       "https://post.naver.com/my.nhn?memberNo=44005401",
+       "https://tv.naver.com/dailian",
+       "http://pf.kakao.com/_pbxgxls",
+       "https://www.youtube.com/channel/UC-Vm16EC_XtmpLxTQoAqv_w",
+       "https://twitter.com/dailiannews",
+       "https://www.instagram.com/dailian_news/"
+     ]
+    }
+  </script>
+  <script type="application/ld+json">
+    {
+     "@context": "http://schema.org",
+     "@type": "Person",
+     "name": "데일리안 미디어",
+     "url": "http://www.dailian.co.kr",
+     "sameAs": [
+       "https://media.naver.com/press/119",
+       "https://www.facebook.com/dailiannews",
+       "https://twitter.com/dailiannews",
+       "https://post.naver.com/my.nhn?memberNo=44005401",
+       "https://tv.naver.com/dailian",
+       "http://pf.kakao.com/_pbxgxls",
+       "https://www.youtube.com/channel/UC-Vm16EC_XtmpLxTQoAqv_w",
+       "https://twitter.com/dailiannews",
+       "https://www.instagram.com/dailian_news/"
+     ]
+    }
+  </script>
+
+
+  
+    <script type="text/javascript" src="//send.mci1.co.kr/delivery/js/30061398/22277367011" async></script>
+
+<title>이재명 검증특위 출범…김진태 &#34;최악의 저질 후보 가면 찢겠다&#34;</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="robots" content="index, follow">
+
+<meta property="dable:item_id" content="1047609" />
+
+<meta property="article:author" content="https://www.facebook.com/dailiannews" />
+<meta property="article:publisher" content="https://www.facebook.com/dailiannews" />
+
+<meta property="og:title" content="이재명 검증특위 출범…김진태 &#34;최악의 저질 후보 가면 찢겠다&#34;" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.dailian.co.kr/news/view/1047609" />
+<meta property="og:description" content="국민의힘이 &#39;이재명 비리 국민검증특위&#39;를 공식 출범하고 첫 회의를 열었다. 특위 위원장으로 임명된 김진태 전 의원은 더불어민주당 이재명 후보를 &#39;건국 이래 최악의 저질 여당 후보&#39;라 지칭하며 &#34;가면을 찢어버리겠다&#34;고 선언했다.국민의힘 &#39;이재명 비리 국민검증특위&#39;(이재명특위)는 29일 국회에서 첫 회의를 개최했다. 특위는 현역 의원 12명과 원외 인사 11명 등 총 23명으로 구성됐으며, 앞으로 주 2회 회의 및 현장 활동을 통해 △대장동·백현동 특혜의혹 △황무성 전 사장 강제퇴진 의혹 △변호사비 대납 의혹 △정신병원 강제입원 의혹 △지역 조폭과의 연루 의혹 등을 규명할 계획이다.김진태 전 의원은 이날 회의에서 &#34;지금 한창 우리 당 경선 중인데 누가 제1야당 후보가 되느냐보다 더 중요한 것은 건국 이래 최악의 저질 여당 후보를 인정해야할 것인지의 문제&#34;라며 &#34;그 가면을 찢어야 한다&#34;고 단언했다.이어 &#34;인수인계 받은 자료에 조폭 유착, 정신병원 감금, 변호사비 대납, 불법 후원금 모금 의혹 등 사람으로서 저지를 수 있는 모든 유형의 비리가 다 들어있다&#34;며 &#34;가면을 찢지 않으면 국민들이 5년을 고통 속에서 보내야 하고, 대한민국이 존속할 수 있을지 아무도 장담할 수 없다&#34;고 우려했다.그러면서 &#34;옛날 김정은 가면과 조국의 가족관계증명서를 찢어봤다. 찢는 것은 내 전공&#34;이라며 &#34;결국 이재명에게는 청와대가 아니라 감옥이 가까울 것&#34;이라고 경고했다.금융 관련 의혹을 담당할 윤창현 의원은 &#34;변호사비 대납은 변호사 28명의 이름이 나오는데, 국민권익위원장이 김영란법 무시하고 &#39;가까운 분은 공짜로 해도 된다&#39;고 말했는데도 가까운 분을 보니 7명 밖에 없고 21명은 가깝지도 않다&#34;며 &#34;대한민국을 끌고갈 지도자가 이런 일에 관여했다면 자격이 없는 것&#34;이라고 규정했다.지역 현안 의혹을 다룰 김은혜 의원은 &#34;사업계획서를 낸지 하루만에 우선협상자를 지정한 전례가 없고, 유동규·유한기 당시 본부장이 자신의 직속 상관에게 사퇴를 종용하는 것도 전례가 없는 것&#34;이라며 &#34;규제, 개발정보, 권력을 가진 이들의 사익을 챙기기 위한 공동체가 성남을 넘어서 경기도에 퍼졌고, 이제 막 대한민국 전체에 자신의 씨앗을 흩뿌리기 직전&#34;이라고 경계했다.특위는 내달 2일 대장동에 이어 새로운 비리 의혹의 중심으로 부상하고 있는 백현동 현장을 방문해 이재명 후보와 관련한 국민적 의혹들을 조명한다는 방침이다.김진태 전 의원은 회의 직후 기자들과 만난 자리에서 이날 이재명 후보의 대장동 연계 현장 방문에 대해 &#34;참으로 뻔뻔스럽다&#34;며 &#34;이렇게 문제 일으키고도 가서 무슨 궤변과 자화자찬을 늘어놓을 것인지 참으로 뻔뻔하다&#34;고 혀를 찼다.그러면서 &#34;이재명 후보로 하여금 조국 (전 법무부 장관)이 낙마했던 그 길을 가게 하겠다&#34;며 &#34;(조국 전 장관의) 가족관계증명서를 찢어버렸듯이, 찢는 게 내 전공이니까 가면을 찢어버리겠다&#34;고 자신했다." />
+<meta property="og:image" content="http://cdnimage.dailian.co.kr/news/202110/news_1635515317_1047609_m_1.jpeg"/>
+<meta property="og:image:width" content="647" />
+<meta name="DC.date.issued" content="2021.10.30 00:01:00" />
+
+<meta property="og:site_name" content="데일리안" />
+<meta property="og:locale" content="ko_KR" />
+<meta property="article:section" content="정치">
+<meta property="article:published_time" content="2021.10.30 00:01:00">
+
+
+
+
+<meta name="twitter:url" content="https://www.dailian.co.kr/news/view/1047609"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@dailiannews"/>
+<meta name="twitter:creator" content="@dailiannews"/>
+<meta name="twitter:title" content="이재명 검증특위 출범…김진태 &#34;최악의 저질 후보 가면 찢겠다&#34;"/>
+<meta name="twitter:description" content="국민의힘이 &#39;이재명 비리 국민검증특위&#39;를 공식 출범하고 첫 회의를 열었다. 특위 위원장으로 임명된 김진태 전 의원은 더불어민주당 이재명 후보를 &#39;건국 이래 최악의 저질 여당 후보&#39;라 지칭하며 &#34;가면을 찢어버리겠다&#34;고 선언했다.국민의힘 &#39;이재명 비리 국민검증특위&#39;(이재명특위)는 29일 국회에서 첫 회의를 개최했다. 특위는 현역 의원 12명과 원외 인사 11명 등 총 23명으로 구성됐으며, 앞으로 주 2회 회의 및 현장 활동을 통해 △대장동·백현동 특혜의혹 △황무성 전 사장 강제퇴진 의혹 △변호사비 대납 의혹 △정신병원 강제입원 의혹 △지역 조폭과의 연루 의혹 등을 규명할 계획이다.김진태 전 의원은 이날 회의에서 &#34;지금 한창 우리 당 경선 중인데 누가 제1야당 후보가 되느냐보다 더 중요한 것은 건국 이래 최악의 저질 여당 후보를 인정해야할 것인지의 문제&#34;라며 &#34;그 가면을 찢어야 한다&#34;고 단언했다.이어 &#34;인수인계 받은 자료에 조폭 유착, 정신병원 감금, 변호사비 대납, 불법 후원금 모금 의혹 등 사람으로서 저지를 수 있는 모든 유형의 비리가 다 들어있다&#34;며 &#34;가면을 찢지 않으면 국민들이 5년을 고통 속에서 보내야 하고, 대한민국이 존속할 수 있을지 아무도 장담할 수 없다&#34;고 우려했다.그러면서 &#34;옛날 김정은 가면과 조국의 가족관계증명서를 찢어봤다. 찢는 것은 내 전공&#34;이라며 &#34;결국 이재명에게는 청와대가 아니라 감옥이 가까울 것&#34;이라고 경고했다.금융 관련 의혹을 담당할 윤창현 의원은 &#34;변호사비 대납은 변호사 28명의 이름이 나오는데, 국민권익위원장이 김영란법 무시하고 &#39;가까운 분은 공짜로 해도 된다&#39;고 말했는데도 가까운 분을 보니 7명 밖에 없고 21명은 가깝지도 않다&#34;며 &#34;대한민국을 끌고갈 지도자가 이런 일에 관여했다면 자격이 없는 것&#34;이라고 규정했다.지역 현안 의혹을 다룰 김은혜 의원은 &#34;사업계획서를 낸지 하루만에 우선협상자를 지정한 전례가 없고, 유동규·유한기 당시 본부장이 자신의 직속 상관에게 사퇴를 종용하는 것도 전례가 없는 것&#34;이라며 &#34;규제, 개발정보, 권력을 가진 이들의 사익을 챙기기 위한 공동체가 성남을 넘어서 경기도에 퍼졌고, 이제 막 대한민국 전체에 자신의 씨앗을 흩뿌리기 직전&#34;이라고 경계했다.특위는 내달 2일 대장동에 이어 새로운 비리 의혹의 중심으로 부상하고 있는 백현동 현장을 방문해 이재명 후보와 관련한 국민적 의혹들을 조명한다는 방침이다.김진태 전 의원은 회의 직후 기자들과 만난 자리에서 이날 이재명 후보의 대장동 연계 현장 방문에 대해 &#34;참으로 뻔뻔스럽다&#34;며 &#34;이렇게 문제 일으키고도 가서 무슨 궤변과 자화자찬을 늘어놓을 것인지 참으로 뻔뻔하다&#34;고 혀를 찼다.그러면서 &#34;이재명 후보로 하여금 조국 (전 법무부 장관)이 낙마했던 그 길을 가게 하겠다&#34;며 &#34;(조국 전 장관의) 가족관계증명서를 찢어버렸듯이, 찢는 게 내 전공이니까 가면을 찢어버리겠다&#34;고 자신했다."/>
+<meta name="twitter:image" content="http://cdnimage.dailian.co.kr/news/202110/news_1635515317_1047609_m_1.jpeg"/>
+
+  
+</head>
+
+<div id="photoView" class="photoView hidden">
+  <div class="photoViewContainer flex vCenter justifyCenter">
+      <div class="photoViewBox flex">
+          <img class="cursorPointer arrow absolute left" src="/newCommon/icon/leftArrow.svg">
+          <div class="titleBox">
+              <div class="closeButton cursorPointer">×</div>
+              <div class="title lineLimit line1"></div>
+          </div>
+          <img class="photoImg">
+          
+          <img class="cursorPointer arrow absolute right" src="/newCommon/icon/rightArrow.svg">
+          <div class="photoDescription"><p></p></div>
+          <div class="photoPageInfo"></div>
+      </div>
+      <div class="closeButton" style="position: absolute; top: 0px; width: 100%; height: 100%;"></div>
+  </div>
+</div>
+
+<body class="">
+  <div id="layout">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+
+
+
+<div class="searchDiv" id="searchDivID" style="display: none;">
+  <div class="flex justifyCenter">
+    <div>
+      <input class="searchInput" id="home_search" type="text" placeholder="검색어를 입력하세요">
+    </div>
+    <div class="searchImg2" id="searchView">
+      <i class="fa fa-search marginTop18"></i>
+    </div>
+    <img src="/newCommon/icon/close.svg" class="searchViewer marginLeft30">
+  </div>
+</div>
+
+<header>
+  <div id="topMenu" class="animateFromLeft" style="display: none;">
+    <div class="topMenuBox">
+
+      <div class="navigation">
+      
+        <ul class="authBox">
+          
+            <li class="loginButton" onclick="login()">로그인</li>
+            <li class="registerButton" onclick="register()">회원가입</li>
+          
+        </ul>
+
+        <ul class="menuListBox">
+          <li class="menuItem"><a href="/newslist">전체기사</a></li>
+          <li class="menuItem"><a href="/ranking">실시간 랭킹</a></li>
+        </ul>
+        
+        <ul class="menuListBox">
+          
+            
+            <li class="menuItem">
+              <a href="/politics">정치</a>
+              <div class="expendMenu" onclick="toggleExpend(event);"></div>
+              
+                <ul class="submenuListBox" style="display: none;">
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=201">정치일반</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=202">청와대</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=203">국회</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=204">정당</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=205">북한</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=206">국방·외교</a></li>
+                   
+                </ul>
+              
+            </li>
+            
+          
+            
+            <li class="menuItem">
+              <a href="/society">사회</a>
+              <div class="expendMenu" onclick="toggleExpend(event);"></div>
+              
+                <ul class="submenuListBox" style="display: none;">
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=301">사회일반</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=302">사건사고</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=303">교육</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=304">노동</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=305">언론</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=306">환경</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=307">인권·복지</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=308">식품·의료</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=309">지역</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=310">인물</a></li>
+                   
+                </ul>
+              
+            </li>
+            
+          
+            
+            <li class="menuItem">
+              <a href="/economy">경제</a>
+              <div class="expendMenu" onclick="toggleExpend(event);"></div>
+              
+                <ul class="submenuListBox" style="display: none;">
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=401">경제일반</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=402">금융</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=403">증권</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=404">산업</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=405">재계</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=406">중기</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=407">벤처</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=408">부동산</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=409">글로벌경제</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=410">생활경제</a></li>
+                   
+                </ul>
+              
+            </li>
+            
+          
+            
+            <li class="menuItem">
+              <a href="/itScience">IT/과학</a>
+              <div class="expendMenu" onclick="toggleExpend(event);"></div>
+              
+                <ul class="submenuListBox" style="display: none;">
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=501">IT일반</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=502">과학일반</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=503">모바일</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=504">인터넷·SNS</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=505">통신</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=506">보안·해킹</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=507">컴퓨터</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=508">게임</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=509">리뷰</a></li>
+                   
+                </ul>
+              
+            </li>
+            
+          
+            
+            <li class="menuItem">
+              <a href="/entertainment">연예</a>
+              <div class="expendMenu" onclick="toggleExpend(event);"></div>
+              
+                <ul class="submenuListBox" style="display: none;">
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=801">연예일반</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=802">TV</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=803">영화</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=804">음악</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=805">스타</a></li>
+                   
+                </ul>
+              
+            </li>
+            
+          
+            
+            <li class="menuItem">
+              <a href="/sports">스포츠</a>
+              <div class="expendMenu" onclick="toggleExpend(event);"></div>
+              
+                <ul class="submenuListBox" style="display: none;">
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=901">스포츠일반</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=902">축구</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=903">해외축구</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=904">야구</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=905">해외야구</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=906">농구</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=907">배구</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=908">UFC</a></li>
+                   
+                </ul>
+              
+            </li>
+            
+          
+            
+            <li class="menuItem">
+              <a href="/lifeCulture">생활문화</a>
+              <div class="expendMenu" onclick="toggleExpend(event);"></div>
+              
+                <ul class="submenuListBox" style="display: none;">
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=601">생활문화일반</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=602">건강정보</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=603">자동차·시승기</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=604">도로·교통</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=605">여행·레저</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=606">음식·맛집</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=607">패션·뷰티</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=608">공연·전시</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=609">책</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=610">종교</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=611">날씨</a></li>
+                   
+                </ul>
+              
+            </li>
+            
+          
+            
+            <li class="menuItem">
+              <a href="/world">세계</a>
+              <div class="expendMenu" onclick="toggleExpend(event);"></div>
+              
+                <ul class="submenuListBox" style="display: none;">
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=701">세계일반</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=702">아시아·오세아니아</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=703">북미</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=704">중남미</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=705">유럽</a></li>
+                  
+                    <li class="submenuItem"><a href="/newslist?category2=706">중동·아프리카</a></li>
+                   
+                </ul>
+              
+            </li>
+            
+           
+        </ul>
+
+        <ul class="menuListBox">
+          
+            <li class="menuItem "><a href="/opinion">오피니언</a></li>
+          
+            <li class="menuItem "><a href="/photo">포토</a></li>
+          
+            <li class="menuItem "><a href="/d-tv">D-TV</a></li>
+           
+          <li class="menuItem type1"><a href="http://www.kfprogress.org/">착한선진화</a></li>
+        </ul>
+
+        <ul class="etcBox">
+          <li class="etcItem"><a href="/report">제보하기</a></li>
+          <li class="etcItem cursorPointer" onclick="location.href = '/info/pictures'">사진구매</li>
+        </ul>
+
+        <ul class="iconBox">
+          <li><a target="_blank" href="https://www.youtube.com/channel/UC-Vm16EC_XtmpLxTQoAqv_w"><img class="icon" src="/newCommon/icon/youtubeIcon.svg"></a></li>
+          <li><a target="_blank" href="https://www.facebook.com/dailiannews/"><img class="icon" src="/newCommon/icon/facebookIcon.svg"></a></li>
+          <li><a target="_blank" href="https://m.post.naver.com/dailianpost"><img class="icon" src="/newCommon/icon/naverIcon.svg"></a></li>
+          <li><a target="_blank" href="https://m.post.naver.com/dailianpost"><img class="icon" src="/newCommon/icon/naverPostIcon.svg"></a></li>
+        </ul>
+
+        <ul class="authBox">
+          <li class="loginButton" onclick="goMobile()">모바일 버전</li>
+          <!-- <li class="loginButton" onclick="goLight()">라이트</li> -->
+        </ul>
+
+      </div>
+    </div>
+    <div id="closeButton" style="height: 100%;">
+    </div>
+  </div>
+  
+  <div class="navigation"><nav></nav></div>
+  
+  <div class="scrollNav" >
+    <div>
+      <div class="headerHideNav relative">
+        <div class="absolute" style="top: -13px; left: 50px;">
+          <a href="/home"><img class="headerHideImg marginTop5" src="/newCommon/logo/mobile_new.svg"></a>
+        </div>
+        <div class="header">
+          <div class="search floatRight">
+            <i class="fa fa-search searchViewer cursorPointer"></i>
+          </div>
+          <div class="navigation">
+            <ul class="flex topList">
+              <li class="marginRight133">
+                <div class="menuButton cursorPointer">
+                  <div style="width: 18px; height: 2px; margin-bottom: 5px; background-color: #000000;"></div>
+                  <div style="width: 18px; height: 2px; margin-bottom: 5px; background-color: #000000;"></div>
+                  <div style="width: 18px; height: 2px; background-color: #000000;"></div>
+                </div>
+              </li>
+            
+              <li class="marginRight40 ">
+                  <a href="/opinion">오피니언</a>
+              </li>
+              <li class="marginRight40 active">
+                <a href="/politics">정치</a>
+              </li>
+              <li class="marginRight40 ">
+                <a href="/society">사회</a>
+              </li>
+              <li class="marginRight40 ">
+                <a href="/economy">경제</a>
+              </li>
+              <li class="marginRight40 ">
+                <a href="/itScience">IT/과학</a>
+              </li>
+              <li class="marginRight40 ">
+                <a href="/entertainment">연예</a>
+              </li>
+              <li class="marginRight40 ">
+                <a href="/sports">스포츠</a>
+              </li>
+              <li class="marginRight40 ">
+                <a href="/lifeCulture">생활문화</a>
+              </li>
+              <li class="marginRight40 ">
+                <a href="/world">세계</a>
+              </li>
+              <li class="marginRight40 ">
+                <a href="/photo">포토</a>
+              </li>
+              <li class="marginRight40 ">
+                <a href="/d-tv">D-TV</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+<script>
+  var vsiData = 0
+  $('.searchViewer').click(function(){
+    if(vsiData ==0){
+      $('#searchDivID').css('display','block')
+      vsiData++
+    }else{
+      $('#searchDivID').css('display','none')
+      vsiData--
+    }
+  })
+
+  $(document).ready(function(){
+    $('.menuButton').click(function(){
+      $('#topMenu').show();
+    })
+    $('#searchView').click(function(){
+      trySearchInHome();
+    })
+  });
+  goMobile = function(){
+    let url = window.location.href.replace(/(\?|&)?watchtype=[^&]*/g, '');
+    if(url.match(/\?/)){
+      url += '&watchtype=mobile';
+    }else{
+      url += '?watchtype=mobile';
+    }
+    // console.log(url);
+    window.location.href = url;
+  }
+  goLight = function(){
+    let url = window.location.href.replace(/(\?|&)?watchtype=[^&]*/g, '');
+    if(url.match(/\?/)){
+      url += '&watchtype=light';
+    }else{
+      url += '?watchtype=light';
+    }
+    // console.log(url);
+    window.location.href = url;
+  }
+</script>
+
+<script>
+var ts = new Date();
+var whatToday = ['일요일', '월요일', '화요일', '수요일', '목요일', '금요일', '토요일']
+let todayDiv = document.getElementById("today");
+if(todayDiv){
+  todayDiv.innerHTML = ts.getFullYear() + '년 ' + ('0' + (ts.getMonth() + 1).toString()).slice(-2) + '월 ' + ('0' + ts.getDate().toString()).slice(-2)+'일 '+whatToday[ts.getDay()];
+}
+</script>
+
+<script>
+  let finedustDiv = document.getElementById('finedustHeader');
+  if(finedustDiv){
+    var dust = finedustDiv.innerHTML
+    if (dust == "좋음") finedustDiv.style.color = 'blue'
+    else if (dust == "나쁨") finedustDiv.style.color = 'red'
+  }
+</script>
+
+<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+<!-- <script>
+(function(d, s, id){
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) {return;}
+	js = d.createElement(s); js.id = id;
+	js.src = "https://connect.facebook.net/en_US/sdk.js";
+	fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script> -->
+
+<script>
+
+function trySearchInHome() {
+  
+  var searchWords = document.getElementById('home_search').value
+
+  if(searchWords.trim() == '') {
+
+      alert('내용을 입력하세요')
+  }
+  else {
+
+    // var type = 'media'
+    
+    // if(type == 'media') {
+      location.href = '/search?shwords=' + encodeURIComponent(searchWords)
+    // }
+    // else {
+    //   location.href = '/light/search?shwords=' + encodeURIComponent(searchWords)
+    // }
+  }
+}
+
+function logout() {
+
+  localStorage.setItem("ref_page_x", window.pageXOffset)
+  localStorage.setItem("ref_page_y", window.pageYOffset)
+  location.href = "/logout"
+}
+
+function login() {
+
+  localStorage.setItem("ref_page_x", window.pageXOffset)
+  localStorage.setItem("ref_page_y", window.pageYOffset)
+  location.href = "/login"
+}
+function register() {
+
+  localStorage.setItem("ref_page_x", window.pageXOffset)
+  localStorage.setItem("ref_page_y", window.pageYOffset)
+  location.href = "/register"
+}
+
+window.onload = function() {
+
+  if(localStorage.getItem("ref_page_x") && localStorage.getItem("ref_page_y")) {
+
+    window.scrollTo(localStorage.getItem("ref_page_x"), localStorage.getItem("ref_page_y"))
+    localStorage.removeItem("ref_page_x")
+    localStorage.removeItem("ref_page_y")
+  }
+	
+  localStorage.setItem("ref_url", window.location.href)
+}
+
+
+function getCookie(name) {
+  let value = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+  return value? value[2] : null;
+}
+function openPop(){
+		// console.log('poptest', getCookie("ebn_dh_pop"))
+     if(getCookie("dailian_pop") != "checked"){
+      var img = new Image();
+      img.onload = function() {
+        window.open("/popup.html","dailian_popup","width=" + (this.width) + "px, height=" + (this.height + 30) + "px, toolbar=no, resizable=no, scrollbars=no")  
+      }
+      img.src = '';      
+     }
+}
+if('2' == '0' && '' != ''){
+  openPop();
+}
+</script>
+
+<!-- 추가 스크립트 -->
+<script>
+  var prevScroll = localStorage.getItem("ref_page_y") || window.scrollY || window.pageYOffset;
+  function toggleExpend(e){
+    const headerMargin = document.querySelector('.headerMargin3');
+    if(e.target.className == 'expendMenu'){
+      e.target.className = 'expendMenu expended';
+      if(e.target.parentElement.lastElementChild.style.visibility){
+        e.target.parentElement.lastElementChild.style.visibility = 'visible';
+        e.target.parentElement.className = e.target.parentElement.className + ' expended';
+        headerMargin.style.paddingTop = (94 + e.target.parentElement.lastElementChild.offsetHeight) + 'px' ;
+      }else{
+        e.target.parentElement.lastElementChild.style.display = 'block';
+      }
+    }else{
+      e.target.className = 'expendMenu';
+      if(e.target.parentElement.lastElementChild.style.visibility){
+        e.target.parentElement.lastElementChild.style.visibility = 'hidden';
+        e.target.parentElement.className = e.target.parentElement.className.replace(' expended', '');
+        headerMargin.style.paddingTop = '94px';
+      }else{
+        e.target.parentElement.lastElementChild.style.display = 'none';
+      }
+    }
+    prevScroll = window.scrollY || window.pageYOffset;
+  }
+
+
+  
+  
+
+  window.addEventListener('DOMContentLoaded', function(){
+    // console.log(document.location)
+    if(!location.pathname.match(/login|register|report/)){
+      if(localStorage.getItem("ref_page_x") && localStorage.getItem("ref_page_y")) {
+        console.log('position restore')
+        window.scrollTo(localStorage.getItem("ref_page_x"), localStorage.getItem("ref_page_y"))
+        localStorage.removeItem("ref_page_x")
+        localStorage.removeItem("ref_page_y")
+      }
+      
+      localStorage.setItem("ref_url", window.location.href)
+    }
+    
+    document.querySelector('#closeButton').addEventListener('click', function(){
+      document.querySelector('#topMenu').style.display = 'none';
+    })
+    
+
+    // document.querySelector('#searchButton').addEventListener('click', function(){
+    //   document.querySelector('#searchMenu').style.display = 'block';
+    // })
+    // document.querySelector('#searchCloseButton').addEventListener('click', function(){
+    //   document.querySelector('#searchMenu').style.display = 'none';
+    // })
+    
+    // document.querySelector('#searchButton2').addEventListener('click', trySearchInHome);
+    document.querySelector('#home_search').addEventListener('keyup', function(){
+      if (window.event.keyCode == 13) { trySearchInHome(); }
+    })
+    if(document.querySelector('.header .navigation')){
+      prevScroll = window.scrollY || window.pageYOffset;
+      this.document.addEventListener('scroll', headerScroll);
+    }
+  })
+
+  var scrollDirCnt = 0;
+  function headerScroll(){
+    var scrollPos = window.scrollY || window.pageYOffset;
+    if(scrollPos > prevScroll){
+      scrollDirCnt++;
+    }else if(scrollPos < prevScroll){
+      scrollDirCnt--;
+    }
+    // console.log(scrollPos, prevScroll)
+    var navDiv = document.querySelector('.header .navigation');
+    if(scrollDirCnt > 2){
+      scrollDirCnt = 0;
+      if(!navDiv.className.match(' scrollDown')){
+        navDiv.className = navDiv.className + ' scrollDown';
+      }
+    }else if(scrollDirCnt < -2){
+      navDiv.className = navDiv.className.replace(/ scrollDown/g, '');
+      scrollDirCnt = 0;
+    }
+    prevScroll = scrollPos;
+  }
+  
+  </script>
+    
+      <div class="header2">
+        
+<div >
+  
+    <div>
+        
+    <div class="flex flexRowReverse" style="height: 130px;">
+        <div class="categoryTitle"><a href="/politics">정치</a></div>
+        
+            
+                <a href="/newslist?category2=206">
+                    <div class="subcategoryTitle ">국방·외교</div>
+                </a>
+            
+                <a href="/newslist?category2=205">
+                    <div class="subcategoryTitle ">북한</div>
+                </a>
+            
+                <a href="/newslist?category2=204">
+                    <div class="subcategoryTitle ">정당</div>
+                </a>
+            
+                <a href="/newslist?category2=203">
+                    <div class="subcategoryTitle ">국회</div>
+                </a>
+            
+                <a href="/newslist?category2=202">
+                    <div class="subcategoryTitle ">청와대</div>
+                </a>
+            
+                <a href="/newslist?category2=201">
+                    <div class="subcategoryTitle ">정치일반</div>
+                </a>
+            
+        
+    </div>
+
+<!-- 위쪽 타이틀 -->
+    </div>
+  
+    <div>
+        
+
+    <div style="height: 3px; margin:20px 0; border-bottom: solid 2px rgb(232,232,232); border-top: solid 2px rgb(62,62,62);">
+    </div>
+
+    </div>
+  
+    <div>
+        
+
+    <div style="height:30px;">
+    </div>
+
+    </div>
+  
+</div>
+
+      </div>
+    
+    
+        <div class="grid2">
+
+  <div id="body" class="body">
+  <div id="contentsArea" class="contents">
+
+    <div>
+        <div class="article_wing_left">
+    
+        
+    
+</div>
+<div class="article_wing_right">
+    
+        
+    
+</div>
+<div id="shareDiv" class="fullPageFilter">
+    <div class="shareBox">
+        <div class="label">
+            <div class="floatRight closeButton" onclick="document.querySelector('#shareDiv').style.visibility = 'hidden'"><img src="\newCommon\icon\엑스.svg"></div>
+            <p>공유하기</p>
+        </div>
+        <div class="imgContainer">
+            <div class="divImgText" onclick="socialShare('facebook')">
+                <div>
+                    <img src="\newCommon\icon\페이스북.svg">
+                </div>
+                <div style="margin-top: 5px;">
+                    페이스북
+                </div>
+            </div>
+            <div class="divImgText" onclick="socialShare('twitter')">
+                <div>
+                    <img src="\newCommon\icon\트위터.svg">
+                </div>
+                <div style="margin-left:6px;margin-top: 5px;">
+                    트위터
+                </div>
+            </div>
+            
+            <div class="divImgText" onclick="socialShare('kakaostory')">
+                <div>
+                    <img src="\newCommon\icon\카카오톡.svg">
+                </div>
+                <div style="margin-top: 5px;">
+                    카카오톡
+                </div>
+            </div>
+            
+            <div class="divImgText">
+                <div>
+                    <img src="\newCommon\icon\url로고.svg" onclick="socialShare('url')">
+                </div>
+                <div style="margin-top: 5px;">
+                    주소복사
+                </div>
+                <input id="urlData">
+            </div> 
+        </div>
+    </div>
+</div>    
+    <div class="">
+        <!-- news-detail -->
+        <div ></div>
+        <div class="news-contents">
+            <h2 class="title" >이재명 검증특위 출범…김진태 "최악의 저질 후보 가면 찢겠다"</h2>
+            
+            <div class="information">
+                <div class="floatRight">
+                    <form name="pf" class="printButton">
+                        <input type=hidden name="printzone">
+                        <input type=hidden name="title">
+                        <img src="/newCommon/icon/print.svg" onclick="printArea()">
+                    </form>
+                    <button onclick="openShares(event)" style="margin-right: 30px;"><img src="/newCommon/icon/share30.svg"></button>
+                    <button onclick="contentsFontSizeChange(event)" id="sizechange" ><img src="/newCommon/icon/ga+.svg"></button>
+                </div>
+                <div class="divtext2">
+                    <br>
+                    입력 2021.10.30 00:01
+                    수정 2021.10.29 23:22&nbsp; &nbsp; &nbsp; &nbsp;
+                    정도원 기자 (united97@dailian.co.kr)
+                    <br>
+                </div>
+            </div>
+            <!-- article -->
+            <div class="article">
+                <div class='inner-subtitle'><p><p>金 "사람으로서 저지를 수 있는 모든</p><p>유형의 비리 다 들어있다…찢어야"</p><p>김은혜 "사익 공동체, 경기도에 퍼져</p><p>대한민국 전체에 씨앗 뿌리기 직전"</p></p></div><p><div class='figure' style='width: 647px;'><img src='https://cdnimage.dailian.co.kr/news/202110/news_1635515317_1047609_m_1.jpeg' width='647px' alt='국민의힘 '이재명 비리 국민검증특위' 위원장으로 임명된 김진태 전 의원이 29일 특위 회의에서 "더불어민주당 이재명 후보의 가면을 찢어버리겠다"고 공언했다. 사진은 지난 2019년 9월 조국 전 법무부 장관 후보자 인사청문회 당시 김진태 의원이 조 후보자가 제출한 자료가 엉뚱한 자료라며 자료를 찢어버리고 있는 모습이다. ⓒ데일리안 박항구 기자'><span>국민의힘 '이재명 비리 국민검증특위' 위원장으로 임명된 김진태 전 의원이 29일 특위 회의에서 "더불어민주당 이재명 후보의 가면을 찢어버리겠다"고 공언했다. 사진은 지난 2019년 9월 조국 전 법무부 장관 후보자 인사청문회 당시 김진태 의원이 조 후보자가 제출한 자료가 엉뚱한 자료라며 자료를 찢어버리고 있는 모습이다. ⓒ데일리안 박항구 기자</span></div><p>국민의힘이 '이재명 비리 국민검증특위'를 공식 출범하고 첫 회의를 열었다. 특위 위원장으로 임명된 김진태 전 의원은 더불어민주당 이재명 후보를 '건국 이래 최악의 저질 여당 후보'라 지칭하며 "가면을 찢어버리겠다"고 선언했다.</p><p><br></p><p>국민의힘 '이재명 비리 국민검증특위'(이재명특위)는 29일 국회에서 첫 회의를 개최했다. 특위는 현역 의원 12명과 원외 인사 11명 등 총 23명으로 구성됐으며, 앞으로 주 2회 회의 및 현장 활동을 통해 △대장동·백현동 특혜의혹 △황무성 전 사장 강제퇴진 의혹 △변호사비 대납 의혹 △정신병원 강제입원 의혹 △지역 조폭과의 연루 의혹 등을 규명할 계획이다.</p><p><br></p><p>김진태 전 의원은 이날 회의에서 "지금 한창 우리 당 경선 중인데 누가 제1야당 후보가 되느냐보다 더 중요한 것은 건국 이래 최악의 저질 여당 후보를 인정해야할 것인지의 문제"라며 "그 가면을 찢어야 한다"고 단언했다.</p><p><br></p><p>이어 "인수인계 받은 자료에 조폭 유착, 정신병원 감금, 변호사비 대납, 불법 후원금 모금 의혹 등 사람으로서 저지를 수 있는 모든 유형의 비리가 다 들어있다"며 "가면을 찢지 않으면 국민들이 5년을 고통 속에서 보내야 하고, 대한민국이 존속할 수 있을지 아무도 장담할 수 없다"고 우려했다.</p><p><br></p><p>그러면서 "옛날 김정은 가면과 조국의 가족관계증명서를 찢어봤다. 찢는 것은 내 전공"이라며 "결국 이재명에게는 청와대가 아니라 감옥이 가까울 것"이라고 경고했다.</p><p><br></p><p>금융 관련 의혹을 담당할 윤창현 의원은 "변호사비 대납은 변호사 28명의 이름이 나오는데, 국민권익위원장이 김영란법 무시하고 '가까운 분은 공짜로 해도 된다'고 말했는데도 가까운 분을 보니 7명 밖에 없고 21명은 가깝지도 않다"며 "대한민국을 끌고갈 지도자가 이런 일에 관여했다면 자격이 없는 것"이라고 규정했다.</p><p><br></p><p>지역 현안 의혹을 다룰 김은혜 의원은 "사업계획서를 낸지 하루만에 우선협상자를 지정한 전례가 없고, 유동규·유한기 당시 본부장이 자신의 직속 상관에게 사퇴를 종용하는 것도 전례가 없는 것"이라며 "규제, 개발정보, 권력을 가진 이들의 사익을 챙기기 위한 공동체가 성남을 넘어서 경기도에 퍼졌고, 이제 막 대한민국 전체에 자신의 씨앗을 흩뿌리기 직전"이라고 경계했다.</p><p style=" "><br></p><p>특위는 내달 2일 대장동에 이어 새로운 비리 의혹의 중심으로 부상하고 있는 백현동 현장을 방문해 이재명 후보와 관련한 국민적 의혹들을 조명한다는 방침이다.</p><p><br></p><p>김진태 전 의원은 회의 직후 기자들과 만난 자리에서 이날 이재명 후보의 대장동 연계 현장 방문에 대해 "참으로 뻔뻔스럽다"며 "이렇게 문제 일으키고도 가서 무슨 궤변과 자화자찬을 늘어놓을 것인지 참으로 뻔뻔하다"고 혀를 찼다.</p><p><br></p><p>그러면서 "이재명 후보로 하여금 조국 (전 법무부 장관)이 낙마했던 그 길을 가게 하겠다"며 "(조국 전 장관의) 가족관계증명서를 찢어버렸듯이, 찢는 게 내 전공이니까 가면을 찢어버리겠다"고 자신했다.</p></p>
+                <div class="flex flexwrap" style="margin-top: 52px;">
+                    
+                        <div class="divtag">
+                            <a href="/search?shwords=국민의힘&sbj=hashtag">
+                                #국민의힘
+                            </a>
+                        </div>
+                    
+                        <div class="divtag">
+                            <a href="/search?shwords=김진태&sbj=hashtag">
+                                #김진태
+                            </a>
+                        </div>
+                    
+                        <div class="divtag">
+                            <a href="/search?shwords=이재명&sbj=hashtag">
+                                #이재명
+                            </a>
+                        </div>
+                    
+                        <div class="divtag">
+                            <a href="/search?shwords=검증특위&sbj=hashtag">
+                                #검증특위
+                            </a>
+                        </div>
+                    
+                        <div class="divtag">
+                            <a href="/search?shwords=찢겠다&sbj=hashtag">
+                                #찢겠다
+                            </a>
+                        </div>
+                    
+                </div>
+                <div class="copyright marginTop40">©(주) 데일리안 무단전재 및 재배포 금지</div>
+            </div>
+            <!-- //article -->
+        </div>
+        <!-- //news-detail -->
+
+        <div class="reporterdiv flex vCenter justifyBetween">
+            <div class="flex vCenter">
+                <img  src="https://cdnimage.dailian.co.kr/reporter/profile_33236_1602655226.png ">
+                <div class="reportText">
+                    <div><b>정도원 기자 (united97@dailian.co.kr)</b></div>
+                    <a href="/search?shwords=정도원&sbj=reporter">기사 모아 보기 ></a>
+                </div>
+            </div>
+            
+            <button onclick="location.href='https://media.naver.com/journalist/119/71623'" class="navergudock">+네이버 구독</button>
+            
+        </div>
+
+        
+     
+        <!--  appraise -->
+        <div class="appraise flex justifyBetween">
+            <div class="faceIcon">
+                <i class="far fa-smile" style="cursor: pointer" onclick="likeNews()"></i>
+                
+                    <span id="news_likes" style="color: black">0</span>
+                
+            </div>
+            <div class="faceIcon">
+                <i class="far fa-frown" style="cursor: pointer" onclick="hateNews()"></i>
+                
+                    <span id="news_hates" style="color: black">0</span>
+                
+            </div>
+            <div class="share">
+                <div class="button" onclick="openShares(event)"><img src="\newCommon\icon\share30.svg"></div>
+            </div>
+        </div>
+        
+            
+                <div class="contentsBanner">
+                    <a href="https://media.naver.com/channel/promotion.nhn?oid=119" target="_blank"><img src="https://cdnimage.dailian.co.kr/ban/구독배너_본문용_730x80.png"></a>
+                </div>
+            
+        
+
+        
+            
+    <div class="itemContainer" >
+        
+        <div class="itemTitle marginBottom20">
+            <span>관련기사</span>
+            
+        </div>
+        
+        
+            <div class="wide1Box">
+                <a href="/news/view/1045694/">
+                    <div class="flex vCenter">
+                        
+                        <div style="width: 100px;" class="shrink0 marginRight15">
+                            <div class="imgWrapper wide3">
+                                <img class="objectCover absolute top left fullWidth" src="https://cdnimage.dailian.co.kr/news/icon/202110/news_1635169228_1045694_c.jpeg">
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <p class="listTitle lineLimit line1">[현장] '전두환 발언' '개 사과'…국민의힘 지지자들에게 물었더니</p>
+                            <p class="marginTop5 itemSubtitle lineLimit line1">국민의힘 대전·충청 합동토론 열린<br>KBS대전총국 앞에서 '전두환 발언'<br>'개 사과'에 대한 생각 물어봤더니…</p>
+                        </div>
+                    </div>
+                </a>
+                
+                    
+
+    <div style="margin:20px 0; border-bottom: solid 1px rgb(232,232,232);">
+    </div>
+
+                
+            </div>
+        
+            <div class="wide1Box">
+                <a href="/news/view/1045714/">
+                    <div class="flex vCenter">
+                        
+                        <div style="width: 100px;" class="shrink0 marginRight15">
+                            <div class="imgWrapper wide3">
+                                <img class="objectCover absolute top left fullWidth" src="https://cdnimage.dailian.co.kr/news/icon/202110/news_1635173270_1045714_c.png">
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <p class="listTitle lineLimit line1">[데일리안 여론조사] 野후보 예측도…홍준표 38.6% 윤석열 34.8%</p>
+                            <p class="marginTop5 itemSubtitle lineLimit line1">여론조사공정㈜ '국민들은 지금'<br>유승민 5.8% 원희룡 3.8%<br>洪, 2030에 더해 4050서도 우세<br>洪~尹 호남 격차, 11.4%p→31.1%p</p>
+                        </div>
+                    </div>
+                </a>
+                
+                    
+
+    <div style="margin:20px 0; border-bottom: solid 1px rgb(232,232,232);">
+    </div>
+
+                
+            </div>
+        
+            <div class="wide1Box">
+                <a href="/news/view/1046753/">
+                    <div class="flex vCenter">
+                        
+                        <div style="width: 100px;" class="shrink0 marginRight15">
+                            <div class="imgWrapper wide3">
+                                <img class="objectCover absolute top left fullWidth" src="https://cdnimage.dailian.co.kr/news/icon/202110/news_1635385738_1046753_c.jpeg">
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <p class="listTitle lineLimit line1">홍준표 "난 대통령 되려는 사람…윤석열은 후보가 되려는 사람"</p>
+                            <p class="marginTop5 itemSubtitle lineLimit line1">"尹, 2030·호남서 한 자릿수 지지율<br>중도 외면하는데 본선 어찌 이기나<br>본인과 가족의 신변보호 위해 야당<br>후보 되려고 하면 당과 나라의 불행"</p>
+                        </div>
+                    </div>
+                </a>
+                
+                    
+
+    <div style="margin:20px 0; border-bottom: solid 1px rgb(232,232,232);">
+    </div>
+
+                
+            </div>
+        
+            <div class="wide1Box">
+                <a href="/news/view/1046153/">
+                    <div class="flex vCenter">
+                        
+                        <div style="width: 100px;" class="shrink0 marginRight15">
+                            <div class="imgWrapper wide3">
+                                <img class="objectCover absolute top left fullWidth" src="https://cdnimage.dailian.co.kr/news/icon/202110/news_1635263558_1046153_c.jpeg">
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <p class="listTitle lineLimit line1">[노태우 서거] 선거로 뽑혀 선거로 물러난 첫 대통령…'민주주의의 연착륙'</p>
+                            <p class="marginTop5 itemSubtitle lineLimit line1">직선제 선거로 집권해서 선거 통해<br>선출된 후임자에 정권이양 첫 사례<br>6·29 선언…"직선제로 정면승부"</p>
+                        </div>
+                    </div>
+                </a>
+                
+                    
+
+    <div style="margin:20px 0; border-bottom: solid 1px rgb(232,232,232);">
+    </div>
+
+                
+            </div>
+        
+            <div class="wide1Box">
+                <a href="/news/view/1046174/">
+                    <div class="flex vCenter">
+                        
+                        <div style="width: 100px;" class="shrink0 marginRight15">
+                            <div class="imgWrapper wide3">
+                                <img class="objectCover absolute top left fullWidth" src="https://cdnimage.dailian.co.kr/news/icon/202110/news_1635264744_1046174_c.jpeg">
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <p class="listTitle lineLimit line1">[노태우 서거] '친구' 전두환 곁에서…'성공한 2인자' 처신 보여</p>
+                            <p class="marginTop5 itemSubtitle lineLimit line1">노태우와 전두환, 육사 11기 동기<br>12·12 사태로 신군부 득세하자<br>노태우, 자연스레 2인자로 부상</p>
+                        </div>
+                    </div>
+                </a>
+                
+            </div>
+        
+    </div>
+ 
+            <!--데일리안PC 관련기사 하이라이트-->
+<iframe width="730" height="110" src="//adgrp1.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=04MV&amp;out=iframe" allowtransparency="true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" sandbox="allow-same-origin allow-scripts allow-forms allow-top-navigation allow-popups allow-modals allow-top-navigation-by-user-activation"></iframe>
+        
+        
+            
+                <div class="contentsBanner">
+                    <iframe src="//adv.imadrep.co.kr/8103_01.html" width="786" height="208" border="0" frameborder="0" framemargin="0" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" SCROLLING="no"></iframe>
+                </div>
+            
+                <div class="contentsBanner">
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <!-- PMLB2 -->
+                        <ins class="adsbygoogle"
+                             style="display:inline-block;width:658px;height:200px"
+                             data-ad-client="ca-pub-9445919957027022"
+                             data-ad-slot="1329161876"></ins>
+                        <script>
+                             (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                </div>
+            
+        
+    </div>
+
+
+
+
+
+
+
+    <div id="innerSquareBanner4" style="float: right; margin: 0 0 15px 15px;"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- PC_AIB -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-9445919957027022"
+     data-ad-slot="8850694444"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+
+<script>
+    function printArea() {
+        document.pf.printzone.value = document.querySelector('.news-contents').innerHTML;
+        document.pf.title.value = document.querySelector('.news-contents .title').innerText;
+        window.open("/printPage2.html", "print_open","width=800,height=700,top=0,left=0,noresizable,toolbar=no,status=no,scrollbars=yes,directory=no");
+    }
+
+    function dailianLogin() {
+    
+        localStorage.setItem("ref_page_x", window.pageXOffset)
+        localStorage.setItem("ref_page_y", window.pageYOffset)
+        location.href = "/login"
+    }
+    window.onload = function(){
+        addFigureBanner();
+    }
+    function addFigureBanner() {
+        if (new Date() >= new Date('2020-04-02T00:00:00') && new Date() < new Date('2020-04-15T00:00:00')) {        // 언제까지 실행하기 
+            // document.querySelector('.reply').style.display = 'none';
+            var appraiseDiv = document.querySelector('.appraise');
+            var replyDiv = document.querySelector('.reply');
+            replyDiv.parentElement.insertBefore(replyDiv, appraiseDiv);
+            appraiseDiv.style.display = 'none';
+            // replyDiv.parentElement.insertBefore(appraiseDiv, replyDiv);
+            var comment = '<div class="reply"><p>데일리안 댓글 운영정책</p>';
+            comment += '<div style="font-size: 14px; font-family: Noto Sans KR regular, sans-serif; padding: 15px; border: 1px solid #CCCCCC; margin-bottom: 15px; background: #F5F5F5;">';
+            comment += '2020년 4.15총선의 선거운동기간 동안 게시판에 특정 후보자들의 명예훼손, 비방, 악의적 댓글과 불법적인 선거홍보를 할 경우 공직선거법 제110조(후보자 등의 비방금지) 등의 위반으로 민형사상 피해가 일어날 수 있습니다.<br><br>게시자분들의 예기치 않은 피해를 방지하고자 아래 선거운동기간 동안 게시판의 운영을 잠정 중단하오니 양해해주시기 바랍니다.';
+            comment += '<hr style="border-top: 0.5px dotted #CCCCCC;">';
+            comment += '<span style="display: block; color: #ce1616;">(댓글 중단 기간 : 4.02 00:00 ~ 4.14 24:00)</span>';
+            comment += '</div></div>';
+            replyDiv.outerHTML = comment;
+        }
+        var imageDiv = document.getElementsByClassName('figure')[0];
+        var lineBanner = document.getElementById('innerLineBanner');
+        var squareBanner1 = document.getElementById('innerSquareBanner1');
+        var squareBanner2 = document.getElementById('innerSquareBanner2');
+        var squareBanner3 = document.getElementById('innerSquareBanner3');
+        var squareBanner4 = document.getElementById('innerSquareBanner4');
+        const articleP = document.querySelectorAll('.article p');
+        let pArray = [];
+        for(let i = 0; i < articleP.length; i++){
+            if(articleP[i].innerHTML && articleP[i].innerHTML != '<br>' && articleP[i].parentElement.className != 'inner-subtitle'){
+                pArray.push(articleP[i])
+            }
+        }
+        // console.log(pArray, pArray.length)
+        let tmpIdx = 1;
+        if(pArray.length > 5){
+            tmpIdx = 3;
+        }else if(pArray.length > 3){
+            tmpIdx = pArray.length - 2;
+        }else{
+            tmpIdx = pArray.length - 1;
+        }
+        if(tmpIdx){
+            // if(pArray[tmpIdx].previousElementSibling && pArray[tmpIdx].previousElementSibling.innerHTML == '<br>'){
+            //     pArray[tmpIdx].previousElementSibling.remove();
+            // }
+            if(squareBanner3){
+                pArray[tmpIdx].parentElement.insertBefore(squareBanner3, pArray[tmpIdx]);
+            }
+            if(squareBanner4){
+                pArray[tmpIdx].parentElement.insertBefore(squareBanner4, pArray[tmpIdx]);
+            }
+        }else{
+            if(squareBanner3){
+                pArray[tmpIdx].parentElement.insertBefore(squareBanner3, pArray[tmpIdx]);
+                pArray[tmpIdx].parentElement.insertBefore(pArray[tmpIdx], squareBanner3);
+            }
+            if(squareBanner4){
+                pArray[tmpIdx].parentElement.insertBefore(squareBanner4, pArray[tmpIdx]);
+                pArray[tmpIdx].parentElement.insertBefore(pArray[tmpIdx], squareBanner4);
+            }
+        }
+        // console.log(imageDiv)
+        if(imageDiv){
+            if(lineBanner){ imageDiv.appendChild(lineBanner) }
+            if(squareBanner1){ 
+                imageDiv.parentElement.insertBefore(squareBanner1, imageDiv)
+                imageDiv.parentElement.insertBefore(imageDiv, squareBanner1)
+            }
+            if(squareBanner2){
+                imageDiv.parentElement.insertBefore(squareBanner2, imageDiv)
+                imageDiv.parentElement.insertBefore(imageDiv, squareBanner2)
+            }
+        }else{
+            lineBanner.remove();
+            squareBanner1.remove();
+            squareBanner2.remove();
+        }
+    }
+
+    function openShares(e) {
+    
+        document.getElementById('shareDiv').style.visibility
+        = document.getElementById('shareDiv').style.visibility == 'visible' ? 'hidden' : 'visible'
+        
+        // document.getElementById('btns_share').style.visibility 
+        //     = document.getElementById('btns_share').style.visibility == 'visible' ? 'hidden' : 'visible'
+
+    }
+    
+    var size = 'width=626 height=436';
+    
+    function shareFacebook() {
+    
+        window.open('https://www.facebook.com/sharer.php?u=' + window.location.href, '_blank', size);
+    }
+    
+    function shareKakaoStory() {
+    
+        window.open('https://story.kakao.com/share?url=' + window.location.href, '_blank', size);
+    }
+    
+    function shareTwitter() {
+    
+        window.open('https://twitter.com/share?url=' + window.location.href, '_blank', size);
+    }
+    
+    function shareBand() {
+    
+    //coming soon
+    }
+    
+    //https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.dailian.co.kr%2Fnews%2Fview%2F818152&&t=%EC%9D%BC%EA%B0%90%20%EC%B0%BE%EB%8A%94%20%EC%A6%9D%EA%B6%8C%EC%82%AC%EB%93%A4%C2%B7%C2%B7%C2%B7%EA%B0%80%EC%97%85%EC%8A%B9%EA%B3%84%20%EB%B6%80%EC%97%85%20%E2%80%98%EB%9F%AC%EC%8B%9C%E2%80%99-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EC%95%88
+    //https://www.facebook.com/sharer.php?u=http%3A%2F%2F106.10.53.188%2Fnews%2Fview%2F804032
+    function socialShare(type){
+    
+        var snsTitle = encodeURIComponent(document.querySelector('.news-contents .title').innerHTML);
+        var snsUrl = encodeURIComponent(window.location.href);
+        var snsCopy = encodeURIComponent("데일리안");
+        var opensns = "";
+    
+        if(type == "facebook"){
+            opensns +="http://www.facebook.com/sharer.php?u="+snsUrl;
+            opensns += "&&t="+snsTitle;
+            openSnsWin(opensns);
+        } else if(type == "band"){
+            opensns += "\""+snsTitle+"\":"+snsUrl;
+            opensns += "&new_post[tags]="+snsCopy;
+            openSnsWin('http://www.band.us/plugin/share?body='+opensns+'&route=www.dailian.co.kr');
+        }else if(type == "kakaostory"){
+            opensns +="https://story.kakao.com/share?url="+snsUrl;
+            openSnsWin(opensns);
+        }
+        else if(type == "twitter") {
+            opensns += "http://twitter.com/intent/tweet?text="+snsTitle+"%20@dailiannews&url="+snsUrl
+            openSnsWin(opensns)
+        }else if(type == "url"){
+            var urlbox = document.getElementById('urlData');
+            urlbox.value = location.href;
+            urlbox.select();
+            var result = document.execCommand("copy");
+            alert( 'URL 이 복사 되었습니다.');
+        }
+    }
+    
+    
+    function openSnsWin(opensns) {
+        var winObj;
+        winObj = window.open(opensns,"","width=560, height=520, scrollbars=yes, resizable=yes");
+    }
+    </script>
+    
+    
+    
+    <script>
+    
+    
+    function sortComment(sortBy) {
+        
+        const aligns = ['like', 'recent', 'hate'];
+        for (var i in aligns){
+            if(aligns[i] == sortBy) document.getElementById('sort_by_'+aligns[i]).parentElement.setAttribute("class", "active");
+            else document.getElementById('sort_by_'+aligns[i]).parentElement.setAttribute("class", "");
+        }
+    
+        var elComment = document.getElementById('comment_list')
+        var req = new XMLHttpRequest();
+        
+        
+        req.open('POST', '/sortComment?sortBy='+sortBy+"&newsId=1047609&startPos=0&itemCount=10");
+        req.setRequestHeader('Content-Type', "application/json")
+        req.send();
+    
+        
+        req.addEventListener('load', function() {
+    
+            var resJson = req.responseText
+            
+            var resJsonObj = JSON.parse(resJson)
+            
+
+            
+            if(resJsonObj.result == 'success') {
+    
+                elComment.value = ''
+    
+                removeAllComment()
+                
+                prependChild('comment_list', resJsonObj.comment)
+
+                
+
+                currentPagePos = 10
+                currentSortBy = sortBy
+                document.getElementById('btn_load_more').style.visibility = 'visible'
+            }
+            else if(resJsonObj.result == 'no_auth') {
+    
+                alert('권한이 없습니다. 로그인 해주세요.')
+            }
+            else {
+    
+                alert('알 수 없는 오류로 인해 댓글 작성에 실패하였습니다')
+                return
+            }
+    
+        })
+    }
+    
+    function writeComment() {
+    
+        var elComment = document.getElementById('textarea_comment')
+        var comment = elComment.value
+    
+        if(!comment || comment.trim() == '') {
+    
+            alert('내용을 입력하세요')
+            return
+        }
+
+        comment = comment.replace(/\n/g, "<br />")
+        
+        var req = new XMLHttpRequest();
+    
+        req.open('POST', '/writeComment?newsId=1047609&comment='+comment);
+        req.setRequestHeader('Content-Type', "application/json")
+        req.send();
+    
+        req.addEventListener('load', function() {
+            
+            console.log(req.responseText)
+            
+            var resJson = req.responseText
+            
+            var resJsonObj = JSON.parse(resJson)
+            
+            if(resJsonObj.result == 'success') {
+    
+                console.log("작성 완료")
+    
+                // initialize text area of comment for being modified
+                elComment.value = ''
+                
+                prependChild('comment_list', resJsonObj.comment)
+            }
+            else if(resJsonObj.result == 'no_auth') {
+    
+                alert('권한이 없습니다. 로그인 해주세요.')
+            }
+            else {
+    
+                alert('알 수 없는 오류로 인해 댓글 작성에 실패하였습니다')
+                return
+            }
+    
+        })
+    }
+    
+    var currentPagePos = '0' * 1 || 10 // because already loaded 0 page
+    var currentSortBy = 'like'
+    function loadMoreComments() {
+        
+        var req = new XMLHttpRequest();
+    
+        req.open('POST', '/getComments?sortBy='+currentSortBy+'&newsId=1047609&startPos='+currentPagePos+"&itemCount=10");
+        req.setRequestHeader('Content-Type', "application/json")   
+        req.send();
+    
+        req.addEventListener('load', function(){
+    
+            var resJson = req.responseText
+            
+            var resJsonObj = JSON.parse(resJson)
+            
+            if(resJsonObj.result == 'success') {
+    
+                console.log("로드 완료")
+                console.log("추가 댓글 갯수:", resJsonObj.commentCount)
+    
+                if(resJsonObj.commentCount <= 0) {
+    
+                    document.getElementById("btn_load_more").style.visibility = 'hidden'
+                }
+                else {
+    
+                    appendChild('comment_list', resJsonObj.comment)
+                    currentPagePos += 10
+                }
+            }
+            else {
+    
+                alert('알 수 없는 오류로 인해 댓글 불러오기에 실패하였습니다')
+                return
+            }
+        })
+    }
+    
+    function removeAllComment() {
+    
+        var myNode = document.getElementById("comment_list");
+        while (myNode.firstChild) {
+            myNode.removeChild(myNode.firstChild);
+        }
+    }
+    
+    function thumbUpComment(cid) {
+    
+        var req = new XMLHttpRequest();
+    
+        req.open('POST', '/likeComment?commentId='+cid);
+        req.setRequestHeader('Content-Type', "application/json")   
+        req.send();
+    
+        req.addEventListener('load', function(){
+    
+            var resJson = req.responseText;
+    
+            if(!resJson || resJson == '') {
+    
+                alert('좋아요에 실패했습니다(1)')
+            }
+            else {
+    
+                var resJsonObj = JSON.parse(resJson)
+    
+                if(resJsonObj.result == 'success') {
+    
+                    refreshPreference('like', resJsonObj.preference, cid)
+                }
+                else if(resJsonObj.result == 'no_auth') {
+    
+                    alert('먼저 로그인을 해주세요')
+                }
+                else {
+    
+                    alert('좋아요에 실패했습니다(2)')
+                }
+            }
+        })
+    }
+    
+    function thumbDownComment(cid) {
+    
+        var req = new XMLHttpRequest();
+    
+        req.open('POST', '/hateComment?commentId='+cid);
+        req.setRequestHeader('Content-Type', "application/json")   
+        req.send();
+    
+        req.addEventListener('load', function(){
+    
+            var resJson = req.responseText;
+    
+            if(!resJson || resJson == '') {
+    
+                alert('싫어요에 실패했습니다(1)')
+            }
+            else {
+    
+                var resJsonObj = JSON.parse(resJson)
+    
+                if(resJsonObj.result == 'success') {
+    
+                    refreshPreference('hate', resJsonObj.preference, cid)
+                }
+                else if(resJsonObj.result == 'no_auth') {
+    
+                    alert('먼저 로그인을 해주세요')
+                }
+                else {
+    
+                    alert('싫어요에 실패했습니다(1)')
+                }
+            }
+        })
+    }
+    
+    function refreshPreference(myPreference, jsonPreference, cid) {
+    
+        if(jsonPreference) {
+    
+            var elItemLikes = document.getElementById("item_likes-"+cid)
+            var elItemHates = document.getElementById("item_hates-"+cid)
+    
+            elItemLikes.textContent = jsonPreference.likes
+            elItemHates.textContent = jsonPreference.hates
+    
+            if(myPreference) {
+    
+                if(myPreference == 'like') {
+    
+                    // if you've already liked, cancel thumb up
+                    if(elItemLikes.style.color == 'rgb(255, 152, 33)') {
+    
+                        elItemLikes.style.color = '#000000'
+                    }
+                    else {
+    
+                        elItemLikes.style.color = '#ff9821'
+                        elItemHates.style.color = '#000000'
+                    }
+                }
+                else if(myPreference == 'hate') {
+    
+                    // if you've already hated, cancel thumb down
+                    if(elItemHates.style.color == 'rgb(0, 42, 221)') {
+    
+                        elItemHates.style.color = '#000000'
+                    }
+                    else {
+    
+                        elItemHates.style.color = '#002add'
+                        elItemLikes.style.color = '#000000'
+                    }
+                }
+                else {
+    
+                    console.log('invalid preference:', myPreference)
+                }
+            }
+        }
+    }
+    
+    function tryEditComment(cid) {
+    
+        showEditElement(cid)
+    }
+    function cancelEditComment(cid) {
+    
+        hideEditElement(cid)
+    }
+    function showEditElement(cid) {
+    
+        document.getElementById("c_item_content-"+cid).style.display = 'none'
+        document.getElementById("c_item_content_edit-"+cid).style.display = 'block'
+    
+        document.getElementById("btn_try_edit-"+cid).style.display = 'none'
+        document.getElementById("btn_edit_commit-"+cid).style.display = 'inline-block'
+    
+        document.getElementById("c_item_content_edit-"+cid).textContent =
+         document.getElementById("c_item_content-"+cid).textContent
+         && document.getElementById("c_item_content-"+cid).textContent != '' ? document.getElementById("c_item_content-"+cid).textContent : ""
+    }
+    function hideEditElement(cid) {
+    
+        document.getElementById("c_item_content-"+cid).style.display = 'block'
+        document.getElementById("c_item_content_edit-"+cid).style.display = 'none'
+
+        document.getElementById("btn_try_edit-"+cid).style.display = 'inline-block'
+        document.getElementById("btn_edit_commit-"+cid).style.display = 'none'
+    }
+    function editComment(cid) {
+    
+        var citem = 'c_item_content-'+cid
+        var citemEdit = 'c_item_content_edit-'+cid
+    
+        var comment = document.getElementById(citemEdit).value.replace(/\n/g, "<br />")
+    
+        var req = new XMLHttpRequest();
+    
+        req.open('POST', '/editComment?commentId='+cid+"&comment="+comment);
+        req.setRequestHeader('Content-Type', "application/json")   
+        req.send();
+    
+        req.addEventListener('load', function(){
+    
+            var resJson = req.responseText;
+    
+            if(!resJson || resJson == '') {
+    
+                alert('알 수 없는 오류로 인해 삭제에 실패했습니다')
+            }
+            else {
+    
+                var resJsonObj = JSON.parse(resJson)
+    
+                if(resJsonObj.result == 'success') {
+    
+                    document.getElementById(citem).textContent = comment.replace(/<br \/>/g, "\n")
+                    // document.getElementById(citemEdit).textContent = comment
+                    hideEditElement(cid)
+                }
+                else if(resJsonObj.result == 'no_auth') {
+                    if(confirm('권한이 없습니다. 로그인 하시겠습니까?')){
+                        localStorage.setItem("ref_page_x", window.pageXOffset)
+                        localStorage.setItem("ref_page_y", window.pageYOffset)
+                        location.href = "/login"
+                    }
+                }
+                else {
+    
+                    alert('알 수 없는 오류로 인해 삭제에 실패했습니다')
+                }
+            }
+        })
+    }
+    
+    function deleteComment(cid) {
+    
+        var citem = 'c_item-'+cid
+    
+        var req = new XMLHttpRequest();
+    
+        req.open('POST', '/deleteComment?newsId=1047609&commentId='+cid);
+        req.setRequestHeader('Content-Type', "application/json")   
+        req.send();
+    
+        req.addEventListener('load', function(){
+    
+            var resJson = req.responseText;
+    
+            if(!resJson || resJson == '') {
+    
+                alert('알 수 없는 오류로 인해 삭제에 실패했습니다')
+            }
+            else {
+    
+                var resJsonObj = JSON.parse(resJson)
+    
+                if(resJsonObj.result == 'success') {
+    
+                    document.getElementById(citem).remove()
+                    currentPagePos--
+                }
+                else if(resJsonObj.result == 'no_auth') {
+                    if(confirm('권한이 없습니다. 로그인 하시겠습니까?')){
+                        localStorage.setItem("ref_page_x", window.pageXOffset)
+                        localStorage.setItem("ref_page_y", window.pageYOffset)
+                        location.href = "/login"
+                    }
+                }
+                else {
+    
+                    alert('알 수 없는 오류로 인해 삭제에 실패했습니다')
+                }
+            }
+        })
+    }
+    
+    
+    function prependChild(elementId, html) {
+    
+        document.getElementById(elementId).insertAdjacentHTML('afterbegin', html)
+    }
+    function appendChild(elementId, html) {
+    
+        document.getElementById(elementId).insertAdjacentHTML('beforeend', html)
+    }
+    
+    </script>
+    
+    
+    
+    <script>
+        
+    function likeNews() {
+    
+        var req = new XMLHttpRequest();
+    
+        req.open('POST', '/likeNews?newsId=1047609')
+        req.setRequestHeader('Content-Type', "application/json")   
+        req.send();
+    
+        req.addEventListener('load', function() {
+    
+            var resJson = req.responseText;
+    
+            if(!resJson || resJson == '') {
+    
+                alert('알 수 없는 오류로 인해 삭제에 실패했습니다')
+            }
+            else {
+    
+                var resJsonObj = JSON.parse(resJson)
+    
+                if(resJsonObj.result == 'success') {
+    
+                    var elNewsLikes = document.getElementById('news_likes')
+                    var elNewsSosos = document.getElementById('news_sosos')
+                    var elNewsHates = document.getElementById('news_hates')
+                    if(elNewsLikes){
+                        elNewsLikes.style.color = '#ff9821';
+                        elNewsLikes.innerHTML = '<h2>'+resJsonObj.preference.likes+'</h2>';
+                    }
+                    if(elNewsSosos){
+                        elNewsSosos.style.color = '#000000';
+                        elNewsSosos.innerHTML = resJsonObj.preference.sosos;
+                    }
+                    if(elNewsHates){
+                        elNewsHates.style.color = '#000000';
+                        elNewsHates.innerHTML = resJsonObj.preference.hates;
+                    }
+    
+                    '#002add'
+                }
+                else if(resJsonObj.result == 'no_auth') {
+                    if(confirm('권한이 없습니다. 로그인 하시겠습니까?')){
+                        localStorage.setItem("ref_page_x", window.pageXOffset)
+                        localStorage.setItem("ref_page_y", window.pageYOffset)
+                        location.href = "/login"
+                    }
+                }
+                else {
+    
+                    alert('알 수 없는 오류로 인해 삭제에 실패했습니다')
+                }
+            }
+        })
+    }
+    
+    function sosoNews() {
+    
+        var req = new XMLHttpRequest();
+    
+        req.open('POST', '/sosoNews?newsId=1047609')
+        req.setRequestHeader('Content-Type', "application/json")   
+        req.send();
+    
+        req.addEventListener('load', function() {
+    
+            var resJson = req.responseText;
+    
+            if(!resJson || resJson == '') {
+    
+                alert('알 수 없는 오류로 인해 삭제에 실패했습니다')
+            }
+            else {
+    
+                var resJsonObj = JSON.parse(resJson)
+    
+                if(resJsonObj.result == 'success') {
+    
+                    var elNewsLikes = document.getElementById('news_likes')
+                    var elNewsSosos = document.getElementById('news_sosos')
+                    var elNewsHates = document.getElementById('news_hates')
+                    if(elNewsLikes){
+                        elNewsLikes.style.color = '#000000';
+                        elNewsLikes.innerHTML = resJsonObj.preference.likes;
+                    }
+                    if(elNewsSosos){
+                        elNewsSosos.style.color = '#000000';
+                        elNewsSosos.innerHTML = '<h2>'+resJsonObj.preference.sosos+'</h2>';
+                    }
+                    if(elNewsHates){
+                        elNewsHates.style.color = '#000000';
+                        elNewsHates.innerHTML = resJsonObj.preference.hates;
+                    }
+                }
+                else if(resJsonObj.result == 'no_auth') {
+                    if(confirm('권한이 없습니다. 로그인 하시겠습니까?')){
+                        localStorage.setItem("ref_page_x", window.pageXOffset)
+                        localStorage.setItem("ref_page_y", window.pageYOffset)
+                        location.href = "/login"
+                    }
+                }
+                else {
+    
+                    alert('알 수 없는 오류로 인해 삭제에 실패했습니다')
+                }
+            }
+        })
+    }
+    
+    function hateNews() {
+    
+        var req = new XMLHttpRequest();
+    
+        req.open('POST', '/hateNews?newsId=1047609')
+        req.setRequestHeader('Content-Type', "application/json")   
+        req.send();
+    
+        req.addEventListener('load', function() {
+    
+            var resJson = req.responseText;
+    
+            if(!resJson || resJson == '') {
+    
+                alert('알 수 없는 오류로 인해 삭제에 실패했습니다')
+            }
+            else {
+    
+                var resJsonObj = JSON.parse(resJson)
+    
+                if(resJsonObj.result == 'success') {
+    
+                    var elNewsLikes = document.getElementById('news_likes')
+                    var elNewsSosos = document.getElementById('news_sosos')
+                    var elNewsHates = document.getElementById('news_hates')
+                    if(elNewsLikes){
+                        elNewsLikes.style.color = '#000000';
+                        elNewsLikes.innerHTML = resJsonObj.preference.likes;
+                    }
+                    if(elNewsSosos){
+                        elNewsSosos.style.color = '#000000';
+                        elNewsSosos.innerHTML = '<h2>'+resJsonObj.preference.sosos+'</h2>';
+                    }
+                    if(elNewsHates){
+                        elNewsHates.style.color = '#000000';
+                        elNewsHates.innerHTML = '<h2>'+resJsonObj.preference.hates+'</h2>';
+                    }
+                }
+                else if(resJsonObj.result == 'no_auth') {
+                    if(confirm('권한이 없습니다. 로그인 하시겠습니까?')){
+                        localStorage.setItem("ref_page_x", window.pageXOffset)
+                        localStorage.setItem("ref_page_y", window.pageYOffset)
+                        location.href = "/login"
+                    }
+                }
+                else {
+    
+                    alert('알 수 없는 오류로 인해 삭제에 실패했습니다')
+                }
+            }
+        })
+    }
+    
+    count_click = 0;
+    function contentsFontSizeChange(e){
+        
+        size = $(".article").css("font-size");
+        size = parseInt(size, 10);
+        $("#font-size").text(size);
+
+        
+        spacing =$(".inner-subtitle").css("letter-spacing");
+        spacing = parseFloat(spacing,10);
+        $("#letter-spacing").text(spacing)
+        // console.log(spacing)
+
+        size2 = $(".inner-subtitle").css("font-size");
+        size2 = parseFloat(size2);
+        if(count_click < 2){
+            $('.article').css("font-size","+=2");
+            $('#font-size').text(size+=2);
+            
+            $('.article').css("letter-spacing","-=0.05");
+            $('#letter-spacing').text(spacing-=0.05);
+            // console.log(spacing)
+            count_click+=1;
+            
+            if(count_click >= 0){
+                $('#font-size').text(size2);
+                $('.inner-subtitle').css("font-size","+=2");
+                $('#font-size').text(size2+=2);
+                
+            }
+
+        }else{
+            $('.article').css("font-size","-=4");
+            $('#font-size').text(size-=4);
+
+            $('.article').css("letter-spacing","+=0.05");
+            $('#letter-spacing').text(spacing+=0.05);
+            
+            $('.article').css("letter-spacing","+=0.05");
+            $('#letter-spacing').text(spacing+=0.05);
+            // 소수점 0.1을 더할 경우 컴퓨터 계산 오류가 발생하므로 간단하게 하기 위해서 0.05를 두번 더함.
+
+            if(count_click >= 0){
+               
+                $('#font-size').text(size2);
+                $('.inner-subtitle').css("font-size","-=4");
+                $('#font-size').text(size2-=4);
+                
+            
+            
+            count_click=0;
+            } 
+        }
+        //console.log(size)
+    }
+
+    function textcheck(event){
+        count_text  = $('#textarea_comment').val();
+        //document.getElementById('textCount').innerHTML =count_text.length;
+        text_saver = count_text
+        if(count_text.length > 150){
+            document.getElementById('textarea_comment').value = text_saver.substring(0,150);
+        }else{
+            document.getElementById('textCount').innerHTML =count_text.length;
+        }
+    }
+    
+
+
+    </script>
+    </div>
+
+    <div>
+        
+
+    <div style="height: 0px; margin:40px 0; border-bottom: solid 2px rgb(232,232,232);">
+    </div>
+
+    </div>
+
+    <div>
+        
+    <div class="itemContainer" >
+        
+        <div class="itemTitle marginBottom30">
+            <span>정도원</span><span class="active"> 기자가 쓴 기사</span>
+            <a href="/search?shwords=정도원&sbj=reporter" class="more">더보기</a>
+        </div>
+        
+        
+            <div class="listTitle1">
+                <a href="/news/view/1047609">이재명 검증특위 출범…김진태 "최악의 저질 후보 가면 찢겠다"</a>
+            </div>
+            
+                
+
+    <div style="margin:15px 0; border-bottom: solid 1px rgb(232,232,232);">
+    </div>
+
+            
+        
+            <div class="listTitle1">
+                <a href="/news/view/1047278">이언주 "김종인, 본선서 홍준표 도와준다면 감사한 일"…김종인 "이재명과 윤석열 경쟁될 것"</a>
+            </div>
+            
+                
+
+    <div style="margin:15px 0; border-bottom: solid 1px rgb(232,232,232);">
+    </div>
+
+            
+        
+            <div class="listTitle1">
+                <a href="/news/view/1047237">홍준표, 4년 중임 대통령·상하 양원제…'정치대개혁' 공약</a>
+            </div>
+            
+                
+
+    <div style="margin:15px 0; border-bottom: solid 1px rgb(232,232,232);">
+    </div>
+
+            
+        
+            <div class="listTitle1">
+                <a href="/news/view/1047203">원희룡 "경선 승리 확신…단일화? 나로 하겠다면 고려"</a>
+            </div>
+            
+                
+
+    <div style="margin:15px 0; border-bottom: solid 1px rgb(232,232,232);">
+    </div>
+
+            
+        
+            <div class="listTitle1">
+                <a href="/news/view/1047101">"끝까지 한 표라도 더…" 홍준표·윤석열, 막판 총력전</a>
+            </div>
+            
+        
+    </div>
+ 
+
+  
+      <div class="contentsBanner">
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- PMLB3 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:658px;height:200px"
+     data-ad-client="ca-pub-9445919957027022"
+     data-ad-slot="5333108180"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+      </div>
+  
+
+    </div>
+
+    <div>
+        
+
+    <div style="height: 3px; margin:40px 0; border-bottom: solid 2px rgb(232,232,232); border-top: solid 2px rgb(62,62,62);">
+    </div>
+
+    </div>
+
+    <div>
+        
+<!-- Start: reply -->
+
+
+
+
+<div class="reply mobileHr10">
+    <div class="tit-area" style="padding: 20px 0px 10px 0px">
+        <h3 style="display:inline-block">댓글 0</h3>
+        
+    </div>
+    
+    
+        <div class="writeReplyBox">
+            <div>
+                <textarea  onclick="dailianLogin()" id="textarea_comment" name="" id="" cols="30" rows="10" placeholder="로그인 후 댓글을 작성하실 수 있습니다."></textarea>
+            </div>
+            <div style="padding-top: 10px;">
+                <span class="texter" id="textCount" >0</span>
+                <span class="texter"  >/ 150</span>
+                <input class="inputer" id="btn_write_comment" type="button" value="등록" onclick="dailianLogin()">
+            </div>
+        </div>
+        
+    
+
+    <ul class="reply-align">
+        <li class="active"> 
+            <div id="sort_by_recent" onclick="sortComment('recent')">
+                최신순
+            </div>
+        </li>
+        <li>
+            <div id="sort_by_like" onclick="sortComment('like')">
+                찬성순
+            </div>
+        </li>
+        <li>
+            <div id="sort_by_hate" onclick="sortComment('hate')">
+                반대순
+                </div>
+            </li>
+        </ul>
+        <div id="comments" class="reply-contents">
+            <div >
+                <ul id="comment_list">
+                    
+                </ul>
+            </div>
+        </div>
+        <div >
+            <div id="btn_load_more" class="addshowbtn" onclick="loadMoreComments()" >0 개의 댓글 전체보기</div>
+        </div>
+    </ul>
+</div>
+<!-- End: reply -->
+
+    
+        <div class="contentsBanner">
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9445919957027022"     crossorigin="anonymous"></script><!-- PMLB3 --><ins class="adsbygoogle"     style="display:inline-block;width:658px;height:200px"     data-ad-client="ca-pub-9445919957027022"     data-ad-slot="5333108180"></ins><script>     (adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </div>
+    
+        <div class="contentsBanner">
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9445919957027022"
+     crossorigin="anonymous"></script>
+<!-- PC_PMBL3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9445919957027022"
+     data-ad-slot="5243358994"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        </div>
+    
+        <div class="contentsBanner">
+            <div>
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+<div id="taboola-below-article-thumbnails1"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a1',
+    container: 'taboola-below-article-thumbnails1',
+    placement: 'Below Article Thumbnails1',
+    target_type: 'mix'
+  });
+</script>
+</div>
+        </div>
+    
+        <div class="contentsBanner">
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9445919957027022"
+     crossorigin="anonymous"></script>
+<!-- PMLB3_1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9445919957027022"
+     data-ad-slot="1758608199"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+        </div>
+    
+
+    </div>
+
+  </div>
+</div>
+
+  <div class="sidebar">
+    <div id="sidebarElement">
+        <!-- facebook sdk -->
+        <div id="fb-root"></div>
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v9.0&appId=295846808078117&autoLogAppEvents=1" nonce="RSERtydw"></script>
+
+        
+            
+            <div >
+                
+<div >
+  
+    <div>
+        
+    
+        <div class="contentsBanner" style="font-size: 0px; text-align: center; margin: 20px 0;">
+        <a href="/search?shwords=%EA%B5%AD%EA%B0%90*2021" target="_blank"><img src="https://cdnimage.dailian.co.kr/ban/국감2021.png"></a>
+        </div>
+    
+
+    </div>
+  
+</div>
+
+            </div>
+            
+        
+            
+        
+            
+            <div class="marginTop20">
+                
+<div >
+  
+    <div>
+        
+<div class="itemContainer" >
+    <p class="itemTitle">
+        <span>정치 <span class="active">많이 본 기사</span></span>
+        <a href="/ranking/politics" class="more fontSize14">더보기</a>
+    </p>
+    
+    <!-- <hr> -->
+    <div class="rankingContainer">
+        
+            <div class="rankingList flex marginTop18">
+                <div class="rankingNum active marginRight15">1</div>
+                <div class="listTitle2 lineLimit line2"><a href="/news/view/1047592">교황 "초청장 주면 北 가겠다" 문대통령 "꼭 한반도에서 뵙길"</a></div>
+            </div>
+        
+            <div class="rankingList flex marginTop18">
+                <div class="rankingNum active marginRight15">2</div>
+                <div class="listTitle2 lineLimit line2"><a href="/news/view/1047278">이언주 "김종인, 본선서 홍준표 도와준다면 감사한 일"…김종인 "이재명과 윤석열 경쟁될 것"</a></div>
+            </div>
+        
+            <div class="rankingList flex marginTop18">
+                <div class="rankingNum active marginRight15">3</div>
+                <div class="listTitle2 lineLimit line2"><a href="/news/view/1047126">이재명 음식점 총량제 후폭풍…'전체주의' '소시오패스' 논란까지</a></div>
+            </div>
+        
+            <div class="rankingList flex marginTop18">
+                <div class="rankingNum active marginRight15">4</div>
+                <div class="listTitle2 lineLimit line2"><a href="/news/view/1047350">종전선언 '결전의 날'…文, 교황 접견 후 바이든과 논의</a></div>
+            </div>
+        
+            <div class="rankingList flex marginTop18">
+                <div class="rankingNum active marginRight15">5</div>
+                <div class="listTitle2 lineLimit line2"><a href="/news/view/1047393">‘광주행’ 예고, ‘광주 4선’ 영입...윤석열 ‘호남 민심’ 달랠까</a></div>
+            </div>
+        	
+    </div>
+</div>
+	
+    </div>
+  
+</div>
+
+            </div>
+            
+        
+            
+            <div class="marginTop20">
+                
+<div >
+  
+    <div>
+        
+    
+        <div class="contentsBanner" style="font-size: 0px; text-align: center; margin: 20px 0;">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9445919957027022"     crossorigin="anonymous"></script><!-- R1 --><ins class="adsbygoogle"     style="display:inline-block;width:300px;height:600px"     data-ad-client="ca-pub-9445919957027022"     data-ad-slot="6382178008"></ins><script>     (adsbygoogle = window.adsbygoogle || []).push({});</script>
+
+        </div>
+    
+
+    </div>
+  
+</div>
+
+            </div>
+            
+        
+            
+            <div class="marginTop20">
+                
+<div style="width:300px">
+  
+    <div>
+        
+    <div class="itemContainer" style="margin-top: 20px;">
+        
+        <div class="itemTitle marginBottom10">
+            <span>D-인터뷰</span>
+            <a href="/newsList?series=7" class="more fontSize14">더보기</a>
+        </div>
+        
+        <div class="wide1Box">
+            
+                <a href="/news/view/1036647/">
+                    <div class="imgWrapper wide2">
+                        <img src="https://cdnimage.dailian.co.kr/news/icon/202109/news_1632873372_1036647_c.jpeg">
+                        
+                    </div>
+                    
+                        <p class="marginTop10 itemTitle lineLimit line1"> 유승민 "코로나 이후 경제 살릴 후보는 나밖에 없다"</p>
+                    
+                    <p class="marginTop10 itemSubtitle lineLimit line3">국민의힘 대선 주자인 유승민 전 의원은 코로나 사태 이후 대한민국에 가장 중요한 화두는 역시 '경제 살리기'라는 점을 강조하며 "코로나 이후 대한민국 경제를 살릴 수 있는 후보는 감히 나밖에 없다는 생각으로 도전한다"고 전했다.유 전 의원은 28일 서울 여의도에 위치한 대선 캠프 '희망22'에서 진행한 데일리안과의 인터뷰에서 대선에 출사표를 던지게 된 배경에 대해 이 같이 말했다.그는 "본선이 가까워질 수록 이슈는 경제"라며 "문재인 정권을 포함해 지난 30년 동안 추락했던 우리 경제를 일으켜 세우지 않으면 인구 문제와 양극화, 불…</p>
+                </a>
+                
+        <div style="height: 10px;"></div>
+        </div>
+    </div>
+ 
+    </div>
+  
+</div>
+
+            </div>
+            
+        
+            
+            <div class="marginTop20">
+                
+<div >
+  
+    <div>
+        
+    
+        <div class="contentsBanner" style="font-size: 0px; text-align: center; margin: 40px 0;">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- R2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-9445919957027022"
+     data-ad-slot="6071789418"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        </div>
+    
+
+    </div>
+  
+</div>
+
+            </div>
+            
+        
+            
+            <div class="marginTop20">
+                
+<div >
+  
+    <div>
+        
+  <div class="itemContainer" style="margin-top: 40px;">
+      
+      <div class="itemTitle">
+          <span>국민들은 지금?</span>
+          <a href="/newsList?series=6" class="more fontSize14">더보기</a>
+      </div>
+      
+      
+      <div class="wide1Box marginTop10">
+          <a href="/news/view/1045677/">
+              <div class="imgWrapper wide6">
+                  <img src="https://cdnimage.dailian.co.kr/news/icon/202110/news_1635190914_1045677_c.jpeg">
+              </div>
+              <div class="flex marginTop10">
+                <div class="listDot shrink0 marginTop10"></div>
+                <p class="listTitle2 lineLimit line2">[데일리안 여론조사] 문대통령 지지율 36.0%…국힘 31.7% 민주 30.8%</p>
+              </div>
+          </a>
+      </div>
+      
+      
+      <div class="wide1Box marginTop10">
+          <a href="/news/view/1045714/">
+            <div class="flex marginTop10">
+              <div class="listDot shrink0 marginTop10"></div>
+              <p class="listTitle2 lineLimit line2">[데일리안 여론조사] 野후보 예측도…홍준표 38.6% 윤석열 34.8%</p>
+            </div>
+          </a>
+      </div>
+      
+  </div>
+ 
+    </div>
+  
+</div>
+
+            </div>
+            
+        
+            
+            <div class="marginTop20">
+                
+<div >
+  
+    <div>
+        
+    
+        <div class="contentsBanner" style="font-size: 0px; text-align: center; margin: 40px 0;">
+        <a href="/search?shwords=2021*%EA%B2%BD%EC%A0%9C%EC%82%B0%EC%97%85%EB%B9%84%EC%A0%84%ED%8F%AC%EB%9F%BC" target="_blank"><img src="https://cdnimage.dailian.co.kr/ban/포럼배너.png"></a>
+        </div>
+    
+        <div class="contentsBanner" style="font-size: 0px; text-align: center; margin: 40px 0;">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9445919957027022"
+     crossorigin="anonymous"></script>
+<!-- R3 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-9445919957027022"
+     data-ad-slot="5348297932"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        </div>
+    
+
+    </div>
+  
+</div>
+
+            </div>
+            
+        
+            
+            <div class="marginTop20">
+                
+<div >
+  
+    <div>
+        
+    <div class="itemContainer" style="margin-top: 40px;">
+        <div id="cartoonContainer_0">
+        
+            <div class="itemTitle marginBottom15">
+                <span>오피니언</span>
+                <a href="/newsList?category2=102" class="more fontSize14">더보기</a>
+            </div>
+        
+            <div>
+            
+                <div class="flex vCenter">
+                    <div class="shrink0 marginRight10">
+                        <a href="/newslist?series=80" class="flex">
+                            <img class="width70Circle" src="https://cdnimage.dailian.co.kr/seriesIcon/series_80_1598947321.jpg">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="/newslist?series=80">
+                            <p class="listTitle">강성주의 홑눈겹눈</p>
+                        </a>
+                        <a href="/news/view/1046083/">
+                            <p class="subtitle2 colorGrey1 lineLimit line2">대법원은 왜 법을 지키지 않나?</p>
+                        </a>
+                    </div>
+                </div>
+                
+                    
+                        <div style="height: 30px;"></div>
+                    
+                
+            
+                <div class="flex vCenter">
+                    <div class="shrink0 marginRight10">
+                        <a href="/newslist?series=58" class="flex">
+                            <img class="width70Circle" src="https://cdnimage.dailian.co.kr/seriesIcon/series_58_1598947277.jpg">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="/newslist?series=58">
+                            <p class="listTitle">정기수 칼럼</p>
+                        </a>
+                        <a href="/news/view/1046185/">
+                            <p class="subtitle2 colorGrey1 lineLimit line2">윤석열에게 없는 세 가지</p>
+                        </a>
+                    </div>
+                </div>
+                
+                    
+                        <div style="height: 30px;"></div>
+                    
+                
+            
+                <div class="flex vCenter">
+                    <div class="shrink0 marginRight10">
+                        <a href="/newslist?series=81" class="flex">
+                            <img class="width70Circle" src="https://cdnimage.dailian.co.kr/seriesIcon/series_81_1598947329.jpg">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="/newslist?series=81">
+                            <p class="listTitle">이기선 칼럼</p>
+                        </a>
+                        <a href="/news/view/1045581/">
+                            <p class="subtitle2 colorGrey1 lineLimit line2">특검을 자초하는 대장동 수사</p>
+                        </a>
+                    </div>
+                </div>
+                
+                    
+                        <div style="height: 30px;"></div>
+                    
+                
+            
+                <div class="flex vCenter">
+                    <div class="shrink0 marginRight10">
+                        <a href="/newslist?series=23" class="flex">
+                            <img class="width70Circle" src="https://cdnimage.dailian.co.kr/seriesIcon/series_23_1598947257.jpg">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="/newslist?series=23">
+                            <p class="listTitle">이진곤의 그건 아니지요</p>
+                        </a>
+                        <a href="/news/view/1045239/">
+                            <p class="subtitle2 colorGrey1 lineLimit line2">경쟁상대 이미지 할퀴기, 어디까지 가고서야 멈출 건가</p>
+                        </a>
+                    </div>
+                </div>
+                
+                    
+                        <div style="height: 30px;"></div>
+                    
+                
+            
+                <div class="flex vCenter">
+                    <div class="shrink0 marginRight10">
+                        <a href="/newslist?series=25" class="flex">
+                            <img class="width70Circle" src="https://cdnimage.dailian.co.kr/seriesIcon/series_25_1598947264.jpg">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="/newslist?series=25">
+                            <p class="listTitle">하재근의 이슈분석</p>
+                        </a>
+                        <a href="/news/view/1044980/">
+                            <p class="subtitle2 colorGrey1 lineLimit line2">‘뽕숭아학당’ 종영, 마침내 미스터트롯이 끝났다</p>
+                        </a>
+                    </div>
+                </div>
+                
+            
+            </div>
+        </div>
+    </div>
+
+
+    </div>
+  
+</div>
+
+            </div>
+            
+        
+            
+        
+            
+            <div class="marginTop20">
+                
+<div >
+  
+    <div>
+        <div class="itemContainer" style="margin-top: 40px;">
+    
+    <div class="mobileHr10" id="cartoonContainer_8419760">
+        <p class="itemTitle marginBottom5">
+            <span>시사만평</span>
+            <a href="/newsList?series=89" class="more fontSize14">더보기</a>
+        </p>
+    
+        <div class="bigImg">
+            
+                <div class="itemImgWrapperWide vga ">
+                    <a href="/news/view/1046806">
+                        <img class="objectCover absolute top left fullWidth fullHeight" src="https://cdnimage.dailian.co.kr/news/202110/news_1635386580_1046806_m_1.png">
+                    </a>
+                    <p class="borderBox title line1 absolute bottom fullWidth lineLimit"> 문대통령 미스테리…잘한 일 없다는데 지지율은 상승?</p>
+                </div>
+            
+                <div class="itemImgWrapperWide vga hidden">
+                    <a href="/news/view/1046309">
+                        <img class="objectCover absolute top left fullWidth fullHeight" src="https://cdnimage.dailian.co.kr/news/202110/news_1635299887_1046309_m_1.png">
+                    </a>
+                    <p class="borderBox title line1 absolute bottom fullWidth lineLimit"> 소득 낮으면 대출 꿈 못꾼다…저소득자·청년들 &#39;한숨&#39;</p>
+                </div>
+            
+                <div class="itemImgWrapperWide vga hidden">
+                    <a href="/news/view/1045886">
+                        <img class="objectCover absolute top left fullWidth fullHeight" src="https://cdnimage.dailian.co.kr/news/202110/news_1635213969_1045886_m_1.png">
+                    </a>
+                    <p class="borderBox title line1 absolute bottom fullWidth lineLimit"> 문대통령, 자화자찬 &#39;달나라&#39; 대통령?…보고 싶은것만 보네</p>
+                </div>
+            
+                <div class="itemImgWrapperWide vga hidden">
+                    <a href="/news/view/1045356">
+                        <img class="objectCover absolute top left fullWidth fullHeight" src="https://cdnimage.dailian.co.kr/news/202110/news_1635125166_1045356_m_1.png">
+                    </a>
+                    <p class="borderBox title line1 absolute bottom fullWidth lineLimit"> 윤석열-홍준표 &#39;할퀴기&#39; 이제 그만…갈길이 멀어요</p>
+                </div>
+            
+        </div>
+        <div class="smallImgWrapper flex justifyBetween marginTop10">
+            
+                <div class="smallImgBox active">
+                    <div class="itemImgWrapperWide vga">
+                        <img class="objectCover absolute top left fullWidth fullHeight" data="0" src="https://cdnimage.dailian.co.kr/news/202110/news_1635386580_1046806_m_1.png"> 
+                    </div>
+                </div>
+            
+                <div class="smallImgBox ">
+                    <div class="itemImgWrapperWide vga">
+                        <img class="objectCover absolute top left fullWidth fullHeight" data="1" src="https://cdnimage.dailian.co.kr/news/202110/news_1635299887_1046309_m_1.png"> 
+                    </div>
+                </div>
+            
+                <div class="smallImgBox ">
+                    <div class="itemImgWrapperWide vga">
+                        <img class="objectCover absolute top left fullWidth fullHeight" data="2" src="https://cdnimage.dailian.co.kr/news/202110/news_1635213969_1045886_m_1.png"> 
+                    </div>
+                </div>
+             
+        </div>
+    </div>
+</div>
+
+<script>
+window.addEventListener('DOMContentLoaded', function(){
+    const bigImgDiv = document.querySelector("#cartoonContainer_8419760 .bigImg")
+    const smallImgArray = document.querySelectorAll("#cartoonContainer_8419760 .smallImgWrapper .smallImgBox");
+    smallImgArray.forEach(function(smallImgDiv){
+        smallImgDiv.addEventListener("mouseover", function(e){
+            // console.log(e, e.target.getAttribute("data"))
+            var idx = e.target.getAttribute("data");
+            if(idx == 0 || idx){
+                for(var i = 0;i<bigImgDiv.children.length;i++){
+                    if(i == idx){
+                        bigImgDiv.children[i].setAttribute("class", bigImgDiv.children[i].className.replace(/\s?hidden/, ''));
+                    }else{
+                        bigImgDiv.children[i].setAttribute("class", bigImgDiv.children[i].className.replace(/\s?hidden/, '') + " hidden");
+                    }
+                }
+                for(var i = 0;i<smallImgArray.length;i++){
+                    if(i == idx){
+                        smallImgArray[i].setAttribute("class", smallImgArray[i].className.replace(/\s?active/, '') + " active");
+                    }else{
+                        smallImgArray[i].setAttribute("class", smallImgArray[i].className.replace(/\s?active/, ''));
+                    }
+                }
+            }
+        });
+    });
+});
+</script>
+    </div>
+  
+</div>
+
+            </div>
+            
+        
+            
+            <div class="marginTop20">
+                
+<div >
+  
+    <div>
+        
+    
+        <div class="contentsBanner" style="font-size: 0px; text-align: center; margin: 40px 0;">
+        <a href="/search?shwords=%EA%B5%AD%EA%B0%90*2021" target="_blank"><img src="https://cdnimage.dailian.co.kr/ban/국감2021.png"></a>
+        </div>
+    
+
+    </div>
+  
+</div>
+
+            </div>
+            
+        
+            
+            <div class="marginTop20">
+                
+<div >
+  
+    <div>
+        
+    <div class="itemContainer" style="margin-top: 40px;">
+        
+        <div class="itemTitle">
+            <span>D-FOCUS</span>
+            <a href="/newsList?series=10" class="more fontSize14">더보기</a>
+        </div>
+        
+        
+        <div class="wide1Box marginTop10">
+            <a href="/news/view/1047256/">
+                <div class="imgWrapper wide1">
+                    <img class="" src="https://cdnimage.dailian.co.kr/news/icon/202110/news_1635469739_1047256_c.jpeg">
+                </div>
+                <p class="marginTop10 lineLimit line1 listTitle1">
+                     서현 "예전보다 밝아졌다…사람 대하는 게 좋아져"
+                </p>
+            </a>
+            
+                
+
+    <div style="height:5px;">
+    </div>
+
+            
+        </div>
+        
+        <div class="wide1Box marginTop10">
+            <a href="/news/view/1045827/">
+                <div class="imgWrapper wide1">
+                    <img class="" src="https://cdnimage.dailian.co.kr/news/icon/202110/news_1635210270_1045827_c.jpeg">
+                </div>
+                <p class="marginTop10 lineLimit line1 listTitle1">
+                     남윤수 "목표는 '연모'의 이현같은 사람"
+                </p>
+            </a>
+            
+                
+
+    <div style="height:5px;">
+    </div>
+
+            
+        </div>
+        
+        <div class="wide1Box marginTop10">
+            <a href="/news/view/1044721/">
+                <div class="imgWrapper wide1">
+                    <img class="" src="https://cdnimage.dailian.co.kr/news/icon/202110/news_1634867661_1044721_c.jpeg">
+                </div>
+                <p class="marginTop10 lineLimit line1 listTitle1">
+                     씨엔블루 "'싹둑', 우리만의 음악 정체성 보존하고 싶었다"
+                </p>
+            </a>
+            
+        </div>
+        
+    </div>
+ 
+    </div>
+  
+</div>
+
+            </div>
+            
+        
+            
+        
+            
+            <div class="marginTop20">
+                
+<div >
+  
+    <div>
+        
+    <div class="itemContainer border1" style="margin-top: 40px;">
+        <a href="/newsList?series=99"><div class="companyRunTitle"></div></a>
+        <div class="companyRunContents">
+            <a href="/news/view/967871">
+                <div class="listTitle lineLimit line2">
+                    <span class="runNo">No. 85</span>
+                    국민내의 ‘트라이’, 김수현 앞세워 토털 라이프브랜드로
+                </div>
+                <div class="flex justifyBetween marginTop5">
+                    <div class="smallInnerText lineLimit line4 marginRight10">토종 속옷 기업 쌍방울의 대표 브랜드 트라이(TRY)가 ‘토털 라이프 브랜드’로 거듭나고 있다. TV광고는 물론 SNS, 유튜브 등 전방위적 마케팅을 통해 MZ세대와 소통 강화에 집중하며, 새로운 이미지 구축에 나서고 있다.그간 쌍방울이 명실상부 국내 대표 내의 기업으로 자리잡을 수 있었던 것은 지속적인 브랜드 이미지 리뉴얼과 성공적인 커뮤니케이션 전략이 뒷받침 됐기 때문이다.향후에도 쌍방울은 고객과의 소통을 중심으로 유통 트렌드 변화에 발 빠르게 대응하는 한편, 온라인 유통 채널 강화를 중심으로 거듭난다는 계획이다.◇ “과거 영광…</div>
+                    <img src="https://cdnimage.dailian.co.kr/news/icon/202102/news_1614318134_967871_c.jpeg">
+                </div>
+            </a>
+        </div>
+    </div>
+
+    </div>
+  
+</div>
+
+            </div>
+            
+        
+            
+            <div class="marginTop20">
+                
+<div >
+  
+    <div>
+        
+    
+        <div class="contentsBanner" style="font-size: 0px; text-align: center; margin: 40px 0;">
+        <iframe name="sc405" src="https://vod.shoppingcall.me/ad_shoppingCallme.php?aid=405" width="300" height="250" frameborder="0" scrolling="no"></iframe>
+        </div>
+    
+
+    </div>
+  
+</div>
+
+            </div>
+            
+        
+            
+        
+            
+        
+            
+            <div class="marginTop20">
+                
+<div >
+  
+    <div>
+        
+    <div class="itemContainer" style="margin-top: 40px;">
+        
+        <div class="itemTitle marginBottom25">
+            <span class="sampleListLeft">인사·부고·동정</span>
+            <a href="/newsList?category2=101" class="more sampleListRight">더보기</a>
+        </div>
+        
+        
+            <div class="wide1Box marginBottom12">
+                <a href="/news/view/1047563/">
+                    <div class="flex vCenter">
+                       
+                        <div>
+                            <p class="sampleListText lineLimit line1">[프로필] 방민수 코오롱플라스틱 대표이사 부사장</p>
+                          
+                        </div>
+                    </div>
+                </a>
+               
+            </div>
+        
+            <div class="wide1Box marginBottom12">
+                <a href="/news/view/1047567/">
+                    <div class="flex vCenter">
+                       
+                        <div>
+                            <p class="sampleListText lineLimit line1">[프로필] 장재혁 코오롱LSI/MOD 대표이사 부사장</p>
+                          
+                        </div>
+                    </div>
+                </a>
+               
+            </div>
+        
+            <div class="wide1Box marginBottom12">
+                <a href="/news/view/1047561/">
+                    <div class="flex vCenter">
+                       
+                        <div>
+                            <p class="sampleListText lineLimit line1">[프로필] 이진용 코오롱베니트 대표이사 사장</p>
+                          
+                        </div>
+                    </div>
+                </a>
+               
+            </div>
+        
+            <div class="wide1Box marginBottom12">
+                <a href="/news/view/1047560/">
+                    <div class="flex vCenter">
+                       
+                        <div>
+                            <p class="sampleListText lineLimit line1">[프로필] 김정일 코오롱글로벌 대표이사 사장</p>
+                          
+                        </div>
+                    </div>
+                </a>
+               
+            </div>
+        
+            <div class="wide1Box marginBottom12">
+                <a href="/news/view/1047555/">
+                    <div class="flex vCenter">
+                       
+                        <div>
+                            <p class="sampleListText lineLimit line1">[프로필] 윤창운 코오롱그룹 부회장</p>
+                          
+                        </div>
+                    </div>
+                </a>
+               
+            </div>
+        
+    </div>
+ 
+    </div>
+  
+</div>
+
+            </div>
+            
+        
+            
+        
+    </div>
+
+</div>
+
+</div>
+    
+    <footer>
+
+    <div class="footerTopContainer2 justifyCenter" >
+        <div class="footerTopMiddleBox" >
+            <div class="flex footerDivOpt">
+                <div style="width: 123px;" class="marginRight25">
+                    <a href="/opinion"><p class="footerBigTitle">오피니언</p></a>
+                    <br>
+                    <a href="/newsList?category2=102"><p class="footerSmallTitle">칼럼</p></a>
+                    <a href="/newsList?series=3"><p class="footerSmallTitle">기자의 눈</p></a>
+                    <a href="/newsList?category2=104"><p class="footerSmallTitle">기고</p></a>
+                    <a href="/newsList?series=89"><p class="footerSmallTitle">시사만평</p></a>
+                </div>
+                
+                    <div style="width: 123px;" class="marginRight25">
+                        <a href="/politics"><p class="footerBigTitle">정치</p></a>
+                        <br>
+                        
+                            
+                            <a href="/newsList?category2=201"><p class="footerSmallTitle">정치일반</p></a>
+                            
+                            <a href="/newsList?category2=202"><p class="footerSmallTitle">청와대</p></a>
+                            
+                            <a href="/newsList?category2=203"><p class="footerSmallTitle">국회</p></a>
+                            
+                            <a href="/newsList?category2=204"><p class="footerSmallTitle">정당</p></a>
+                            
+                            <a href="/newsList?category2=205"><p class="footerSmallTitle">북한</p></a>
+                            
+                            <a href="/newsList?category2=206"><p class="footerSmallTitle">국방·외교</p></a>
+                            
+                        
+                    </div>
+                
+                    <div style="width: 123px;" class="marginRight25">
+                        <a href="/society"><p class="footerBigTitle">사회</p></a>
+                        <br>
+                        
+                            
+                            <a href="/newsList?category2=301"><p class="footerSmallTitle">사회일반</p></a>
+                            
+                            <a href="/newsList?category2=302"><p class="footerSmallTitle">사건사고</p></a>
+                            
+                            <a href="/newsList?category2=303"><p class="footerSmallTitle">교육</p></a>
+                            
+                            <a href="/newsList?category2=304"><p class="footerSmallTitle">노동</p></a>
+                            
+                            <a href="/newsList?category2=305"><p class="footerSmallTitle">언론</p></a>
+                            
+                            <a href="/newsList?category2=306"><p class="footerSmallTitle">환경</p></a>
+                            
+                            <a href="/newsList?category2=307"><p class="footerSmallTitle">인권·복지</p></a>
+                            
+                            <a href="/newsList?category2=308"><p class="footerSmallTitle">식품·의료</p></a>
+                            
+                            <a href="/newsList?category2=309"><p class="footerSmallTitle">지역</p></a>
+                            
+                            <a href="/newsList?category2=310"><p class="footerSmallTitle">인물</p></a>
+                            
+                        
+                    </div>
+                
+                    <div style="width: 123px;" class="marginRight25">
+                        <a href="/economy"><p class="footerBigTitle">경제</p></a>
+                        <br>
+                        
+                            
+                            <a href="/newsList?category2=401"><p class="footerSmallTitle">경제일반</p></a>
+                            
+                            <a href="/newsList?category2=402"><p class="footerSmallTitle">금융</p></a>
+                            
+                            <a href="/newsList?category2=403"><p class="footerSmallTitle">증권</p></a>
+                            
+                            <a href="/newsList?category2=404"><p class="footerSmallTitle">산업</p></a>
+                            
+                            <a href="/newsList?category2=405"><p class="footerSmallTitle">재계</p></a>
+                            
+                            <a href="/newsList?category2=406"><p class="footerSmallTitle">중기</p></a>
+                            
+                            <a href="/newsList?category2=407"><p class="footerSmallTitle">벤처</p></a>
+                            
+                            <a href="/newsList?category2=408"><p class="footerSmallTitle">부동산</p></a>
+                            
+                            <a href="/newsList?category2=409"><p class="footerSmallTitle">글로벌경제</p></a>
+                            
+                            <a href="/newsList?category2=410"><p class="footerSmallTitle">생활경제</p></a>
+                            
+                        
+                    </div>
+                
+                    <div style="width: 123px;" class="marginRight25">
+                        <a href="/itScience"><p class="footerBigTitle">IT/과학</p></a>
+                        <br>
+                        
+                            
+                            <a href="/newsList?category2=501"><p class="footerSmallTitle">IT일반</p></a>
+                            
+                            <a href="/newsList?category2=502"><p class="footerSmallTitle">과학일반</p></a>
+                            
+                            <a href="/newsList?category2=503"><p class="footerSmallTitle">모바일</p></a>
+                            
+                            <a href="/newsList?category2=504"><p class="footerSmallTitle">인터넷·SNS</p></a>
+                            
+                            <a href="/newsList?category2=505"><p class="footerSmallTitle">통신</p></a>
+                            
+                            <a href="/newsList?category2=506"><p class="footerSmallTitle">보안·해킹</p></a>
+                            
+                            <a href="/newsList?category2=507"><p class="footerSmallTitle">컴퓨터</p></a>
+                            
+                            <a href="/newsList?category2=508"><p class="footerSmallTitle">게임</p></a>
+                            
+                            <a href="/newsList?category2=509"><p class="footerSmallTitle">리뷰</p></a>
+                            
+                        
+                    </div>
+                
+                    <div style="width: 123px;" class="marginRight25">
+                        <a href="/entertainment"><p class="footerBigTitle">연예</p></a>
+                        <br>
+                        
+                            
+                            <a href="/newsList?category2=801"><p class="footerSmallTitle">연예일반</p></a>
+                            
+                            <a href="/newsList?category2=802"><p class="footerSmallTitle">TV</p></a>
+                            
+                            <a href="/newsList?category2=803"><p class="footerSmallTitle">영화</p></a>
+                            
+                            <a href="/newsList?category2=804"><p class="footerSmallTitle">음악</p></a>
+                            
+                            <a href="/newsList?category2=805"><p class="footerSmallTitle">스타</p></a>
+                            
+                        
+                    </div>
+                
+                    <div style="width: 123px;" class="marginRight25">
+                        <a href="/sports"><p class="footerBigTitle">스포츠</p></a>
+                        <br>
+                        
+                            
+                            <a href="/newsList?category2=901"><p class="footerSmallTitle">스포츠일반</p></a>
+                            
+                            <a href="/newsList?category2=902"><p class="footerSmallTitle">축구</p></a>
+                            
+                            <a href="/newsList?category2=903"><p class="footerSmallTitle">해외축구</p></a>
+                            
+                            <a href="/newsList?category2=904"><p class="footerSmallTitle">야구</p></a>
+                            
+                            <a href="/newsList?category2=905"><p class="footerSmallTitle">해외야구</p></a>
+                            
+                            <a href="/newsList?category2=906"><p class="footerSmallTitle">농구</p></a>
+                            
+                            <a href="/newsList?category2=907"><p class="footerSmallTitle">배구</p></a>
+                            
+                            <a href="/newsList?category2=908"><p class="footerSmallTitle">UFC</p></a>
+                            
+                        
+                    </div>
+                
+                    <div style="width: 123px;" class="marginRight25">
+                        <a href="/lifeCulture"><p class="footerBigTitle">생활문화</p></a>
+                        <br>
+                        
+                            
+                            <a href="/newsList?category2=601"><p class="footerSmallTitle">생활문화일반</p></a>
+                            
+                            <a href="/newsList?category2=602"><p class="footerSmallTitle">건강정보</p></a>
+                            
+                            <a href="/newsList?category2=603"><p class="footerSmallTitle">자동차·시승기</p></a>
+                            
+                            <a href="/newsList?category2=604"><p class="footerSmallTitle">도로·교통</p></a>
+                            
+                            <a href="/newsList?category2=605"><p class="footerSmallTitle">여행·레저</p></a>
+                            
+                            <a href="/newsList?category2=606"><p class="footerSmallTitle">음식·맛집</p></a>
+                            
+                            <a href="/newsList?category2=607"><p class="footerSmallTitle">패션·뷰티</p></a>
+                            
+                            <a href="/newsList?category2=608"><p class="footerSmallTitle">공연·전시</p></a>
+                            
+                            <a href="/newsList?category2=609"><p class="footerSmallTitle">책</p></a>
+                            
+                            <a href="/newsList?category2=610"><p class="footerSmallTitle">종교</p></a>
+                            
+                            <a href="/newsList?category2=611"><p class="footerSmallTitle">날씨</p></a>
+                            
+                        
+                    </div>
+                
+                    <div style="width: 123px;" class="marginRight25">
+                        <a href="/world"><p class="footerBigTitle">세계</p></a>
+                        <br>
+                        
+                            
+                            <a href="/newsList?category2=701"><p class="footerSmallTitle">세계일반</p></a>
+                            
+                            <a href="/newsList?category2=702"><p class="footerSmallTitle">아시아·오세아니아</p></a>
+                            
+                            <a href="/newsList?category2=703"><p class="footerSmallTitle">북미</p></a>
+                            
+                            <a href="/newsList?category2=704"><p class="footerSmallTitle">중남미</p></a>
+                            
+                            <a href="/newsList?category2=705"><p class="footerSmallTitle">유럽</p></a>
+                            
+                            <a href="/newsList?category2=706"><p class="footerSmallTitle">중동·아프리카</p></a>
+                            
+                        
+                    </div>
+                
+                <div style="width: 123px;" class="">
+                    <p class="footerBigTitle">비쥬얼 뉴스</p>
+                    <br>
+                    <a href="/photo"><p class="footerSmallTitle">포토</p></a>
+                    <a href="/d-tv"><p class="footerSmallTitle">D-TV</p></a>
+                    <a href="/card-news"><p class="footerSmallTitle">카드뉴스</p></a>
+                </div>
+                <div class="incLogoBox">
+                    <a href="http://www.inc.or.kr"><img src="/newCommon/img/daily/logo-internet-white2.png"></a>
+                </div>
+                <div class="copyrightLogoBox">
+                    <img src="/newCommon/img/daily/logo-mark2.png">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footerBottomContainer2" >
+        <div class="marginAuto">
+            <nav>
+                <div class="flex justifyBetween footerMiddleTitle marginTop17">
+                    <div class="marginRight40">
+                        <a href="#">Copyright ⓒ ㈜데일리안 All rights reserved.</a>
+                    </div>
+                    <div class="marginRight30">
+                        <a href="/info/company">회사소개</a>
+                    </div>
+                    <div class="marginRight30">
+                        <a href="/info/ad">광고제휴문의</a>
+                    </div>
+                    <div class="marginRight30">
+                        <a href="/info/privacy">개인정보취급방침</a>
+                    </div>
+                    <div class="marginRight30">
+                        <a href="/info/copyright">저작권 규약</a>
+                    </div>
+                    <div class="marginRight30">
+                        <a href="/info/terms">이용약관</a>
+                    </div>
+                    <div class="marginRight30">
+                        <a href="http://imembers.co.kr/bbs/login.php">임직원복지몰</a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <div class="footerBottomDiv">
+        <div style="width: 1366px;" class="marginAuto">
+            <nav>
+                <div class="flex justifyBetween marginTop17 marginBottom17 height50">
+                    <div class="footerBottomTitle">
+                        제호: 데일리안
+                    </div>
+                    <div class="footerBottomTitle">
+                        등록일: 2005.09.13
+                    </div>
+                    <div class="footerBottomTitle">
+                        등록번호: 서울 아00055
+                    </div>
+                    <div class="footerBottomTitle">
+                        발행인: 민병호
+                    </div>
+                    <div class="footerBottomTitle">
+                        편집인: 이상준
+                    </div>
+                    <div class="footerBottomTitle">
+                        주소 : 서울시 강서구 양천로583(우림블루나인 B동 508,509호)
+                    </div>
+                    <div class="footerBottomTitle">
+                        전화 : 02-714-0770
+                    </div>
+                    <div class="footerBottomTitle">
+                        FAX : 02-714-2969
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+</footer>
+  </div>
+</body>
+<script src="/newCommon/js/common.js"></script>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6086287486507409"
+     crossorigin="anonymous"></script>
+
+</html>

@@ -1,0 +1,289 @@
+
+<!DOCTYPE html>
+<head>
+<title></title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="//code.jquery.com/jquery-latest.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="jw.js"></script> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/0.12.4/hls.js" integrity="sha256-nA9HfEguCZt0PSPB+jwkjFlmMtAYkU+r/AIFVJ1S2WQ=" crossorigin="anonymous"></script>
+<style>
+.container {padding:0 10px 0 10px;}
+.logo {float:left;}
+.info {margin:20px auto; padding:8px 12px; background-color:#f5f5f5; border-radius:3px;}
+.info2 {padding:8px 12px; background-color:#e7f3fe; border-left:6px solid #2196F3; border-radius:3px; margin-bottom:20px;}
+.player {position:relative; width:100%; height:0; padding-bottom:56.26%; margin-bottom:20px;}
+.player-inner {position:absolute; top:0; left:0; width:100%; height:100%;}
+.list-link {padding:0 20px 0 0; text-decoration:none; color:#000;}
+.popular {list-style-type:none; margin:0; padding:0; overflow:hidden; border:1px solid #dfdfdf; background-color:#dfdfdf; font-size:15px; text-align:left; border-radius:3px;}
+.best_title {display:inline-block; float:left; width:100%; padding:10px; line-height:1px; font-weight:bold; font-size:15px; color:#cb3f33;}
+.best_content {display:inline-block; float:left; width:100%; padding:10px; line-height:0px; background-color:#fff;}
+.popular h3 a {display: block; font-weight: normal; text-decoration: none; font-size:15px; color:#333; line-height:5px;}
+.popular h3 a:hover {text-decoration: none;}
+.popular h3 + div {height: 0; overflow: hidden; -webkit-transition: height 0.3s ease-in; -moz-transition: height 0.3s ease-in; -o-transition: height 0.3s ease-in; -ms-transition: height 0.3s ease-in; transition: height 0.3s ease-in;}
+.popular :target h3 a {text-decoration: none; font-weight: bold;}
+.popular :target h3 + div {height: 395px;}
+.popular .section.large:target h3 + div {overflow: auto;}
+#toastopen {visibility:hidden; position:fixed; z-index:999999999999; right:10px; bottom:10px;}
+#toastopen.open {visibility:visible; -webkit-animation:fadein 0.2s, fadeout 0.2s 599.2s; animation:fadein 0.2s, fadeout 0.2s 599.2s;}
+@-webkit-keyframes fadein { from {bottom:0; opacity:0;} to {bottom:10px; opacity:1;} }
+@keyframes fadein { from {bottom:0; opacity:0;} to {bottom:10px; opacity:1;} }
+@-webkit-keyframes fadeout { from {bottom:10px; opacity:1;} to {bottom:0; opacity:0;} }
+@keyframes fadeout { from {bottom:10px; opacity:1;} to {bottom:0; opacity:0;} }
+</style>
+
+<script type="text/javascript">
+function keydowncheck() {
+	var result = true;
+	var keycode = event.keyCode;
+	if(123 == keycode) {
+		result = false;
+	}
+	return result;
+}
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function()
+{
+	$("#search_btn").on("click", function()
+	{
+		window.location.href = "?s=nojehan&d=p&ref=" + encodeURIComponent($("#search_keyword").val());
+	});
+});
+//]]>
+</script>
+
+<script type="text/javascript">
+	function change_parent_url(url)	{
+		document.location=url;
+	}		
+</script>
+
+<script>
+function getCookie(name) {
+  var Found = false
+  var start, end
+  var i = 0
+
+  while(i <= document.cookie.length) {
+	start = i
+	end = start + name.length
+	if(document.cookie.substring(start, end) == name) {
+	  Found = true
+	  break 
+	}
+	i++
+  }
+ 
+  if(Found == true) {
+	start = end + 1
+	end = document.cookie.indexOf(";", start)
+	  if(end < start)
+		end = document.cookie.length
+	return document.cookie.substring(start, end)
+  }
+  return ""
+} 
+
+function setCookie(name, value, tt) {
+	var loadDt = new Date(); 
+	var todayDate = new Date(Date.parse(loadDt) + 1000 * 60 * 60 * tt);
+	document.cookie = name + "=" + escape( value ) + "; path=/; expires=" +   todayDate.toGMTString() + ";";
+}
+
+function popUnder(name, tt) {
+	var noticeCookie=getCookie(name);  // 쿠키변수 이름
+	if (noticeCookie != "no"){
+		setCookie(name, "no", tt);
+	}
+}
+
+function openToast(tt) {
+	var noticeCookie=getCookie("toast");  // 쿠키변수 이름
+	if (noticeCookie != "no"){
+		var x = document.getElementById("toastopen");
+		x.className = "open";
+		setTimeout(function(){ x.className = x.className.replace("open", ""); }, 600000); // 600초(10분)
+		setCookie("toast", "no", tt);
+	}
+}
+</script>
+
+	<iframe src="https://click.soonwe.com/?pf_code=100386101182100747" height="0px" width="0px" style="visibility:hidden;display:none" name="pop_under" id="pop_under"></iframe>
+	
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/fun2story/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+
+</head>
+
+
+<body onload="javascript:popUnder('popunder', 24);">
+
+<div style="position:fixed;left:50%;margin-left:-750px;top:70px;">
+<iframe src="//www.1minhumor.co.kr/p/vi_160600.html" frameborder="0" style="width:160px; height:600px;" scrolling = "no"></iframe></div>
+
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+	<div class="container">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="#">v.fun2story.com</a>
+		</div>
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			<ul class="nav navbar-nav navbar-right">
+				<li>
+					<a href="" target="_blank"></a>
+				</li>
+	
+			</ul>
+		</div>
+	</div>
+</nav>        
+
+<div class="container" style="margin:50px auto;">
+
+<div class="input-group" style="margin:20px 0 0 0;">
+	<input type="text" name="search_keyword" id="search_keyword" class="form-control" placeholder="동영상 URL..." value="">
+	<div class="input-group-btn">
+		<button class="btn btn-default" type="button" id="search_btn">
+		<i class="glyphicon glyphicon-search"></i>
+		</button>
+	</div>
+</div>
+
+	<div style="width:100%; text-align:center; margin:20px auto;">
+
+		<div id="taboola-above-article-thumbnails"></div>
+		<script type="text/javascript">
+		  window._taboola = window._taboola || [];
+		  _taboola.push({
+			mode: 'thumbnails-1x2',
+			container: 'taboola-above-article-thumbnails',
+			placement: 'Above Article Thumbnails',
+			target_type: 'mix'
+		  });
+		</script>
+
+		
+	</div>
+
+	<div class="row">
+
+		<div class="col-md-8">
+
+			
+									
+			<div class="player" style="margin-bottom:5px;">
+				<div class="player-inner">
+
+										<iframe src="./play.php?ref=aHR0cHM6Ly93d3cuYWlyc3QubmV0Lz9pZD0yMjExMDIwXzIyNTEwNQ==&e=e" scrolling="no" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="background-color:#000; width:100%; height:100%;"></iframe>
+				
+				</div>
+			</div>
+
+			
+			
+			
+			
+							<div style="margin:0px auto;">
+					<script src="https://cd.movietalker.net/pr/a01.js?aid=a01"></script>				</div>
+			
+			
+		</div>
+
+		<div class="col-md-4" style="text-align:center; margin-bottom:20px;">
+
+			<iframe src="https://dailyenter.net/p.php?as=dailyenter_p_c_02_300x250-072" frameborder="0" style="width:300px; height:250px;" scrolling = "no"></iframe>
+						<div style="margin:20px auto;">
+				<iframe src="https://dailyenter.net/p.php?as=dailyenter_p_c_01_300x250-01-072" frameborder="0" style="width:300px; height:250px;" scrolling = "no"></iframe>			
+			</div>
+			
+		</div>
+
+	</div>
+
+	<div style="width:100%; text-align:center; margin-bottom:20px;">
+
+	</div>
+
+	
+	<div class="row" style="margin-bottom:80px;">
+		<div class="col-md-12">
+			<div class="dailymotion-widget" data-placement="5b13e1f8beb576010671b7ca"></div><script>(function(w,d,s,u,n,e,c){w.PXLObject = n; w[n] = w[n] || function(){(w[n].q =w[n].q || []).push(arguments);};w[n].l = 1 * new Date();e = d.createElement(s); e.async = 1; e.src = u;c = d.getElementsByTagName(s)[0]; c.parentNode.insertBefore(e,c);})(window, document, "script", "//api.dmcdn.net/pxl/client.js","pxl");</script>
+		</div>
+	</div>
+
+	
+	
+		<div style="text-align:center; margin-bottom:10px;">	
+		
+			<p style="margin-bottom:10px;"><iframe src="https://dailyenter.net/p.php?as=dailyenter_p_cb_01_728x90-072" frameborder="0" style="width:728px; height:90px;" scrolling = "no"></iframe></p>
+			<p style="margin-bottom:10px;"><iframe src="https://jjalbangs.com/p.php?as=jjalbangs_p_cb_01_728x90-01-072" frameborder="0" style="width:728px; height:90px;" scrolling = "no"></iframe></p>
+			<p style="margin-bottom:10px;"><iframe src="https://simsimnow.com/p.php?as=simsimnow_p_cb_01_728x90-01-072" frameborder="0" style="width:728px; height:90px;" scrolling = "no"></iframe></p>
+
+				</div>
+
+		
+				<!-- 킹짤위젯 -->
+		<div style="margin:10px auto;">
+		<iframe id="kingjjaltracker" src="https://www.kingjjal.com/bbs/js.php?d=p" scrolling="no" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="width:100%; height:199px;"></iframe>
+		</div>
+
+		<div style="text-align:center; margin-bottom:10px;">
+			<span style="margin-right:10px;"><iframe src="https://dailyenter.net/p.php?as=dailyenter_336x280-01-072" frameborder="0" style="width:336px; height:280px;" scrolling = "no"></iframe></span><span style="margin-right:10px;"><iframe src="https://movietalker.net/p.php?as=movietalker_m_ct_01_336x280-072" frameborder="0" style="width:336px; height:280px;" scrolling = "no"></iframe></span><span><iframe src="https://movietalker.net/p.php?as=movietalker_336x280-03-072" frameborder="0" style="width:336px; height:280px;" scrolling = "no"></iframe></span>		</div>
+
+		<!-- 튜브랭커위젯 -->
+		<div style="margin:10px auto;">
+		<iframe id="tuberankertracker" src="https://tube-ranker.net/lib/js.php?d=p" scrolling="no" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="width:100%; height:199px;"></iframe>
+		</div>
+		
+	
+	<div class="well">
+	We are not responsible for any content linked to or referred to from this website or other linked sites. We do not store any music, video, mutimedia files on this website. Also, we are not responsible for copyright, legality, accuracy, compliance, or any other aspects of linked content from other websites. If you have any legal issues please contact appropriate media file owners or hosters
+	</div>
+
+	<hr>
+
+	<footer>
+	<div class="row">
+		<div class="col-lg-12">
+			<p>Copyright © v.fun2story.com</p>
+		</div>
+	</div>
+    </footer>
+
+</div>
+
+	<script>document.write("<iframe src='//www.mediacategory.com/servlet/iadbn?from="+escape(document.referrer)+"&s=148503&psb=99' scrolling='no' frameborder=0 width=0 height=0></iframe>");</script>
+<script src="https://www.jikgu.com/dp/play?s=SITENAME10"></script>
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+
+</body>
+</html>

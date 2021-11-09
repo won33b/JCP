@@ -1,0 +1,2025 @@
+
+<!doctype html>
+<html class="no-js" lang="ko" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="article:author" content="https://www.facebook.com/idomin">
+<meta name="verify-v1" content="vK+cwg5m9UYQKHH7dYD0DdmIWOEA99YC6xWY3poOfds=" />
+<meta name="google-site-verification" content="U3ufzTwP6myX_KPw0HHR1w2MWsSZNovnuXAHdNMK-WI" />
+<meta name="theme-color" content="#ea2127">
+<!-- 메타태그정보 //-->
+<meta name="description" content="인터넷 신문"/>
+<meta property="og:title" content="경남도민일보"/>
+<meta property="og:site_name" content="경남도민일보"/>
+<meta property="og:image" content="http://www.idomin.com/image/logo/snslogo_20190520111300.jpg" />
+<meta property="og:url"	content="http://www.idomin.com" />
+<meta property="og:description" content="인터넷 신문" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="경남도민일보"/>
+<meta name="twitter:description" content="인터넷 신문"/>
+<meta name="twitter:image:src" content="http://www.idomin.com/image/logo/snslogo_20190520111300.jpg"/>
+<meta name="fb:admins" content="rosua.kr"/>
+<meta name="fb:app_id" content="290109054359387"/>
+<meta name="fb:pages" content="152439998114931"/>
+<!--// 메타태그정보 -->
+<title>경남도민일보</title>
+<link rel="apple-touch-icon-precomposed" href="/image/logo/snslogo_20190520111300.jpg" />
+<link rel="stylesheet" href="/css/jquery-ui.min.css">
+<link rel="stylesheet" href="/css/foundation.min.css">
+<link rel="stylesheet" href="/css/custom.foundation.min.css">
+<link rel="stylesheet" href="/css/slick.min.css">
+<link rel="stylesheet" href="/css/webfonts.min.css">
+<link rel="stylesheet" href="/css/aos.min.css">
+<link rel="stylesheet" href="/css/style.min.css">
+<link rel="stylesheet" href="/css/design.style.css">
+<link rel="stylesheet" href="/menuskin/md_03/menubar.css">
+<link rel="shortcut icon" href="/image/logo/favicon_20190510090732.ico">
+<script src="/script/jquery.min.js"></script>
+<script src="/script/jquery-ui.min.js"></script>
+<script src="/script/slick.min.js"></script>
+<script src="/script/jquery.rwdImageMaps.min.js"></script>
+<script src="/script/what-input.js"></script>
+<script src="/script/foundation.min.js"></script>
+<script src="/menuskin/md_03/menubar.js"></script>
+<script src="/script/user.style.js"></script>
+<script src="/script/clipboard.min.js"></script>
+<script src="/script/jquery.tabslet.min.js"></script>
+<script src="/script/aos.min.js"></script>
+<script src="/script/aos.nd.js"></script>
+<script src="/script/common.js"></script>
+
+<script type="text/javascript">
+
+	// 이미지맵
+	$(document).ready(function(e) {
+		$('img[usemap]').rwdImageMaps();
+
+		// 기능성배너 이벤트
+		bannerpop.banner(".banner_event_box");
+		bannerpopMulti.bannerLoad();                            // 멀티 기능성 배너 이벤트
+
+		// 기사뷰 이미지관련
+			});
+
+	// domain
+	var SITE_DOMAIN = 'http://www.idomin.com'
+	,___currentTime	= 1634738030;
+
+</script>
+<style type="text/css">
+/* 사이트 기본 색 */
+.user-point,a.user-point,
+.poll-columns .poll-state.going,
+.auto-hr04-2 .auto-nav .slick-slide.slick-current .auto-fontA,.auto-hr05 .auto-nav .slick-slide.slick-current .auto-fontA,
+.info-social .fonts-option-panel li input[type="radio"]:checked + label
+{color:#ea2127 !important}
+.user-bg,.user-bg:hover,.user-bg:active,.user-bg:focus,li[id*="slick-"].slick-active button[data-role],.checkbox-group > input[type="radio"]:checked + label, .checkbox-group > input[type="checkbox"]:checked + label,
+.radio-group > input[type="radio"]:checked + label, .radio-group > input[type="checkbox"]:checked + label,
+.article-list .article-list-content.type-tm .list-block .links:hover,.tabs .tabs-title.is-active a,
+.poll-view .poll-view-state.going,.poll-view .poll-radio input[type="radio"]:checked + label::before,.poll-view .poll-radio input[type="checkbox"]:checked + label::before,
+.auto-dl04 .auto-column::after,.auto-mr01::before,.auto-hp02 a:hover .photo-titbg,.auto-hr04 .auto-nav .slick-slide.slick-current,.auto-hr04-1 .auto-nav .slick-slide.slick-current,
+.nd-switch.user-bg input[type="checkbox"]:checked + label,.nd-switch.user-bg input[type="radio"]:checked + label,
+.nd-switch.user-bg input[type="checkbox"]:checked + label::before,.nd-switch.user-bg input[type="radio"]:checked + label::before,
+.switch-group.user-bg > .nd-switch input[type="checkbox"]:checked + label,.switch-group.user-bg > .nd-switch input[type="radio"]:checked + label,
+.switch-group.user-bg > .nd-switch input[type="checkbox"]:checked + label::before,.switch-group.user-bg > .nd-switch input[type="radio"]:checked + label::before,
+.switch-group.for-ios > .nd-switch.user-bg input[type="checkbox"]:checked + label,.switch-group.for-ios > .nd-switch.user-bg input[type="radio"]:checked + label,
+.switch-group.for-ios > .nd-switch.user-bg input[type="checkbox"]:checked + label::before,.switch-group.for-ios > .nd-switch.user-bg input[type="radio"]:checked + label::before,
+.auto-hr14 .auto-nav .slick-slide.slick-current
+{background-color:#ea2127 !important}
+.user-border,.button.user-bg,
+.poll-view .poll-radio input[type="radio"] + label:hover strong::before,.poll-view .poll-radio input[type="checkbox"] + label:hover strong::before,
+.poll-view .poll-radio input[type="radio"]:checked + label  strong::before,.poll-view .poll-radio input[type="checkbox"]:checked + label  strong::before,
+.auto-pa01 .auto-nav .slick-current .auto-images::before,.auto-hr05-1 .auto-content a:hover .auto-images.line::before,
+#gallery-wrap .gallery-content.view-page .gallery-thumb .nav-content.slick-current::before,
+.info-social .fonts-option-panel li input[type="radio"]:checked + label
+{border-color:#ea2127 !important}
+.user-border-top, .auto-ma08 .auto-section::before {border-top-color:#ea2127 !important}
+.user-border-bottom {border-bottom-color:#ea2127 !important}
+.user-border-left {border-left-color:#ea2127 !important}
+.user-border-right {border-right-color:#ea2127 !important}
+.mobile-tabs .tabs .is-active a {color:#ea2127 !important;background:#fff !important}
+</style>
+
+<!-- 구글 웹로그 시작 -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-39443716-1', 'idomin.com');
+  ga('send', 'pageview');
+
+</script>
+<!-- 구글 웹로그 끝 -->
+
+
+
+<!-- Naver Analytics -->
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "23da7414b1c274";
+if(window.wcs) {
+wcs_do();
+}
+</script>
+</head>
+<body>
+
+<script>
+$(document).ready(function() {
+
+	$('.off-canvas').on('opened.zf.offcanvas', function(e) {
+		e.preventDefault();
+		$('body').css('overflow', 'hidden');
+	});
+
+	$('.off-canvas').on('closed.zf.offcanvas', function(e) {
+		e.preventDefault();
+		$('body').css('overflow', 'auto');
+	});
+
+});
+</script>
+
+<div class="off-canvas-wrapper">
+	<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+		<div class="off-canvas user-canvas position-left" id="offCanvas" data-off-canvas>
+			<style type="text/css">
+.user-canvas .user-canvas-navs .menu li.is-accordion-submenu-parent > a::after {color:#ea2127}
+</style>
+
+<header class="canvas-header">
+	<a href="http://www.idomin.com" target="_top" class="logo">
+		<img src="/image/logo/toplogo_20190520110942.svg" alt="경남도민일보" />
+	</a>
+	
+	<div class="account">
+					<a href="https://www.idomin.com/member/login.html" target="_top">로그인</a>
+			<a href="https://www.idomin.com/member/index.html" target="_top">회원가입</a>
+			</div>
+
+	<!-- close //-->
+	<button class="close-button" aria-label="Close menu" type="button" data-close><i class="s7-close"><span class="show-for-sr">Close</span></i></button>
+	<!--// close -->
+</header>
+
+<nav class="user-canvas-navs">
+	<!-- 1차 //-->
+	<ul class="vertical menu" data-multi-open="false" data-accordion-menu>
+		<li class="idx"><a href="http://www.idomin.com/news/articleList.html?view_type=sm">뉴스</a></li>
+		<li class="idx"><a href="http://www.idomin.com/news/articleList.html?sc_multi_code=S3&view_type=tm">뉴스덤</a></li>
+		<li class="idx"><a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N360&view_type=tm">뉴스찜</a></li>
+		<li class="idx"><a href="http://www.idomin.com/news/articleList.html?sc_multi_code=S1&view_type=tm">사람들</a></li>
+		<li class="idx"><a href="http://www.idomin.com/?editcode=MOBILE_20">게시판</a></li>
+			<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N1&view_type=sm" target="_top">지역</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N1&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N1&view_type=sm" target="_top">진주</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N3&view_type=sm" target="_top">통영</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N4&view_type=sm" target="_top">사천</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N5&view_type=sm" target="_top">김해</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N6&view_type=sm" target="_top">밀양</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N7&view_type=sm" target="_top">거제</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N8&view_type=sm" target="_top">양산</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N9&view_type=sm" target="_top">의령</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N10&view_type=sm" target="_top">함안</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N11&view_type=sm" target="_top">창녕</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N12&view_type=sm" target="_top">고성</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N13&view_type=sm" target="_top">남해</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N14&view_type=sm" target="_top">하동</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N15&view_type=sm" target="_top">산청</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N16&view_type=sm" target="_top">함양</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N17&view_type=sm" target="_top">거창</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N18&view_type=sm" target="_top">합천</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N19&view_type=sm" target="_top">지역종합</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N2&view_type=sm" target="_top">사회</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N2&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N21&view_type=sm" target="_top">사건&middot;사고</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N22&view_type=sm" target="_top">법원&middot;검찰&middot;경찰</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N23&view_type=sm" target="_top">노동</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N24&view_type=sm" target="_top">농민</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N25&view_type=sm" target="_top">환경</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N26&view_type=sm" target="_top">시민</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N27&view_type=sm" target="_top">교통</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N28&view_type=sm" target="_top">날씨</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N29&view_type=sm" target="_top">역사</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N30&view_type=sm" target="_top">의료&middot;위생</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N31&view_type=sm" target="_top">남북관계</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N32&view_type=sm" target="_top">국제</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N33&view_type=sm" target="_top">국방&middot;군사</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N34&view_type=sm" target="_top">인권&middot;복지</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N35&view_type=sm" target="_top">봉사&middot;미담</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N3&view_type=sm" target="_top">정치&middot;행정</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N3&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N36&view_type=sm" target="_top">선거</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N37&view_type=sm" target="_top">지방의회</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N38&view_type=sm" target="_top">행정</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N39&view_type=sm" target="_top">국회</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N40&view_type=sm" target="_top">정당</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N41&view_type=sm" target="_top">청와대</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N4&view_type=sm" target="_top">경제</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N4&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N42&view_type=sm" target="_top">부동산</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N43&view_type=sm" target="_top">유통&middot;물류</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N44&view_type=sm" target="_top">산업</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N45&view_type=sm" target="_top">금융</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N46&view_type=sm" target="_top">농수산</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N47&view_type=sm" target="_top">자동차</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N48&view_type=sm" target="_top">조선</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N49&view_type=sm" target="_top">건설</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N50&view_type=sm" target="_top">서비스</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N51&view_type=sm" target="_top">에너지</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N52&view_type=sm" target="_top">소비자</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N53&view_type=sm" target="_top">취업</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N55&view_type=sm" target="_top">연구&middot;개발</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N56&view_type=sm" target="_top">항공&middot;해운&middot;항만</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N5&view_type=sm" target="_top">교육</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N5&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N57&view_type=sm" target="_top">대학</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N58&view_type=sm" target="_top">초중고</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N59&view_type=sm" target="_top">사교육</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N60&view_type=sm" target="_top">교육행정</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N61&view_type=sm" target="_top">교육단체</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N62&view_type=sm" target="_top">대입</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N63&view_type=sm" target="_top">어린이&middot;청소년</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N64&view_type=sm" target="_top">유아교육</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N65&view_type=sm" target="_top">사립학교</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N66&view_type=sm" target="_top">평생교육</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N67&view_type=sm" target="_top">교사의 생각</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N68&view_type=sm" target="_top">교육카페</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N69&view_type=sm" target="_top">NIE</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N6&view_type=sm" target="_top">문화&middot;생활</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N6&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N70&view_type=sm" target="_top">TV&middot;연예</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N71&view_type=sm" target="_top">책&middot;학술</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N72&view_type=sm" target="_top">문학</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N73&view_type=sm" target="_top">음악</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N74&view_type=sm" target="_top">미술&middot;사진</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N75&view_type=sm" target="_top">공연</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N76&view_type=sm" target="_top">영화&middot;비디오</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N77&view_type=sm" target="_top">여성&middot;가정</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N78&view_type=sm" target="_top">종교</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N79&view_type=sm" target="_top">건강</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N80&view_type=sm" target="_top">멋</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N81&view_type=sm" target="_top">대중문화</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N82&view_type=sm" target="_top">문화재</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N83&view_type=sm" target="_top">글쓰기큰잔치</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N84&view_type=sm" target="_top">청소년문학대상</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N85&view_type=sm" target="_top">생활상담</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N86&view_type=sm" target="_top">박물관</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N87&view_type=sm" target="_top">연극</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N88&view_type=sm" target="_top">지역축제</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N89&view_type=sm" target="_top">문화단체</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N90&view_type=sm" target="_top">문화정책</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N7&view_type=sm" target="_top">레저&middot;스포츠</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N7&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N91&view_type=sm" target="_top">경기</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N92&view_type=sm" target="_top">체육인</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N93&view_type=sm" target="_top">체육행정</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N94&view_type=sm" target="_top">생활체육</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N95&view_type=sm" target="_top">레저</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N96&view_type=sm" target="_top">축구</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N97&view_type=sm" target="_top">농구</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N98&view_type=sm" target="_top">골프</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N99&view_type=sm" target="_top">야구</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N100&view_type=sm" target="_top">배구</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N101&view_type=sm" target="_top">경륜경마</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N102&view_type=sm" target="_top">2018 창원 세계사격선수권대회</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N8&view_type=sm" target="_top">미디어</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N8&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N103&view_type=sm" target="_top">미디어비평</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N104&view_type=sm" target="_top">인터넷</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N105&view_type=sm" target="_top">정정과 반론</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N106&view_type=sm" target="_top">지면평가위원회</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N107&view_type=sm" target="_top">미디어 동향</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N108&view_type=sm" target="_top">이슈트랙백</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N109&view_type=sm" target="_top">정보보고</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N110&view_type=sm" target="_top">데스크의 눈</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N111&view_type=sm" target="_top">편집국통신</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N359&view_type=sm" target="_top">뉴스 덤</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N9&view_type=sm" target="_top">보도자료</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N9&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N112&view_type=sm" target="_top">교육 소식</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N113&view_type=sm" target="_top">교육보도자료</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N10&view_type=sm" target="_top">여론&middot;칼럼</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N10&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N114&view_type=sm" target="_top">사설</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N115&view_type=sm" target="_top">오피니언 칼럼 I</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N116&view_type=sm" target="_top">오피니언 칼럼 II</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N117&view_type=sm" target="_top">취재노트</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N118&view_type=sm" target="_top">바튼소리</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N119&view_type=sm" target="_top">독자 칼럼</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N120&view_type=sm" target="_top">3.15광장</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N121&view_type=sm" target="_top">온라인광장</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N122&view_type=sm" target="_top">독자와 톡톡</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N11&view_type=sm" target="_top">기획&middot;연재</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N11&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N123&view_type=sm" target="_top">Weekly경남</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N124&view_type=sm" target="_top">김주완이 만난 사람</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N12&view_type=sm" target="_top">인물</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N12&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N125&view_type=sm" target="_top">사람in</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N126&view_type=sm" target="_top">인터뷰</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N127&view_type=sm" target="_top">화제</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N128&view_type=sm" target="_top">새얼굴</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N129&view_type=sm" target="_top">인사</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N130&view_type=sm" target="_top">부음</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N131&view_type=sm" target="_top">결혼</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N132&view_type=sm" target="_top">모임</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N133&view_type=sm" target="_top">동정</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N134&view_type=sm" target="_top">남촌수필</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N13&view_type=sm" target="_top">정보</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N13&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N135&view_type=sm" target="_top">행사</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N136&view_type=sm" target="_top">온정</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N137&view_type=sm" target="_top">수상</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N138&view_type=sm" target="_top">집회</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N139&view_type=sm" target="_top">모집</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N140&view_type=sm" target="_top">공지</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N141&view_type=sm" target="_top">종친회</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N142&view_type=sm" target="_top">동창회</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N143&view_type=sm" target="_top">향우회</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N144&view_type=sm" target="_top">구인&middot;구직</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N145&view_type=sm" target="_top">개업</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N146&view_type=sm" target="_top">잔치</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N147&view_type=sm" target="_top">상담&amp;학습</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N148&view_type=sm" target="_top">자치단체일정</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N149&view_type=sm" target="_top">아침 신문 미리보기</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N150&view_type=sm" target="_top">오늘의 운세</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N151&view_type=sm" target="_top">경남의 날씨</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N14&view_type=sm" target="_top">여행과음식</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N14&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N152&view_type=sm" target="_top">여행</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N153&view_type=sm" target="_top">맛</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N154&view_type=sm" target="_top">맛있는 집</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N155&view_type=sm" target="_top">낚시</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N156&view_type=sm" target="_top">남해 바래길에서 사부작</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N16&view_type=sm" target="_top">만화</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N16&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N161&view_type=sm" target="_top">그림세상</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N162&view_type=sm" target="_top">궁시렁</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N163&view_type=sm" target="_top">북툰</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N164&view_type=sm" target="_top">한입에 쏙!</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N26&view_type=sm" target="_top">피플파워</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N26&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N170&view_type=sm" target="_top">2011년 10월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N171&view_type=sm" target="_top">2011년 11월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N172&view_type=sm" target="_top">2011년 12월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N173&view_type=sm" target="_top">2012년 1월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N174&view_type=sm" target="_top">2012년 2월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N175&view_type=sm" target="_top">2012년 3월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N176&view_type=sm" target="_top">2012년 4월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N177&view_type=sm" target="_top">2012년 5월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N178&view_type=sm" target="_top">2012년 6월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N179&view_type=sm" target="_top">2012년 7월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N180&view_type=sm" target="_top">2012년 8월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N181&view_type=sm" target="_top">2012년 9월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N182&view_type=sm" target="_top">2012년 10월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N183&view_type=sm" target="_top">2012년 11월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N184&view_type=sm" target="_top">2012년 12월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N185&view_type=sm" target="_top">2013년 1월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N186&view_type=sm" target="_top">2013년 2월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N187&view_type=sm" target="_top">2013년 3월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N188&view_type=sm" target="_top">2013년 4월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N189&view_type=sm" target="_top">2013년 5월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N190&view_type=sm" target="_top">2013년 6월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N191&view_type=sm" target="_top">2013년 7월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N192&view_type=sm" target="_top">2013년 8월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N193&view_type=sm" target="_top">2013년 9월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N194&view_type=sm" target="_top">2013년 10월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N195&view_type=sm" target="_top">2013년 11월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N196&view_type=sm" target="_top">2013년 12월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N197&view_type=sm" target="_top">2014년 1월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N198&view_type=sm" target="_top">2014년 2월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N199&view_type=sm" target="_top">2014년 3월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N200&view_type=sm" target="_top">2014년 4월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N201&view_type=sm" target="_top">2014년 5월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N202&view_type=sm" target="_top">2014년 6월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N203&view_type=sm" target="_top">2014년 7월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N204&view_type=sm" target="_top">2014년 8월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N205&view_type=sm" target="_top">2014년 9월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N206&view_type=sm" target="_top">2014년 10월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N207&view_type=sm" target="_top">2014년 11월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N208&view_type=sm" target="_top">2014년 12월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N209&view_type=sm" target="_top">2015년 1월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N210&view_type=sm" target="_top">2015년 2월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N211&view_type=sm" target="_top">2015년 3월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N212&view_type=sm" target="_top">2015년 4월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N213&view_type=sm" target="_top">2015년 5월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N214&view_type=sm" target="_top">2015년 6월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N215&view_type=sm" target="_top">2015년 7월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N216&view_type=sm" target="_top">2015년 8월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N217&view_type=sm" target="_top">2015년 9월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N218&view_type=sm" target="_top">2015년 10월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N219&view_type=sm" target="_top">2015년 11월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N220&view_type=sm" target="_top">2015년 12월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N221&view_type=sm" target="_top">2016년 1월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N222&view_type=sm" target="_top">2016년 2월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N223&view_type=sm" target="_top">2016년 3월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N224&view_type=sm" target="_top">2016년 4월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N225&view_type=sm" target="_top">2016년 5월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N226&view_type=sm" target="_top">2016년 6월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N227&view_type=sm" target="_top">2016년 7월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N228&view_type=sm" target="_top">2016년 8월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N229&view_type=sm" target="_top">2016년 9월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N230&view_type=sm" target="_top">2016년 10월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N231&view_type=sm" target="_top">2016년 11월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N232&view_type=sm" target="_top">2016년 12월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N233&view_type=sm" target="_top">2017년 1월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N234&view_type=sm" target="_top">2017년 2월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N235&view_type=sm" target="_top">2017년 3월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N236&view_type=sm" target="_top">2017년 4월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N237&view_type=sm" target="_top">2017년 5월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N238&view_type=sm" target="_top">2017년 6월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N239&view_type=sm" target="_top">2017년 7월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N240&view_type=sm" target="_top">2017년 8월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N241&view_type=sm" target="_top">2017년 9월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N242&view_type=sm" target="_top">2017년 10월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N243&view_type=sm" target="_top">2017년 11월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N244&view_type=sm" target="_top">2017년 12월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N245&view_type=sm" target="_top">2018년 1월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N246&view_type=sm" target="_top">2018년 2월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N247&view_type=sm" target="_top">2018년 3월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N248&view_type=sm" target="_top">2018년 4월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N249&view_type=sm" target="_top">2018년 5월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N250&view_type=sm" target="_top">2018년 6월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N251&view_type=sm" target="_top">2018년 7월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N252&view_type=sm" target="_top">2018년 8월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N253&view_type=sm" target="_top">2018년 9월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N254&view_type=sm" target="_top">2018년 10월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N255&view_type=sm" target="_top">2018년 11월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N256&view_type=sm" target="_top">2018년 12월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N257&view_type=sm" target="_top">2019년 1월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N258&view_type=sm" target="_top">2019년 2월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N259&view_type=sm" target="_top">2019년 3월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N260&view_type=sm" target="_top">2019년 4월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N261&view_type=sm" target="_top">2019년 5월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N262&view_type=sm" target="_top">2019년 6월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N353&view_type=sm" target="_top">2019년 7월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N354&view_type=sm" target="_top">2019년 8월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N355&view_type=sm" target="_top">2019년 9월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N356&view_type=sm" target="_top">2019년 10월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N357&view_type=sm" target="_top">2019년 11월</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N358&view_type=sm" target="_top">2019년 12월</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N27&view_type=sm" target="_top">경남의 재발견</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N27&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N263&view_type=sm" target="_top">함양</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N264&view_type=sm" target="_top">통영</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N265&view_type=sm" target="_top">양산</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N266&view_type=sm" target="_top">거창</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N267&view_type=sm" target="_top">사천</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N268&view_type=sm" target="_top">밀양</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N269&view_type=sm" target="_top">산청</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N270&view_type=sm" target="_top">고성</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N271&view_type=sm" target="_top">김해</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N272&view_type=sm" target="_top">함안</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N273&view_type=sm" target="_top">합천</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N274&view_type=sm" target="_top">하동</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N275&view_type=sm" target="_top">의령</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N276&view_type=sm" target="_top">거제</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N277&view_type=sm" target="_top">창녕</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N278&view_type=sm" target="_top">남해</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N279&view_type=sm" target="_top">진주</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N280&view_type=sm" target="_top">진해</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N281&view_type=sm" target="_top">마산</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N282&view_type=sm" target="_top">창원</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N283&view_type=sm" target="_top">에필로그</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N28&view_type=sm" target="_top">맛있는 경남</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N28&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N284&view_type=sm" target="_top">통영 멍게</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N285&view_type=sm" target="_top">남해 마늘</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N286&view_type=sm" target="_top">창녕 양파</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N287&view_type=sm" target="_top">의령 망개떡</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N288&view_type=sm" target="_top">고성 갯장어</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N289&view_type=sm" target="_top">함양 산양삼</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N290&view_type=sm" target="_top">남해안 전어</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N291&view_type=sm" target="_top">함양 흑돼지</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N292&view_type=sm" target="_top">거창 사과</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N293&view_type=sm" target="_top">창원&middot;김해진영 단감</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N294&view_type=sm" target="_top">하동 재첩</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N295&view_type=sm" target="_top">마산 홍합</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N296&view_type=sm" target="_top">통영 굴</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N297&view_type=sm" target="_top">남해 시금치</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N298&view_type=sm" target="_top">진주 딸기</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N299&view_type=sm" target="_top">통영 물메기</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N300&view_type=sm" target="_top">진해 피조개</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N301&view_type=sm" target="_top">남해 멸치</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N302&view_type=sm" target="_top">하동 녹차</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N303&view_type=sm" target="_top">남해안 털게</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N304&view_type=sm" target="_top">마산 미더덕</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N305&view_type=sm" target="_top">함안&middot;의령 수박</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N306&view_type=sm" target="_top">지리산 물</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N307&view_type=sm" target="_top">에필로그</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N30&view_type=sm" target="_top">한국 속 경남</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N30&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N310&view_type=sm" target="_top">경상도 말</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N311&view_type=sm" target="_top">통술&middot;다찌&middot;실비</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N312&view_type=sm" target="_top">마산 씨름</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N313&view_type=sm" target="_top">예향 통영</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N314&view_type=sm" target="_top">대통령의 고향</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N315&view_type=sm" target="_top">경남에서 만나는 이순신</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N316&view_type=sm" target="_top">마산아구찜</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N317&view_type=sm" target="_top">3&middot;15마산의거</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N318&view_type=sm" target="_top">경남의 사찰</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N319&view_type=sm" target="_top">하동 섬진강</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N320&view_type=sm" target="_top">가야는 살아있다</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N321&view_type=sm" target="_top">마창노동운동</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N322&view_type=sm" target="_top">경남의 성씨</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N323&view_type=sm" target="_top">경남의 조선산업</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N324&view_type=sm" target="_top">근대문화유산</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N325&view_type=sm" target="_top">경남예술인</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N326&view_type=sm" target="_top">경남 스포츠인</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N327&view_type=sm" target="_top">경남의 섬</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N328&view_type=sm" target="_top">대중가요 속 경남</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N329&view_type=sm" target="_top">지리산</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N32&view_type=sm" target="_top">경남의 산</a>
+		<ul class="menu vertical nested">
+			<li><a href="http://www.idomin.com/news/articleList.html?sc_section_code=S1N32&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N333&view_type=sm" target="_top">지리산</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N334&view_type=sm" target="_top">남해군</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N335&view_type=sm" target="_top">함양</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N336&view_type=sm" target="_top">통영</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N337&view_type=sm" target="_top">고성</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N338&view_type=sm" target="_top">김해</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N339&view_type=sm" target="_top">창녕</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N340&view_type=sm" target="_top">사천</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N341&view_type=sm" target="_top">거제</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N342&view_type=sm" target="_top">의령</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N343&view_type=sm" target="_top">산청</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N344&view_type=sm" target="_top">밀양</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N345&view_type=sm" target="_top">양산</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N346&view_type=sm" target="_top">함안</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N347&view_type=sm" target="_top">진주</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N348&view_type=sm" target="_top">거창</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N349&view_type=sm" target="_top">하동</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N350&view_type=sm" target="_top">합천</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N351&view_type=sm" target="_top">창원</a>				</li>
+			<li>
+				<a href="http://www.idomin.com/news/articleList.html?sc_sub_section_code=S2N352&view_type=sm" target="_top">마무리</a>				</li>
+		</ul>
+	</li>
+		 	</ul>
+</nav>		</div>
+		<div class="off-canvas-content" data-off-canvas-content>
+
+			<!-- wrap //-->
+			<div id="user-wrap" class="mobile " data-effect="fade-up" data-effect-time="300">
+				<div class="row expanded">
+
+					<style type="text/css">
+#user-nav .idx-menu .item.active, #user-wrap.is-active #user-nav .idx-menu .item.active, #user-nav .user-logbox .item:hover {color:#ea2127}
+#user-nav .idx-menu .item.active::before {border-top-color:#ea2127}
+#user-wrap.is-active #user-header .user-logo a::before {background-image:url(/image/logo/mobilelogo_20190520111057.svg)}
+</style>
+
+<header id="user-header">
+	<div class="inner float-center max-width-1190">
+		
+		<div class="user-logo">
+			<a href="http://www.idomin.com" target="_top"><img src="/image/logo/toplogo_20190520110942.svg" alt="경남도민일보"></a>
+			<button type="button" class="opener show-for-large"><i class="icon"><span class="show-for-sr">닫기</span></i></button>
+		</div>
+		
+		<nav id="user-nav">
+			<button type="button" class="nav-opener" data-toggle="offCanvas"><i class="fa fa-bars fa-fw"><span class="show-for-sr">메뉴</span></i></button>
+
+			<div class="idx-menu">
+				<a href="http://www.idomin.com/" target="_top" class="item active">처음으로</a>
+<a href="http://www.idomin.com/news/articleList.html?view_type=sm" target="_top" class="item">뉴스</a>
+<a href="http://www.idomin.com/news/articleList.html?sc_multi_code=S3&view_type=sm" target="_top" class="item">뉴스덤</a>
+<a href="/news/articleList.html?sc_sub_section_code=S2N360&view_type=sm" target="_top" class="item">뉴스찜</a>
+<a href="http://www.idomin.com/news/articleList.html?sc_multi_code=S1&view_type=sm" target="_top" class="item">사람들</a>
+<a href="http://www.idomin.com/?editcode=MOBILE_20" target="_top" class="item">게시판</a>
+			</div>
+
+			<div class="user-logbox">
+				<a href="//twitter.com/gndomin" target="_blank" class="item"><i class="fa fa-twitter"><span class="show-for-sr">twitter</span></i></a>
+				<a href="//www.facebook.com/idomin" target="_blank" class="item"><i class="fa fa-facebook"><span class="show-for-sr">facebook</span></i></a>
+				<a href="//www.youtube.com/user/gndomin" target="_blank" class="item"><i class="fa fa-youtube-play"><span class="show-for-sr">youtube</span></i></a>
+				<!--<a href="http://www.idomin.com/paoin/" target="_blank" class="item" title="지면보기" data-tooltip><i class="fa fa-newspaper-o"><span class="show-for-sr">paoin</span></i></a>-->
+				<a href="http://www.idomin.com/event/event2.html" target="_top" class="item" title="지면보기" data-tooltip><i class="fa fa-newspaper-o"><span class="show-for-sr">paoin</span></i></a>
+				<button type="button" class="search-btn"><i class="fa fa-search"><span class="show-for-sr">검색</span></i></button>
+			</div>
+		</nav>
+
+		<div class="user-search">
+			<div class="inner">
+				<form name="head-search" method="post" action="/news/articleList.html" class="clearfix">
+					<input type="hidden" name="sc_area" value="A">
+					<input type="hidden" name="view_type" value="sm">
+					<label class="show-for-sr" for="search">기사검색</label>
+					<input type="text" name="sc_word" id="search" onkeydown="if(event.keyCode==13){if(this.form.sc_word.value != ''){this.form.submit();}else{alert('검색어를 입력해주세요');return false;}}" placeholder="검색어를 입력해주세요" title="기사검색">
+					<button type="button" title="기사검색" onclick="if(this.form.sc_word.value != ''){this.form.submit();}else{alert('검색어를 입력해주세요');this.form.sc_word.focus();return false;}" class="user-bg"><span class="show-for-sr">검색</span></button>
+					<a href="/news/searchForm.html" class="sch-detail"><span class="show-for-sr">상세검색</span></a>
+				</form>
+			</div>
+		</div>
+	
+	</div>
+</header>
+
+
+
+					<!-- container //-->
+					<section id="user-container">
+						<div class="clearfix float-center max-width-1150">
+
+						<!-- layer popup position  -->
+						<div id="layer-popups"></div>
+
+	<!-- 메인화면 //-->
+	<div class="index-wrap kn-style">
+		<div class="float-center max-width-1150">
+			<!-- 내용 //-->
+			<div class="clearfix">
+<article class="box-skin">
+<header class="header"></header>
+<section class="content"><div class="auto-article auto-hr14">
+<div class="auto-mores"><a href="/news/articleList.html?view_type=sm" target="_top">전체 기사 보기&nbsp;<i class="fa fa-angle-right"></i></a></div>
+<div id="roll_14" class="auto-roll">
+<div class="posi-re"> 
+            <a href="/news/articleView.html?idxno=775358" target="_top"><em class="auto-images cover" style="background-image:url(/news/photo/202110/775358_456693_3846.jpg)"></em>
+<span class="photo-titbg">
+				<strong class="auto-titles">경남개발공사 사장 "민간협약 깨야 합니다"</strong>
+			</span>
+        </a>
+		</div>
+<div class="posi-re"> 
+            <a href="/news/articleView.html?idxno=775373" target="_top"><em class="auto-images cover" style="background-image:url(/news/photo/202110/775373_456703_3848.jpg)"></em>
+<span class="photo-titbg">
+				<strong class="auto-titles">잘리고 깎이고…하동 악양 산지 불법훼손</strong>
+			</span>
+        </a>
+		</div>
+<div class="posi-re"> 
+            <a href="/news/articleView.html?idxno=775363" target="_top"><em class="auto-images cover" style="background-image:url(/news/photo/202110/775363_456696_3847.jpg)"></em>
+<span class="photo-titbg">
+				<strong class="auto-titles">"떠나는 청년 잡으려면 지역 사랑 기회부터"</strong>
+			</span>
+        </a>
+		</div>
+<div class="posi-re"> 
+            <a href="/news/articleView.html?idxno=775361" target="_top"><em class="auto-images cover" style="background-image:url(/news/photo/202110/775361_456695_3847.jpg)"></em>
+<span class="photo-titbg">
+				<strong class="auto-titles">공공기관 2차 지방이전 힘 빠졌다</strong>
+			</span>
+        </a>
+		</div>
+<div class="posi-re"> 
+            <a href="/news/articleView.html?idxno=775359" target="_top"><em class="auto-images cover" style="background-image:url(/news/photo/202110/775359_456765_239.jpg)"></em>
+<span class="photo-titbg">
+				<strong class="auto-titles">코로나 속 일상생활도 차별받는 이주노동자</strong>
+			</span>
+        </a>
+		</div>
+</div>
+<div id="nav_14" class="auto-nav">
+<div class="dis-none auto-content">
+			<a href="/news/articleView.html?idxno=775358" target="_top" class="auto-titles">경남개발공사 사장 "민간협약 깨야 합니다"</a>
+		</div>
+<div class="dis-none auto-content">
+			<a href="/news/articleView.html?idxno=775373" target="_top" class="auto-titles">잘리고 깎이고…하동 악양 산지 불법훼손</a>
+		</div>
+<div class="dis-none auto-content">
+			<a href="/news/articleView.html?idxno=775363" target="_top" class="auto-titles">"떠나는 청년 잡으려면 지역 사랑 기회부터"</a>
+		</div>
+<div class="dis-none auto-content">
+			<a href="/news/articleView.html?idxno=775361" target="_top" class="auto-titles">공공기관 2차 지방이전 힘 빠졌다</a>
+		</div>
+<div class="dis-none auto-content">
+			<a href="/news/articleView.html?idxno=775359" target="_top" class="auto-titles">코로나 속 일상생활도 차별받는 이주노동자</a>
+		</div>
+</div>
+</div>
+<script type="text/javascript">
+<!--
+	
+	$('#nav_14').on('mouseenter', '.slick-slide', function (e) {
+		var $currTarget = $(e.currentTarget), 
+			index = $currTarget.data('slick-index'),
+			slickObj = $('#roll_14').slick('getSlick');
+
+		slickObj.slickGoTo(index);
+	});
+
+	 $('#roll_14').slick({
+		arrows: false,
+		dots: false,
+		draggable: false,
+		fade: true,
+		autoplay: true,
+		autoplaySpeed: 3000,
+		speed: 10,
+		asNavFor: '#nav_14',
+		responsive: [
+		{
+		  breakpoint: 1023,
+		  settings: {
+			draggable: true,
+		  }
+		},
+		{
+		  breakpoint: 639,
+		  settings: {
+			fade: false,
+			draggable: true,
+			dots: true,
+			dotsClass: 'auto-pager',
+		  }
+		}
+	  ]
+	});
+	$('#nav_14').slick({
+		slidesToShow: 5,
+		asNavFor: '#roll_14',
+		dots: false,
+		arrows: false,
+		draggable: false,
+		focusOnSelect: true,
+		autoplay: true,
+		autoplaySpeed: 3000,
+		vertical: true
+	});
+
+//-->
+</script>
+</section>
+</article><div class="box-margins height-50  " ></div>
+<a href="/news/articleList.html?sc_section_code=S1N10&view_type=tm" class="kn-boxtitles">사설·칼럼</a>
+			</div>
+			<!--// 내용 -->
+
+			<div class="index-row">
+				<div class="index-columns grid-1">
+					<!-- 내용 //-->
+					<div class="clearfix">
+
+<div class="idx-opinion">
+	<article class="item"><div class="auto-article auto-dp05"><div class="item">
+		<a href="/news/articleView.html?idxno=775398" target="_top" class="dis-table">
+		<span class="dis-table-cell">
+			<em class="auto-section user-point">아침을 열며</em>
+			<em class="auto-titles">'대장동 게임' 드러나지 않은 진실</em>
+			<em class="auto-user">윤병렬 환경과생명을지키는전국교사모임 전 대표</em>
+		</span><span class="dis-table-cell">
+				<em class="auto-images cover radius height-80" style="background-image:url(/news/thumbnail/202110/775398_456757_4041_v150.jpg)"></em>
+			</span></a>
+		</div>
+</div></article>
+	<article class="item"><div class="auto-article auto-dp05"><div class="item">
+		<a href="/news/articleView.html?idxno=775400" target="_top" class="dis-table">
+		<span class="dis-table-cell">
+			<em class="auto-section user-point">세상보기</em>
+			<em class="auto-titles">대장동 블루스</em>
+			<em class="auto-user">정동주 시인·동다헌 시자</em>
+		</span><span class="dis-table-cell">
+				<em class="auto-images cover radius height-80" style="background-image:url(/news/thumbnail/202110/775400_456760_4538_v150.jpg)"></em>
+			</span></a>
+		</div>
+</div></article>
+	<article class="item"><div class="auto-article auto-dp05"><div class="item">
+		<a href="/news/articleView.html?idxno=775401" target="_top" class="dis-table">
+		<span class="dis-table-cell">
+			<em class="auto-section user-point">취재수첩</em>
+			<em class="auto-titles">진정한 피해 회복</em>
+			<em class="auto-user">이창우 시민사회부 기자</em>
+		</span><span class="dis-table-cell">
+				<em class="auto-images cover radius height-80" style="background-image:url(/news/thumbnail/202110/775401_456761_472_v150.jpg)"></em>
+			</span></a>
+		</div>
+</div></article>
+	<article class="item"><div class="auto-article auto-dp05"><div class="item">
+		<a href="/news/articleView.html?idxno=775402" target="_top" class="dis-table">
+		<span class="dis-table-cell">
+			<em class="auto-section user-point">전의홍의 바튼소리(5721)</em>
+			<em class="auto-titles">지겹다 '전두환/일해공원'</em>
+			<em class="auto-user">경남도민일보</em>
+		</span><span class="dis-table-cell">
+				<em class="auto-images cover radius height-80" style="background-image:url(/news/thumbnail/202110/775402_456762_4813_v150.jpg)"></em>
+			</span></a>
+		</div>
+</div></article>
+</div>
+
+
+
+<div class="box-margins height-20"></div>
+					</div>
+					<!--// 내용 -->
+				</div>
+				<div class="index-columns grid-2">
+					<!-- 내용 //-->
+					<div class="clearfix">
+<article class="box-skin people  line">
+<header class="header"><strong><span class="user-point">사설</span></strong></header>
+<section class="content"><div class="auto-article auto-d04"><a href="/news/articleView.html?idxno=775404" target="_top" class="item"><span class="auto-titles">비정규직 노동자 고용불안 해소 정책 시급</span></a>
+<a href="/news/articleView.html?idxno=775403" target="_top" class="item"><span class="auto-titles">인구감소지역 지정, 본격적인 지역 살리기 되길</span></a>
+<a href="/news/articleList.html?sc_sub_section_code=S2N114&view_type=sm" target="_top" class="more">관련기사 더보기 <i class="fa fa-angle-right"></i></a>
+</div></section>
+</article><div class="box-margins height-16  " ></div>
+<!--경상남도코로나--><script type="text/javascript">var ___BANNER = "ban_1605945292";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192717.js?1605945292" id="ban_1605945292"></script><!--//경상남도코로나-->
+					</div>
+					<!--// 내용 -->
+				</div>
+			</div>
+
+			<!-- 내용 //-->
+			<div class="clearfix">
+<article class="box-skin kn-st auto-padtop-50 ">
+<header class="header"><a href="/news/articleList.html" target="_top" class="">뉴스</a></header>
+<section class="content"><div id="myList_22" class="auto-article tiles-4x auto-mp08">
+<ul><li class="auto-columns">
+		<a href="/news/articleView.html?idxno=763993" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202108/763993_453159_512.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">뉴스 찜</em>
+			<em class="auto-titles">기후재앙 생존보고서</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=774292" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/774292_455952_520.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">연재</em>
+			<em class="auto-titles">우리말 주머니</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775481" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775481_456784_256.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">농구</em>
+			<em class="auto-titles">창원LG, 4연패 끊어내고 시즌 첫 승리</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775460" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775460_456769_253.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">코로나19</em>
+			<em class="auto-titles">경남 추가 확진자 17명…전국 1571명</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775459" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775459_456768_946.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">미디어</em>
+			<em class="auto-titles">408명</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775454" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775454_456767_106.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">코로나19</em>
+			<em class="auto-titles">경남 추가 확진자 1명…전국 1571명</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775450" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775450_456751_3855.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">6회 김해재즈콘서트 미리보기</em>
+			<em class="auto-titles">국내 재즈 대표주자 11인…20세기 명곡 재해석</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775449" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775449_456750_3855.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">공연</em>
+			<em class="auto-titles">낭만주의 발레 최고봉 〈지젤〉 김해에</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775446" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775446_456748_3854.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">미술&middot;사진</em>
+			<em class="auto-titles">유년 추억 꿈엔들 잊힐 리야</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775445" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775445_456746_3854.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">연극</em>
+			<em class="auto-titles">가야 '허왕후' 고국 인도서 뮤지컬로 부활</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775442" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775442_456764_3536.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">축구</em>
+			<em class="auto-titles">유스 7인 "경남서 프로 꿈 키운다"</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns only-text">
+		<a href="/news/articleView.html?idxno=775441" target="_top">
+		
+		<span class="auto-content">
+			<em class="auto-section user-point">체육행정</em>
+			<em class="auto-titles">사격대회 잇따라 여는 창원 '방역 비상'</em>
+			<em class="auto-sums">창원시가 20일 제37회 대한사격연맹회장기 전국사격대회를 비롯해 11월까지 전국 규모와 도 단위 대회 4개를 잇달아 창원국제사격장에서 개최한다. 모든 대회는 코로나19 확산 방지를...</em>
+		</span>
+		</a>
+		</li>
+<li class="auto-columns only-text">
+		<a href="/news/articleView.html?idxno=775439" target="_top">
+		
+		<span class="auto-content">
+			<em class="auto-section user-point">경기</em>
+			<em class="auto-titles">도쿄 감동 재현할 장애인체전 2년 만에 개막</em>
+			<em class="auto-sums">제41회 전국장애인체육대회가 20일부터 25일까지 경북 12개 시군과 대구시 등 13곳에서 펼쳐진다.경남장애인체육회는 선수 327명을 비롯해 임원·보호자 180명 등 모두 507명...</em>
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775438" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775438_456743_3854.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">야구</em>
+			<em class="auto-titles">나성범·양의지 또 대기록 도전</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775431" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775431_456736_3853.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">행사</em>
+			<em class="auto-titles">지역 프로구단과 농협 아름다운 동행</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775394" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775394_456720_3850.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">산업</em>
+			<em class="auto-titles">"수소산업, 친환경 법 만들어 육성해야"</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775393" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775393_456719_3850.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">농수산</em>
+			<em class="auto-titles">경남도농기원 특화작목 8개 선정 302억 지원</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775389" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775389_456716_3850.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">산업</em>
+			<em class="auto-titles">경남 방산기업, 서울 ADEX 총출동</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns only-text">
+		<a href="/news/articleView.html?idxno=775386" target="_top">
+		
+		<span class="auto-content">
+			<em class="auto-section user-point">교육행정</em>
+			<em class="auto-titles">경남교육청, 학비노조 공백 최소화 '분주'</em>
+			<em class="auto-sums">도내 학교 돌봄전담사나 급식조리사 등 교육공무직 노동자들이 총파업을 예고하자 경남도교육청은 학교별 돌봄교실을 합반 운영하는 등 공백 최소화에 나섰다.전국학교비정규직노동조합 경남지부...</em>
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775385" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775385_456714_3849.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">사회</em>
+			<em class="auto-titles">오늘 민주노총 총파업 "노동자 권리 찾자"</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775383" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775383_456759_5325.png)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">사회</em>
+			<em class="auto-titles">주식·코인 미끼로 160억 챙긴 일당 검거</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775381" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775381_456712_3849.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">사회</em>
+			<em class="auto-titles">"여성폭력 피해자 중심 지원을"</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775380" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775380_456711_3849.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">영화 속 클래식 이야기 - 〈오징어 게임〉(2021)</em>
+			<em class="auto-titles">죽음의 게임 시작 알람, 하이든의 '마지막'이었네</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775379" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775379_456706_3848.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">밀양</em>
+			<em class="auto-titles">'붕괴' 밀양 양호당 기와지붕 긴급 보수</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775375" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775375_456704_3848.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">의령</em>
+			<em class="auto-titles">한전 의령지사 통폐합 군민 반대 고조</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775372" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775372_456702_3848.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">진주</em>
+			<em class="auto-titles">진주 대곡고 이전 추진 놓고 주민 찬반 갈려</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775371" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775371_456701_3848.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">양산</em>
+			<em class="auto-titles">양산 문화예술 공동창작소 운영안 나와</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775370" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775370_456700_3848.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">서동진의 한뼘</em>
+			<em class="auto-titles">인구감소 지역소멸</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775369" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775369_456699_3848.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">거제</em>
+			<em class="auto-titles">거제 반값 아파트 재검증한다</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775366" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775366_456766_3227.jpeg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">통영</em>
+			<em class="auto-titles">탄소중립 외친 통영시가 화력발전소?</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775365" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775365_456697_3847.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">선거</em>
+			<em class="auto-titles">경남 온 윤석열, 공약 간데 없고 세몰이만</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns only-text">
+		<a href="/news/articleView.html?idxno=775364" target="_top">
+		
+		<span class="auto-content">
+			<em class="auto-section user-point">국회 소멸 현황·과제 보고서</em>
+			<em class="auto-titles">수도권 몰린 기업 이전 유도만이 살길</em>
+			<em class="auto-sums">심각해지는 지역소멸 위기를 극복하려면 수도권에 집중된 기업의 이전을 유도하는 정책이 절실하다는 국회 연구 보고서가 나왔다.국회입법조사처는 19일  보고서를 발간했다. 보고서는 지역...</em>
+		</span>
+		</a>
+		</li>
+<li class="auto-columns only-text">
+		<a href="/news/articleView.html?idxno=775362" target="_top">
+		
+		<span class="auto-content">
+			<em class="auto-section user-point">산청군 인구정책 추진 요란하지 않은 이유</em>
+			<em class="auto-titles">'홍보로는 안 와' 산청군 내실있는 사람 모으기</em>
+			<em class="auto-sums">경남도내 대표적인 '인구감소지역'인 산청군이 다른 지방자치단체에 비해 상대적으로 '조용한' 인구정책을 펼쳐 눈길을 끌고 있다.가령 인근 함양군은 강승제 부군수를 단장으로 총 5개 ...</em>
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775360" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775360_456694_3847.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">의료&middot;위생</em>
+			<em class="auto-titles">경남 확진세 지난주보다 주춤</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775357" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775357_456692_179.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">야구</em>
+			<em class="auto-titles">NC 파슨스 145일 만에 ‘승리투수’</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775356" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775356_456691_542.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">코로나19</em>
+			<em class="auto-titles">경남 추가 확진자 34명…전국 1073명</em>
+			
+		</span>
+		</a>
+		</li>
+</ul>
+<a role="menu" id="load-more_22" class="more">더보기<i class="fa fa-angle-down"></i></a>
+</div><script type="text/javascript">
+$(document).ready(function () {
+
+	var items =  36		,_myLoader = $('#load-more_22');
+
+	$('#myList_22 .auto-columns:lt(24)').show();
+
+	_myLoader.click(function () {
+		var shown = $('#myList_22 .auto-columns:visible').size()+12;
+		
+		if(shown <= items) {
+			$('#myList_22 .auto-columns:lt('+shown+')').show();
+			return true;
+		}
+				$(this).removeAttr('role').attr('href', '/news/articleList.html?view_type=sm');
+			});
+});
+</script>
+</section>
+</article><article class="box-skin kn-st auto-padtop-50 ">
+<header class="header"><a href="/news/articleList.html?sc_multi_code=S3&view_type=sm" target="_top" class="">뉴스덤  <span style="padding-right:7px;font-size:1.6rem;font-weight:normal;vertical-align:middle;"> -  </span><span style="font-size:1.6rem;font-weight:normal;vertical-align:middle;">기획연재</span></a></header>
+<section class="content"><div id="myList_23" class="auto-article tiles-4x auto-mp08">
+<ul><li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775380" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775380_456711_3849.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">영화 속 클래식 이야기 - 〈오징어 게임〉(2021)</em>
+			<em class="auto-titles">죽음의 게임 시작 알람, 하이든의 '마지막'이었네</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775240" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775240_456606_1632.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">기후재앙 생존 보고서 - 경남지역 해수면 변화</em>
+			<em class="auto-titles">지구 온도 1.5도만 올라도 김해공항 잠긴다</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775257" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775257_456613_1633.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">문학 속 경남을 읽다 (7) 문학 보물 지도, 남해로 오시다</em>
+			<em class="auto-titles">치열했던 역사 품은 바다에 다채로운 이야기 넘실</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775189" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775189_456558_0431.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">작가와 작품 산책 (4) 김학일 한국화가</em>
+			<em class="auto-titles">피땀으로 만들고 붙인 닥종이 '자연'을 말하네</em>
+			
+		</span>
+		</a>
+		</li>
+</ul>
+<a role="menu" id="load-more_23" class="more">더보기<i class="fa fa-angle-down"></i></a>
+</div><script type="text/javascript">
+$(document).ready(function () {
+
+	var items =  4		,_myLoader = $('#load-more_23');
+
+	$('#myList_23 .auto-columns:lt(24)').show();
+
+	_myLoader.click(function () {
+		var shown = $('#myList_23 .auto-columns:visible').size()+12;
+		
+		if(shown <= items) {
+			$('#myList_23 .auto-columns:lt('+shown+')').show();
+			return true;
+		}
+				$(this).removeAttr('role').attr('href', '/news/articleList.html?sc_multi_code=S3&view_type=sm');
+			});
+});
+</script>
+</section>
+</article><article class="box-skin kn-st auto-padtop-50 ">
+<header class="header"><a href="/news/articleList.html?sc_sub_section_code=S2N360&view_type=sm" target="_top" class="">뉴스찜  <span style="padding-right:7px;font-size:1.6rem;font-weight:normal;vertical-align:middle;"> -  </span><span style="font-size:1.6rem;font-weight:normal;vertical-align:middle;">콕 찍어 찜</span></a></header>
+<section class="content"><div id="myList_28" class="auto-article tiles-4x auto-mp08">
+<ul><li class="auto-columns">
+		<a href="/news/articleView.html?idxno=772692" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202109/772692_454804_4027.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">뉴스 찜</em>
+			<em class="auto-titles">폐교의 재발견</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=771592" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202109/771592_454263_2349.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">뉴스 찜</em>
+			<em class="auto-titles">지역소멸 보고서</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=771341" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202108/771341_453758_2034.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">뉴스 찜</em>
+			<em class="auto-titles">두 바퀴로 찾은 경남 매력 '자전거 유람'</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=769356" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202108/769356_452285_2158.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">뉴스 찜</em>
+			<em class="auto-titles">경계에 선 사람들</em>
+			
+		</span>
+		</a>
+		</li>
+</ul>
+<a role="menu" id="load-more_28" class="more">더보기<i class="fa fa-angle-down"></i></a>
+</div><script type="text/javascript">
+$(document).ready(function () {
+
+	var items =  4		,_myLoader = $('#load-more_28');
+
+	$('#myList_28 .auto-columns:lt(24)').show();
+
+	_myLoader.click(function () {
+		var shown = $('#myList_28 .auto-columns:visible').size()+12;
+		
+		if(shown <= items) {
+			$('#myList_28 .auto-columns:lt('+shown+')').show();
+			return true;
+		}
+				$(this).removeAttr('role').attr('href', '/news/articleList.html?sc_sub_section_code=S2N360&?view_type=sm');
+			});
+});
+</script>
+</section>
+</article><article class="box-skin kn-st auto-padtop-50 ">
+<header class="header"><a href="/news/articleList.html?sc_multi_code=S1&view_type=sm" target="_top" class="">사람들 <span style="padding-right:7px;font-size:1.6rem;font-weight:normal;vertical-align:middle;"> -  </span>
+<span style="font-size:1.6rem;font-weight:normal;vertical-align:middle;">인터뷰</span></a></header>
+<section class="content"><div id="myList_24" class="auto-article tiles-4x auto-mp08">
+<ul><li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775103" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775103_456509_0423.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">정근식 2기 진실화해위원장</em>
+			<em class="auto-titles">"3.15의거 전담반 구성 전수조사해 진상규명"</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775128" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775128_456524_0426.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">인터뷰</em>
+			<em class="auto-titles">박물관의 깊은 맛 가야라면에 담았네</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=774949" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/774949_456404_1724.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">부마민주항쟁 42주년 - 끝나지 않는 트라우마</em>
+			<em class="auto-titles">자는 게 무서웠지 자꾸 친구 비명소리가 들려서</em>
+			
+		</span>
+		</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=775044" target="_top">
+		<em class="auto-images cover" style="background-image:url(/news/photo/202110/775044_456456_1733.jpg)"></em>
+		<span class="auto-content">
+			<em class="auto-section user-point">인터뷰</em>
+			<em class="auto-titles">부산국제영화제서 만난 사람</em>
+			
+		</span>
+		</a>
+		</li>
+</ul>
+<a role="menu" id="load-more_24" class="more">더보기<i class="fa fa-angle-down"></i></a>
+</div><script type="text/javascript">
+$(document).ready(function () {
+
+	var items =  4		,_myLoader = $('#load-more_24');
+
+	$('#myList_24 .auto-columns:lt(24)').show();
+
+	_myLoader.click(function () {
+		var shown = $('#myList_24 .auto-columns:visible').size()+12;
+		
+		if(shown <= items) {
+			$('#myList_24 .auto-columns:lt('+shown+')').show();
+			return true;
+		}
+				$(this).removeAttr('role').attr('href', '/news/articleList.html?sc_multi_code=S1&view_type=sm');
+			});
+});
+</script>
+</section>
+</article><div class="box-margins height-20  " ></div>
+
+			</div>
+			<!--// 내용 -->
+		
+		</div>
+	</div>
+	<!--// 메인화면 -->
+						</div>
+					</section>
+					<!--// container -->
+
+					<!-- footer //-->
+<footer id="user-footer">
+	<div class="footer-info float-center max-width-1150">
+		<nav class="footer-nav">
+			<a href="/com/com-1.html" class="item">경남도민일보소개</a>
+			<a href="https://www.idomin.com/com/kd.html" class="item">구독신청</a>
+			<a href="/com/privacy.html" class="item"><strong>개인정보취급방침</strong></a>
+			<a href="/com/youthpolicy.html" class="item">청소년보호정책</a>
+			<!--<a href="/com/recruit.html" class="item">상시채용안내</a>-->
+			<a href="/com/com-8.html" class="item">취재기자 연락처</a>
+			<a href="/com/support.html" class="item hide-for-medium">후원회원</a>
+		</nav>
+
+		<div class="info">
+			<span class="item">우)51320 경상남도 창원시 마산회원구 삼호로 38 (양덕동) </span>
+			<span class="item">TEL : 055)250-0100</span>
+			<span class="item">팩스 : 055)250-0124</span>
+			<span class="item clear show-for-medium">청소년보호책임자 : 손유진</span>
+			<span class="item show-for-medium">경남도민일보 주식회사</span>
+			<span class="item">사업자번호 : 608-81-33944</span>
+		</div>
+
+		<div class="copyright">
+			<div class="user-logo"><img src="/image/logo.png" alt="경남도민일보" /></div>
+			<div class="copied">
+				C<a href="https://www.idomin.com/admin/adminLoginForm.html">o</a>pyright © 경남도민일보. All Rights Reserved.
+				<small class="license">모든 컨텐츠(영상·사진·기사 등)에 대한 무단 전재·복사·배포를 금합니다.</small>
+			</div>
+		</div>
+
+		<a href="http://www.ndsoft.co.kr" target="_blank" class="ndsoft"><img src="/image/ndsoft.svg" alt="ND소프트" /></a>
+	</div>
+</footer>
+<!--// footer -->
+
+<aside id="user-aside">
+	
+	<!-- 메인화면 //-->
+	<div class="index-wrap kn-style float-center max-width-250">
+		<!-- 내용 //-->
+		<div class="clearfix">
+<!--경남대학교_210923--><script type="text/javascript">var ___BANNER = "ban_1632557711";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/193020.js?1632557711" id="ban_1632557711"></script><!--//경남대학교_210923--><!--마산대학교_210823--><script type="text/javascript">var ___BANNER = "ban_1633245793";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/193007.js?1633245793" id="ban_1633245793"></script><!--//마산대학교_210823--><!--211001_마산대학교--><script type="text/javascript">var ___BANNER = "ban_1633245826";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/193026.js?1633245826" id="ban_1633245826"></script><!--//211001_마산대학교--><div class="box-skin community">
+ <!-- <header class="header"><strong>Community</strong></header>-->
+  <section class="content">
+    <a href="http://www.idomin.com/bbs/list.html?table=bbs_101" class="item"><i class="fa fa-commenting-o"></i>알림</a>
+    <a href="https://www.idomin.com/com/tg.html" class="item"><i class="fa fa-camera-retro"></i>독자투고</a>
+    <!--<a href="https://www.youtube.com/user/gndomin/featured?view_as=subscriber" target="_blank" class="item"><i class="fa fa-television"></i>영상</a>-->
+    <a href="http://www.idomin.com/bbs/list.html?table=bbs_13" class="item"><i class="fa fa-file-text-o"></i>보도자료</a>
+    <a href="http://www.idomin.com/bbs/list.html?table=bbs_103" target="_blank" class="item"><i class="fa fa-user-o"></i>일반회원</a>
+    <a href="http://www.idomin.com/bbs/list.html?table=bbs_102" class="item"><i class="fa fa-user"></i>후원회원</a>
+    <a href="http://www.idomin.com/com/paper.html" class="item"><i class="fa fa-newspaper-o"></i>지면평가위</a>
+    <a href="https://www.idomin.com/com/kd.html" class="item"><i class="fa fa-pencil-square-o"></i>구독신청</a>
+    <a href="http://www.idomin.com/com/support.html" class="item"><i class="fa fa-heart"></i>후원신청</a>
+    <a href="http://www.idomin.com/com/ad-1.html" class="item"><i class="fa fa-audio-description"></i>광고안내</a>
+  </section>
+</div>
+<!--190906_마산대학교--><!--<script type="text/javascript">var ___BANNER = "ban_1567735203425";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192749.js?1567735203425" id="ban_1567735203425"></script>--><!--//190906_마산대학교-->
+<!--마산대학교190926--><!--<script type="text/javascript">var ___BANNER = "ban_1569482954535";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192753.js?1569482954535" id="ban_1569482954535"></script>--><!--//마산대학교190926-->
+<!--마산대_20191121--><!--<script type="text/javascript">var ___BANNER = "ban_1574304358066";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192782.js?1574304358066" id="ban_1574304358066"></script>--><!--//마산대_20191121-->
+<!--마산대학교_200115--><!--<script type="text/javascript">var ___BANNER = "ban_1579076176566";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192811.js?1579076176566" id="ban_1579076176566"></script>--><!--//마산대학교_200115-->
+<!--마산대_20200122--><!--<script type="text/javascript">var ___BANNER = "ban_1579671329880";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192816.js?1579671329880" id="ban_1579671329880"></script>--><!--//마산대_20200122-->
+<!--마산대200901--><!--<script type="text/javascript">var ___BANNER = "ban_1598925984136";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192880.js?1598925984136" id="ban_1598925984136"></script>--><!--//마산대200901--><!--허왕후 신행길 축제_211001--><script type="text/javascript">var ___BANNER = "ban_1633256330";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/193028.js?1633256330" id="ban_1633256330"></script><!--//허왕후 신행길 축제_211001--><!--코로나19극복_211001--><script type="text/javascript">var ___BANNER = "ban_1633256334";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/193029.js?1633256334" id="ban_1633256334"></script><!--//코로나19극복_211001--><!--전국체육대회_210928--><script type="text/javascript">var ___BANNER = "ban_1632987585";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/193024.js?1632987585" id="ban_1632987585"></script><!--//전국체육대회_210928--><!--진주교육대학교 사과문_210924--><script type="text/javascript">var ___BANNER = "ban_1632654268";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/193022.js?1632654268" id="ban_1632654268"></script><!--//진주교육대학교 사과문_210924--><!--김해재즈콘서트_210914--><script type="text/javascript">var ___BANNER = "ban_1631792202";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/193018.js?1631792202" id="ban_1631792202"></script><!--//김해재즈콘서트_210914--><!--어린이글쓰기_210914--><script type="text/javascript">var ___BANNER = "ban_1631785176";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/193017.js?1631785176" id="ban_1631785176"></script><!--//어린이글쓰기_210914--><!--210909_거창몰--><script type="text/javascript">var ___BANNER = "ban_1631369185";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/193015.js?1631369185" id="ban_1631369185"></script><!--//210909_거창몰--><!--210507_로컬크리에이터활성화지원사업(롤링)--><script type="text/javascript">var ___BANNER = "ban_1620370093";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js_activity/10.js?1620370093" id="ban_1620370093"></script><!--//210507_로컬크리에이터활성화지원사업(롤링)--><!--경남지역혁신프로젝트사업2_210525_수정0528--><script type="text/javascript">var ___BANNER = "ban_1622619061";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192990.js?1622619061" id="ban_1622619061"></script><!--//경남지역혁신프로젝트사업2_210525_수정0528--><!--한국전기연구원_210525--><script type="text/javascript">var ___BANNER = "ban_1622633095";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192989.js?1622633095" id="ban_1622633095"></script><!--//한국전기연구원_210525--><!--저출산고령사회위원회_201120--><script type="text/javascript">var ___BANNER = "ban_1606044439";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192914.js?1606044439" id="ban_1606044439"></script><!--//저출산고령사회위원회_201120--><!--210416 김해시승격40주년--><script type="text/javascript">var ___BANNER = "ban_1618734158";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192976.js?1618734158" id="ban_1618734158"></script><!--//210416 김해시승격40주년--><!--재개원_210304--><script type="text/javascript">var ___BANNER = "ban_1615018171";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192973.js?1615018171" id="ban_1615018171"></script><!--//재개원_210304--><!--창원시내버스광고_201231--><script type="text/javascript">var ___BANNER = "ban_1610201616";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192943.js?1610201616" id="ban_1610201616"></script><!--//창원시내버스광고_201231--><!--210903dootech2--><script type="text/javascript">var ___BANNER = "ban_1630658853";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js_activity/11.js?1630658853" id="ban_1630658853"></script><!--//210903dootech2--><!--렌즈경남_210302--><script type="text/javascript">var ___BANNER = "ban_1629896789";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192970.js?1629896789" id="ban_1629896789"></script><!--//렌즈경남_210302--><!--메인_사이드배너3--><script type="text/javascript">var ___BANNER = "ban_1608604535046";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js_multi/3.js?1608604535046" id="ban_1608604535046"></script><!--//메인_사이드배너3--><!--후원하기180625--><script type="text/javascript">var ___BANNER = "ban_1560515184";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192596.js?1560515184" id="ban_1560515184"></script><!--//후원하기180625--><!--메인_사이드배너2--><script type="text/javascript">var ___BANNER = "ban_1574227780971";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js_multi/2.js?1574227780971" id="ban_1574227780971"></script><!--//메인_사이드배너2--><!--kuipp_210215--><script type="text/javascript">var ___BANNER = "ban_1613546723";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192964.js?1613546723" id="ban_1613546723"></script><!--//kuipp_210215--><!--메인_사이드배너--><script type="text/javascript">var ___BANNER = "ban_multi_1631779426_1";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js_multi/1.js?1631779426_1" id="ban_multi_1631779426_1"></script><!--//메인_사이드배너--><!--<div class="responsive-embed widescreen">
+  <iframe width="250" height="141" src="https://www.youtube.com/embed/I1ef12JfH5Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>--><!--170117_독자권익위원회_0119--><script type="text/javascript">var ___BANNER = "ban_1560514989";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192357.js?1560514989" id="ban_1560514989"></script><!--//170117_독자권익위원회_0119--><!--체험구독이벤트--><script type="text/javascript">var ___BANNER = "ban_1560514855";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192215.js?1560514855" id="ban_1560514855"></script><!--//체험구독이벤트--><!--210107_뉴스토어--><script type="text/javascript">var ___BANNER = "ban_1610200865";</script><script type="text/javascript" charset="utf-8" src="http://www.idomin.com/bannerpop/uploads/js/192945.js?1610200865" id="ban_1610200865"></script><!--//210107_뉴스토어-->
+		</div>
+		<!--// 내용 -->
+	</div>
+	<!--// 메인화면 -->
+</aside>
+
+<script>
+$(document).ready(function(){
+	var $uwrap = $("#user-wrap")
+		,$uopener = $uwrap.find(".opener")
+		,$uaside = $uwrap.find("#user-aside");
+
+	$uopener.on({
+		click: function() {
+			$uwrap.toggleClass("active");
+		}
+	});
+});
+</script>
+
+				</div>
+			</div>
+			<!--// wrap -->
+
+			<!-- back to the top //-->
+			<button type="button" id="back-to-top" class="back-to-top for-mobile" title="위로"><i class="s7-angle-up"><span class="show-for-sr">위로</span></i></button>
+			<!--// back to the top -->
+
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+<!--
+// back to the top		
+$(document).scroll(function(){
+	var sDocumentHeight = $(document).height() - $(window).height();
+	if($(document).scrollTop() > 0){	
+		$('#back-to-top').fadeIn();
+	}else{
+		$('#back-to-top').fadeOut();
+	}
+});
+
+$('#back-to-top').click(function(){
+	$('html, body').animate( {scrollTop:0}, 100);
+});
+//-->
+</script>
+
+<script>
+// Popup Json
+var ___popup = [];
+bannerpop.popup();
+</script>
+
+<!-- 구글 애드센스 S -->
+<script src="/adManager/js/lab.js"></script>
+<script>
+jQuery(function($) {
+	setTimeout(function() {
+		$LAB
+		.script("//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js")
+		.wait(function () {
+			var adn = jQuery('.adsbygoogle').length;
+		 // console.log(adn);
+			if (adn > 0) {
+				for (var i = 0; i < adn; i++) {
+					(adsbygoogle = window.adsbygoogle || []).push({});
+				}
+			}
+		});
+	}, 1000);
+});
+</script>
+<!-- 구글 애드센스 E -->
+
+
+<link rel="stylesheet" href="/adManager/css/adManager.css">
+<script type="text/javascript" src="/library/isND/"></script>
+<script>
+$(document).ready(function(){
+	// 닫기 버튼 자동 노출
+	$('.ad-template.ad-close .ad-view').each(function(){
+		$(this).append('<div class="ad-close-btn"><i class="fa fa-close"></i></div>');
+	})
+
+	// 닫기 버튼 클릭 시 이벤트
+	$('body').on('click', '.ad-close-btn', function(){
+		$(this).closest('.ad-view').slideUp();
+	})
+
+	
+	if(____is_nd) {
+
+				// ND IP만 광고 ID 보이기
+		$('.ad-template').each(function(){
+			$(this).append('<div class="ad-code-id">'+$(this).attr('id')+'</div>');
+		})
+		
+				// 광고 ID 자동 숨김 설정 시
+		$('.ad-code-id').hide();
+
+		$('.ad-template').mouseenter(function(){
+			$(this).find('.ad-code-id').show();
+		}).mouseleave(function(){
+			$(this).find('.ad-code-id').hide();
+		})
+		
+
+			}
+
+	})
+</script>
+
+<!-- m-백버튼 클릭시 광고 띄움 [24] -->
+<!--<script type="text/javascript">
+	// 기사본문내 오른쪽 배너 - 기사본문 하단 두번째단락에 노출 될 수 있도록 
+	var ___POS_BAN = "";
+	var $arlP=$("#article-view-content-div p"), arlCount=$arlP.length;
+	if(arlCount > 6) $("#article-view-content-div p").eq(arlCount-3).before(decodeURIComponent(___POS_BAN));
+</script>-->
+</body>
+</html>

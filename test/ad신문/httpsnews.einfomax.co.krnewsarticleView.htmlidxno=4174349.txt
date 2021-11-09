@@ -1,0 +1,1242 @@
+
+<!doctype html>
+<html class="no-js" lang="ko" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=1080">
+<meta name="apple-mobile-web-app-title" content="연합인포맥스" />
+<!-- 메타태그정보 //-->
+<meta name="title" content="은행 주담대 금리 3%대 뚫고 급등세…약 5년만에 최대폭 상승"/>
+<meta name="description" content="가계 신용금리, 4%대 돌파…2년3개월 만에 처음(서울=연합인포맥스) 노요빈 기자 = 9월 중 가계의 주택담보대출 금리가 3.0%대를 돌파했다.기준금리 인상 기대와 가계대출 관리 노력 등이 더해지면서 가계 대출금리 전반을 끌어올렸다. 일반신용대출 금리는 2년3개월 만에 4%대를 넘어섰다.한국은행이 29일 발표한 &amp;#39;2021년 9월중 금융기관 가중평균금리&amp;#39;에 따르면 9월 중 예금은행의 가계 대출금리는 전월보다 8bp 상승한 3.18%를 기록했다. 지난 2019년 6월 기록한 3.25% 이후 가장 높은 수준이다.가계 대출별"/>
+<meta name="Classification" content="정책/금융"/>
+<meta name="Copyright" content="연합인포맥스"/>
+<meta property="og:site_name" content="연합인포맥스"/>
+<meta property="og:image" content="http://news.einfomax.co.kr/news/thumbnail/202110/4174349_92359_5053_v150.jpg" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://news.einfomax.co.kr/news/articleView.html?idxno=4174349" />
+<meta property="og:title" content="은행 주담대 금리 3%대 뚫고 급등세…약 5년만에 최대폭 상승" />
+<meta property="og:description" content="가계 신용금리, 4%대 돌파…2년3개월 만에 처음(서울=연합인포맥스) 노요빈 기자 = 9월 중 가계의 주택담보대출 금리가 3.0%대를 돌파했다.기준금리 인상 기대와 가계대출 관리 노력 등이 더해지면서 가계 대출금리 전반을 끌어올렸다. 일반신용대출 금리는 2년3개월 만에 4%대를 넘어섰다.한국은행이 29일 발표한 &amp;#39;2021년 9월중 금융기관 가중평균금리&amp;#39;에 따르면 9월 중 예금은행의 가계 대출금리는 전월보다 8bp 상승한 3.18%를 기록했다. 지난 2019년 6월 기록한 3.25% 이후 가장 높은 수준이다.가계 대출별" />
+<meta property="og:article:author" content="노요빈 기자"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="은행 주담대 금리 3%대 뚫고 급등세…약 5년만에 최대폭 상승"/>
+<meta name="twitter:description" content="가계 신용금리, 4%대 돌파…2년3개월 만에 처음(서울=연합인포맥스) 노요빈 기자 = 9월 중 가계의 주택담보대출 금리가 3.0%대를 돌파했다.기준금리 인상 기대와 가계대출 관리 노력 등이 더해지면서 가계 대출금리 전반을 끌어올렸다. 일반신용대출 금리는 2년3개월 만에 4%대를 넘어섰다.한국은행이 29일 발표한 &amp;#39;2021년 9월중 금융기관 가중평균금리&amp;#39;에 따르면 9월 중 예금은행의 가계 대출금리는 전월보다 8bp 상승한 3.18%를 기록했다. 지난 2019년 6월 기록한 3.25% 이후 가장 높은 수준이다.가계 대출별"/>
+<meta name="twitter:image" content="http://news.einfomax.co.kr/news/thumbnail/202110/4174349_92359_5053_v150.jpg"/>
+<meta name="twitter:site" content="http://news.einfomax.co.kr/news/articleView.html?idxno=4174349"/>
+<meta name="twitter:creator" content="노요빈 기자"/>
+<meta property="dable:item_id" content="4174349">
+<meta property="dable:author" content="노요빈 기자">
+<meta property="article:section" content="정책/금융">
+<meta property="article:published_time" content="2021-10-29T12:03:00+09:00">
+<!--// 메타태그정보 -->
+<title>은행 주담대 금리 3%대 뚫고 급등세…약 5년만에 최대폭 상승 - 연합인포맥스</title>
+<link rel="canonical" id="canonical" href="http://news.einfomax.co.kr/news/articleView.html?idxno=4174349" />
+<link rel="amphtml" href="http://news.einfomax.co.kr/news/articleViewAmp.html?idxno=4174349">  <!-- 구글AMP태그 -->
+<link rel="stylesheet" href="/css/jquery-ui.min.css">
+<link rel="stylesheet" href="/css/foundation.min.css">
+<link rel="stylesheet" href="/css/custom.foundation.min.css">
+<link rel="stylesheet" href="/css/slick.min.css">
+<link rel="stylesheet" href="/css/webfonts.min.css">
+<link rel="stylesheet" href="/css/style.min.css">
+<link rel="stylesheet" href="/css/design.style.css">
+<link rel="stylesheet" href="/menuskin/pd_01/menubar.css">
+<link rel="shortcut icon" href="/image/logo/favicon_20180927054608.ico">
+<script src="/script/jquery.min.js"></script>
+<script src="/script/jquery-ui.min.js"></script>
+<script src="/script/slick.min.js"></script>
+<script src="/script/jquery.rwdImageMaps.min.js"></script>
+<script src="/script/what-input.js"></script>
+<script src="/script/foundation.min.js"></script>
+<script src="/menuskin/pd_01/menubar.js"></script>
+<script src="/script/user.style.js"></script>
+<script src="/script/clipboard.min.js"></script>
+<script src="/script/jquery.tabslet.min.js"></script>
+<script src="/script/common.js"></script>
+<script src="/script/bannerpop.js?ver=11"></script>
+
+<!--[if lt IE 10]>
+<link rel="stylesheet" href="/css/style.ie9.css">
+<script src="/script/html5shiv.min.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+
+	$(document).ready(function(e) {
+		// 이미지맵
+		$('img[usemap]').rwdImageMaps();
+		bannerpop.banner(".banner_event_box");					// 기능성배너 이벤트
+		bannerpopMulti.bannerLoad();                            // 멀티 기능성 배너 이벤트 
+
+		// 기사뷰 이미지관련
+					resizePhoto();
+		
+		// 기사본문 부분 복사하기 저작권 표시
+		$('#article-view-content-div').on('copy', function(e){			
+			var sel = window.getSelection();
+			var copyFooter = "<br/><br/>출처 : 연합인포맥스(http://news.einfomax.co.kr)<br/>";
+			var copyHolder = $('<div>', {html: sel+copyFooter, id:'copy_text', style: {position: 'absolute', left: '-99999px'}});
+			$('body').append(copyHolder);
+			var str = $('#copy_text').html();
+			$('#copy_text').html(str.replace(/(\r\n|\n|\r)/gm, "<br />"));
+			sel.selectAllChildren( copyHolder[0] );
+			window.setTimeout(function() {
+				copyHolder.remove();
+			},0);
+		});
+	});
+
+	// 도메인
+	var SITE_DOMAIN = 'http://news.einfomax.co.kr'
+	,___currentTime	= 1635522208;
+
+	// 즐겨찾기 스크립트
+	function bookmark() {
+		window.external.AddFavorite("http://news.einfomax.co.kr", "연합인포맥스")
+	}
+
+</script>
+
+<style type="text/css">
+/* 사이트 기본 색 */
+.user-point,a.user-point,
+.poll-columns .poll-state.going,
+.auto-hr04-2 .auto-nav .slick-slide.slick-current .auto-fontA,.auto-hr05 .auto-nav .slick-slide.slick-current .auto-fontA
+{color:#e32f66 !important}
+.user-bg,.user-bg:hover,.user-bg:active,.user-bg:focus,li[id*="slick-"].slick-active button[data-role],.tabs .is-active a,
+.checkbox-group > input[type="radio"]:checked + label, .checkbox-group > input[type="checkbox"]:checked + label,
+.radio-group > input[type="radio"]:checked + label, .radio-group > input[type="checkbox"]:checked + label,
+.article-list .article-list-content.type-tm .list-block .links:hover,
+.poll-view .poll-view-state.going,.poll-view .poll-radio input[type="radio"]:checked + label::before,.poll-view .poll-radio input[type="checkbox"]:checked + label::before,
+.auto-dl04 .auto-column::after,.auto-mr01::before,.auto-hp02 a:hover .photo-titbg,.auto-hr04 .auto-nav .slick-slide.slick-current,.auto-hr04-1 .auto-nav .slick-slide.slick-current,
+.nd-switch.user-bg input[type="checkbox"]:checked + label,.nd-switch.user-bg input[type="radio"]:checked + label,
+.nd-switch.user-bg input[type="checkbox"]:checked + label::before,.nd-switch.user-bg input[type="radio"]:checked + label::before,
+.switch-group.user-bg > .nd-switch input[type="checkbox"]:checked + label,.switch-group.user-bg > .nd-switch input[type="radio"]:checked + label,
+.switch-group.user-bg > .nd-switch input[type="checkbox"]:checked + label::before,.switch-group.user-bg > .nd-switch input[type="radio"]:checked + label::before,
+.switch-group.for-ios > .nd-switch.user-bg input[type="checkbox"]:checked + label,.switch-group.for-ios > .nd-switch.user-bg input[type="radio"]:checked + label,
+.switch-group.for-ios > .nd-switch.user-bg input[type="checkbox"]:checked + label::before,.switch-group.for-ios > .nd-switch.user-bg input[type="radio"]:checked + label::before
+{background-color:#e32f66 !important}
+.user-border,.button.user-bg,
+.poll-view .poll-radio input[type="radio"] + label:hover strong::before,.poll-view .poll-radio input[type="checkbox"] + label:hover strong::before,
+.poll-view .poll-radio input[type="radio"]:checked + label  strong::before,.poll-view .poll-radio input[type="checkbox"]:checked + label  strong::before,
+.auto-pa01 .auto-nav .slick-current .auto-images::before,.auto-hr05-1 .auto-content a:hover .auto-images.line::before,
+.auto-pa02 .auto-nav .slick-current .auto-images::before,.auto-ha08 .auto-columns a:hover .auto-images.line::before,
+.auto-hr05 .auto-nav .slick-slide.slick-current .auto-images.line::before,.auto-hr08 .auto-nav .slick-slide.slick-current .auto-images.line::before,
+.auto-dp03 .auto-columns:hover > a:not(.auto-section)::before,.auto-hr01 .auto-nav .slick-slide.slick-current .auto-images.line::before,
+.auto-pr05 .auto-nav .auto-cursor.active::before
+{border-color:#e32f66 !important}
+.user-border-top {border-top-color:#e32f66 !important}
+.user-border-bottom {border-bottom-color:#e32f66 !important}
+.user-border-left {border-left-color:#e32f66 !important}
+.user-border-right {border-right-color:#e32f66 !important}
+</style>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37190992-1']);
+  _gaq.push(['_setDomainName', 'einfomax.co.kr']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- 구글 애널리틱스 S -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-37190992-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- 구글 애널리틱스 E -->
+</head>
+<body>
+
+<!--[if lt IE 10]>
+<div id="ie9-guide">
+	<div class="ie9-wrapper border-box">
+		<p class="guide-txt">
+		잠깐! 현재 Internet Explorer 8이하 버전을 이용중이십니다. 최신 브라우저(Browser) 사용을 권장드립니다!
+		</p>
+
+		<div class="guide-right">
+			<dl class="ie9-down nobr">
+				<dt><i class="icon ie-logo">ie</i></dt>
+				<dd>
+					<span>인터넷 익스플로러 11</span>
+					<a href="http://windows.microsoft.com/ko-kr/internet-explorer/download-ie" target="_blank">다운로드</a>
+				</dd>
+			</dl>
+
+			<dl class="ie9-down">
+				<dt><i class="icon cr-logo">chrome</i></dt>
+				<dd>
+					<span>구글 크롬</span>
+					<a href="http://www.google.com/chrome/" target="_blank">다운로드</a>
+				</dd>
+			</dl>
+
+			<dl class="ie9-down">
+				<dt><i class="icon ff-logo">firefox</i></dt>
+				<dd>
+					<span>모질라 파이어폭스</span>
+					<a href="http://www.mozilla.or.kr/" target="_blank">다운로드</a>
+				</dd>
+			</dl>
+		</div>
+	</div>
+</div>
+<![endif]-->
+<div class="off-canvas-wrapper">
+	<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+		<div class="off-canvas user-canvas position-left" id="offCanvas" data-off-canvas>
+			<!-- close //-->
+			<button class="close-button" aria-label="Close menu" type="button" data-close>
+				<span aria-hidden="true">&times;</span>
+			</button>
+			<!--// close -->
+
+			<style type="text/css">
+.user-canvas .user-canvas-navs .menu li > a:hover,.user-canvas .user-canvas-navs .menu li.is-accordion-submenu-parent[aria-expanded="true"] > a {background:#e32f66}
+.user-canvas .user-canvas-navs .menu li.is-accordion-submenu-parent > a::after,.user-canvas .user-canvas-navs .menu li.is-accordion-submenu-parent[aria-expanded="true"] > a::after {border-top-color:#e32f66}
+.user-canvas .user-canvas-navs .menu li ul.menu.nested li a:hover {color:#e32f66}
+</style>
+
+<nav class="user-canvas-navs">
+	<!-- 1차 //-->
+	<ul class="vertical menu" data-multi-open="false" data-accordion-menu>
+		<li><a href="/news/articleList.html?view_type=sm">전체기사</a></li>
+			<li>
+		<a href="/news/articleList.html?sc_section_code=S1N2&view_type=sm" target="_top">증권</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N4&view_type=sm" target="_top">국제경제</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N7&view_type=sm" target="_top">IB/기업</a>
+		<ul class="menu vertical nested">
+			<li><a href="/news/articleList.html?sc_section_code=S1N7&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N29&view_type=sm" target="_top">어닝 프리뷰</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N30&view_type=sm" target="_top">리그테이블</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N32&view_type=sm" target="_top">1Q 상장사 실적 대해부</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N34&view_type=sm" target="_top">2분기 상장사 실적 대해부</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N35&view_type=sm" target="_top">3분기 리그테이블</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N36&view_type=sm" target="_top">어닝프리뷰</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N9&view_type=sm" target="_top">칼럼/이슈</a>
+		<ul class="menu vertical nested">
+			<li><a href="/news/articleList.html?sc_section_code=S1N9&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N1&view_type=sm" target="_top">금융전망대</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N2&view_type=sm" target="_top">칼럼</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N41&view_type=sm" target="_top">마켓뷰</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N42&view_type=sm" target="_top">금융가 이모저모</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N3&view_type=sm" target="_top">이모저모</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N4&view_type=sm" target="_top">인터뷰</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N5&view_type=sm" target="_top">기획기사</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N31&view_type=sm" target="_top">GSEEK 카드뉴스</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N43&view_type=sm" target="_top">CHAMP 카드뉴스</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N10&view_type=sm" target="_top">시사용어</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N11&view_type=sm" target="_top">인물/동정</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N12&view_type=sm" target="_top">외부기고</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N13&view_type=sm" target="_top">기획기사</a>
+		<ul class="menu vertical nested">
+			<li><a href="/news/articleList.html?sc_section_code=S1N13&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N6&view_type=sm" target="_top">환율정책 면죄부 준 G20</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N7&view_type=sm" target="_top">북핵, 금융시장 영향은</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N8&view_type=sm" target="_top">박근혜 정부 초대 경제사령탑 출범</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N13&view_type=sm" target="_top">거시경제금융안정보고</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N14&view_type=sm" target="_top">리그테이블 종합</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N15&view_type=sm" target="_top">인포맥스 폴</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N16&view_type=sm" target="_top">코리보</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N17&view_type=sm" target="_top">신흥국 금융위기</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N18&view_type=sm" target="_top">2013 크로스미디어</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N19&view_type=sm" target="_top">연합인포맥스 금융대상</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N20&view_type=sm" target="_top">위기의 삼성금융계열사</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N21&view_type=sm" target="_top">환율 긴급진단</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N22&view_type=sm" target="_top">에버랜드 상장</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N23&view_type=sm" target="_top">통일과 금융</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N24&view_type=sm" target="_top">셰일과 저유가</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N28&view_type=sm" target="_top">주택 전망</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N33&view_type=sm" target="_top">북미회담 금융시장영향은</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N37&view_type=sm" target="_top">글로벌부동산</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N38&view_type=sm" target="_top">새해금융시장은</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N39&view_type=sm" target="_top">새해부터달라지는금융제도</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N40&view_type=sm" target="_top">트럼프2주년</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N44&view_type=sm" target="_top">2020년 글로벌시장 전망</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N14&view_type=sm" target="_top">임시메인(2013)</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N15&view_type=sm" target="_top">정책/금융</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N16&view_type=sm" target="_top">채권/외환</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N17&view_type=sm" target="_top">부동산</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N18&view_type=sm" target="_top">중국경제</a>
+		<ul class="menu vertical nested">
+			<li><a href="/news/articleList.html?sc_section_code=S1N18&view_type=sm" target="_top">전체</a></li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N25&view_type=sm" target="_top">IB : 중국종목</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N26&view_type=sm" target="_top">IC : 중국시황</a>				</li>
+			<li>
+				<a href="/news/articleList.html?sc_sub_section_code=S2N27&view_type=sm" target="_top">ID : 중국정책</a>				</li>
+		</ul>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N21&view_type=sm" target="_top">해외주식</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N19&view_type=sm" target="_top">기고</a>
+	</li>
+	</ul>
+</nav>		</div>
+		<div class="off-canvas-content" data-off-canvas-content>
+
+			<!-- wrap //-->
+			<div id="user-wrap" class="pc-wrap min-width-1080">
+
+				<!-- header //-->
+				<header id="user-header" class="posi-re float-center">
+
+					<!-- 상단 HTML //-->	
+												<div class="clearfix text-center">
+													</div>
+										<!--// 상단 HTML -->
+					
+					<!-- 메뉴 //-->
+
+					
+
+
+<script type="text/javascript">
+<!--
+//메뉴 스타일 불러옴 : 메뉴 /script/menubar.js 와 같이 사용되어야 함
+//submenuStyle	: 서브메뉴 펼침 스타일 (horizon : 가로로, vertical : 세로 슬라이딩)
+var exceptIdx = new Array(); //제외할 메뉴 인덱스번호 (0부터 시작:type integer)
+var submenuStyle="vertical";
+//-->
+
+
+
+</script>
+
+<!-- 메뉴 시작 //-->
+<div id="header-wrapper">
+	<!-- 최상단영역 //-->
+	<div id="user-gnb">
+		<div class="float-center width-1080">
+			<!-- 최종편집 -->
+			<div class="left-gnb" style="width:120px;">
+				<div class="user-intro">2021-10-30 00:40 (토) </div>
+				<div class="facebook-btn">
+					<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Finfomaxnews&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; *width:95px; height:21px;" allowTransparency="true"></iframe>
+				</div>
+			</div>
+
+			<div class="user-logbox1">
+				<div class="user-intro1" onclick="window.open('http://yonhap.einfomax.co.kr/');" style="cursor:pointer;">회사소개 </div>
+				<div class="language-b-box">
+					<ul class="language-list-con1">
+						<li><a class="arrow" onclick="window.open('http://yonhap.einfomax.co.kr/newinfomax/yonhapinfomax/');"><img src="/image/company/ico_c1.png">한국어</a></li>
+						<li style="display:none;" class="engli"><a href="http://yonhap.einfomax.co.kr/newinfomax/yonhapinfomax_eng/" target="_blank"><img src="/image/company/ico_c2.png">English</a></li>
+		
+					</ul>
+				</div>	
+			</div>
+	
+
+			<!-- 로그인 -->
+			<ul class="user-logbox">
+								<!--<li><a href="http://yonhap.einfomax.co.kr/" target="_blank">회사소개</a></li>-->
+				<li><a href="https://www.youtube.com/user/InfomaxTV" target="_blank">인포맥스 유튜브</a></li>
+				<li><a href="http://www.infobigs.co.kr" target="_blank">인포빅스</a></li>
+				<!--<li><a href="/tv/tvDefault.html" target="_blank">아하경제TV</a></li>-->
+				<li><a href="http://www.yonhapnews.co.kr/" target="_blank">연합뉴스</a></li>
+				<li><a href="https://www.yonhapnewstv.co.kr/" target="_blank">연합뉴스TV</a></li>
+				
+				<!-- <li>
+					<div class="facebook-btn">
+						<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Finfomaxnews&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; *width:95px; height:21px;" allowTransparency="true"></iframe>
+					</div>
+					<ul class="sns-link">
+						<li class="facebook"><a href="#" target="_blank" title="페이스북"><i class="icon-facebook"></i></a></li>
+						<li class="twitter"><a href="#" target="_blank" title="트위터"><i class="icon-twitter"></i></a></li>
+						<li class="instagram"><a href="#" target="_blank" title="인스타그램"><i class="icon-instagram"></i></a></li>
+						<li class="google"><a href="#" target="_blank" title="구글플러스"><i class="icon-google"></i></a></li>
+						<li class="story"><a href="#" target="_blank" title="카카오스토리"><i class="icon-story"></i></a></li>
+					</ul> -->
+				</li>
+			</ul>
+		</div>
+	</div>
+	<!--// 최상단영역 -->
+	<!-- 로고영역 //-->
+	<header id="nav-header">
+		<div id="nav-header-wrapper" class="float-center width-1080">
+			<div class="dis-table">
+				<div class="dis-table-cell user-banner">
+					<!--top_banner01--><script type="text/javascript">var ___BANNER = "ban_1602052857";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/801.js?1602052857" id="ban_1602052857"></script><!--//top_banner01-->				</div>
+				<div class="dis-table-cell user-logo">
+					<a href="http://news.einfomax.co.kr" target="_top"><img src="/image/logo/toplogo_20201007035505.png" alt="연합인포맥스" /></a>
+				</div>
+				<div class="dis-table-cell user-banner">
+					<!--top_info--><script type="text/javascript">var ___BANNER = "ban_1601360392";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/802.js?1601360392" id="ban_1601360392"></script><!--//top_info-->				</div>
+			</div>
+		</div>
+		<!-- 메뉴바 //-->
+		<nav id="user-nav">
+			<div id="user-nav-wrapper" class="float-center width-1080">
+				<!-- 전체
+				<button type="button" class="all-section" data-toggle="offCanvas"><i class="fa fa-bars fa-fw"></i>&nbsp;전체</button>-->
+
+
+				<!-- 섹션 //-->
+				<ul id="mega-menu" class="mega-menu font-notosan">
+					
+											<li class="megaline"><a href="/news/articleList.html" target="_top" class="">최신뉴스</a>
+							<ul class="sub-menu-vertical">
+															</ul>
+						</li>
+					
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N15" target="_top" class="">정책/금융</a>
+							<ul class="sub-menu-vertical">
+															</ul>
+						</li>
+					
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N16" target="_top" class="">채권/외환</a>
+							<ul class="sub-menu-vertical">
+															</ul>
+						</li>
+					
+											<li class="megaline"><a href="/news/articleList.html?sc_serial_code=SRN58&view_type=sm" target="_top" class="">빅데이터뉴스</a>
+							<ul class="sub-menu-vertical">
+															</ul>
+						</li>
+					
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N21&view_type=sm" target="_top" class="">해외주식</a>
+							<ul class="sub-menu-vertical">
+															</ul>
+						</li>
+					
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N4" target="_top" class="">국제경제</a>
+							<ul class="sub-menu-vertical">
+															</ul>
+						</li>
+					
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N18" target="_top" class="">중국경제</a>
+							<ul class="sub-menu-vertical">
+															</ul>
+						</li>
+					
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N7" target="_top" class="">IB/기업</a>
+							<ul class="sub-menu-vertical">
+															</ul>
+						</li>
+					
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N2" target="_top" class="">증권</a>
+							<ul class="sub-menu-vertical">
+															</ul>
+						</li>
+					
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N17" target="_top" class="">부동산</a>
+							<ul class="sub-menu-vertical">
+															</ul>
+						</li>
+					
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N12&view_type=sm" target="_top" class="">기고</a>
+							<ul class="sub-menu-vertical">
+															</ul>
+						</li>
+									</ul>
+				<!--// 섹션 -->
+
+
+				<!-- 검색 //-->
+				<fieldset class="user-search">
+					<form name="head-search" method="get" action="/news/articleList.html">
+						<input type="hidden" name="sc_area" value="A">
+						<input type="hidden" name="view_type" value="sm">
+
+
+						<label class="show-for-sr" for="search">기사검색</label>
+						<input type="text" name="sc_word" id="search" onkeydown="if(event.keyCode==13){if(this.form.sc_word.value != ''){this.form.submit();}else{alert('검색어를 입력해주세요');return false;}}" placeholder="검색어를 입력해주세요" title="기사검색">
+						<button type="button" title="기사검색" onclick="location.href='/news/searchForm.html'"><span class="show-for-sr">검색</span></button>
+						<!-- <button type="button" title="기사검색" onclick="if(this.form.sc_word.value != ''){this.form.submit();}else{alert('검색어를 입력해주세요');this.form.sc_word.focus();return false;}"><span class="show-for-sr">검색</span></button> -->
+					</form>
+				</fieldset>
+				<!--// 검색 -->
+			</div>
+		</nav>
+		<!--// 메뉴바 -->
+	</header>
+	<!--// 로고영역 -->
+
+
+</div>
+<!--// 메뉴 끝 -->
+
+<script>
+$(".language-list-con1").mouseover(function(){
+	$("#user-gnb .user-logbox1 .language-b-box").css("height","42px");
+	$(".engli").css("display","block");
+});
+$(".language-list-con1").mouseleave(function(){
+	$("#user-gnb .user-logbox1 .language-b-box").css("height","21px");
+	$(".engli").css("display","none");
+});
+</script>
+					<!--// 메뉴 -->
+
+				</header>
+				<!--// header -->
+
+								<!-- container //-->
+				<section id="user-container" class="posi-re text-left auto-pady-25 float-center width-1080">
+					<!-- layer popup position  -->
+					<div id="layer-popups" class="float-center width-1080"></div>
+					
+					<!-- 플로팅 좌우 HTML //-->
+					<div class="posi-re float-center width-1080"><div id="floating_banner_left" class="view-aside left-wing" data-scroll="n" data-top-margin="5" data-duration="300">
+</div>
+<div id="floating_banner_right" class="view-aside right-wing" data-scroll="n" data-top-margin="5" data-duration="300">
+<!--인포맥스 주식 신규화면 활용법--><script type="text/javascript">var ___BANNER = "ban_1602716457";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1277.js?1602716457" id="ban_1602716457"></script><!--//인포맥스 주식 신규화면 활용법--><!--210504_라이브--><script type="text/javascript">var ___BANNER = "ban_1621838767";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1382.js?1621838767" id="ban_1621838767"></script><!--//210504_라이브--><!--우측2--><script type="text/javascript">var ___BANNER = "ban_multi_1598245038_2";</script><script type="text/javascript" charset="utf-8" src="/bannerpop/uploads/js_multi/2.js?1598245038_2" id="ban_multi_1598245038_2"></script><!--//우측2--><!--나스닥, 연합인포맥스와 업무 제휴…실시간 시세 제공--><script type="text/javascript">var ___BANNER = "ban_1634082420";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1486.js?1634082420" id="ban_1634082420"></script><!--//나스닥, 연합인포맥스와 업무 제휴…실시간 시세 제공--><!--20주년기념--><script type="text/javascript">var ___BANNER = "ban_1609728717";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1337.js?1609728717" id="ban_1609728717"></script><!--//20주년기념--><!--우측_해외채권--><script type="text/javascript">var ___BANNER = "ban_1556610975";</script><script type="text/javascript" charset="utf-8" src="/bannerpop/uploads/js/820.js?1556610975" id="ban_1556610975"></script><!--//우측_해외채권--></div>
+</div>					<!--// 플로팅 좌우 HTML -->
+<div class="float-center max-width-1080">
+	
+	<!-- 편집패널 //-->
+	<div class="clearfix">
+
+	</div>
+	<!--// 편집패널 -->
+
+	<script type="text/javascript">
+	// 기사면 상단 네비게이션 호출
+	articleHeader.setScroll();
+</script>
+
+<!-- 기사면 상단 네비게이션 //-->
+<div id="article-header-title" class="dis-none show-for-large">
+
+	<!-- 이전/다음 기사 버튼 //-->
+	<button type="button" onclick="javascript:articleHeader.move(
+				'prev',
+				'embargo_date',
+				'1635476580_4174349',
+				'S1N15',
+				'',
+				'');" class="aht-btn prev" title="이전기사"><i class="fa fa-angle-left fa-fw"></i><span class="sr-only">이전</span></button>
+	<button type="button" onclick="javascript:articleHeader.move(
+				'next',
+				'embargo_date',
+				'1635476580_4174349',
+				'S1N15',
+				'',
+				'');" class="aht-btn next" title="다음기사"><i class="fa fa-angle-right fa-fw"></i><span class="sr-only">다음</span></button>
+	<!--// 이전/다음 기사 버튼 -->
+
+	<!-- 상단 컨텐츠 //-->
+	<div class="aht-wrapper width-1080">
+		<div class="aht-columns aht-logo"><a href="http://news.einfomax.co.kr"><img src="/image/logo/printlogo_20180927054607.png" alt="연합인포맥스" /></a></div>
+		<div class="aht-columns aht-title"><div class="aht-title-view">은행 주담대 금리 3%대 뚫고 급등세…약 5년만에 최대폭 상승</div></div>
+		<div class="aht-columns aht-options">
+			<ul class="info-options no-bullet">
+				<li><button type="button" class="options-btn has-tip" title="기사공유하기" data-open="article-sns" data-disable-hover="false" data-tooltip><i class="icon-share"></i><span class="show-for-sr">기사공유하기</span></button></li>
+				<li><button type="button" onclick="articlePrint('4174349')" class="options-btn has-tip" title="프린트" data-disable-hover="false" data-tooltip><i class="icon-printer"></i><span class="show-for-sr">프린트</span></button></li>
+				<li><button type="button" onclick="articleMail('4174349')" class="options-btn has-tip" title="메일보내기" data-disable-hover="false" data-tooltip><i class="icon-email-b"></i><span class="show-for-sr">메일보내기</span></button></li>
+				<li class="fonts-option">
+					<button type="button" class="fonts-btn options-btn"><i class="icon-plus"></i><span class="show-for-sr">글씨키우기</span></button>
+					<ul class="fonts-option-panel no-bullet">
+						<li>
+							<input type="radio" name="fontsize1" class="fontsize-radio" id="font-size15_1" value="font-size15" title="15px"> 
+							<label for="font-size15_1">가나다라마바사</label>
+						</li>
+						<li>
+							<input type="radio" name="fontsize1" class="fontsize-radio" id="font-size16_1" value="font-size16" title="16px"> 
+							<label for="font-size16_1">가나다라마바사</label>
+						</li>
+						<li>
+							<input type="radio" name="fontsize1" class="fontsize-radio" id="font-size17_1" value="font-size17" title="17px"> 
+							<label for="font-size17_1">가나다라마바사</label>
+						</li>
+						<li>
+							<input type="radio" name="fontsize1" class="fontsize-radio" id="font-size18_1" value="font-size18" title="18px"> 
+							<label for="font-size18_1">가나다라마바사</label>
+						</li>
+						<li>
+							<input type="radio" name="fontsize1" class="fontsize-radio" id="font-size19_1" value="font-size19" title="19px"> 
+							<label for="font-size19_1">가나다라마바사</label>
+						</li>
+						<li>
+							<input type="radio" name="fontsize1" class="fontsize-radio" id="font-size20_1" value="font-size20" title="20px"> 
+							<label for="font-size20_1">가나다라마바사</label>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<!--// 상단 컨텐츠 -->
+</div>
+<!--// 기사면 상단 네비게이션 -->
+
+<!-- 기사본문 상단 //-->
+<header class="article-view-header">
+	<!-- root //-->	
+	<nav class="article-head-nav auto-marbtm-10">
+		<a href="/">HOME</a>
+		<i class="fa fa-angle-right fa-fw"></i> <a href="/news/articleList.html?sc_section_code=S1N15">정책/금융</a>
+					</nav>
+	<!--// root -->
+	
+	<!-- 본문제목 //-->
+	<div class="article-header-wrap">
+		<div class="article-head-title">은행 주담대 금리 3%대 뚫고 급등세…약 5년만에 최대폭 상승</div>
+	</div>
+	<!--// 본문제목 -->
+
+	<!-- head info //-->
+	<section class="article-head-info">
+
+		
+		<!-- info //-->
+		<div class="info-text">
+			<ul class="no-bullet auto-marbtm-0 line-height-6">
+				<li><i class="fa fa-user-o fa-fw"></i> 노요빈 기자</li>
+				<li><i class="fa fa-clock-o fa-fw"></i> 승인 2021.10.29 12:03</li>
+												<li>
+					<i class="fa fa-commenting-o fa-fw"></i> 댓글 
+						0					</li>
+			</ul>
+		</div>
+		<!--// info -->
+
+		<ul class="info-options no-bullet">
+			<li><button type="button" class="options-btn has-tip" title="기사공유하기" data-open="article-sns" data-disable-hover="false" data-tooltip><i class="icon-share"></i><span class="show-for-sr">기사공유하기</span></button></li>
+			<li><button type="button" onclick="articlePrint('4174349')" class="options-btn has-tip" title="프린트" data-disable-hover="false" data-tooltip><i class="icon-printer"></i><span class="show-for-sr">프린트</span></button></li>
+			<li><button type="button" onclick="articleMail('4174349')" class="options-btn has-tip" title="메일보내기" data-disable-hover="false" data-tooltip><i class="icon-email-b"></i><span class="show-for-sr">메일보내기</span></button></li>
+			<li class="fonts-option">
+				<button type="button" class="fonts-btn options-btn"><i class="icon-plus"></i><span class="show-for-sr">글씨키우기</span></button>
+				<ul class="fonts-option-panel no-bullet">
+					<li>
+						<input type="radio" name="fontsize2" class="fontsize-radio" id="font-size15_2" value="font-size15" title="15px"> 
+						<label for="font-size15_2">가나다라마바사</label>
+					</li>
+					<li>
+						<input type="radio" name="fontsize2" class="fontsize-radio" id="font-size16_2" value="font-size16" title="16px"> 
+						<label for="font-size16_2">가나다라마바사</label>
+					</li>
+					<li>
+						<input type="radio" name="fontsize2" class="fontsize-radio" id="font-size17_2" value="font-size17" title="17px"> 
+						<label for="font-size17_2">가나다라마바사</label>
+					</li>
+					<li>
+						<input type="radio" name="fontsize2" class="fontsize-radio" id="font-size18_2" value="font-size18" title="18px"> 
+						<label for="font-size18_2">가나다라마바사</label>
+					</li>
+					<li>
+						<input type="radio" name="fontsize2" class="fontsize-radio" id="font-size19_2" value="font-size19" title="19px"> 
+						<label for="font-size19_2">가나다라마바사</label>
+					</li>
+					<li>
+						<input type="radio" name="fontsize2" class="fontsize-radio" id="font-size20_2" value="font-size20" title="20px"> 
+						<label for="font-size20_2">가나다라마바사</label>
+					</li>
+				</ul>
+			</li>
+			<!-- li><button type="button" class="options-btn has-tip" title="번역" data-open="article-lang" data-disable-hover="false" data-tooltip><i class="fa fa-language"></i></button></li -->
+		</ul>
+
+		<div class="reveal gray" id="article-sns" data-reveal>
+			<div class="reveal-header">
+				<div class="reveal-title">이 기사를 공유합니다</div>
+			</div>
+			<section class="reveal-container">
+				<div class="article-sns-group">
+								<button type="button" class="sns-btns" 				data-sharesns="facebook"
+				data-title="%EC%9D%80%ED%96%89%20%EC%A3%BC%EB%8B%B4%EB%8C%80%20%EA%B8%88%EB%A6%AC%203%25%EB%8C%80%20%EB%9A%AB%EA%B3%A0%20%EA%B8%89%EB%93%B1%EC%84%B8%E2%80%A6%EC%95%BD%205%EB%85%84%EB%A7%8C%EC%97%90%20%EC%B5%9C%EB%8C%80%ED%8F%AD%20%EC%83%81%EC%8A%B9"
+				data-url="http%3A%2F%2Fnews.einfomax.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D4174349"
+				data-desc="%EA%B0%80%EA%B3%84%20%EC%8B%A0%EC%9A%A9%EA%B8%88%EB%A6%AC%2C%204%25%EB%8C%80%20%EB%8F%8C%ED%8C%8C%E2%80%A62%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%20%EC%B2%98%EC%9D%8C%28%EC%84%9C%EC%9A%B8%3D%EC%97%B0%ED%95%A9%EC%9D%B8%ED%8F%AC%EB%A7%A5%EC%8A%A4%29%20%EB%85%B8%EC%9A%94%EB%B9%88%20%EA%B8%B0%EC%9E%90%20%3D%209%EC%9B%94%20%EC%A4%91%20%EA%B0%80%EA%B3%84%EC%9D%98%20%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EA%B0%80%203.0%25%EB%8C%80%EB%A5%BC%20%EB%8F%8C%ED%8C%8C%ED%96%88%EB%8B%A4.%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC%20%EC%9D%B8%EC%83%81%20%EA%B8%B0%EB%8C%80%EC%99%80%20%EA%B0%80%EA%B3%84%EB%8C%80%EC%B6%9C%20%EA%B4%80%EB%A6%AC%20%EB%85%B8%EB%A0%A5%20%EB%93%B1%EC%9D%B4%20%EB%8D%94%ED%95%B4%EC%A7%80%EB%A9%B4%EC%84%9C%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%20%EC%A0%84%EB%B0%98%EC%9D%84%20%EB%81%8C%EC%96%B4%EC%98%AC%EB%A0%B8%EB%8B%A4.%20%EC%9D%BC%EB%B0%98%EC%8B%A0%EC%9A%A9%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EB%8A%94%202%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%204%25%EB%8C%80%EB%A5%BC%20%EB%84%98%EC%96%B4%EC%84%B0%EB%8B%A4.%ED%95%9C%EA%B5%AD%EC%9D%80%ED%96%89%EC%9D%B4%2029%EC%9D%BC%20%EB%B0%9C%ED%91%9C%ED%95%9C%20%26%2339%3B2021%EB%85%84%209%EC%9B%94%EC%A4%91%20%EA%B8%88%EC%9C%B5%EA%B8%B0%EA%B4%80%20%EA%B0%80%EC%A4%91%ED%8F%89%EA%B7%A0%EA%B8%88%EB%A6%AC%26%2339%3B%EC%97%90%20%EB%94%B0%EB%A5%B4%EB%A9%B4%209%EC%9B%94%20%EC%A4%91%20%EC%98%88%EA%B8%88%EC%9D%80%ED%96%89%EC%9D%98%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%EB%8A%94%20%EC%A0%84%EC%9B%94%EB%B3%B4%EB%8B%A4%208bp%20%EC%83%81%EC%8A%B9%ED%95%9C%203.18%25%EB%A5%BC%20%EA%B8%B0%EB%A1%9D%ED%96%88%EB%8B%A4.%20%EC%A7%80%EB%82%9C%202019%EB%85%84%206%EC%9B%94%20%EA%B8%B0%EB%A1%9D%ED%95%9C%203.25%25%20%EC%9D%B4%ED%9B%84%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EC%88%98%EC%A4%80%EC%9D%B4%EB%8B%A4.%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EB%B3%84"
+				data-image="http://news.einfomax.co.kr/news/photo/202110/4174349_92359_5053.jpg">
+				<div class="sns-btn-icons facebook"><i class="icon-facebook"></i></div>페이스북			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="twitter"
+				data-title="%EC%9D%80%ED%96%89%20%EC%A3%BC%EB%8B%B4%EB%8C%80%20%EA%B8%88%EB%A6%AC%203%25%EB%8C%80%20%EB%9A%AB%EA%B3%A0%20%EA%B8%89%EB%93%B1%EC%84%B8%E2%80%A6%EC%95%BD%205%EB%85%84%EB%A7%8C%EC%97%90%20%EC%B5%9C%EB%8C%80%ED%8F%AD%20%EC%83%81%EC%8A%B9"
+				data-url="http%3A%2F%2Fnews.einfomax.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D4174349"
+				data-desc="%EA%B0%80%EA%B3%84%20%EC%8B%A0%EC%9A%A9%EA%B8%88%EB%A6%AC%2C%204%25%EB%8C%80%20%EB%8F%8C%ED%8C%8C%E2%80%A62%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%20%EC%B2%98%EC%9D%8C%28%EC%84%9C%EC%9A%B8%3D%EC%97%B0%ED%95%A9%EC%9D%B8%ED%8F%AC%EB%A7%A5%EC%8A%A4%29%20%EB%85%B8%EC%9A%94%EB%B9%88%20%EA%B8%B0%EC%9E%90%20%3D%209%EC%9B%94%20%EC%A4%91%20%EA%B0%80%EA%B3%84%EC%9D%98%20%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EA%B0%80%203.0%25%EB%8C%80%EB%A5%BC%20%EB%8F%8C%ED%8C%8C%ED%96%88%EB%8B%A4.%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC%20%EC%9D%B8%EC%83%81%20%EA%B8%B0%EB%8C%80%EC%99%80%20%EA%B0%80%EA%B3%84%EB%8C%80%EC%B6%9C%20%EA%B4%80%EB%A6%AC%20%EB%85%B8%EB%A0%A5%20%EB%93%B1%EC%9D%B4%20%EB%8D%94%ED%95%B4%EC%A7%80%EB%A9%B4%EC%84%9C%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%20%EC%A0%84%EB%B0%98%EC%9D%84%20%EB%81%8C%EC%96%B4%EC%98%AC%EB%A0%B8%EB%8B%A4.%20%EC%9D%BC%EB%B0%98%EC%8B%A0%EC%9A%A9%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EB%8A%94%202%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%204%25%EB%8C%80%EB%A5%BC%20%EB%84%98%EC%96%B4%EC%84%B0%EB%8B%A4.%ED%95%9C%EA%B5%AD%EC%9D%80%ED%96%89%EC%9D%B4%2029%EC%9D%BC%20%EB%B0%9C%ED%91%9C%ED%95%9C%20%26%2339%3B2021%EB%85%84%209%EC%9B%94%EC%A4%91%20%EA%B8%88%EC%9C%B5%EA%B8%B0%EA%B4%80%20%EA%B0%80%EC%A4%91%ED%8F%89%EA%B7%A0%EA%B8%88%EB%A6%AC%26%2339%3B%EC%97%90%20%EB%94%B0%EB%A5%B4%EB%A9%B4%209%EC%9B%94%20%EC%A4%91%20%EC%98%88%EA%B8%88%EC%9D%80%ED%96%89%EC%9D%98%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%EB%8A%94%20%EC%A0%84%EC%9B%94%EB%B3%B4%EB%8B%A4%208bp%20%EC%83%81%EC%8A%B9%ED%95%9C%203.18%25%EB%A5%BC%20%EA%B8%B0%EB%A1%9D%ED%96%88%EB%8B%A4.%20%EC%A7%80%EB%82%9C%202019%EB%85%84%206%EC%9B%94%20%EA%B8%B0%EB%A1%9D%ED%95%9C%203.25%25%20%EC%9D%B4%ED%9B%84%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EC%88%98%EC%A4%80%EC%9D%B4%EB%8B%A4.%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EB%B3%84"
+				data-image="http://news.einfomax.co.kr/news/photo/202110/4174349_92359_5053.jpg">
+				<div class="sns-btn-icons twitter"><i class="icon-twitter"></i></div>트위터			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="story"
+				data-title="%EC%9D%80%ED%96%89%20%EC%A3%BC%EB%8B%B4%EB%8C%80%20%EA%B8%88%EB%A6%AC%203%25%EB%8C%80%20%EB%9A%AB%EA%B3%A0%20%EA%B8%89%EB%93%B1%EC%84%B8%E2%80%A6%EC%95%BD%205%EB%85%84%EB%A7%8C%EC%97%90%20%EC%B5%9C%EB%8C%80%ED%8F%AD%20%EC%83%81%EC%8A%B9"
+				data-url="http%3A%2F%2Fnews.einfomax.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D4174349"
+				data-desc="%EA%B0%80%EA%B3%84%20%EC%8B%A0%EC%9A%A9%EA%B8%88%EB%A6%AC%2C%204%25%EB%8C%80%20%EB%8F%8C%ED%8C%8C%E2%80%A62%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%20%EC%B2%98%EC%9D%8C%28%EC%84%9C%EC%9A%B8%3D%EC%97%B0%ED%95%A9%EC%9D%B8%ED%8F%AC%EB%A7%A5%EC%8A%A4%29%20%EB%85%B8%EC%9A%94%EB%B9%88%20%EA%B8%B0%EC%9E%90%20%3D%209%EC%9B%94%20%EC%A4%91%20%EA%B0%80%EA%B3%84%EC%9D%98%20%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EA%B0%80%203.0%25%EB%8C%80%EB%A5%BC%20%EB%8F%8C%ED%8C%8C%ED%96%88%EB%8B%A4.%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC%20%EC%9D%B8%EC%83%81%20%EA%B8%B0%EB%8C%80%EC%99%80%20%EA%B0%80%EA%B3%84%EB%8C%80%EC%B6%9C%20%EA%B4%80%EB%A6%AC%20%EB%85%B8%EB%A0%A5%20%EB%93%B1%EC%9D%B4%20%EB%8D%94%ED%95%B4%EC%A7%80%EB%A9%B4%EC%84%9C%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%20%EC%A0%84%EB%B0%98%EC%9D%84%20%EB%81%8C%EC%96%B4%EC%98%AC%EB%A0%B8%EB%8B%A4.%20%EC%9D%BC%EB%B0%98%EC%8B%A0%EC%9A%A9%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EB%8A%94%202%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%204%25%EB%8C%80%EB%A5%BC%20%EB%84%98%EC%96%B4%EC%84%B0%EB%8B%A4.%ED%95%9C%EA%B5%AD%EC%9D%80%ED%96%89%EC%9D%B4%2029%EC%9D%BC%20%EB%B0%9C%ED%91%9C%ED%95%9C%20%26%2339%3B2021%EB%85%84%209%EC%9B%94%EC%A4%91%20%EA%B8%88%EC%9C%B5%EA%B8%B0%EA%B4%80%20%EA%B0%80%EC%A4%91%ED%8F%89%EA%B7%A0%EA%B8%88%EB%A6%AC%26%2339%3B%EC%97%90%20%EB%94%B0%EB%A5%B4%EB%A9%B4%209%EC%9B%94%20%EC%A4%91%20%EC%98%88%EA%B8%88%EC%9D%80%ED%96%89%EC%9D%98%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%EB%8A%94%20%EC%A0%84%EC%9B%94%EB%B3%B4%EB%8B%A4%208bp%20%EC%83%81%EC%8A%B9%ED%95%9C%203.18%25%EB%A5%BC%20%EA%B8%B0%EB%A1%9D%ED%96%88%EB%8B%A4.%20%EC%A7%80%EB%82%9C%202019%EB%85%84%206%EC%9B%94%20%EA%B8%B0%EB%A1%9D%ED%95%9C%203.25%25%20%EC%9D%B4%ED%9B%84%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EC%88%98%EC%A4%80%EC%9D%B4%EB%8B%A4.%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EB%B3%84"
+				data-image="http://news.einfomax.co.kr/news/photo/202110/4174349_92359_5053.jpg">
+				<div class="sns-btn-icons story"><i class="icon-story"></i></div>카카오스토리			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="talk"
+				data-title="%EC%9D%80%ED%96%89%20%EC%A3%BC%EB%8B%B4%EB%8C%80%20%EA%B8%88%EB%A6%AC%203%25%EB%8C%80%20%EB%9A%AB%EA%B3%A0%20%EA%B8%89%EB%93%B1%EC%84%B8%E2%80%A6%EC%95%BD%205%EB%85%84%EB%A7%8C%EC%97%90%20%EC%B5%9C%EB%8C%80%ED%8F%AD%20%EC%83%81%EC%8A%B9"
+				data-url="http%3A%2F%2Fnews.einfomax.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D4174349"
+				data-desc="%EA%B0%80%EA%B3%84%20%EC%8B%A0%EC%9A%A9%EA%B8%88%EB%A6%AC%2C%204%25%EB%8C%80%20%EB%8F%8C%ED%8C%8C%E2%80%A62%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%20%EC%B2%98%EC%9D%8C%28%EC%84%9C%EC%9A%B8%3D%EC%97%B0%ED%95%A9%EC%9D%B8%ED%8F%AC%EB%A7%A5%EC%8A%A4%29%20%EB%85%B8%EC%9A%94%EB%B9%88%20%EA%B8%B0%EC%9E%90%20%3D%209%EC%9B%94%20%EC%A4%91%20%EA%B0%80%EA%B3%84%EC%9D%98%20%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EA%B0%80%203.0%25%EB%8C%80%EB%A5%BC%20%EB%8F%8C%ED%8C%8C%ED%96%88%EB%8B%A4.%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC%20%EC%9D%B8%EC%83%81%20%EA%B8%B0%EB%8C%80%EC%99%80%20%EA%B0%80%EA%B3%84%EB%8C%80%EC%B6%9C%20%EA%B4%80%EB%A6%AC%20%EB%85%B8%EB%A0%A5%20%EB%93%B1%EC%9D%B4%20%EB%8D%94%ED%95%B4%EC%A7%80%EB%A9%B4%EC%84%9C%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%20%EC%A0%84%EB%B0%98%EC%9D%84%20%EB%81%8C%EC%96%B4%EC%98%AC%EB%A0%B8%EB%8B%A4.%20%EC%9D%BC%EB%B0%98%EC%8B%A0%EC%9A%A9%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EB%8A%94%202%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%204%25%EB%8C%80%EB%A5%BC%20%EB%84%98%EC%96%B4%EC%84%B0%EB%8B%A4.%ED%95%9C%EA%B5%AD%EC%9D%80%ED%96%89%EC%9D%B4%2029%EC%9D%BC%20%EB%B0%9C%ED%91%9C%ED%95%9C%20%26%2339%3B2021%EB%85%84%209%EC%9B%94%EC%A4%91%20%EA%B8%88%EC%9C%B5%EA%B8%B0%EA%B4%80%20%EA%B0%80%EC%A4%91%ED%8F%89%EA%B7%A0%EA%B8%88%EB%A6%AC%26%2339%3B%EC%97%90%20%EB%94%B0%EB%A5%B4%EB%A9%B4%209%EC%9B%94%20%EC%A4%91%20%EC%98%88%EA%B8%88%EC%9D%80%ED%96%89%EC%9D%98%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%EB%8A%94%20%EC%A0%84%EC%9B%94%EB%B3%B4%EB%8B%A4%208bp%20%EC%83%81%EC%8A%B9%ED%95%9C%203.18%25%EB%A5%BC%20%EA%B8%B0%EB%A1%9D%ED%96%88%EB%8B%A4.%20%EC%A7%80%EB%82%9C%202019%EB%85%84%206%EC%9B%94%20%EA%B8%B0%EB%A1%9D%ED%95%9C%203.25%25%20%EC%9D%B4%ED%9B%84%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EC%88%98%EC%A4%80%EC%9D%B4%EB%8B%A4.%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EB%B3%84"
+				data-image="http://news.einfomax.co.kr/news/photo/202110/4174349_92359_5053.jpg">
+				<div class="sns-btn-icons talk"><i class="icon-talk"></i></div>카카오톡			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="google"
+				data-title="%EC%9D%80%ED%96%89%20%EC%A3%BC%EB%8B%B4%EB%8C%80%20%EA%B8%88%EB%A6%AC%203%25%EB%8C%80%20%EB%9A%AB%EA%B3%A0%20%EA%B8%89%EB%93%B1%EC%84%B8%E2%80%A6%EC%95%BD%205%EB%85%84%EB%A7%8C%EC%97%90%20%EC%B5%9C%EB%8C%80%ED%8F%AD%20%EC%83%81%EC%8A%B9"
+				data-url="http%3A%2F%2Fnews.einfomax.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D4174349"
+				data-desc="%EA%B0%80%EA%B3%84%20%EC%8B%A0%EC%9A%A9%EA%B8%88%EB%A6%AC%2C%204%25%EB%8C%80%20%EB%8F%8C%ED%8C%8C%E2%80%A62%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%20%EC%B2%98%EC%9D%8C%28%EC%84%9C%EC%9A%B8%3D%EC%97%B0%ED%95%A9%EC%9D%B8%ED%8F%AC%EB%A7%A5%EC%8A%A4%29%20%EB%85%B8%EC%9A%94%EB%B9%88%20%EA%B8%B0%EC%9E%90%20%3D%209%EC%9B%94%20%EC%A4%91%20%EA%B0%80%EA%B3%84%EC%9D%98%20%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EA%B0%80%203.0%25%EB%8C%80%EB%A5%BC%20%EB%8F%8C%ED%8C%8C%ED%96%88%EB%8B%A4.%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC%20%EC%9D%B8%EC%83%81%20%EA%B8%B0%EB%8C%80%EC%99%80%20%EA%B0%80%EA%B3%84%EB%8C%80%EC%B6%9C%20%EA%B4%80%EB%A6%AC%20%EB%85%B8%EB%A0%A5%20%EB%93%B1%EC%9D%B4%20%EB%8D%94%ED%95%B4%EC%A7%80%EB%A9%B4%EC%84%9C%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%20%EC%A0%84%EB%B0%98%EC%9D%84%20%EB%81%8C%EC%96%B4%EC%98%AC%EB%A0%B8%EB%8B%A4.%20%EC%9D%BC%EB%B0%98%EC%8B%A0%EC%9A%A9%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EB%8A%94%202%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%204%25%EB%8C%80%EB%A5%BC%20%EB%84%98%EC%96%B4%EC%84%B0%EB%8B%A4.%ED%95%9C%EA%B5%AD%EC%9D%80%ED%96%89%EC%9D%B4%2029%EC%9D%BC%20%EB%B0%9C%ED%91%9C%ED%95%9C%20%26%2339%3B2021%EB%85%84%209%EC%9B%94%EC%A4%91%20%EA%B8%88%EC%9C%B5%EA%B8%B0%EA%B4%80%20%EA%B0%80%EC%A4%91%ED%8F%89%EA%B7%A0%EA%B8%88%EB%A6%AC%26%2339%3B%EC%97%90%20%EB%94%B0%EB%A5%B4%EB%A9%B4%209%EC%9B%94%20%EC%A4%91%20%EC%98%88%EA%B8%88%EC%9D%80%ED%96%89%EC%9D%98%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%EB%8A%94%20%EC%A0%84%EC%9B%94%EB%B3%B4%EB%8B%A4%208bp%20%EC%83%81%EC%8A%B9%ED%95%9C%203.18%25%EB%A5%BC%20%EA%B8%B0%EB%A1%9D%ED%96%88%EB%8B%A4.%20%EC%A7%80%EB%82%9C%202019%EB%85%84%206%EC%9B%94%20%EA%B8%B0%EB%A1%9D%ED%95%9C%203.25%25%20%EC%9D%B4%ED%9B%84%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EC%88%98%EC%A4%80%EC%9D%B4%EB%8B%A4.%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EB%B3%84"
+				data-image="http://news.einfomax.co.kr/news/photo/202110/4174349_92359_5053.jpg">
+				<div class="sns-btn-icons google"><i class="icon-google"></i></div>구글+			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="band"
+				data-title="%EC%9D%80%ED%96%89%20%EC%A3%BC%EB%8B%B4%EB%8C%80%20%EA%B8%88%EB%A6%AC%203%25%EB%8C%80%20%EB%9A%AB%EA%B3%A0%20%EA%B8%89%EB%93%B1%EC%84%B8%E2%80%A6%EC%95%BD%205%EB%85%84%EB%A7%8C%EC%97%90%20%EC%B5%9C%EB%8C%80%ED%8F%AD%20%EC%83%81%EC%8A%B9"
+				data-url="http%3A%2F%2Fnews.einfomax.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D4174349"
+				data-desc="%EA%B0%80%EA%B3%84%20%EC%8B%A0%EC%9A%A9%EA%B8%88%EB%A6%AC%2C%204%25%EB%8C%80%20%EB%8F%8C%ED%8C%8C%E2%80%A62%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%20%EC%B2%98%EC%9D%8C%28%EC%84%9C%EC%9A%B8%3D%EC%97%B0%ED%95%A9%EC%9D%B8%ED%8F%AC%EB%A7%A5%EC%8A%A4%29%20%EB%85%B8%EC%9A%94%EB%B9%88%20%EA%B8%B0%EC%9E%90%20%3D%209%EC%9B%94%20%EC%A4%91%20%EA%B0%80%EA%B3%84%EC%9D%98%20%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EA%B0%80%203.0%25%EB%8C%80%EB%A5%BC%20%EB%8F%8C%ED%8C%8C%ED%96%88%EB%8B%A4.%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC%20%EC%9D%B8%EC%83%81%20%EA%B8%B0%EB%8C%80%EC%99%80%20%EA%B0%80%EA%B3%84%EB%8C%80%EC%B6%9C%20%EA%B4%80%EB%A6%AC%20%EB%85%B8%EB%A0%A5%20%EB%93%B1%EC%9D%B4%20%EB%8D%94%ED%95%B4%EC%A7%80%EB%A9%B4%EC%84%9C%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%20%EC%A0%84%EB%B0%98%EC%9D%84%20%EB%81%8C%EC%96%B4%EC%98%AC%EB%A0%B8%EB%8B%A4.%20%EC%9D%BC%EB%B0%98%EC%8B%A0%EC%9A%A9%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EB%8A%94%202%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%204%25%EB%8C%80%EB%A5%BC%20%EB%84%98%EC%96%B4%EC%84%B0%EB%8B%A4.%ED%95%9C%EA%B5%AD%EC%9D%80%ED%96%89%EC%9D%B4%2029%EC%9D%BC%20%EB%B0%9C%ED%91%9C%ED%95%9C%20%26%2339%3B2021%EB%85%84%209%EC%9B%94%EC%A4%91%20%EA%B8%88%EC%9C%B5%EA%B8%B0%EA%B4%80%20%EA%B0%80%EC%A4%91%ED%8F%89%EA%B7%A0%EA%B8%88%EB%A6%AC%26%2339%3B%EC%97%90%20%EB%94%B0%EB%A5%B4%EB%A9%B4%209%EC%9B%94%20%EC%A4%91%20%EC%98%88%EA%B8%88%EC%9D%80%ED%96%89%EC%9D%98%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%EB%8A%94%20%EC%A0%84%EC%9B%94%EB%B3%B4%EB%8B%A4%208bp%20%EC%83%81%EC%8A%B9%ED%95%9C%203.18%25%EB%A5%BC%20%EA%B8%B0%EB%A1%9D%ED%96%88%EB%8B%A4.%20%EC%A7%80%EB%82%9C%202019%EB%85%84%206%EC%9B%94%20%EA%B8%B0%EB%A1%9D%ED%95%9C%203.25%25%20%EC%9D%B4%ED%9B%84%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EC%88%98%EC%A4%80%EC%9D%B4%EB%8B%A4.%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EB%B3%84"
+				data-image="http://news.einfomax.co.kr/news/photo/202110/4174349_92359_5053.jpg">
+				<div class="sns-btn-icons band"><i class="icon-band"></i></div>네이버밴드			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="blog"
+				data-title="%EC%9D%80%ED%96%89%20%EC%A3%BC%EB%8B%B4%EB%8C%80%20%EA%B8%88%EB%A6%AC%203%25%EB%8C%80%20%EB%9A%AB%EA%B3%A0%20%EA%B8%89%EB%93%B1%EC%84%B8%E2%80%A6%EC%95%BD%205%EB%85%84%EB%A7%8C%EC%97%90%20%EC%B5%9C%EB%8C%80%ED%8F%AD%20%EC%83%81%EC%8A%B9"
+				data-url="http%3A%2F%2Fnews.einfomax.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D4174349"
+				data-desc="%EA%B0%80%EA%B3%84%20%EC%8B%A0%EC%9A%A9%EA%B8%88%EB%A6%AC%2C%204%25%EB%8C%80%20%EB%8F%8C%ED%8C%8C%E2%80%A62%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%20%EC%B2%98%EC%9D%8C%28%EC%84%9C%EC%9A%B8%3D%EC%97%B0%ED%95%A9%EC%9D%B8%ED%8F%AC%EB%A7%A5%EC%8A%A4%29%20%EB%85%B8%EC%9A%94%EB%B9%88%20%EA%B8%B0%EC%9E%90%20%3D%209%EC%9B%94%20%EC%A4%91%20%EA%B0%80%EA%B3%84%EC%9D%98%20%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EA%B0%80%203.0%25%EB%8C%80%EB%A5%BC%20%EB%8F%8C%ED%8C%8C%ED%96%88%EB%8B%A4.%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC%20%EC%9D%B8%EC%83%81%20%EA%B8%B0%EB%8C%80%EC%99%80%20%EA%B0%80%EA%B3%84%EB%8C%80%EC%B6%9C%20%EA%B4%80%EB%A6%AC%20%EB%85%B8%EB%A0%A5%20%EB%93%B1%EC%9D%B4%20%EB%8D%94%ED%95%B4%EC%A7%80%EB%A9%B4%EC%84%9C%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%20%EC%A0%84%EB%B0%98%EC%9D%84%20%EB%81%8C%EC%96%B4%EC%98%AC%EB%A0%B8%EB%8B%A4.%20%EC%9D%BC%EB%B0%98%EC%8B%A0%EC%9A%A9%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EB%8A%94%202%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%204%25%EB%8C%80%EB%A5%BC%20%EB%84%98%EC%96%B4%EC%84%B0%EB%8B%A4.%ED%95%9C%EA%B5%AD%EC%9D%80%ED%96%89%EC%9D%B4%2029%EC%9D%BC%20%EB%B0%9C%ED%91%9C%ED%95%9C%20%26%2339%3B2021%EB%85%84%209%EC%9B%94%EC%A4%91%20%EA%B8%88%EC%9C%B5%EA%B8%B0%EA%B4%80%20%EA%B0%80%EC%A4%91%ED%8F%89%EA%B7%A0%EA%B8%88%EB%A6%AC%26%2339%3B%EC%97%90%20%EB%94%B0%EB%A5%B4%EB%A9%B4%209%EC%9B%94%20%EC%A4%91%20%EC%98%88%EA%B8%88%EC%9D%80%ED%96%89%EC%9D%98%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%EB%8A%94%20%EC%A0%84%EC%9B%94%EB%B3%B4%EB%8B%A4%208bp%20%EC%83%81%EC%8A%B9%ED%95%9C%203.18%25%EB%A5%BC%20%EA%B8%B0%EB%A1%9D%ED%96%88%EB%8B%A4.%20%EC%A7%80%EB%82%9C%202019%EB%85%84%206%EC%9B%94%20%EA%B8%B0%EB%A1%9D%ED%95%9C%203.25%25%20%EC%9D%B4%ED%9B%84%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EC%88%98%EC%A4%80%EC%9D%B4%EB%8B%A4.%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EB%B3%84"
+				data-image="http://news.einfomax.co.kr/news/photo/202110/4174349_92359_5053.jpg">
+				<div class="sns-btn-icons blog"><i class="icon-blog"></i></div>네이버블로그			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="line"
+				data-title="%EC%9D%80%ED%96%89%20%EC%A3%BC%EB%8B%B4%EB%8C%80%20%EA%B8%88%EB%A6%AC%203%25%EB%8C%80%20%EB%9A%AB%EA%B3%A0%20%EA%B8%89%EB%93%B1%EC%84%B8%E2%80%A6%EC%95%BD%205%EB%85%84%EB%A7%8C%EC%97%90%20%EC%B5%9C%EB%8C%80%ED%8F%AD%20%EC%83%81%EC%8A%B9"
+				data-url="http%3A%2F%2Fnews.einfomax.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D4174349"
+				data-desc="%EA%B0%80%EA%B3%84%20%EC%8B%A0%EC%9A%A9%EA%B8%88%EB%A6%AC%2C%204%25%EB%8C%80%20%EB%8F%8C%ED%8C%8C%E2%80%A62%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%20%EC%B2%98%EC%9D%8C%28%EC%84%9C%EC%9A%B8%3D%EC%97%B0%ED%95%A9%EC%9D%B8%ED%8F%AC%EB%A7%A5%EC%8A%A4%29%20%EB%85%B8%EC%9A%94%EB%B9%88%20%EA%B8%B0%EC%9E%90%20%3D%209%EC%9B%94%20%EC%A4%91%20%EA%B0%80%EA%B3%84%EC%9D%98%20%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EA%B0%80%203.0%25%EB%8C%80%EB%A5%BC%20%EB%8F%8C%ED%8C%8C%ED%96%88%EB%8B%A4.%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC%20%EC%9D%B8%EC%83%81%20%EA%B8%B0%EB%8C%80%EC%99%80%20%EA%B0%80%EA%B3%84%EB%8C%80%EC%B6%9C%20%EA%B4%80%EB%A6%AC%20%EB%85%B8%EB%A0%A5%20%EB%93%B1%EC%9D%B4%20%EB%8D%94%ED%95%B4%EC%A7%80%EB%A9%B4%EC%84%9C%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%20%EC%A0%84%EB%B0%98%EC%9D%84%20%EB%81%8C%EC%96%B4%EC%98%AC%EB%A0%B8%EB%8B%A4.%20%EC%9D%BC%EB%B0%98%EC%8B%A0%EC%9A%A9%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EB%8A%94%202%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%204%25%EB%8C%80%EB%A5%BC%20%EB%84%98%EC%96%B4%EC%84%B0%EB%8B%A4.%ED%95%9C%EA%B5%AD%EC%9D%80%ED%96%89%EC%9D%B4%2029%EC%9D%BC%20%EB%B0%9C%ED%91%9C%ED%95%9C%20%26%2339%3B2021%EB%85%84%209%EC%9B%94%EC%A4%91%20%EA%B8%88%EC%9C%B5%EA%B8%B0%EA%B4%80%20%EA%B0%80%EC%A4%91%ED%8F%89%EA%B7%A0%EA%B8%88%EB%A6%AC%26%2339%3B%EC%97%90%20%EB%94%B0%EB%A5%B4%EB%A9%B4%209%EC%9B%94%20%EC%A4%91%20%EC%98%88%EA%B8%88%EC%9D%80%ED%96%89%EC%9D%98%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%EB%8A%94%20%EC%A0%84%EC%9B%94%EB%B3%B4%EB%8B%A4%208bp%20%EC%83%81%EC%8A%B9%ED%95%9C%203.18%25%EB%A5%BC%20%EA%B8%B0%EB%A1%9D%ED%96%88%EB%8B%A4.%20%EC%A7%80%EB%82%9C%202019%EB%85%84%206%EC%9B%94%20%EA%B8%B0%EB%A1%9D%ED%95%9C%203.25%25%20%EC%9D%B4%ED%9B%84%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EC%88%98%EC%A4%80%EC%9D%B4%EB%8B%A4.%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EB%B3%84"
+				data-image="http://news.einfomax.co.kr/news/photo/202110/4174349_92359_5053.jpg">
+				<div class="sns-btn-icons line"><i class="icon-line"></i></div>라인			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="pinterest"
+				data-title="%EC%9D%80%ED%96%89%20%EC%A3%BC%EB%8B%B4%EB%8C%80%20%EA%B8%88%EB%A6%AC%203%25%EB%8C%80%20%EB%9A%AB%EA%B3%A0%20%EA%B8%89%EB%93%B1%EC%84%B8%E2%80%A6%EC%95%BD%205%EB%85%84%EB%A7%8C%EC%97%90%20%EC%B5%9C%EB%8C%80%ED%8F%AD%20%EC%83%81%EC%8A%B9"
+				data-url="http%3A%2F%2Fnews.einfomax.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D4174349"
+				data-desc="%EA%B0%80%EA%B3%84%20%EC%8B%A0%EC%9A%A9%EA%B8%88%EB%A6%AC%2C%204%25%EB%8C%80%20%EB%8F%8C%ED%8C%8C%E2%80%A62%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%20%EC%B2%98%EC%9D%8C%28%EC%84%9C%EC%9A%B8%3D%EC%97%B0%ED%95%A9%EC%9D%B8%ED%8F%AC%EB%A7%A5%EC%8A%A4%29%20%EB%85%B8%EC%9A%94%EB%B9%88%20%EA%B8%B0%EC%9E%90%20%3D%209%EC%9B%94%20%EC%A4%91%20%EA%B0%80%EA%B3%84%EC%9D%98%20%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EA%B0%80%203.0%25%EB%8C%80%EB%A5%BC%20%EB%8F%8C%ED%8C%8C%ED%96%88%EB%8B%A4.%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC%20%EC%9D%B8%EC%83%81%20%EA%B8%B0%EB%8C%80%EC%99%80%20%EA%B0%80%EA%B3%84%EB%8C%80%EC%B6%9C%20%EA%B4%80%EB%A6%AC%20%EB%85%B8%EB%A0%A5%20%EB%93%B1%EC%9D%B4%20%EB%8D%94%ED%95%B4%EC%A7%80%EB%A9%B4%EC%84%9C%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%20%EC%A0%84%EB%B0%98%EC%9D%84%20%EB%81%8C%EC%96%B4%EC%98%AC%EB%A0%B8%EB%8B%A4.%20%EC%9D%BC%EB%B0%98%EC%8B%A0%EC%9A%A9%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EB%8A%94%202%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%204%25%EB%8C%80%EB%A5%BC%20%EB%84%98%EC%96%B4%EC%84%B0%EB%8B%A4.%ED%95%9C%EA%B5%AD%EC%9D%80%ED%96%89%EC%9D%B4%2029%EC%9D%BC%20%EB%B0%9C%ED%91%9C%ED%95%9C%20%26%2339%3B2021%EB%85%84%209%EC%9B%94%EC%A4%91%20%EA%B8%88%EC%9C%B5%EA%B8%B0%EA%B4%80%20%EA%B0%80%EC%A4%91%ED%8F%89%EA%B7%A0%EA%B8%88%EB%A6%AC%26%2339%3B%EC%97%90%20%EB%94%B0%EB%A5%B4%EB%A9%B4%209%EC%9B%94%20%EC%A4%91%20%EC%98%88%EA%B8%88%EC%9D%80%ED%96%89%EC%9D%98%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%EB%8A%94%20%EC%A0%84%EC%9B%94%EB%B3%B4%EB%8B%A4%208bp%20%EC%83%81%EC%8A%B9%ED%95%9C%203.18%25%EB%A5%BC%20%EA%B8%B0%EB%A1%9D%ED%96%88%EB%8B%A4.%20%EC%A7%80%EB%82%9C%202019%EB%85%84%206%EC%9B%94%20%EA%B8%B0%EB%A1%9D%ED%95%9C%203.25%25%20%EC%9D%B4%ED%9B%84%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EC%88%98%EC%A4%80%EC%9D%B4%EB%8B%A4.%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EB%B3%84"
+				data-image="http://news.einfomax.co.kr/news/photo/202110/4174349_92359_5053.jpg">
+				<div class="sns-btn-icons pinterest"><i class="icon-pinterest"></i></div>핀터레스트			</button>
+			<button type="button" class="sns-btns" id='sns-url-copy-button'				data-sharesns="http"
+				data-title="%EC%9D%80%ED%96%89%20%EC%A3%BC%EB%8B%B4%EB%8C%80%20%EA%B8%88%EB%A6%AC%203%25%EB%8C%80%20%EB%9A%AB%EA%B3%A0%20%EA%B8%89%EB%93%B1%EC%84%B8%E2%80%A6%EC%95%BD%205%EB%85%84%EB%A7%8C%EC%97%90%20%EC%B5%9C%EB%8C%80%ED%8F%AD%20%EC%83%81%EC%8A%B9"
+				data-url="http%3A%2F%2Fnews.einfomax.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D4174349"
+				data-desc="%EA%B0%80%EA%B3%84%20%EC%8B%A0%EC%9A%A9%EA%B8%88%EB%A6%AC%2C%204%25%EB%8C%80%20%EB%8F%8C%ED%8C%8C%E2%80%A62%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%20%EC%B2%98%EC%9D%8C%28%EC%84%9C%EC%9A%B8%3D%EC%97%B0%ED%95%A9%EC%9D%B8%ED%8F%AC%EB%A7%A5%EC%8A%A4%29%20%EB%85%B8%EC%9A%94%EB%B9%88%20%EA%B8%B0%EC%9E%90%20%3D%209%EC%9B%94%20%EC%A4%91%20%EA%B0%80%EA%B3%84%EC%9D%98%20%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EA%B0%80%203.0%25%EB%8C%80%EB%A5%BC%20%EB%8F%8C%ED%8C%8C%ED%96%88%EB%8B%A4.%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC%20%EC%9D%B8%EC%83%81%20%EA%B8%B0%EB%8C%80%EC%99%80%20%EA%B0%80%EA%B3%84%EB%8C%80%EC%B6%9C%20%EA%B4%80%EB%A6%AC%20%EB%85%B8%EB%A0%A5%20%EB%93%B1%EC%9D%B4%20%EB%8D%94%ED%95%B4%EC%A7%80%EB%A9%B4%EC%84%9C%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%20%EC%A0%84%EB%B0%98%EC%9D%84%20%EB%81%8C%EC%96%B4%EC%98%AC%EB%A0%B8%EB%8B%A4.%20%EC%9D%BC%EB%B0%98%EC%8B%A0%EC%9A%A9%EB%8C%80%EC%B6%9C%20%EA%B8%88%EB%A6%AC%EB%8A%94%202%EB%85%843%EA%B0%9C%EC%9B%94%20%EB%A7%8C%EC%97%90%204%25%EB%8C%80%EB%A5%BC%20%EB%84%98%EC%96%B4%EC%84%B0%EB%8B%A4.%ED%95%9C%EA%B5%AD%EC%9D%80%ED%96%89%EC%9D%B4%2029%EC%9D%BC%20%EB%B0%9C%ED%91%9C%ED%95%9C%20%26%2339%3B2021%EB%85%84%209%EC%9B%94%EC%A4%91%20%EA%B8%88%EC%9C%B5%EA%B8%B0%EA%B4%80%20%EA%B0%80%EC%A4%91%ED%8F%89%EA%B7%A0%EA%B8%88%EB%A6%AC%26%2339%3B%EC%97%90%20%EB%94%B0%EB%A5%B4%EB%A9%B4%209%EC%9B%94%20%EC%A4%91%20%EC%98%88%EA%B8%88%EC%9D%80%ED%96%89%EC%9D%98%20%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%EB%8A%94%20%EC%A0%84%EC%9B%94%EB%B3%B4%EB%8B%A4%208bp%20%EC%83%81%EC%8A%B9%ED%95%9C%203.18%25%EB%A5%BC%20%EA%B8%B0%EB%A1%9D%ED%96%88%EB%8B%A4.%20%EC%A7%80%EB%82%9C%202019%EB%85%84%206%EC%9B%94%20%EA%B8%B0%EB%A1%9D%ED%95%9C%203.25%25%20%EC%9D%B4%ED%9B%84%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EC%88%98%EC%A4%80%EC%9D%B4%EB%8B%A4.%EA%B0%80%EA%B3%84%20%EB%8C%80%EC%B6%9C%EB%B3%84"
+				data-image="http://news.einfomax.co.kr/news/photo/202110/4174349_92359_5053.jpg">
+				<div class="sns-btn-icons user-bg"><i class="icon-http"></i></div>URL복사			</button>
+<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+<script src="/script/share.sns.js"></script>
+<script>
+	var site_ismobile		= '';			// 현재 모바일접속 여부
+	var kakaojavascriptkey	= '7f99ad8f299ded47badfa47dbefde12f';	// 카카오앱 자바스크립트키
+
+	$(document).ready(function(e) {
+
+		if(kakaojavascriptkey) kakaoinit(kakaojavascriptkey);
+
+		$('#article-sns').on('click', '.sns-btns', function(e) {
+
+			var sns		= $(this).data('sharesns');
+			var title	= $(this).data('title');
+			var desc	= $(this).data('desc');
+			var url		= $(this).data('url');
+			var img		= $(this).data('image');
+
+			if(sns == "talk") {
+				sendKakaoTalk(url, title, desc, img);
+			}else if(sns == "story") {
+				shareStory(url, title, desc, img);
+			}else if(sns == "http") {
+				new Clipboard('#sns-url-copy-button', {
+					text: function(trigger) {
+						return decodeURIComponent($(trigger).data('url'));
+					}
+				});
+				alert("클립보드에 복사되었습니다. \nCtrl+v해서 원하는 곳에 붙여넣으세요.");
+			}else if(sns == "band") {
+				shareBand(url, title);
+			}else{
+				shareOtherSNS(sns, title, url, img);
+			}
+		});
+	});
+</script>
+				</div>
+			</section>
+			
+			<!-- close //-->
+			<button class="close-button" data-close aria-label="Close modal" type="button">
+				<span aria-hidden="true">&times;</span>
+			</button>
+			<!--// close -->
+		</div>
+
+	</section>
+
+	
+</header>
+<!--// 기사본문 상단 -->
+
+
+	<hr>
+
+	<!-- article view wrapper //-->
+	<div class="user-content">
+
+		<!-- 기사본문 내용 //-->
+		<section class="user-snb">	
+			<div class="user-snb-wrapper">
+				<!-- contents //-->
+				<article class="article-veiw-body view-page">
+					<!-- 편집패널 //-->
+					<div class="clearfix">
+<!--연합뉴스바로가기--><script type="text/javascript">var ___BANNER = "ban_1631493184";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1469.js?1631493184" id="ban_1631493184"></script><!--//연합뉴스바로가기-->
+					</div>
+					<!--// 편집패널 -->
+
+					<div id="article-view-content-div" class="" itemprop="articleBody">
+	
+		
+		
+	<div style="text-align:center">
+<figure class="photo-layout image photo_92359 max-width-490 float-center" data-idxno="92359" data-type="photo" style="display:inline-block"><img alt="" src="/news/photo/202110/4174349_92359_5053.jpg" />
+<figcaption></figcaption>
+</figure>
+</div>
+
+<p>&nbsp;</p>
+
+<p>가계 신용금리, 4%대 돌파&hellip;2년3개월 만에 처음<br />
+<br />
+<br />
+<br />
+(서울=연합인포맥스) 노요빈 기자 = 9월 중 가계의 주택담보대출 금리가 3.0%대를 돌파했다.<br />
+<br />
+기준금리 인상 기대와 가계대출 관리 노력 등이 더해지면서 가계 대출금리 전반을 끌어올렸다. 일반신용대출 금리는 2년3개월 만에 4%대를 넘어섰다.<br />
+<br />
+한국은행이 29일 발표한 &#39;2021년 9월중 금융기관 가중평균금리&#39;에 따르면 9월 중 예금은행의 가계 대출금리는 전월보다 8bp 상승한 3.18%를 기록했다. 지난 2019년 6월 기록한 3.25% 이후 가장 높은 수준이다.<br />
+<br />
+가계 대출별로는 주택담보대출 금리가 3.01%로 13bp 상승했다. 지난 2019년 3월 3.04% 이후에 첫 3%대를 진입했다. 상승 폭은 15bp(2016년 11월) 이후 최대치다.<br />
+<br />
+지난 8월 기준금리 인상에 따른 지표금리의 상승세와 가계대출 규제로 우대금리 축소 움직임 등이 대출금리 상승으로 이어졌다.<br />
+<br />
+이 밖에도 가계 보증대출과 집단대출 금리도 각각 7bp와 5bp씩 상승했다.<br />
+<br />
+기업 대출금리도 10bp 상승하는 등 대출평균금리는 2.96%로 9bp 상승했다.<br />
+<br />
+한은 관계자는 &quot;지표금리가 10bp 이상 오른 영향이 기본적으로 가장 크게 작용했다&quot;며 &quot;주담대 고정금리는 은행채 5년물 금리가 8월 1.89%에서 9월 2.03%로 14bp 상승한 영향을 받았고, 변동금리도 8~9월에 평균으로 전월에 비해 올랐다&quot;고 설명했다.<br />
+<br />
+9월 중 예금은행의 저축성수신금리는 전월보다 14bp 오른 1.17%를 기록했다. 2020년 4월(1.20%) 이후 최고치다.<br />
+<br />
+순수저축성예금이 정기예금을 중심으로 16bp 상승했고, 시장형금융상품은 금융채 중심으로 8bp 올랐다. 저축성 수신금리는 1.17%로 14bp 상승했다.</p>
+
+<div style="text-align:center">
+<figure class="photo-layout image photo_92347 max-width-500 float-center" data-idxno="92347" data-type="photo" style="display:inline-block"><img alt="" src="/news/photo/202110/4174349_92347_41.jpg" />
+<figcaption></figcaption>
+</figure>
+</div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;
+<p>&nbsp;</p>
+</p>
+
+<p>&nbsp;
+<p>&nbsp;</p>
+</p>
+
+<p>&nbsp;
+<p><br />
+&lt;예금은행의 가중평균금리&gt;<br />
+<br />
+신규취급액기준 대출금리와 저축성수신금리 차는 전월보다 5bp 축소한 1.79%P(포인트)를 기록했다. 잔액 기준으로는 9월 말 예대금리차는 2.14%P로 전월보다 2bp 확대했다.<br />
+<br />
+신규 가계대출 중 고정금리 비중 21.4% 전월 19.6%보다 1.8%P 상승했다. 잔액 기준으로는 25.1%로 전월 25.6%보다 0.5%P 상승했다.<br />
+<br />
+한은 관계자는 &quot;기준금리 상승 기대 등으로 주담대를 중심으로 고정금리 비중이 오른 데 따른 영향&quot;이라고 설명했다.<br />
+<br />
+비은행금융기관의 예금금리는 모두 상승했다. 다만 대출금리는 상호저축은행과 새마을금고를 제외하고 상승했다.</p>
+</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;
+<p>&nbsp;</p>
+</p>
+
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="photo-layout image photo_92348 max-width-500 float-center" data-idxno="92348" data-type="photo" style="display:inline-block"><img alt="" src="/news/photo/202110/4174349_92348_41.jpg" />
+<figcaption></figcaption>
+</figure>
+</div>
+
+<p>&nbsp;</p>
+
+<p><br />
+<br />
+<br />
+<br />
+&lt;비은행금융기관 예금 및 대출금리&gt;<br />
+<br />
+ybnoh@yna.co.kr<br />
+<br />
+(끝)</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;
+<p>&nbsp;</p>
+</p>
+
+<p>&nbsp;
+<div style="padding: 10px; font-weight: bold; background-color: rgb(237, 237, 237);">본 기사는 인포맥스 금융정보 단말기에서 12시 00분에 서비스된 기사입니다.</div>
+</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+		
+		<div class="view-copyright">저작권자 &copy; 연합인포맥스 무단전재 및 재배포 금지</div>
+
+		<div class="view-editors">
+			<div class="float-right">
+				<div class="profile-images">
+											<img src="/image/newsroom/default-user.png" alt="노요빈 기자" />
+									</div>
+				<a href="mailto:ybnoh@yna.co.kr" class="names"><strong>노요빈 기자</strong></a>
+							</div>
+		</div>
+
+	
+
+	
+</div>
+					<!-- 편집패널 //-->
+					<div class="clearfix">
+
+					</div>
+					<!--// 편집패널 -->
+				</article>
+				<!--// contents -->
+
+				<hr>
+
+<!-- 관련기사 //-->
+<article class="article-relation user-view">
+	<header class="title"><strong>관련기사</strong></header>
+	<section class="container">
+					<article class="contents">
+				<a href="/news/articleView.html?idxno=4173456" target="_self" class="list-title">[가계부채 보완책] 소득 낮을수록 대출 감소…내 주담대는</a>
+			</article>
+					<article class="contents">
+				<a href="/news/articleView.html?idxno=4173454" target="_self" class="list-title">[가계부채 보완책] DSR 조기 시행·2금융 대출도 죈다</a>
+			</article>
+			</section>
+</article>
+<!--// 관련기사 -->
+<hr>
+
+				<!-- 편집패널 //-->
+				<div class="clearfix">
+<style type="text/css">	
+	.view-article {border:1px solid rgba(0,0,0,.12)}
+	.view-article::after {content:'';display:table;clear:both}
+	.view-article.dis-table {width:100%;table-layout:fixed}
+	.view-article .dis-table-cell {width:100%;vertical-align:top}
+	.view-article .color-b {color:#0068d1}
+	.view-article .title .dis-table-cell {padding:.438rem 1.125rem;font-size:.875rem;letter-spacing:-.06em;background-color:#f6f6f6;border-bottom:1px dotted rgba(0,0,0,.12)}
+	.view-article .content .dis-table-cell {padding:.938rem}
+</style>
+
+<div class="view-article dis-table">
+	<div class="dis-table-row title">
+		<div class="dis-table-cell">
+			<strong>기자의 <span class="color-b">다른기사</span></strong>
+		</div>
+		<div class="dis-table-cell">
+			<strong>인포맥스 <span class="color-b">관련기사</span></strong>
+		</div>
+	</div>
+	<div class="dis-table-row content">
+		<div class="dis-table-cell">
+			<div class="auto-article auto-boll">
+				<ul>
+					<li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174436" target="_top" class="size-13 line-height-4-x auto-fontA onload">외국인, LKTB 하루에만 1만1천326계약 매도폭탄…역대 4위</a></li><li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174431" target="_top" class="size-13 line-height-4-x auto-fontA onload">10년 국채선물 장중 180틱 폭락…외인 순매도 1만개 돌파(상보)</a></li><li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174403" target="_top" class="size-13 line-height-4-x auto-fontA onload">10년 국채선물 원빅 급락세…외인 순매도·입찰 여파(상보)</a></li><li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174335" target="_top" class="size-13 line-height-4-x auto-fontA onload">10년 국채선물 장 초반 반빅 급락…입찰 부담 속 헤지성 매도(상보)</a></li><li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174311" target="_top" class="size-13 line-height-4-x auto-fontA onload">[채권금리 POLL] 11월 꺼지지 않는 불안…단기금리 하방경직</a></li><li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174310" target="_top" class="size-13 line-height-4-x auto-fontA onload">[표] 11월 기관별 국고 3년·10년 금리전망 및 코멘트</a></li><li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174225" target="_top" class="size-13 line-height-4-x auto-fontA onload">10월 비제조업 심리, 3년래 최고치…사회적 거리두기 완화</a></li><li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174175" target="_top" class="size-13 line-height-4-x auto-fontA onload">[채권-마감] 당국 안정화 조치에 약세 브레이크…악성매물 부담 덜어</a></li><li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174061" target="_top" class="size-13 line-height-4-x auto-fontA onload">한은 &quot;금리 계속 모니터링…시장 쏠림 심하면 단순매입 검토&quot;(상보)</a></li><li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174040" target="_top" class="size-13 line-height-4-x auto-fontA onload">한은, 11월 통안채 2.4조 줄어든 6.6조 발행…바이백 1조 확대(상보)</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="dis-table-cell">
+			<div class="auto-article auto-boll">
+				<ul>
+					<li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174398" target="_top" class="size-13 line-height-4-x auto-fontA onload">캠코, 2천600억원 규모 압류재산 공매</a></li><li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174389" target="_top" class="size-13 line-height-4-x auto-fontA onload">[부고] 차남규(전 한화생명 대표이사 부회장)씨 모친상</a></li><li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174388" target="_top" class="size-13 line-height-4-x auto-fontA onload">&quot;실손보험 지속성 제고하기 위해 비급여 관리해야&quot;</a></li><li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174386" target="_top" class="size-13 line-height-4-x auto-fontA onload">국민연금 8월 수익률 9.65%…세계 경제회복 기대로 '양호'</a></li><li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174381" target="_top" class="size-13 line-height-4-x auto-fontA onload">신한라이프, 건강증진형 보험상품 개발…국민체육진흥공단과 MOU</a></li><li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174380" target="_top" class="size-13 line-height-4-x auto-fontA onload">이재명, 전국민 재난지원지원금 추진…&quot;추경도 감안&quot;</a></li><li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174376" target="_top" class="size-13 line-height-4-x auto-fontA onload">삼성화재, 스마트 보장분석서비스 이용자 200만명 돌파</a></li><li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174348" target="_top" class="size-13 line-height-4-x auto-fontA onload">한은 &quot;소비불평등 심화 추세…코로나로 중산층 상대적 타격&quot;</a></li><li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174342" target="_top" class="size-13 line-height-4-x auto-fontA onload">정은보 금감원장, 다음주 금융지주 회장 만난다</a></li><li class="clearfix auto-marbtm-5"><a href="/news/articleView.html?idxno=4174328" target="_top" class="size-13 line-height-4-x auto-fontA onload">신보, 10월 P-CBO 5천700억원 발행…목표 97% 달성</a></li>
+
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="box-margins height-20"></div>
+
+				</div>
+				<!--// 편집패널 -->
+
+				
+				<!-- 편집패널 //-->
+				<div class="index-row">
+					<div class="clearfix">
+
+					</div>
+				<!--// 편집패널 -->
+					<div class="index-row">
+						<div class="index-columns grid-1 width-full">
+							<div class="clearfix">
+<!--신한금융그룹_370--><script type="text/javascript">var ___BANNER = "ban_1633399927";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1404.js?1633399927" id="ban_1633399927"></script><!--//신한금융그룹_370--><!--국민은행_360_기사면--><script type="text/javascript">var ___BANNER = "ban_1625546347";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1439.js?1625546347" id="ban_1625546347"></script><!--//국민은행_360_기사면--><!--KB금융지주_9월_360_기사--><script type="text/javascript">var ___BANNER = "ban_1634780637";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1490.js?1634780637" id="ban_1634780637"></script><!--//KB금융지주_9월_360_기사--><!--KB국민은행_360--><script type="text/javascript">var ___BANNER = "ban_1633836872";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1484.js?1633836872" id="ban_1633836872"></script><!--//KB국민은행_360--><!--우리은행_우리아이_360--><script type="text/javascript">var ___BANNER = "ban_1631840184";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1471.js?1631840184" id="ban_1631840184"></script><!--//우리은행_우리아이_360-->
+							</div>
+						</div>
+
+						<div class="index-columns grid-2 width-full">
+							<div class="clearfix">
+<!--하나금융지주 9월--><script type="text/javascript">var ___BANNER = "ban_1633501866";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/750.js?1633501866" id="ban_1633501866"></script><!--//하나금융지주 9월--><!--한국투자증권_6월_360--><script type="text/javascript">var ___BANNER = "ban_1627615846";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1426.js?1627615846" id="ban_1627615846"></script><!--//한국투자증권_6월_360--><!--한국투자증권_202110_360--><script type="text/javascript">var ___BANNER = "ban_1635314108";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1506.js?1635314108" id="ban_1635314108"></script><!--//한국투자증권_202110_360--><!--삼성화재_202109--><script type="text/javascript">var ___BANNER = "ban_1635405168";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1473.js?1635405168" id="ban_1635405168"></script><!--//삼성화재_202109--><!--삼성생명_360_202109--><script type="text/javascript">var ___BANNER = "ban_1632700286";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1475.js?1632700286" id="ban_1632700286"></script><!--//삼성생명_360_202109--><!--대신증권_202110_360--><script type="text/javascript">var ___BANNER = "ban_1635397958";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1507.js?1635397958" id="ban_1635397958"></script><!--//대신증권_202110_360-->
+							</div>
+						</div>
+					</div>
+					<!--// 편집패널 -->
+				<!--// 편집패널 -->
+					<div class="index-row">
+						<div class="index-columns width-full">
+							<div class="clearfix">
+
+							</div>
+						</div>
+
+						<div class="index-columns grid-3 width-260">
+							<div class="clearfix">
+
+							</div>
+						</div>
+
+						<div class="index-columns width-full">
+							<div class="clearfix">
+
+							</div>
+						</div>
+					</div>
+					<!--// 편집패널 -->
+					<div class="clearfix">
+<!--기업은행--><script type="text/javascript">var ___BANNER = "ban_1539910792";</script><script type="text/javascript" charset="utf-8" src="/bannerpop/uploads/js/771.js?1539910792" id="ban_1539910792"></script><!--//기업은행--><!--인포맥스 20주년--><script type="text/javascript">var ___BANNER = "ban_1609728723";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1323.js?1609728723" id="ban_1609728723"></script><!--//인포맥스 20주년--><ul class="banner-3">
+  <li>
+      <!-- 배너삽입 //--><a href="http://news.einfomax.co.kr/news/articleList.html?sc_area=A&view_type=sm&sc_word=%EB%A6%AC%EA%B7%B8%ED%85%8C%EC%9D%B4%EB%B8%94+%EC%A2%85%ED%95%A9"><img src="/bannerpop/uploads/image/1540269841984502577.png"></a><!--// 배너삽입 -->
+  </li>
+  <li>
+      <!-- 배너삽입 //--><a href="http://news.einfomax.co.kr/news/articleList.html?sc_area=A&view_type=sm&sc_word=%EC%9D%B8%ED%8F%AC%EB%A7%A5%EC%8A%A4+%ED%8F%B4"><img src="/bannerpop/uploads/image/15402698961636484960.png"></a><!--// 배너삽입 -->
+  </li>
+  <li>
+      <!-- 배너삽입 //--><a href="http://news.einfomax.co.kr/news/articleList.html?sc_area=A&view_type=sm&sc_word=%EC%BD%94%EB%A6%AC%EB%B3%B4"><img src="/bannerpop/uploads/image/1540269921968449010.png"></a><!--// 배너삽입 -->
+  </li>
+</ul>
+					</div>
+					<!--// 편집패널 -->
+				</div>
+
+			</div>
+		</section>
+		<!--// 기사본문 내용 -->
+
+		<!-- 기사본문 우측 //-->
+		<aside class="user-aside">
+<style type="text/css">
+	.row .box-skin.pop-box .header > a, .row .box-skin.pop-box .header > strong {margin-bottom:.938rem}
+</style>
+
+<article class="box-skin design-7">
+	<header class="header"><strong>많이 본 뉴스</strong></header>
+	<section class="content">
+		<div class="auto-article auto-db01">
+<ul></ul>
+</div>	</section>
+</article>
+<div class="box-margins height-20"></div>
+			<div class="user-ad-box">
+<!--유튜브라이브--><script type="text/javascript">var ___BANNER = "ban_1630476785";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1364.js?1630476785" id="ban_1630476785"></script><!--//유튜브라이브--><!--제8회 KTB국제컨퍼런스--><script type="text/javascript">var ___BANNER = "ban_1634607804";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1493.js?1634607804" id="ban_1634607804"></script><!--//제8회 KTB국제컨퍼런스--><!--삼성전자--><script type="text/javascript">var ___BANNER = "ban_1633399789";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1434.js?1633399789" id="ban_1633399789"></script><!--//삼성전자--><!--하나금융그룹--><script type="text/javascript">var ___BANNER = "ban_1633399539";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1120.js?1633399539" id="ban_1633399539"></script><!--//하나금융그룹--><!--통일금융 컨퍼런스--><script type="text/javascript">var ___BANNER = "ban_1630476913";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1464.js?1630476913" id="ban_1630476913"></script><!--//통일금융 컨퍼런스--><!--KB금융지주_9월_250_기사--><script type="text/javascript">var ___BANNER = "ban_1634780626";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1489.js?1634780626" id="ban_1634780626"></script><!--//KB금융지주_9월_250_기사--><!--신한금융그룹_250--><script type="text/javascript">var ___BANNER = "ban_1633399935";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1403.js?1633399935" id="ban_1633399935"></script><!--//신한금융그룹_250--><!--신한은행--><script type="text/javascript">var ___BANNER = "ban_1635225702";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/867.js?1635225702" id="ban_1635225702"></script><!--//신한은행--><!--KB국민은행_250--><script type="text/javascript">var ___BANNER = "ban_1633502628";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1483.js?1633502628" id="ban_1633502628"></script><!--//KB국민은행_250--><!--기업은행_3월--><script type="text/javascript">var ___BANNER = "ban_1635485471";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1374.js?1635485471" id="ban_1635485471"></script><!--//기업은행_3월--><!--미래에셋증권--><script type="text/javascript">var ___BANNER = "ban_1635147009";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1429.js?1635147009" id="ban_1635147009"></script><!--//미래에셋증권--><!--한국투자증권_202109--><script type="text/javascript">var ___BANNER = "ban_1635302749";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1472.js?1635302749" id="ban_1635302749"></script><!--//한국투자증권_202109--><!--신한카드_8월--><script type="text/javascript">var ___BANNER = "ban_1635378438";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1462.js?1635378438" id="ban_1635378438"></script><!--//신한카드_8월--><!--대신증권_202110_250--><script type="text/javascript">var ___BANNER = "ban_1635311360";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1505.js?1635311360" id="ban_1635311360"></script><!--//대신증권_202110_250--><!--삼성화재2-1--><script type="text/javascript">var ___BANNER = "ban_1635206874";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1396.js?1635206874" id="ban_1635206874"></script><!--//삼성화재2-1--><!--삼성화재3-2--><script type="text/javascript">var ___BANNER = "ban_1635206900";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1400.js?1635206900" id="ban_1635206900"></script><!--//삼성화재3-2--><!--LG그룹--><script type="text/javascript">var ___BANNER = "ban_1635465365";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1508.js?1635465365" id="ban_1635465365"></script><!--//LG그룹--><!--KB손해보험_10월--><script type="text/javascript">var ___BANNER = "ban_1635398690";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1453.js?1635398690" id="ban_1635398690"></script><!--//KB손해보험_10월--><!--삼성증권_202110--><script type="text/javascript">var ___BANNER = "ban_1634614540";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1494.js?1634614540" id="ban_1634614540"></script><!--//삼성증권_202110--><!--KB금융지주_250--><script type="text/javascript">var ___BANNER = "ban_1627629180";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1378.js?1627629180" id="ban_1627629180"></script><!--//KB금융지주_250--><!--신한금융투자_202110--><script type="text/javascript">var ___BANNER = "ban_1634798638";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1497.js?1634798638" id="ban_1634798638"></script><!--//신한금융투자_202110--><!--교보생명--><script type="text/javascript">var ___BANNER = "ban_1635151524";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/680.js?1635151524" id="ban_1635151524"></script><!--//교보생명--><!--농협은행_202110--><script type="text/javascript">var ___BANNER = "ban_1634780720";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1495.js?1634780720" id="ban_1634780720"></script><!--//농협은행_202110--><!--삼성생명_250_202109--><script type="text/javascript">var ___BANNER = "ban_1632700281";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1474.js?1632700281" id="ban_1632700281"></script><!--//삼성생명_250_202109--><!--우리은행_직장인셀럽_250--><script type="text/javascript">var ___BANNER = "ban_1631840060";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1466.js?1631840060" id="ban_1631840060"></script><!--//우리은행_직장인셀럽_250--><!--경희대 입학설명회--><script type="text/javascript">var ___BANNER = "ban_1631238851";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1459.js?1631238851" id="ban_1631238851"></script><!--//경희대 입학설명회--><!--삼성카드--><script type="text/javascript">var ___BANNER = "ban_1632903725";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/883.js?1632903725" id="ban_1632903725"></script><!--//삼성카드--><!--우리은행_8월--><script type="text/javascript">var ___BANNER = "ban_1630668565";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1461.js?1630668565" id="ban_1630668565"></script><!--//우리은행_8월--><!--국민은행_250_기사면--><script type="text/javascript">var ___BANNER = "ban_1625546365";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1438.js?1625546365" id="ban_1625546365"></script><!--//국민은행_250_기사면--><!--삼성카드--><script type="text/javascript">var ___BANNER = "ban_1632903725";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/883.js?1632903725" id="ban_1632903725"></script><!--//삼성카드--><!--한화투자증권실전투자대회--><script type="text/javascript">var ___BANNER = "ban_1631088653";</script><script type="text/javascript" charset="utf-8" src="https://news.einfomax.co.kr/bannerpop/uploads/js/1467.js?1631088653" id="ban_1631088653"></script><!--//한화투자증권실전투자대회-->
+			</div>
+		</aside>
+		<!--// 기사본문 우측 -->
+	</div>
+	<!--// article view wrapper -->
+
+	<!-- 편집패널 //-->
+	<div class="auto-martop-20 clearfix">
+
+	</div>
+	<!--// 편집패널 -->
+</div>
+				</section>
+				<!--// container -->
+
+				
+				
+
+				<!-- footer //-->
+				<footer id="user-footer" class="user-style-default">	
+					<div class="float-center width-1080">
+						<ul class="footer-banner">
+							<li><!--인포맥스단말기--><script type="text/javascript">var ___BANNER = "ban_1538629821171";</script><script type="text/javascript" charset="utf-8" src="/bannerpop/uploads/js/763.js?1538629821171" id="ban_1538629821171"></script><!--//인포맥스단말기--></li>
+							<li><!--해외금융정보--><script type="text/javascript">var ___BANNER = "ban_1538629827243";</script><script type="text/javascript" charset="utf-8" src="/bannerpop/uploads/js/764.js?1538629827243" id="ban_1538629827243"></script><!--//해외금융정보--></li>
+							<li><!--스마트인포맥스--><script type="text/javascript">var ___BANNER = "ban_1538629832177";</script><script type="text/javascript" charset="utf-8" src="/bannerpop/uploads/js/765.js?1538629832177" id="ban_1538629832177"></script><!--//스마트인포맥스--></li>
+							<li><!--인포맥스옥션--><script type="text/javascript">var ___BANNER = "ban_1538629838933";</script><script type="text/javascript" charset="utf-8" src="/bannerpop/uploads/js/766.js?1538629838933" id="ban_1538629838933"></script><!--//인포맥스옥션--></li>
+							<li><!--인재채용201112--><script type="text/javascript">var ___BANNER = "ban_1605144748380";</script><script type="text/javascript" charset="utf-8" src="/bannerpop/uploads/js/1302.js?1605144748380" id="ban_1605144748380"></script><!--//인재채용201112--></li>
+						</ul>
+						
+						<div class="footer-menu">
+							<!-- logo //-->
+							<div class="footer-columns user-logo"><img src="/image/logo/downlogo_20201007035551.png" alt="연합인포맥스" /></div>
+							<!--// logo -->
+
+							<!-- nav //-->
+							<nav class="footer-columns user-nav">
+								<a  class="deco-none"><strong>회사소개</strong> </a>
+								<a href="http://yonhap.einfomax.co.kr/newinfomax/yonhapinfomax/" class="deco-none">[ 한국어 |</a>
+								<a href="http://yonhap.einfomax.co.kr/newinfomax/yonhapinfomax_eng/" class="deco-none">English ]</a>
+								<!-- <a href="/com/jb.html" class="deco-none"><strong>기사제보</strong></a>
+								<a href="/com/ad.html" class="deco-none"><strong>광고문의</strong></a>
+								<a href="/com/bp.html" class="deco-none"><strong>불편신고</strong></a> -->
+								<a href="/com/privacy4.html" class="deco-none"><strong>개인정보처리방침</strong></a>
+								<a href="/com/youthpolicy.html" class="deco-none"><strong>청소년보호정책</strong></a>
+								<a href="/com/emailno.html" class="deco-none"><strong>이메일무단수집거부</strong></a>
+								<a href="/rss/" class="deco-none"><strong>RSS</strong></a>
+								<!--<div class="float-right"><script type="text/javascript">var ___BANNER = "ban_1539765909965";</script><script type="text/javascript" charset="utf-8" src="/bannerpop/uploads/js/792.js?1539765909965" id="ban_1539765909965"></script></div>-->
+							</nav>
+							<!--// nav  -->
+						</div>
+
+						<address class="user-address">
+							<ul class="no-bullet">
+								<li class="bars">법인명 : (주)연합인포맥스</li>
+								<li class="bars">110-140 서울시 종로구 율곡로2길 25 연합뉴스빌딩 10층  (주)연합인포맥스</li>
+								<li class="bars">대표전화 : 02-398-4900</li>
+								<li>팩스 : 02-398-4992~4</li>
+								<li class="bars clear">제호 : 연합인포맥스</li>
+								<li class="bars">등록번호 : 서울 아 02336</li>
+								<li class="bars">발행일 : 2000년 6월 1일</li>
+								<li class="bars">등록일 : 2012년 11월 06일</li>
+								<li class="bars">발행인 : 최기억</li>
+								<li class="bars">편집인 : 안수훈</li>
+								<!--<li>청소년보호책임자 : 유상원</li>-->
+								<li>개인정보 보호책임자 : 유상원</li>
+								<li class="clear">연합인포맥스 모든 콘텐츠(영상,기사, 사진)는 저작권법의 보호를 받습니다. 무단 전재와 복사, 배포 등을 금합니다.</li>
+								<li class="clear">C<a href="https://news.einfomax.co.kr/admin/adminLoginForm.html" class="deco-none">o</a>pyright © 2021 연합인포맥스. <a href="http://news.einfomax.co.kr/news/articleView.html?idxno=4174349" onclick="setCookie('view_pc', 'n', 1);">All</a> rights reserved. mail to <a href="mailto:infomaxkorea@gmail.co.kr" class="deco-none">infomaxkorea@gmail.co.kr</a></li>
+							</ul>
+
+							<a href="http://www.ndsoft.co.kr/" target="_blank" class="ndsoft"><img src="/image/ndsoft.gif" alt="ND소프트" /></a>						
+						</address>		
+					</div>
+				</footer>
+				<!--// footer -->
+
+				<!-- 하단 HTML //-->	
+										<div class="clearfix text-center">
+											</div>
+								<!--// 하단 HTML -->
+
+				<!-- back to the top //-->
+				<button type="button" id="back-to-top" class="back-to-top" title="위로"><i class="s7-angle-up"><span class="show-for-sr">위로</span></i></button>
+				<!--// back to the top -->
+
+				
+			</div>
+			<!--// wrap -->
+
+		</div>
+	</div>
+</div>
+
+<script>
+// Popup Json
+var ___popup = [];
+bannerpop.popup();
+</script>
+<script type="text/javascript">
+<!--
+// back to the top		
+$(document).scroll(function(){
+	var sDocumentHeight = $(document).height() - $(window).height();
+	if($(document).scrollTop() > 0){	
+		$('#back-to-top').fadeIn();
+	}else{
+		$('#back-to-top').fadeOut();
+	}
+});
+
+$('#back-to-top').click(function(){
+	$('html, body').animate( {scrollTop:0}, 100);
+});
+//-->
+</script>
+
+</body>
+</html><!--// Cache :: October 30 2021 00:43:28.//-->

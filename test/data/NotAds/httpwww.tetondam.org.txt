@@ -1,0 +1,182 @@
+<html>
+<head>
+<title>tetondam.org</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+
+function newImage(arg) {
+if (document.images) {
+rslt = new Image();
+rslt.src = arg;
+return rslt;
+}
+}
+
+function changeImages() {
+if (document.images &amp;amp;amp;amp;&amp;amp;amp;amp; (preloadFlag == true)) {
+for (var i=0; i<changeImages.arguments.length; i+=2) {
+document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+}
+}
+}
+
+var preloadFlag = false;
+function preloadImages() {
+if (document.images) {
+the_story_over = newImage("images/the_story-over.gif");
+header_05_over = newImage("images/header_05-over.gif");
+video_over = newImage("images/video-over.gif");
+share_your_story_over = newImage("images/share_your_story-over.gif");
+preloadFlag = true;
+}
+}
+
+// -->
+</script>
+</head>
+<body bgcolor=#FFFFFF background="images/background.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="preloadImages();">
+<table width=800 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=238 height=1>
+<img src="images/spacer.gif"></td>
+<td width=40 height=1>
+<img src="images/spacer.gif"></td>
+<td width=8 height=1>
+<img src="images/spacer.gif"></td>
+<td width=117 height=1>
+<img src="images/spacer.gif"></td>
+<td width=75 height=1>
+<img src="images/spacer.gif"></td>
+<td width=64 height=1>
+<img src="images/spacer.gif"></td>
+<td width=95 height=1>
+<img src="images/spacer.gif"></td>
+<td width=163 height=1>
+<img src="images/spacer.gif"></td>
+</tr>
+<tr>
+<td colspan=8>
+<img src="images/top.gif" width=800 height=6></td>
+</tr>
+<tr>
+<td>
+<a href="http://www.tetondam.org"
+onmouseover="window.status='The Teton Dam Project';  return true;"
+onmouseout="window.status='';  return true;">
+<img src="images/teton_dam_project.gif" width=238 height=22 border=0 alt="The Teton Dam Project"></a></td>
+<td>
+<img src="images/spacer-04.gif" width=40 height=22></td>
+<td colspan=2>
+<a href="the_story/index.php"
+onmouseover="window.status='The Story'; changeImages('the_story', 'images/the_story-over.gif'); return true;"
+onmouseout="window.status=''; changeImages('the_story', 'images/the_story.gif'); return true;">
+<img name="the_story" src="images/the_story.gif" width=125 height=22 border=0 alt="The Story"></a></td>
+<td colspan=2>
+<a href="photographs/index.html"
+onmouseover="window.status='Photographs'; changeImages('header_05', 'images/header_05-over.gif'); return true;"
+onmouseout="window.status=''; changeImages('header_05', 'images/header_05.gif'); return true;">
+<img name="header_05" src="images/header_05.gif" width=139 height=22 border=0 alt="Photographs"></a></td>
+<td>
+<a href="video/index.html"
+onmouseover="window.status='Video'; changeImages('video', 'images/video-over.gif'); return true;"
+onmouseout="window.status=''; changeImages('video', 'images/video.gif'); return true;">
+<img name="video" src="images/video.gif" width=95 height=22 border=0 alt="Video"></a></td>
+<td>
+<a href="share_your_story"
+onmouseover="window.status='Share your Story'; changeImages('share_your_story', 'images/share_your_story-over.gif'); return true;"
+onmouseout="window.status=''; changeImages('share_your_story', 'images/share_your_story.gif'); return true;">
+<img name="share_your_story" src="images/share_your_story.gif" width=163 height=22 border=0 alt="Share your Story"></a></td>
+</tr>
+<tr>
+<td width=800 colspan=8>
+
+<center>
+<br>
+<br>
+<table width="585" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td width="270" valign="top"><img src="photo.jpg" alt="" width="239" height="350"></td>
+    <td width="296" valign="top"><div align="center"><font color="#990000" size="+2" face="Verdana, Arial, Helvetica, sans-serif"><em>The
+          Teton Dam</em></font></div>
+		  <hr align="center" size=1>
+              <p align="left"><font color="#000000" size="-1" face="Verdana, Arial, Helvetica, sans-serif"><font size="+1">T</font>he
+              date June 5th 1976 marked the end of an era. On this day the Teton
+              Dam located in Eastern
+              Idaho crumbled and flooded the valley below. The disaster brought attention
+              to the unchecked practice of dam building by the Bureau of Reclamation. <br>
+              <br>
+O<font size="-1">ver
+      a quarter
+      of a century later, the topic of the dam rarely becomes the center
+      o</font>f
+      conversation,
+      but off in the distance
+      lies a monum</font><font size="-1" face="Verdana, Arial, Helvetica, sans-serif">ent
+      to the disastrous day. A twenty mile stretch of a once pristine river canyon
+      lies in ruins, not
+      much different from how it was left more then twenty-five years earlier. <br>
+      </font></p>
+      </div></td>
+  </tr>
+</table>
+
+<br>
+<br>
+<hr size=1 width=550>
+<br>
+<table width="550"><tr><td>&nbsp;&nbsp;</td><td>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="TTG55VKPB65BY">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+<br><br>
+</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+
+<font color="#000000" size="-1" face="Verdana, Arial, Helvetica, sans-serif">
+              If you would like to help in the building and expanding of the <a href="http://www.tetondam.org"><font color="black">TetonDam.org</font></a> project, please donate. <br>
+              <br>All funds will go directly towards the costs associated with the hosting and design of the TetonDam.org website.
+<br><br><center>This site is <b>not</b> a formal 'non-profit'<br><br>Dontations to date: $0</center> </font>
+</td></tr></table>
+
+<br>
+
+<a href="http://www.tetondam.org"
+onMouseOver="window.status='tetondam.org';  return true;"
+onMouseOut="window.status='';  return true;"><br>
+<img src="images/tetondam_org.gif" width=192 height=28 border=0 alt="tetondam.org"></a>
+
+<br>
+<br>
+</center>
+
+</td>
+</tr>
+</table><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table width=500><tr><td>
+<font size=-1 color="#cccccc">
+The Teton Dam Project is a not for profit project (This site is not a formal 'non-profit') put together by Jonathan Long. <br><br>Jonathan Long is a photographer that resides in the Greater Yellowstone region.  For more information about the Teton Dam or this project in general, please use the contact information found on this webpage. The Teton Dam Project.
+</font>
+</td>
+</tr>
+</table>
+</body>
+</html>

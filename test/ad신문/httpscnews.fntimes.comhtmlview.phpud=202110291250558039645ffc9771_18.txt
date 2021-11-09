@@ -1,0 +1,1298 @@
+
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="format-detection" content="telephone=no">
+<meta name="google-site-verification" content="lzJlTBu9aNaJMX-5jH3xvWgF5CQMjew8BfWDfUcZKk4" />
+
+<title>SK하이닉스, 키파운드리 인수&#8230;&quot;파운드리 생산능력 두 배 확대&quot;</title>
+<meta name="keywords" content="SK하이닉스, 키파운드리 인수&#8230;&quot;파운드리 생산능력 두 배 확대&quot;"/>
+<meta name="news_keywords" content="SK하이닉스, 키파운드리 인수&#8230;&quot;파운드리 생산능력 두 배 확대&quot;"/>
+<meta name="description" content="SK하이닉스가 8인치 파운드리(반도체 위탁생산) 기업인 키파운드리를 인수하며 파운드리 생산 능력 확대에 나선다.  SK하이닉스는 매그너스 반도체 유한회사로부터 키파운드리 지분 100%를 5758억 원에 인수하는 계약을 체결했다고 29일 공시했다.  SK하이닉스 관계자는 &#8220;키파운드리 인수는 SK하이닉스의 파운드리 생산능력..." />
+<meta name="DC.date.issued" content="2021-10-29T13:01:31+09:00">
+<!-- DeepDive -->
+<meta property="dd:content_id" content="202110291250558039645ffc9771_18"> 
+<meta property="dd:category" content="산업"> 
+<meta property="dd:published_time" content="2021-10-29T13:01:31+09:00"> 
+<meta property="dd:modified_time" content="2021-10-29T13:15:54+09:00"> 
+<meta property="dd:author" content="정은경"> 
+<meta property="dd:playtime" content=""> 
+<meta property="dd:publisher" content="FNTIMES"> 
+<meta property="dd:availavility" content="true"> 
+
+<!-- 데이블 -->
+<meta property="dable:item_id" content="202110291250558039645ffc9771_18"> 
+<meta property="dable:author" content="정은경"> 
+<meta property="article:section" content="산업">
+<meta property="article:published_time" content="2021-10-29T13:01:31+09:00">
+
+<!-- Facebook Open Graph-->
+<meta property="fb:app_id" content="495945427429135"/>
+<meta property="og:type" content="article"/>
+<meta property="og:locale" content="ko_KR"/>
+<meta property="og:site_name" content="FNTIMES"/>
+<meta property="og:title" content="SK하이닉스, 키파운드리 인수&#8230;&quot;파운드리 생산능력 두 배 확대&quot;" />
+<meta property="og:url" content="https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18" />
+<meta property="og:site" content="FNTIMES" />
+<meta property="og:description" content="SK하이닉스가 8인치 파운드리(반도체 위탁생산) 기업인 키파운드리를 인수하며 파운드리 생산 능력 확대에 나선다.  SK하이닉스는 매그너스 반도체 유한회사로부터 키파운드리 지분 100%를 5758억 원에 인수하는 계약을 체결했다고 29일 공시했다.  SK하이닉스 관계자는 &#8220;키파운드리 인수는 SK하이닉스의 파운드리 생산능력..." />
+<meta property="og:image" content="https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?idx=999&amp;simg=2021102609525108379645ffc977121122668102.jpg" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="337" />
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="FNTIMES"/>
+<meta name="twitter:creator" content="FNTIMES"/>
+<meta name="twitter:url" content="https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18"/>
+<meta name="twitter:image" content="https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?idx=999&amp;simg=2021102609525108379645ffc977121122668102.jpg"/>
+<meta name="twitter:title" content="SK하이닉스, 키파운드리 인수…&quot;파운드리 생산능력 두 배 확대&quot;"/>
+<meta name="twitter:description" content="SK하이닉스가 8인치 파운드리(반도체 위탁생산) 기업인 키파운드리를 인수하며 파운드리 생산 능력 확대에 나선다.  SK하이닉스는 매그너스 반도체 유한회사로부터 키파운드리 지분 100%를 5758억 원에 인수하는 계약을 체결했다고 29일 공시했다.  SK하이닉스 관계자는 “키파운드리 인수는 SK하이닉스의 파운드리 생산능력..."/>
+<meta property="movideo:news_key" content="202110291250558039645ffc9771_18">
+
+<link rel="amphtml" href="https://m.fntimes.com/html/ampview.php?ud=202110291250558039645ffc9771_18" />
+	<link rel="image_src" href="https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?idx=999&simg=2021102609525108379645ffc977121122668102.jpg" /><meta name="mobile-web-app-capable" content="yes">
+<link rel="shortcut icon" href="https://www.fntimes.com/favicon.ico" type="image/x-ico"/>
+<link rel="shortcut icon" sizes="192x192" href="https://cgeimage.commutil.kr/fntimes_www/favicon/android.png">
+<meta name="apple-mobile-web-app-title" content="FNTIMES">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="apple-touch-icon" sizes="128x128" href="https://cgeimage.commutil.kr/fntimes_www/favicon/ios.png">
+<link rel="apple-touch-icon-precomposed" sizes="128x128" href="https://cgeimage.commutil.kr/fntimes_www/favicon/ios.png">
+
+<link rel="shortcut icon" href="https://cfnimage.commutil.kr/fntimes_www/img/common/fabicon.ico" />
+<link rel="stylesheet" href="https://cfnimage.commutil.kr/fntimes_www/css/slick.css?pp=038" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="https://cfnimage.commutil.kr/fntimes_www/css/jquery.fancybox.css?pp=038" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="https://cfnimage.commutil.kr/fntimes_www/css/jquery.bxslider.css?pp=038" type="text/css" charset="utf-8" /><!-- 171108 : 추가 -->
+<link rel="stylesheet" href="https://cfnimage.commutil.kr/fntimes_www/css/common.css?pp=038" type="text/css" charset="utf-8" />
+<!--[if lte IE 8]>
+<script src="https://cfnimage.commutil.kr/fntimes_www/js/html5.js?pp=0024"></script>
+<![endif]-->
+<script src="https://cfnimage.commutil.kr/fntimes_www/js/jquery-1.12.4.min.js?pp=0024"></script>
+<script src="https://cfnimage.commutil.kr/fntimes_www/js/jquery.mousewheel.js?pp=0024"></script><!--  170828 : 추가 -->
+<script src="https://cfnimage.commutil.kr/fntimes_www/js/slick.js?pp=0024"></script>
+<script src="https://cfnimage.commutil.kr/fntimes_www/js/jquery.fancybox.js?pp=0024"></script>
+<script src="https://cfnimage.commutil.kr/fntimes_www/js/jquery.bxslider.js?pp=0024"></script><!-- 171108 : 추가 -->
+<script src="https://cfnimage.commutil.kr/fntimes_www/js/ui_common.js?pp=0024"></script>
+<script src="https://cfnimage.commutil.kr/fntimes_www/js/jst_ajax.js?pp=0024"></script>
+<script src="https://cfnimage.commutil.kr/fntimes_www/js/jst_common.js?pp=0024"></script>
+<script type="text/javascript">
+function fnSearchSubmit( frm )
+{
+	if( !frm.sn.value )
+	{
+		//alert("검색어를 입력해주세요.");
+		frm.sn.focus();
+		return;
+	}
+
+	frm.submit();
+}
+</script>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/gokorea-fntimes/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script><!-- sc r ipt async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-2330406546026114",
+    enable_page_level_ads: true
+  });
+</sc ri pt--><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-71074632-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-71074632-1');
+</script>
+<!-- // Head Tag 삽입 -->
+<script src="https://cdn.thenextpaper.com/tdn/fntimes/tdnJ.js"></script>
+<!-- Head Tag 삽입 // --><script type="text/javascript" src="//send.mci1.co.kr/delivery/js/29551780/21835482741" async></script><script data-ad-client="ca-pub-5812356127658151" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script data-ad-client="ca-pub-8405950934988307" async src=" https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+</head>
+<body>
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '495945427429135',
+      xfbml      : true,
+      version    : 'v2.10'
+    });
+    FB.AppEvents.logPageView();
+  };
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     //js.src = "https://connect.facebook.net/en_US/sdk.js";
+     js.src = "https://connect.facebook.net/ko_KR/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+	<div class="top">
+		<div class="top_1d">
+			<div class="top_1d_in">
+				<div class="cl_in">
+					<div class="top_1d_lt">
+						<ul>
+							<li><a href="javascript:bookmark_add()" class="fav"><span class="blind">한국금융신문</span></a></li>
+							<li style="margin-left:5px;margin-right:0;"><a href="https://www.facebook.com/fntimes" target="_blank" class="facebook"><span class="blind">페이스북</span></a></li>
+							<li style="margin-left:5px;margin-right:0;"><a href="https://post.naver.com/fntimes_post" target="_blank" class="insta"><span class="blind">네이버포스트</span></a></li>
+							<li style="margin-left:5px;margin-right:0;"><a href="https://www.fntimes.com/html/letterlist.php" class="letter"><span class="blind">letter</span></a></li>
+						</ul>
+					</div>
+					<div class="top_1d_rt">
+						<ul>
+							<li><a href="https://www.fntimes.com/html/subscription.php">구독신청</a></li>
+														<li><a href="https://www.fntimes.com/html/login.php">로그인</a></li>
+							<li><a href="https://www.fntimes.com/html/join_1.php">회원가입</a></li>
+														<li><a href="https://www.fntimes.com/html/myscrap.php">My스크랩</a></li>
+							<li><a href="https://www.fntimes.com/html/paper_pdf.php" class="pdf">지면신문</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="top_2d">
+			<div class="top_2d_in" style="padding: 9px 0 9px 0;">
+				<h1 style="width:238px;height:76px;"><a href="https://www.fntimes.com/html/index.php"><img src="https://cfnimage.commutil.kr/fntimes_www/img/toplogo.gif" alt="FNTIMES 대한민국 최고 금융 경제지" style="width:238px;height:76px;"/></a></h1>
+				
+<div class="top_2d_lt" style="padding-top:15px;"><a href="https://www.fntimes.com/html/issuelist.php?ud=2017103114552601265"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=215&h=-1&m=2&simg=201805081141033094d41d8cd98f21121615247_0.gif" /></a>				</div>
+				<div class="top_2d_rt">
+<div style="width:100%;text-align:center;"><a href="javascript:void(0);"><img src="https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?idx=999&simg=202102150403521253c1c16452b018222889185_0.jpg" width="99" height="90" /><span class="clsAdViewLog" data-id="201710141957576650edd30f73a81142029182" data-sec="view" data-mtype="18" width="0" height="0" style="display:none;"></span></a></div>				</div>
+			</div>
+		</div>
+		<!--  170827 : 수정 -->
+		<div class="gnb_2d_bg"></div>		<div class="gnb_wrap main_gnb_wrap">
+			<div class="gnb_in">
+				<div class="gnb_inner">
+					<a href="javascript:;" class="ent_menu"><span class="blind">메뉴</span></a>
+					<div class="gnb">
+						<ul>
+							<li style="padding: 0 12px;"><a href="https://www.fntimes.com/html/list.php?ct=g0000" >전체</a></li><li style="padding: 0 12px;"><a href="https://www.fntimes.com/html/secindex.php?ct=g0100" >증권</a><ul><li><a href="https://www.fntimes.com/html/list.php?ct=g0101">시황·종목</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0108">실적속보</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0102">금융투자</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0105">정책·일반</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0107">채권·외환</a></li></ul></li><li style="padding: 0 12px;"><a href="https://www.fntimes.com/html/secindex.php?ct=g0200" >산업</a><ul><li><a href="https://www.fntimes.com/html/list.php?ct=g0201">기업·재계</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0202">자동차</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0209">통신·인터넷</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0210">전자</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0211">게임</a></li></ul></li><li style="padding: 0 12px;"><a href="https://www.fntimes.com/html/secindex.php?ct=g1200" >유통·부동산</a><ul><li><a href="https://www.fntimes.com/html/list.php?ct=g1201">유통</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g1202">식음료</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g1203">헬스케어</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g1204">패션뷰티</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g1205">건설</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g1206">부동산</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g1207">부동산신탁</a></li></ul></li><li style="padding: 0 12px;"><a href="https://www.fntimes.com/html/secindex.php?ct=g0300" >금융</a><ul><li><a href="https://www.fntimes.com/html/list.php?ct=g0301">금융지주</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0302">은행</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0303">금융공기업</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0309">핀테크</a></li></ul></li><li style="padding: 0 12px;"><a href="https://www.fntimes.com/html/secindex.php?ct=g0400" >보험</a><ul><li><a href="https://www.fntimes.com/html/list.php?ct=g0401">생명보험</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0402">손해보험</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0403">GA</a></li></ul></li><li style="padding: 0 12px;"><a href="https://www.fntimes.com/html/secindex.php?ct=g0500" >2금융</a><ul><li><a href="https://www.fntimes.com/html/list.php?ct=g0501">카드</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0502">캐피탈</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0503">저축은행</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0504">대부업</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0505">신용정보</a></li></ul></li><li style="padding: 0 12px;"><a href="https://www.fntimes.com/html/secindex.php?ct=g0700" >경제·시사</a><ul><li><a href="https://www.fntimes.com/html/list.php?ct=g0701">거시경제</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0702">정책</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0703">정치·사회</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0707">경제동향</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0710">과학경제</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0704">경제일반</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0708">연예·스포츠</a></li></ul></li><li style="padding: 0 12px;"><a href="https://www.fntimes.com/html/list.php?ct=g0800" >오피니언</a><ul><li><a href="https://www.fntimes.com/html/list.php?ct=g0801">CEO초대석</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0802">인물포커스</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0803">FT칼럼</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0808">김상철의 정책해설</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0809">김우성의 베트남인사이트</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0804">금융인라운지</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0805">기자수첩</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0806">데스크칼럼</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0807">FT도서</a></li></ul></li><li style="padding: 0 12px;"><a href="https://www.fntimes.com/html/list.php?ct=g0900" >재테크·상품</a><ul><li><a href="https://www.fntimes.com/html/list.php?ct=g0905">웰스매니지먼트</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0902">투자</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0901">플랜&은퇴</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0903">부동산</a></li><li style="margin-left:10px;"><a href="https://www.fntimes.com/html/list.php?ct=g0906">스페셜리포트</a></li></ul></li>						</ul>
+					</div>
+					<!--  171228 : 수정 -->
+					<!--div class="wealth_bn01" style="margin-top: 5px;">
+						<a href="http://www.wealthm.co.kr/" target="_blank"><img src="https://cfnimage.commutil.kr/fntimes_www/img/common/wealth_bn01.png?pp=001" alt="WEALTH" /></a>
+					</div-->
+					<!--// 171228 : 수정 -->
+					<div class="sch_wrap">
+						<!--p>검색</p-->
+						<a href="javascript:;"><span class="blind">검색</span></a>
+					</div>
+				</div>
+				<!--  170826 : 추가 -->
+				<form name="topsch_frm" method="get" action="https://www.fntimes.com/html/search.php" onSubmit="fnSearchSubmit(this);return false;">
+				<div class="sch_layer_wrap">
+					<div class="sch_layer_in">
+						<input type="text" name="sn" class="sch_layer_inp" placeholder="검색어를 입력하세요."/>
+						<button type="submit" class="sch_layer_btn"><span class="blind">검색</span></button>
+						<a href="javascript:;" class="sch_layer_close"><span class="blind">닫기</span></a>
+					</div>
+				</div>
+				</form>
+				<div class="ent_menu_wrap" style="z-Index:10;">
+					<div class="ent_menu_in">
+						<ul>
+							
+								<li style="margin: 0 10px;">
+									<h3><a href="https://www.fntimes.com/html/list.php?ct=g0100">증권</a></h3>
+									<ul><li><a href="https://www.fntimes.com/html/list.php?ct=g0101">시황·종목</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0108">실적속보</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0102">금융투자</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0105">정책·일반</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0107">채권·외환</a></li>
+									</ul>
+								</li>
+								<li style="margin: 0 10px;">
+									<h3><a href="https://www.fntimes.com/html/list.php?ct=g0200">산업</a></h3>
+									<ul><li><a href="https://www.fntimes.com/html/list.php?ct=g0201">기업·재계</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0202">자동차</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0209">통신·인터넷</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0210">전자</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0211">게임</a></li>
+									</ul>
+								</li>
+								<li style="margin: 0 10px;">
+									<h3><a href="https://www.fntimes.com/html/list.php?ct=g1200">유통·부동산</a></h3>
+									<ul><li><a href="https://www.fntimes.com/html/list.php?ct=g1201">유통</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g1202">식음료</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g1203">헬스케어</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g1204">패션뷰티</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g1205">건설</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g1206">부동산</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g1207">부동산신탁</a></li>
+									</ul>
+								</li>
+								<li style="margin: 0 10px;">
+									<h3><a href="https://www.fntimes.com/html/list.php?ct=g0300">금융</a></h3>
+									<ul><li><a href="https://www.fntimes.com/html/list.php?ct=g0301">금융지주</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0302">은행</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0303">금융공기업</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0309">핀테크</a></li>
+									</ul>
+								</li>
+								<li style="margin: 0 10px;">
+									<h3><a href="https://www.fntimes.com/html/list.php?ct=g0400">보험</a></h3>
+									<ul><li><a href="https://www.fntimes.com/html/list.php?ct=g0401">생명보험</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0402">손해보험</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0403">GA</a></li>
+									</ul>
+								</li>
+								<li style="margin: 0 10px;">
+									<h3><a href="https://www.fntimes.com/html/list.php?ct=g0500">2금융</a></h3>
+									<ul><li><a href="https://www.fntimes.com/html/list.php?ct=g0501">카드</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0502">캐피탈</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0503">저축은행</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0504">대부업</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0505">신용정보</a></li>
+									</ul>
+								</li>
+								<li style="margin: 0 10px;">
+									<h3><a href="https://www.fntimes.com/html/list.php?ct=g0700">경제·시사</a></h3>
+									<ul><li><a href="https://www.fntimes.com/html/list.php?ct=g0701">거시경제</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0702">정책</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0703">정치·사회</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0707">경제동향</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0710">과학경제</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0704">경제일반</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0708">연예·스포츠</a></li>
+									</ul>
+								</li>
+								<li style="margin: 0 10px;">
+									<h3><a href="https://www.fntimes.com/html/secindex.php?ct=g0800">오피니언</a></h3>
+									<ul><li><a href="https://www.fntimes.com/html/list.php?ct=g0801">CEO초대석</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0802">인물포커스</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0803">FT칼럼</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0808">김상철의 정책해설</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0809">김우성의 베트남인사이트</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0804">금융인라운지</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0805">기자수첩</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0806">데스크칼럼</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0807">FT도서</a></li>
+									</ul>
+								</li>
+								<li style="margin: 0 10px;">
+									<h3><a href="https://www.fntimes.com/html/secindex.php?ct=g0900">재테크·상품</a></h3>
+									<ul><li><a href="https://www.fntimes.com/html/list.php?ct=g0905">웰스매니지먼트</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0902">투자</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0901">플랜&은퇴</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0903">부동산</a></li><li><a href="https://www.fntimes.com/html/list.php?ct=g0906">스페셜리포트</a></li>
+									</ul>
+								</li>						</ul>
+					</div>
+					<div class="ent_menu_close">
+					<!-- // 171019 : 수정 -->
+						<a href="javascript:;" class="entm_close_btn"><span class="blind">닫기</span></a>
+					<!-- // 171019 : 수정 -->
+					</div>
+				</div>
+				<!-- // 170826 : 추가 -->
+			</div>
+		</div>
+	</div><!-- // top -->	<div class="con mt30">
+
+		<!-- 이미지 스크롤링-->
+<div style="margin-bottom:15px;text-align:center;"><center><div id="tdn_S003_fntimes_ga01_pc_post_top_atf_970x90"><script>
+if(!(navigator.userAgent.match(/Mobile|iP(hone)|Android|BlackBerry|IEMobile|Kindle|NetFront|Silk-Accelerated|(hpw|web)OS|Fennec|Minimo|Opera M(obi|ini)|Blazer|Dolfin|Dolphin|Skyfire|Zune/))){
+window.googletag = window.googletag || {cmd: []};
+ googletag.cmd.push(function() {
+ googletag.defineSlot('/21682743634,22465873715/S003/fntimes/ga01/pc/post_top_atf_970x90', [970, 90], 'tdn_S003_fntimes_ga01_pc_post_top_atf_970x90').addService(googletag.pubads().set('page_url', '//fntimes.com'));
+ googletag.enableServices(); googletag.display('tdn_S003_fntimes_ga01_pc_post_top_atf_970x90'); }); }
+</script></div></center></div>		<style>
+.fast-news-table {
+    border-collapse: collapse;
+}
+
+.fast-news-table tr {
+    border-bottom: 1px solid #ccc;
+}
+
+.fast-news-table th {
+    background: #f5f5f5;
+    border-bottom: 1px solid #a9a9a9 !important;
+    font-weight: bold;
+}
+
+.fast-news-table td,
+.fast-news-table th {
+    padding: 2px 4px;
+    text-align: right !important;
+    border: 1px solid #ccc;
+    font-size: 12px;
+    line-height: normal;
+}
+
+.fast-news-table th b {
+    float: left;
+}
+
+.fast-news-table .caption {
+    font-weight: normal;
+}
+/***20200616 : 추가 ***/
+.cvp01 {position:relative; display:inline-block;}
+.cvp_c01 {display:block;background:#d5e4ff;padding: 0 5px;}
+.cvp_wrap {display:none; left: 72px;top: 50%;margin-top: -46px;position:absolute;padding:6px;height:78px;width:188px;background:#f2efea;border:1px solid #000000;border-radius:5px; z-Index:5;}
+.cvp_close01 {display:block; position:absolute; top:6px; right:6px; width:13px; height:13px; background:url(https://cfnimage.commutil.kr/fntimes_www/img/vpop_close01.png) no-repeat;}
+.cvp_wrap .w1 {display:block; position:absolute; top:6px; left:6px; width:80px; height:80px;}
+.cvp_wrap .w1 img {display:block; width:80px; height:80px; border-radius:100%;}
+.cvp_wrap .w2 {display:block;margin-left:92px;padding-top: 20px;}
+.cvp_wrap .w2 .e1 {display:block; text-align:center; font-size:21px; line-height:26px;font-weight:bold;}
+.cvp_wrap .w2 .e2 {display:block;margin-top:5px;text-align:center;line-height: 0px;}
+.cvp_wrap .w2 .e2 a {color:#000000; display:inline-block; font-size:12px; line-height:16px; padding-bottom:2px; border-bottom:1px solid #000000;}
+/***20200616 : 추가 ***/
+</style>
+
+		<div class="con_wrap">
+<div id="leftSkyBanner" style="position:absolute;width:160px;text-align:right;margin-left:-180px;">
+<!-- MEDIA_61_FNTIMES_COM_GRP_DEVICE:PC#기사 페이지#UNIT:좌측상단날개 -->
+<ins class="adsbyaiinad" data-aiinad-inv="21836723688"></ins><div style="clear:both;margin-top:10px;"></div><!-- MEDIA_61_FNTIMES_COM_GRP_DEVICE:PC#기사 페이지#UNIT:좌측하단날개 -->
+<ins class="adsbyaiinad" data-aiinad-inv="21836812243"></ins></div>
+<div id="rightSkyBanner" style="position:absolute;margin-left: 1125px;width:160px;">
+<script src="https://media.adpnut.com/cgi-bin/PelicanC.dll?impr?pageid=01sW&out=script"></script><div style="clear:both;margin-top:10px;"></div><script src="https://media.adpnut.com/cgi-bin/PelicanC.dll?impr?pageid=01sV&out=script"></script></div>
+			<div class="con_lt">
+				<div class="vcon">
+					<div class="vcon_hd" style="padding-bottom:15px;">
+						<div class="vcon_brdcom">
+							<ul>
+															<li><a href="https://www.fntimes.com/html/secindex.php?ct=g0200">산업</a></li>
+								<li><a href="https://www.fntimes.com/html/list.php?ct=g0201" class="on">기업·재계</a></li>
+														</ul>
+						</div>
+						<h2>SK하이닉스, 키파운드리 인수…"파운드리 생산능력 두 배 확대"</h2>
+						<div class="vcon_hd_din2" style="float:left;">
+
+							<div class="q1">
+								<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=172&h=172&m=5&simg=202004231849531782edd30f73a81101529201_0.jpg" />
+							</div>
+							<div class="q2">
+								<p>정은경 기자</p>
+								<p>ek7869@</p>
+							</div>
+								</div>
+						<div class="vcon_hd_din3">
+							<p>기사입력 : 2021-10-29 13:01 최종수정 : 2021-10-29 13:15</p>
+						</div>
+					</div><!-- //vcon_hd -->
+					
+					<!--  본문 컨트럴 +, -, print, sns-->
+										<div class="vcon_btns">
+						<div class="vcon_btns_lt">
+							<a href="javascript:print( '202110291250558039645ffc9771_18' );" class="print"><span class="blind">프린트</span></a>
+							<span class="vcon_zoom">
+								<a href="javascript:void(0);" class="zoomout smaller_size"><span class="blind">글자크기 작게</span></a>
+								<a href="javascript:void(0);" class="zoomin bigger_size"><span class="blind">글자크기 크게</span></a>
+								<a href="javascript:jst_myscrap();" class="scrap"><span class="blind">스크랩</span></a>
+							</span>
+						</div>
+						<div class="vcon_btns_rt">
+							<ul>
+								<li><a href="javascript:sendSns('facebook', 'https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18', 'SK하이닉스, 키파운드리 인수…&quot;파운드리 생산능력 두 배 확대&quot;', '', 'pc');" class="facebook"><span class="blind">페이스북</span></a></li>
+								<li><a href="javascript:sendSns('twitter', 'https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18', 'SK하이닉스, 키파운드리 인수…&quot;파운드리 생산능력 두 배 확대&quot;', '', 'pc');" class="twitter"><span class="blind">트위터</span></a></li>
+								<li><a href="javascript:sendSns('google', 'https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18', 'SK하이닉스, 키파운드리 인수…&quot;파운드리 생산능력 두 배 확대&quot;', '', 'pc');" class="kstory"><span class="blind">구글플러스</span></a></li>
+								<li><a href="javascript:loginWithKakao('https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18', 'pc');" class="gplus"><span class="blind">카카오스토리</span></a></li>
+							</ul>
+						</div>
+					</div>
+					<script>
+					function jst_myscrap(){
+						var focusv=window.open('view_scrap.php?ud=202110260915548902645ffc9771_18','scrap','width=500,height=300');
+						focusv.focus();
+						return;
+					}
+					</script>
+
+					<div class="vcon_con">
+						<h2>키파운드리 지분 100% 5758억원에 인수<br />
+파운드리 생산 능력 두 배 확대 기대…</h2>						<div class="vcon_con_wrap">
+							<div class="vcon_con_sns">
+								<ul>
+									<li><a href="javascript:sendSns('facebook', 'https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18', 'SK하이닉스, 키파운드리 인수…&quot;파운드리 생산능력 두 배 확대&quot;', '', 'pc');" class="facebook"><span class="blind">페이스북</span></a></li>
+									<li><a href="javascript:sendSns('twitter', 'https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18', 'SK하이닉스, 키파운드리 인수…&quot;파운드리 생산능력 두 배 확대&quot;', '', 'pc');" class="twitter"><span class="blind">트위터</span></a></li>
+									<li><a href="javascript:sendSns('google', 'https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18', 'SK하이닉스, 키파운드리 인수…&quot;파운드리 생산능력 두 배 확대&quot;', '', 'pc');" class="kstory"><span class="blind">구글플러스</span></a></li>
+									<li><a href="javascript:loginWithKakao('https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18', 'pc');" class="gplus"><span class="blind">카카오스토리</span></a></li>
+								</ul>
+							</div>
+							<div class="vcon_con_in">
+								<div class="vcon_con_intxt" itemprop="articleBody" id="articleBody">
+<div class="mimg" style="width:600px;margin:0px auto;margin-bottom:10px;"><img style="width:600px;" src="https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?idx=3&simg=2021102609525108379645ffc977121122668102.jpg"><div style="width:600px;margin:2px 0;margin-bottom: 7px;"><iframe src="//io1.innorame.com/imp/bRZ6pboqQ85D.iframe" width="100%" height="90" allowTransparency = "true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" style="width:420px;min-width:100%;position:relative;"></iframe></div></div>[한국금융신문=정은경 기자]  <div style="float:right;margin:0px 0px 10px 10px;"><div style="float:right;margin:0 0 10px 10px;"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-4907634972239128";
+/* sh_fntimes_300_250 */
+google_ad_slot = "sh_fntimes_300_250";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<!-- MEDIA_61_FNTIMES_COM_GRP_DEVICE:PC#기사 페이지#UNIT:본문내우측_336x280 -->
+<!------ div id="INPUT_21836813701"><script type="text/javascript" async>(function(){var wt_21836813701=0,w_21836813701=function(){void 0!==window.MCTRunAd?window.MCTRunAd("21836813701"):(wt_21836813701++,wt_21836813701<1e3&&setTimeout(w_21836813701,10))};w_21836813701();})();</script></div--></div></div>SK하이닉스가 8인치 파운드리(반도체 위탁생산) 기업인 키파운드리를 인수하며 파운드리 생산 능력 확대에 나선다. <br />
+<br />
+ SK하이닉스는 매그너스 반도체 유한회사로부터 키파운드리 지분 100%를 5758억 원에 인수하는 계약을 체결했다고 29일 공시했다. <br />
+<br />
+ SK하이닉스 관계자는 “키파운드리 인수는 SK하이닉스의 파운드리 생산능력을 2배 확대하는 데 기여할 것으로 기대한다”며 “앞으로 당사는 8인치 파운드리 역량을 보강하여 시스템 반도체 경쟁력을 키우고, 글로벌 반도체 공급망 안정화와 국내 팹리스 생태계 지원에도 나서겠다”고 강조했다. <br />
+ <br />
+키파운드리는 <span  style="letter-spacing: 0pt;">8</span>인치 웨이어 기반 파운드리업체로 지난 <span  style="letter-spacing: 0pt;">1979</span>년 설립된 <span  style="letter-spacing: 0pt;">LG</span>반도체가 모체다<span  style="letter-spacing: 0pt;">. 1999</span>년 현대전자와 합병하면서 하이닉스 반도체가 됐고<span  style="letter-spacing: 0pt;">, 2004</span>년 하이닉스 구조조정 과정에서 비메모리 부문을 분리한 뒤 매그나칩반도체를 세워 해외 <span  style="letter-spacing: 0pt;">CVC</span>캐피털에 매각했다<span  style="letter-spacing: 0pt;">.</span><br />
+<br />
+ 키파운드리는 이 매그나칩에서 충북 청주에 있는 파운드리 시설만 별도로 분리해 설립한 회사로 지난해 <span  style="letter-spacing: 0pt;">3</span>월 국내 사모펀드가 설립한 특수목적법인 매그너스 반도체에 인수됐다. 당시 SK하이닉스는 이 사모펀드에 49.76%를 출자한 바 있다. <br />
+<br />
+키파운드리는 다품종 소량 생산에 적합한 8인치 웨이퍼를 기반으로 하는 반도체 생산 시설을 보유하고 있다. 이 회사는 △전력 반도체(PMIC)  △디스플레이구동칩(DDI) △마이크로컨트롤러유닛(MCU) 등 비메모리 반도체를 위탁 생산하고 있다. <br /><div style="float:right;margin:10 0 10px 10px;"><script>document.write("<d"+"iv id='mobonDivBanner_403715'><iframe name='ifrad' id='mobonIframe_403715' src='//www.mediacategory.com/servlet/adBanner?from="+escape(document.referrer)+"&s=403715&igb=74&iwh=300_250&cntad=1&cntsr=1' frameborder='0' scrolling='no' style='height:250px; width:300px;'></iframe></div>");</script></div>
+<br />
+현재 SK하이닉스는 8인치 파운드리 자회사 SK하이닉스시스템아이씨(IC)를 보유하고 있다. 시스템IC의 웨이퍼 처리량은 이번에 인수 계약을 체결한 키파운드리와 비슷한 규모로, SK하이닉스는 파운드리 생산능력이 2배 커질 것으로 기대하고 있다.<span  style="text-indent: 21.25pt;"> </span> <br />
+<br />
+  SK하이닉스는 그간 파운드리 생산능력을 확대하기 위해 여러 옵션을 두고 검토하다가 키파운드리를 인수하기로 결정했다. <br />
+<br />
+<span class="cvp01"><span class="cvp_c01">박정호</span><span class="cvp_wrap"><a href="javascript:;" class="cvp_close01"><span class="blind">닫기</span></a><span class="w1"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=172&h=172&m=1&simg=2018012201405406053c1c16452b011214843158.jpg"></span><span class="w2"><span class="e1">박정호</span><span class="e2"><a href="https://www.fntimes.com/html/issuelist.php?ud=2018012201390406450">기사 모아보기</a></span></span></span></span> SK하이닉스 부회장은 지난 4월 “국내 팹리스 업체들이 TSMC 기술 수준의 파운드리 서비스를 해주면 좋겠다는 요청이 있었고 이에 공감한다”며 “파운드리에 투자를 많이 할 생각”이라고 언급한 바 있다. 지난 5월에는 ‘K-반도체 전략 보고 대회’에서 “8인치 파운드리 생산능력을 2배로 늘리겠다”고 발표한 바 있다.<br />
+<br />
+ SK하이닉스 측은 "향후 주요 국가의 규제 승인을 얻어 키파운드리 인수를 마무리하겠다"고 밝혔다.<br /><br /><span style="font-size:14px;">정은경 기자 ek7869@fntimes.com<span><br />								</div><!-- //vcon_con_intxt -->
+	<div style="margin:15px 0; text-align:center;">
+	<a href="https://newsstand.naver.com/968" target="_blank"><img src="https://cfnimage.commutil.kr/fntimes_www/img/naver_stand.gif" /></a>
+	</div>
+
+								<div class="vcon_con_copy">
+								  <p>데일리 금융경제뉴스 FNTIMES - 저작권법에 의거 상업적 목적의 무단 전재, 복사, 배포 금지<br>Copyright ⓒ 한국금융신문 &amp; FNTIMES.com</p>
+								</div>
+<div  class="clsnorpcview19" style="width:668px;margin-top:15px;"><ins class="adsbyaiinfeed" data-aiinfeed-inv="126"></ins></div>							</div>
+
+						</div><!-- // vcon_con_wrap -->
+					</div><!-- // vcon_con -->
+
+					<!--  본문 컨트럴 +, -, print, sns-->
+					<style>
+.vcon_btns_lt {float: left; padding-left:8px;}
+.vcon_btns_lt p {color:#3b569a; font-size:18px; line-height:32px;}
+.vcon_btns_lt p span {color:#111111; display:inline-block;}
+.vcon_btns_lt p span a {line-height:18px; color:#111111; display:inline-block; border-bottom:1px solid #111111;}
+</style>
+					<div class="vcon_btns vcon_btns_btm" style="width:100%;">
+						<div class="vcon_btns_lt">
+							<p>정은경 기자<span>의 <a href="https://www.fntimes.com/html/search.php?nsk=3&sn=%EC%A0%95%EC%9D%80%EA%B2%BD">기사 더보기</a></span></p>
+						</div>
+						<div class="vcon_btns_rt">
+							<ul>
+								<li><a href="javascript:sendSns('facebook', 'https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18', 'SK하이닉스, 키파운드리 인수…&quot;파운드리 생산능력 두 배 확대&quot;', '', 'pc');" class="facebook"><span class="blind">페이스북</span></a></li>
+								<li><a href="javascript:sendSns('twitter', 'https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18', 'SK하이닉스, 키파운드리 인수…&quot;파운드리 생산능력 두 배 확대&quot;', '', 'pc');" class="twitter"><span class="blind">트위터</span></a></li>
+								<li><a href="javascript:sendSns('google', 'https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18', 'SK하이닉스, 키파운드리 인수…&quot;파운드리 생산능력 두 배 확대&quot;', '', 'pc');" class="kstory"><span class="blind">구글플러스</span></a></li>
+								<li><a href="javascript:loginWithKakao('https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18', 'pc');" class="gplus"><span class="blind">카카오스토리</span></a></li>
+							</ul>
+						</div>
+					</div>
+					<script>
+					function jst_myscrap(){
+						var focusv=window.open('view_scrap.php?ud=202110260915548902645ffc9771_18','scrap','width=500,height=300');
+						focusv.focus();
+						return;
+					}
+					</script>
+
+
+					<div class="vcon_btm">
+						<div class="vcon_btm_con">
+							<div class="vcon_btm1">
+								<h3>관련기사</h3>
+								<ul>
+<li><a href="https://www.fntimes.com/html/view.php?ud=202110261605584866645ffc9771_18">ㄴ SK하이닉스, D램 수익성 확보·낸드 성장성에 집중</a></li><li><a href="https://www.fntimes.com/html/view.php?ud=202110261022326642645ffc9771_18">ㄴ [컨콜] SK하이닉스 "인텔 낸드 인수, 중국 승인만 남아…연내 승인 기대"</a></li><li><a href="https://www.fntimes.com/html/view.php?ud=202110260959112122645ffc9771_18">ㄴ [컨콜] SK하이닉스 “CAPEX, 내년 상반기까지 보수적 집행…경영 계획 두 달 이상 앞당겨”</a></li><li><a href="https://www.fntimes.com/html/view.php?ud=202110260941148181645ffc9771_18">ㄴ [컨콜] SK하이닉스 "글로벌 공급망 이슈 어느정도 파악된 변수…장기계약 변수 없어"</a></li><li><a href="https://www.fntimes.com/html/view.php?ud=202110260915548902645ffc9771_18">ㄴ [2021 3분기 실적] SK하이닉스, 3분기 사상 최대 분기매출…영업익 220%↑</a></li>								</ul>
+							</div>
+<div  class="clsnorpcview26" style="width:750px;margin-top:15px;"><!-- MEDIA_61_FNTIMES_COM_GRP_DEVICE:PC#기사 페이지#UNIT:바이라인하단1 -->
+<ins class="adsbyaiinad" data-aiinad-inv="22180933424"></ins></div>
+	<!--딥다이브 위젯-->
+	<div style="    margin: 15px auto 0 auto; text-align: center;width: 668px;">
+	<ins name="deepdive" data-wid="FNTNAP002"></ins>
+	</div>
+	<!--//딥다이브 위젯-->
+
+							<div class="social_reply_wrap" style="width:100%;">
+								<div class="social_reply" style="background-color:#fff; text-align:center; padding:5px 0;width:100%;">
+<div class="fb-comments" data-href="https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18" data-width="100%" data-numposts="5" style="width:100%;"></div>
+								</div>
+							</div>
+							<div class="vcon_btm2">
+								<h3><span>산업</span> 다른 기사</h3>
+								<ul>
+									<li>
+										<a href="https://www.fntimes.com/html/view.php?ud=202110291713339967645ffc9771_18">
+											<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=241&h=180&m=1&simg=2021102917211905381645ffc97711456164236.jpg" />
+											<span class="q1">
+												<span>KT 통신 장애는 인재…“‘exit’ 명령어 누락…협력업체 직원끼리 작업”</span>
+											</span>
+										</a>
+									</li><li>
+										<a href="https://www.fntimes.com/html/view.php?ud=2021102915025366707de3572ddd_18">
+											<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=241&h=180&m=1&simg=20211029150450015337de3572ddd3639115106.jpg" />
+											<span class="q1">
+												<span>SK이노베이션 배터리, 올해 매출 3조원 청신호…내년 매출 6조원-흑자전환 도전</span>
+											</span>
+										</a>
+									</li><li>
+										<a href="https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18">
+											<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=241&h=180&m=1&simg=2021102609525108379645ffc977121122668102.jpg" />
+											<span class="q1">
+												<span>SK하이닉스, 키파운드리 인수…"파운드리 생산능력 두 배 확대"</span>
+											</span>
+										</a>
+									</li>								</ul>
+							</div>
+<div  class="clsnorpcview07" style="width:750px;margin-top:15px;"><!-- MEDIA_61_FNTIMES_COM_GRP_DEVICE:PC#기사 페이지#UNIT:바이라인하단2 -->
+<ins class="adsbyaiinad" data-aiinad-inv="21836812813"></ins></div>
+							<div class="vcon_btm3">
+								<h3>산업 많이 본 기사</h3>
+								<ul>
+									<li style="height: 41px;overflow: hidden;"><a href="https://www.fntimes.com/html/view.php?ud=202110261448411947de3572ddd_18"><span>1.</span>[컨콜] 현대차 "올해말 G90 풀체인지 출시"</a></li><li style="height: 41px;overflow: hidden;"><a href="https://www.fntimes.com/html/view.php?ud=20211027105842709399ebb03838_18"><span>2.</span>NC소프트 '리니지2' 서비스 18주년 기념 대규모 프로모션·업데이트 실시</a></li><li style="height: 41px;overflow: hidden;"><a href="https://www.fntimes.com/html/view.php?ud=202110281647449650645ffc9771_18"><span>3.</span>[컨콜] LG전자 “車 반도체 부족 상당기간 지속될 것…VS, 4분기 흑자전환 어려워”</a></li><li style="height: 41px;overflow: hidden;"><a href="https://www.fntimes.com/html/view.php?ud=202110211559397507de3572ddd_18"><span>4.</span>제네시스 전기차 콘셉트카 '제네시스 엑스' 레드닷 최우수상</a></li><li style="height: 41px;overflow: hidden;"><a href="https://www.fntimes.com/html/view.php?ud=202110281213043241645ffc9771_18"><span>5.</span>[컨콜] 삼성전자 “잔여 재원 발생 시 4분기 특별배당”</a></li><li style="height: 41px;overflow: hidden;"><a href="https://www.fntimes.com/html/view.php?ud=20211028092558253645ffc9771_18"><span>6.</span>삼성전자, 첫 분기 매출 70조 돌파…반도체·폴더블폰 판매 호조</a></li><li style="height: 41px;overflow: hidden;"><a href="https://www.fntimes.com/html/view.php?ud=202110281819206752645ffc9771_18"><span>7.</span>KT 구현모 "약관 관계없이 보상안 마련할 것"…29일 긴급 이사회 개최</a></li><li style="height: 41px;overflow: hidden;"><a href="https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18"><span>8.</span>SK하이닉스, 키파운드리 인수…"파운드리 생산능력 두 배 확대"</a></li><li style="height: 41px;overflow: hidden;"><a href="https://www.fntimes.com/html/view.php?ud=20211027235603883799ebb03838_18"><span>9.</span>중남미서 수주 성과 손동연, 원자재 가격 상승에도 실적 선방</a></li><li style="height: 41px;overflow: hidden;"><a href="https://www.fntimes.com/html/view.php?ud=202110271848287806645ffc9771_18"><span>10.</span>이재용 부회장, 백신 확보 숨은 주역…'스피드 경영' 가동</a></li>								</ul>
+							</div>
+
+							<div class="vcon_btm2 mt14">
+								<h3>추천기사</h3>
+								<ul>
+									<li>
+										<a href="https://www.fntimes.com/html/view.php?ud=20210922180652451645ffc9771_18">
+											<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=241&h=180&m=5&simg=2021092200190109695645ffc977121122668102.jpg" />
+											<span class="q1">
+												<span>스마트폰의 혁신, 폴더블 다음은 롤러블</span>
+											</span>
+										</a>
+									</li><li>
+										<a href="https://www.fntimes.com/html/view.php?ud=20210922170343229999ebb03838_18">
+											<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=241&h=180&m=5&simg=202109221702490780599ebb038381251428861.jpg" />
+											<span class="q1">
+												<span>[배터리 톺아보기] 무선이어폰 등 미래를 이끄는 웨어러블 배터리</span>
+											</span>
+										</a>
+									</li><li>
+										<a href="https://www.fntimes.com/html/view.php?ud=202109200036106914dd55077bc2_18">
+											<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=241&h=180&m=5&simg=2021092000493706087dd55077bc2114205175155.jpg" />
+											<span class="q1">
+												<span>오건영 신한은행 IPS기획부 부부장 “테이퍼링 국면, 선진국 비중 높이되 신흥국도 분산투자” [2021 한국금융투자포럼-패널토론]</span>
+											</span>
+										</a>
+									</li>								</ul>
+							</div>
+
+							<!-- 오늘의 뉴스 -->
+							<div class="vcon_btm4">
+								<h3>오늘의 뉴스</h3>
+								<ul>
+									<li class="q1">
+											<a href="https://www.fntimes.com/html/view.php?ud=2021102911325921099249a1ae63_18">
+												<span class="w1"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=180&h=136&m=5&simg=20211029113417035989249a1ae6311823512145.jpg" /></span>
+												<span class="w2">
+													<span class="e1">손병환 농협금융 회장 “토스·카카오 배워라”</span>
+													<span class="e2">“고객 불편사항 해소를 위한 토스나 카카오 노력과 사업 추진 자세를 벤치마킹해야 합니다.”손병환 NH농협금융그룹 회장이 전 계열사 디지털 최고 책임자들이 참여하는 ‘제4차 농협금융 디지털전환(DT)추진최고협의회’에서 이같이 당부했다.화상으로 진행한 이날 회의에서 손 회장은 “우리도 지난 몇 년간 DT 추진에 많...</span>
+												</span>
+											</a>
+										</li><li class="q2">
+										<a href="https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18">SK하이닉스, 키파운드리 인수…"파운드리 생산능력 두 배 확대"</a>
+									</li><li class="q2">
+										<a href="https://www.fntimes.com/html/view.php?ud=202110291356411841539a63f164_18">신동빈 신은 그 브랜드…세븐일레븐, 친환경 운동화 ‘LAR 스니커즈’ 한정판매</a>
+									</li><li class="q2">
+										<a href="https://www.fntimes.com/html/view.php?ud=2021102915025366707de3572ddd_18">SK이노베이션 배터리, 올해 매출 3조원 청신호…내년 매출 6조원-흑자전환 도전</a>
+									</li><li class="q2">
+										<a href="https://www.fntimes.com/html/view.php?ud=2021102909391287045e6e69892f_18">노형욱 “주택시장 안정국면 초기단계”…시장유동성·가계부채 관리 강화 시사</a>
+									</li><li class="q2">
+										<a href="https://www.fntimes.com/html/view.php?ud=202110281647449650645ffc9771_18">[컨콜] LG전자 “車 반도체 부족 상당기간 지속될 것…VS, 4분기 흑자전환 어려워”</a>
+									</li><li class="q2">
+										<a href="https://www.fntimes.com/html/view.php?ud=2021102810261485605e6e69892f_18">[장호성의 BMW] “좀비는 없습니다” 대한민국 교통의 중추, 서울역에 숨은 이야기</a>
+									</li>								</ul>
+							</div>
+
+						</div>
+					</div><!-- //vcon_btm -->
+				</div><!-- // vcon -->
+			</div><!-- // con_lt -->
+			
+			<div class="con_rt">
+<div class="crt_ad" style="padding-bottom: 15px;text-align:center;"><a href="https://www.fntimes.com/extcont/adclick.php?sad=202009242232384759edd30f73a81101529201&ssid=main" ><img src="https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?idx=999&simg=202107072018033145c1c16452b0175114235199_0.gif" width="300" height="50" /><span class="clsAdViewLog" data-id="202009242232384759edd30f73a81101529201" data-sec="main" data-mtype="18" width="0" height="0" style="display:none;"></span></a></div><!--div class="crt_ad" style="padding-bottom: 15px;text-align:center;"><a href="https://www.fntimes.com/html/recruit.php"><img src="https://cfnimage.commutil.kr/fntimes_www/img/rec/2021banner.png" width="100%" alt="" /></a></div-->
+<div class="crt_ad" style="padding-bottom: 15px;"><div style="width:100%;text-align:center;"><a href="https://www.fntimes.com/extcont/adclick.php?sad=201911152016181500c1c16452b012323473&ssid=view"  target="_blank"><img src="https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?idx=999&simg=202110271210027398dd55077bc2175114235199_0.jpg" width="300" height="300" /><span class="clsAdViewLog" data-id="201911152016181500c1c16452b012323473" data-sec="view" data-mtype="18" width="0" height="0" style="display:none;"></span></a></div></div>
+				<div class="crt_ad" style="padding-bottom: 15px;">
+<a href="https://www.fntimes.com/html/issuelist.php?ud=2021102216373404874" style="padding-top: 5px;"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=300&h=-1&m=2&simg=2021102216381103795c1c16452b0175114235199.jpg" /></a><a href="https://www.fntimes.com/html/issuelist.php?ud=2020090708295100107" style="padding-top: 5px;"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=300&h=-1&m=2&simg=2021030216130707138c1c16452b01142066415.jpg" /></a><a href="https://www.fntimes.com/html/issuelist.php?ud=2021092911340100588" style="padding-top: 5px;"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=300&h=-1&m=2&simg=2021092911374403338c1c16452b0175114235199.jpg" /></a><a href="https://www.fntimes.com/html/issuelist.php?ud=2020042015200204744" style="padding-top: 5px;"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=300&h=-1&m=2&simg=2021010514200109534c1c16452b01142066415.jpg" /></a>				</div>
+				<!-- 20190326 : 추가 -->
+				<div class="n_mcrt1d">
+					<div class="mcrt_top">
+						<h2>한국금융 포럼 <span>사이버관</span></h2>
+						<a href="http://ftforum.fntimes.com"  target="_blank" class="more">더보기</a>
+					</div>
+					<div class="n_mcrt1d_con">
+						
+					<div class="w1">
+						<a href="https://www.youtube.com/watch?v=BN3rQnzbV-8" target="_blank"><img src="https://cfnimage.commutil.kr/fntimes_www/img/forum_banner10.jpg?pp=002"></a>
+					</div>
+									<ul>
+							
+					<li>
+						<a href="http://fnforum.fntimes.com/?videoidx=99&show=on" target="_blank">
+							<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=96&h=86&m=1&simg=20211030003002358_Top_fnforum.jpg" />
+							<span class="btn_play"></span>
+						</a>
+					</li>
+			
+							<li>
+								<a href="http://fnforum.fntimes.com/?videoidx=98&show=on" target="_blank">
+									<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=96&h=86&m=1&simg=20211030003002519_Sub_fnforum.jpg" />
+									<span class="btn_play"></span>
+								</a>
+							</li>
+				
+							<li>
+								<a href="http://fnforum.fntimes.com/?videoidx=97&show=on" target="_blank">
+									<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=96&h=86&m=1&simg=20211030003002211_Sub_fnforum.jpg" />
+									<span class="btn_play"></span>
+								</a>
+							</li>
+										</ul>
+					</div>
+				</div>
+				<!-- //20190326 : 추가 -->
+<div class="crt_ad" style="padding-bottom: 15px;"><script> 
+(function(){var b=!1,c="//www.mediacategory.com/servlet/adBanner?from="+escape(document.referrer)+"&s=13996&iwh=300_250&igb=74&cntad=1&cntsr=1",d=function(){b=!0;document.getElementById("mobonDivBanner_13996").innerHTML="<iframe name='ifrad' width='300' height='250' id='mobonIframe_13996' src='"+c+"' frameBorder='0' marginWidth='0' marginHeight='0' scrolling='no' ></iframe>"};try{document.write("<div id='mobonDivBanner_13996'></div>");var e=setTimeout(d,1E3),f=document.getElementsByTagName("head").item(0), 
+a=document.createElement("script");a.src="//cdn.megadata.co.kr/js/media/1.1/MBSHandler.js";a.type="text/javascript";a.async?a.async=!0:a.defer=!0;a.onload=function(){!0!==b&&(clearTimeout(e),enlipleMBSHandler(enlipleMBSHandler.getProductTypeCode("banner"),enlipleMBSHandler.getWebCode(),13996).createBanner(c,"300","250"))};f.appendChild(a)}catch(g){d()}})(); 
+</script></div>
+
+	<!--딥다이브 위젯-->
+	<div style="margin:15px 0; text-align:center;">
+	<ins name="deepdive" data-wid="FNTNAP001"></ins>
+	</div>
+	<!--//딥다이브 위젯-->
+					<!-- 베스트 클릭 -->
+				<div class="lcrt1d">
+					<div class="mcrt_top">
+						<h2>종합 <span>BEST CLICK</span></h2>
+					</div>
+					<div class="mcrt9d_con">
+						<div class="mcrt9d_din on">
+							<ul>
+								<li>
+									<a href="https://www.fntimes.com/html/view.php?ud=2021102908102871226c0eb6f11e_18">
+										<span class="q1">
+											<span   class="p1">1</span>
+										</span>
+										<span class="q2">
+											<span>
+												디어유, 수요예측 경쟁률 2001대 1...“코스닥 역대 3위 기록”
+											</span>
+										</span>
+										<span class="q3"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=69&h=45&m=5&simg=20211029081056047346c0eb6f11e175114235199.jpg"></span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=2021102915220112575e6e69892f_18">
+										<span class="q1">
+											<span   class="p2">2</span>
+										</span>
+										<span class="q2">
+											<span>
+												[11월 1주 청약일정] ‘운정신도시 푸르지오 파르세나’ 등 전국 13곳 1만415가구 청약접수
+											</span>
+										</span>
+										<span class="q3"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=69&h=45&m=5&simg=20211029152218046015e6e69892f22114620571.jpg"></span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=2021102916372479276c0eb6f11e_18">
+										<span class="q1">
+											<span   class="p2">3</span>
+										</span>
+										<span class="q2">
+											<span>
+												삼성전자, 다시 ‘6만전자’...코스피 보름 만에 3000선 밑으로
+											</span>
+										</span>
+										<span class="q3"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=69&h=45&m=5&simg=2021102811364404601645ffc977121122668102.jpg"></span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=2021102910005227560583674372_18">
+										<span class="q1">
+											<span >4</span>
+										</span>
+										<span class="q2">
+											<span>
+												김포 장릉 ‘앞’ 아파트, 결론 11월로…문화재청 ‘보류’
+											</span>
+										</span>
+										<span class="q3"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=69&h=45&m=5&simg=2021102812060106295058367437258122107.jpg"></span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=202110291044044517237391cf86_18">
+										<span class="q1">
+											<span >5</span>
+										</span>
+										<span class="q2">
+											<span>
+												‘신세계그룹 18개 계열사 총집합’ 2021 쓱데이 본행사 진행
+											</span>
+										</span>
+										<span class="q3"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=69&h=45&m=5&simg=2021102910452709494237391cf8622362162238.jpg"></span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=2021102914423833550583674372_18">
+										<span class="q1">
+											<span >6</span>
+										</span>
+										<span class="q2">
+											<span>
+												[주간 부동산 이슈-10월 4주] ‘쪼그라드는’ 부동산 시장…서울 대단지 분양 줄줄이 ‘물거품’
+											</span>
+										</span>
+										<span class="q3"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=69&h=45&m=5&simg=2021073016383104664058367437258122107.jpg"></span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=202110292235314504dd55077bc2_18">
+										<span class="q1">
+											<span >7</span>
+										</span>
+										<span class="q2">
+											<span>
+												[주목 이 지역] 이어지는 3기신도시 사전청약, 하남교산·고양창릉이 온다
+											</span>
+										</span>
+										<span class="q3"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=69&h=45&m=5&simg=2021102922355702641dd55077bc2175114235199.jpg"></span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=202110290849513122179ad43907_18">
+										<span class="q1">
+											<span >8</span>
+										</span>
+										<span class="q2">
+											<span>
+												사회적 거리두기 완화 타고 10월 비제조업 체감경기 상승…제조업은 제자리
+											</span>
+										</span>
+										<span class="q3"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=69&h=45&m=5&simg=2021102908592705375179ad43907175114235199.jpg"></span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=202110291250558039645ffc9771_18">
+										<span class="q1">
+											<span >9</span>
+										</span>
+										<span class="q2">
+											<span>
+												SK하이닉스, 키파운드리 인수…"파운드리 생산능력 두 배 확대"
+											</span>
+										</span>
+										<span class="q3"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=69&h=45&m=5&simg=2021102609525108379645ffc977121122668102.jpg"></span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=2021102909391287045e6e69892f_18">
+										<span class="q1">
+											<span >10</span>
+										</span>
+										<span class="q2">
+											<span>
+												노형욱 “주택시장 안정국면 초기단계”…시장유동성·가계부채 관리 강화 시사
+											</span>
+										</span>
+										<span class="q3"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=69&h=45&m=5&simg=20210820131407094765e6e69892f1211313141.jpg"></span>
+									</a>
+								</li>							</ul>
+						</div><!-- // mcrt9d_din -->
+					</div><!-- // mcrt9d_con -->
+				</div>
+
+
+<div class="crt_ad mt14"><!-- MEDIA_61_FNTIMES_COM_GRP_DEVICE:PC#기사 페이지#UNIT:우측중간1 -->
+<ins class="adsbyaiinad" data-aiinad-inv="22181081883"></ins></div>
+				<div class="mcrt5d">
+					<div class="mcrt_top">
+						<h2>Auto&<span>Tech</span></h2>
+						<a href="https://www.fntimes.com/html/list.php?ct=g0206" class="more">더보기</a>
+					</div>
+					<div class="mcrt5d_con">
+						<div class="mcrt5d_thumb">
+							<ul>
+								<li class="on">
+									<a href="javascript:;">
+										<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=98&h=70&m=1&simg=20211021160538024417de3572ddd3639115106.jpg" />
+										<span></span>
+									</a>
+								</li><li>
+									<a href="javascript:;">
+										<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=98&h=70&m=1&simg=2021101701323503233dd55077bc211420517579.jpg" />
+										<span></span>
+									</a>
+								</li><li>
+									<a href="javascript:;">
+										<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=98&h=70&m=1&simg=202109221702490780599ebb038381251428861.jpg" />
+										<span></span>
+									</a>
+								</li><li>
+									<a href="javascript:;">
+										<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=98&h=70&m=1&simg=202109201110520364599ebb038385878119185.jpg" />
+										<span></span>
+									</a>
+								</li><li>
+									<a href="javascript:;">
+										<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=98&h=70&m=1&simg=2021091119533401850dd55077bc2175114235199.jpg" />
+										<span></span>
+									</a>
+								</li><li>
+									<a href="javascript:;">
+										<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=98&h=70&m=1&simg=20210903161750058447de3572ddd3639115106.jpg" />
+										<span></span>
+									</a>
+								</li>							</ul>
+						</div>
+						<div class="mcrt5d_view">
+							<ul>
+								<li class="on">
+									<a href="https://www.fntimes.com/html/view.php?ud=202110211559397507de3572ddd_18">
+										<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=298&h=210&m=1&simg=20211021160538024417de3572ddd3639115106.jpg" />
+										<span class="q1">
+											<span>제네시스 전기차 콘셉트카 '제네시스 엑스' 레드닷 최우수상</span>
+										</span>
+										<span class="dimm"></span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=202110170123592612dd55077bc2_18">
+										<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=298&h=210&m=1&simg=2021101701323503233dd55077bc211420517579.jpg" />
+										<span class="q1">
+											<span>제네시스 GV60, 전기차 첨단기술 전쟁 주도</span>
+										</span>
+										<span class="dimm"></span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=20210922170343229999ebb03838_18">
+										<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=298&h=210&m=1&simg=202109221702490780599ebb038381251428861.jpg" />
+										<span class="q1">
+											<span>[배터리 톺아보기] 무선이어폰 등 미래를 이끄는 웨어러블 배터리</span>
+										</span>
+										<span class="dimm"></span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=20210920111127217999ebb03838_18">
+										<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=298&h=210&m=1&simg=202109201110520364599ebb038385878119185.jpg" />
+										<span class="q1">
+											<span>[배터리 톺아보기] BoT 시대 이끄는 소형 배터리</span>
+										</span>
+										<span class="dimm"></span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=202109111948577771dd55077bc2_18">
+										<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=298&h=210&m=1&simg=2021091119533401850dd55077bc2175114235199.jpg" />
+										<span class="q1">
+											<span>현대차·기아, 전기차 속도 경쟁 불붙나</span>
+										</span>
+										<span class="dimm"></span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=202109031615185247de3572ddd_18">
+										<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=298&h=210&m=1&simg=20210903161750058447de3572ddd3639115106.jpg" />
+										<span class="q1">
+											<span>BMW 꺾은 벤츠, 볼보 제친 폭스바겐…8월 수입차 시장</span>
+										</span>
+										<span class="dimm"></span>
+									</a>
+								</li>							</ul>
+						</div>
+					</div>	
+				</div><!-- // mcrt5d -->
+
+<!-- 테스트 칼럼 -->
+<div style="margin-top: 20px;"></div>				<div class="lcrt_cnews" style="margin-top:20px">
+					<div class="mcrt_top">
+						<h2>FT<span>카드뉴스</span></h2>
+						<a href="issuelist.php?ud=2017111123232808538" class="more">더보기</a>
+					</div>
+					<div class="lcrt_cnews_con">
+						<div class="cardnews_sml_slide">
+<div><a href="https://www.fntimes.com/html/view.php?ud=202110252035468816c1c16452b0_18"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=298&h=298&m=1&simg=2021102520385600805c1c16452b0175114235199.jpg"></a></div><div><a href="https://www.fntimes.com/html/view.php?ud=202105311923353379c1c16452b0_18"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=298&h=298&m=1&simg=2021060217240903197c1c16452b0175114235199.jpg"></a></div><div><a href="https://www.fntimes.com/html/view.php?ud=202103241733574032dd55077bc2_18"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=298&h=298&m=1&simg=202103241735278405dd55077bc2175114235199_0.jpg"></a></div><div><a href="https://www.fntimes.com/html/view.php?ud=202012142054338635c1c16452b0_18"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=298&h=298&m=1&simg=202012142056578791c1c16452b012323473_0.jpg"></a></div><div><a href="https://www.fntimes.com/html/view.php?ud=202012142018269613c1c16452b0_18"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=298&h=298&m=1&simg=202012142019088790c1c16452b012323473_0.jpg"></a></div>						</div>
+					</div>
+				</div>
+<!-- 인사, 기관 동정  -->
+<div class="crt_ad"><!-- MEDIA_61_FNTIMES_COM_GRP_DEVICE:PC#기사 페이지#UNIT:우측중간2 -->
+<ins class="adsbyaiinad" data-aiinad-inv="22181081595"></ins></div>				<div class="mcrt13d">
+					<div class="mcrt13d_tab">
+						<ul>
+							<li class="on"><a href="javascript:;">인사동정</a></li>
+							<li><a href="javascript:;">기관동정</a></li>
+						</ul>
+					</div>
+					<div class="mcrt13d_con">
+						<div class="mcrt13d_din on">
+							<div class="more">
+								<a href="https://www.fntimes.com/html/list.php?ct=g0305">더보기</a>
+							</div>
+							<ul>
+<li>
+									<a href="https://www.fntimes.com/html/view.php?ud=2021102914443127154b1587365b_18">
+										<span class="q1">
+											<span>
+												[부고] 차남규(전 한화생명 대표이사 부회장)씨 모친상
+											</span>
+										</span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=202110291457291253539a63f164_18">
+										<span class="q1">
+											<span>
+												[부고] 박재구(前 BGF리테일 사장) 모친상
+											</span>
+										</span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=2021102912261895027de3572ddd_18">
+										<span class="q1">
+											<span>
+												[인사] 코오롱그룹 2022년도 정기 임원인사
+											</span>
+										</span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=202110281759532336f09e13944d_18">
+										<span class="q1">
+											<span>
+												[인사] 금융위원회
+											</span>
+										</span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=2021102708094721390583674372_18">
+										<span class="q1">
+											<span>
+												국토안전관리원, 이용강 부원장 임명
+											</span>
+										</span>
+									</a>
+								</li>							</ul>
+						</div>
+						<div class="mcrt13d_din">
+							<div class="more">
+								<a href="https://www.fntimes.com/html/list.php?ct=g0306">더보기</a>
+							</div>
+							<ul>
+<li>
+									<a href="https://www.fntimes.com/html/view.php?ud=202108091114416216fa40c35055_18">
+										<span class="q1">
+											<span>
+												대한민국 배구대표팀 메인후원사 신한금융그룹,  '4강 진출' 여자배구 대표팀에 2억원 쾌척
+											</span>
+										</span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=2021070610020695790d260cda75_18">
+										<span class="q1">
+											<span>
+												[부고] 김태홍(하나카드 경영기획본부장)씨 부친상
+											</span>
+										</span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=2021060118350985169249a1ae63_18">
+										<span class="q1">
+											<span>
+												1분기 은행 BIS비율 16.73%... 코로나에도 건전성 유지
+											</span>
+										</span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=2021053100232373309249a1ae63_18">
+										<span class="q1">
+											<span>
+												이동걸 산은 회장 “녹색 신산업에 5년간 14조 공급”
+											</span>
+										</span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=2021052715380627759249a1ae63_18">
+										<span class="q1">
+											<span>
+												수출입은행, EDCF로 중미 5개국 코로나19 방역 지원
+											</span>
+										</span>
+									</a>
+								</li>							</ul>
+						</div>
+					</div>
+				</div><!-- // mcrt13d -->
+				<div class="mcrt15d">
+					<div class="mcrt_top">
+						<h2>기관별<span>사외이사</span></h2>
+					</div>
+					<div class="mcrt15d_con">
+						<ul>
+<li><a href="https://www.fntimes.com/html/issuelist.php?ud=2019050714410700920">금융공기업</a></li><li><a href="https://www.fntimes.com/html/issuelist.php?ud=2017090201475908572">금융지주</a></li><li><a href="https://www.fntimes.com/html/issuelist.php?ud=2017090201501304482">은행</a></li><li><a href="https://www.fntimes.com/html/issuelist.php?ud=2017090201502301983">증권</a></li><li><a href="https://www.fntimes.com/html/issuelist.php?ud=2017090201504902495">보험</a></li><li><a href="https://www.fntimes.com/html/issuelist.php?ud=2017090201505702168">저축은행</a></li><li><a href="https://www.fntimes.com/html/issuelist.php?ud=2017090201510608849">카드·캐피탈</a></li><li><a href="https://www.fntimes.com/html/issuelist.php?ud=2019062411513006308">자산운용사</a></li><li><a href="https://www.fntimes.com/html/issuelist.php?ud=2019062411520007170">재계</a></li>						</ul>
+					</div>
+				</div>
+				<div class="mcrt16d">
+					<div class="mcrt_top">
+						<h2><span class="q1">#</span><span>사외이사</span></h2>
+						<a href="https://www.fntimes.com/html/search.php?nsk=5&sn=%EC%82%AC%EC%99%B8%EC%9D%B4%EC%82%AC" class="more">더보기</a>
+					</div>
+					<div class="mcrt16d_con">
+						<ul>
+<li><a href="https://www.fntimes.com/html/view.php?ud=2021091709565472140d260cda75_18">조환익 전 한전 사장, OK저축은행 사외이사 선임</a></li>
+		<li><li><a href="https://www.fntimes.com/html/view.php?ud=202106062224442486dd55077bc2_18">신규 사외이사로 알수 있는 유통업 강화 必 분야</a></li>
+		<li><li><a href="https://www.fntimes.com/html/view.php?ud=20210606222237965dd55077bc2_18">안정 속 변화 건설사, 여성 사외이사 선임 속도</a></li>
+		<li>						</ul>
+					</div>
+				</div>
+				<!-- // 170831 : 추가 -->
+<!--  FT도서 -->
+				<div class="mcrt14d">
+					<div class="mcrt_top">
+						<h2>FT<span>도서</span></h2>
+						<a href="https://www.fntimes.com/html/list.php?ct=g0807" class="more">더보기</a>
+					</div>
+					<div class="mcrt14d_tab">
+						<ul>
+							<li class="on"><a href="javascript:;">추천</a></li>
+							<li><a href="javascript:;">서평</a></li>
+							<li><a href="javascript:;">신간</a></li>
+						</ul>
+					</div>
+					<div class="mcrt14d_con">
+						<div class="mcrt14d_din on">
+							<ul>
+<li>
+									<a href="https://www.fntimes.com/html/view.php?ud=202106231722159684f8caa4a5ce_18">
+										<span class="q1">
+											<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=81&h=123&m=5&simg=2021062317252401269c1c16452b0175114235199.jpg" />
+										</span>
+										<span class="q2">
+											<span class="w1">[신간] 데모테크가 온다</span>
+											<span class="w2">“대한민국은 식어가고, 세계는 늙어간다”누구나 다 아는 여기에 내일의 금맥이 숨겨져 있다는 주장이 신간으로 표출되고 있다.     김경록 미래에셋투자와연금센터 대표는 신간「데모테크가 온다」에서 이런 변화를 이전의 문법으로 설명할 수 없는 세계 경제의 변곡점이 다가 왔다는 주장을 펼치고 있다. 저자는 두려워 할 필요도, 냉소적으로 시장을 볼 필요도 없다고 말한다.      1987년 미국의 블랙 먼데이, 1990년 일본의 자산 시장 버블 붕괴, 1997년 아시아 외환위기를 예측해 ‘닥터 둠’이란 별명을 얻은 유대계 투자자 마크 피버는 경제가 수축하는 상황에서도 반드시 확장되는 부문이 있고, 투자자는 그곳을 찾아야 한다고 했다. 앞</span>
+										</span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=2021061410353910561a3cc0b221_18">
+										<span class="q1">
+											<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=81&h=123&m=5&simg=20210614103916086711a3cc0b221175114235199.jpg" />
+										</span>
+										<span class="q2">
+											<span class="w1">[신간] 오건영 저 '부의 시나리오'</span>
+											<span class="w2">투자가 고민스런 시기에 해법을 알려주는 책이 나왔다. ‘부의 시나리오’는 불확실성을 기회로 만드는 4가지 투자전략을 제시하며, 앞으로 전개 될 상황별 대처법을 알려주는 책이다.  ◇ 믿었던 증시에 무슨 일이 ...지난해 그토록 만만해 보였던 주식시장이 올해는 내 맘 같지가 않다. 코스피 지수가 사상 최고치를 경신하는데도, 내 자산은 그렇질 않다. 돌이켜 보면 지난해는 너무 행복했다. 코로나 19의 공포 속에서도 증시는 자고 나면 올랐고, 무슨 주식을 사던 내 판단이 틀리질 않았다. 세상에 이렇게 쉬운 주식투자를 왜 여지 것 몰랐는지 오히려 후회스럽기까지 했다. 하물며 뒤늦게 뛰어든 초심자들까지도 ‘영끌’ ‘빚투’를 해가</span>
+										</span>
+									</a>
+								</li>							</ul>
+						</div>
+						<div class="mcrt14d_din">
+							<ul>
+<li>
+									<a href="https://www.fntimes.com/html/view.php?ud=201806191722342742dd55077bc2_18">
+										<span class="q1">
+											<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=81&h=123&m=5&simg=2018061917231005146dd55077bc221121615247.jpg" />
+										</span>
+										<span class="q2">
+											<span class="w1">후회스런 성급한 말보다 차라리 늦게 말하라!</span>
+											<span class="w2">모든 처세는 말로 이루어진다. 말 한 마디에 천 냥 빚을 갚는가 하면, 말실수 한 번으로 평생 쌓아온 명예를 물거품으로 만들기도 한다. 그럼 말 잘하는 비법이 따로 있을까? 비법은 없다. 요즘같이 이해가 첨예한 상황에서는 더욱 어렵다. 있다면 말실수가 왜 나오겠는가! ‘한번 뱉은 말은 주워 담기 어려우니 조심하라’는 충고는 말이 얼마나 어려운지를 대변한다. 그런데 이처럼 어려운 말을 센스있게 하는 비법이 공개됐다. 성급히 말하고 후회하느니 한 템포 늦춰 말하는 사람이 이긴다는 &lt;한템포 늦게 말하기&gt; 경험서를 소개한다.      산업교육과 자기계발 분야의 고수가 전하는 또 하나의 메시지 이 책의 저자인 조관일 박사는 다</span>
+										</span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=201801191711015311a3cc0b221_18">
+										<span class="q1">
+											<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=81&h=123&m=5&simg=20180119171120090481a3cc0b22121121615247.jpg" />
+										</span>
+										<span class="q2">
+											<span class="w1">[서평] 대체투자자산의 이해</span>
+											<span class="w2">대체투자란 무엇인가? 이제는 보편화 된 대체투자자산의 정의는 한마디로 정의되지 않는다. 일반적으로 이해되는 전통투자 즉, 주식이나 채권 그리고 그와 연계된 상품들의 투자에 대응하는 또 다른 자산에의 투자로 이해되고 있다. 대체투자가 본격화 한 것은 금융위기 이후다. 2007-2008년 전 세계를 강타한 금융위기는 미국발 서브프라임 모기지 부실이 미국의 대형 투자은행인 베어스턴스, 리만부라더스, 메릴린치 등을 파산시키며 발생했다. 당시의 금융시스템이 제도적 안정 속에서 가장 과학적인 포트폴리오 구성을 가능케 할 것이라는 기대가 무참히 무산된 사건이다. 미국 한 국가에서 발생한 위험이 전 세계시장을 감염시킬 수 있다는 </span>
+										</span>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<div class="mcrt14d_din">
+							<ul>
+<li>
+									<a href="https://www.fntimes.com/html/view.php?ud=202108061455045669f8caa4a5ce_18">
+										<span class="q1">
+											<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=81&h=123&m=5&simg=2021080614580409318f8caa4a5ce175114235199.jpg" />
+										</span>
+										<span class="q2">
+											<span class="w1">[신간]그래도 여행은 꽃핀다</span>
+											<span class="w2">오지 마을을 여행하고 식도락 번개를 즐기던 여행자들이 비행기표 대신 펜을 들었다. 그리고 여행이 아니라 인생에 관해 썼다.      팬데믹이라는 긴 터널에 갇혀 있는 우리에게 터널 밖 봄의 희망을 보여준다. 우리의 삶이 다시 활짝 필 수 있다는 희망을 담은 이야기가 신작 「그래도 여행은 꽃핀다」로 출간됐다.      만약 우리가 자서전을 쓴다면 여행이야기 하나쯤은 하고 싶지 않을까? 이때 떠오르는 여행은 과연 어떤 의미일까?     신작 「그래도 여행은 꽃핀다」는 40대 직장맘부터 60대 은퇴자까지, 인생이 결코 만만하지 않다는 것을 잘 아는 지구별여행자 13명의 특별한 이야기를 담았다.     저자들은 여행 중에 겪은 재미있는 에피</span>
+										</span>
+									</a>
+								</li><li>
+									<a href="https://www.fntimes.com/html/view.php?ud=202106231722159684f8caa4a5ce_18">
+										<span class="q1">
+											<img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=81&h=123&m=5&simg=2021062317252401269c1c16452b0175114235199.jpg" />
+										</span>
+										<span class="q2">
+											<span class="w1">[신간] 데모테크가 온다</span>
+											<span class="w2">“대한민국은 식어가고, 세계는 늙어간다”누구나 다 아는 여기에 내일의 금맥이 숨겨져 있다는 주장이 신간으로 표출되고 있다.     김경록 미래에셋투자와연금센터 대표는 신간「데모테크가 온다」에서 이런 변화를 이전의 문법으로 설명할 수 없는 세계 경제의 변곡점이 다가 왔다는 주장을 펼치고 있다. 저자는 두려워 할 필요도, 냉소적으로 시장을 볼 필요도 없다고 말한다.      1987년 미국의 블랙 먼데이, 1990년 일본의 자산 시장 버블 붕괴, 1997년 아시아 외환위기를 예측해 ‘닥터 둠’이란 별명을 얻은 유대계 투자자 마크 피버는 경제가 수축하는 상황에서도 반드시 확장되는 부문이 있고, 투자자는 그곳을 찾아야 한다고 했다. 앞</span>
+										</span>
+									</a>
+								</li>							</ul>
+						</div>
+					</div>
+				</div><!-- // mcrt14d -->
+
+
+<div class="crt_ad" style="margin-top: 20px;"><script> 
+(function(){var b=!1,c="//www.mediacategory.com/servlet/adBanner?from="+escape(document.referrer)+"&s=12035&iwh=300_600&igb=90&cntsr=2&cntad=2",d=function(){b=!0;document.getElementById("mobonDivBanner_12035").innerHTML="<iframe name='ifrad' width='300' height='600' id='mobonIframe_12035' src='"+c+"' frameBorder='0' marginWidth='0' marginHeight='0' scrolling='no' ></iframe>"};try{document.write("<div id='mobonDivBanner_12035'></div>");var e=setTimeout(d,1E3),f=document.getElementsByTagName("head").item(0), 
+a=document.createElement("script");a.src="//cdn.megadata.co.kr/js/media/1.1/MBSHandler.js";a.type="text/javascript";a.async?a.async=!0:a.defer=!0;a.onload=function(){!0!==b&&(clearTimeout(e),enlipleMBSHandler(enlipleMBSHandler.getProductTypeCode("banner"),enlipleMBSHandler.getWebCode(),12035).createBanner(c,"300","600"))};f.appendChild(a)}catch(g){d()}})(); 
+</script></div>
+				<!-- 20171228 : 추가 -->
+				<div class="mcrt19d mt18">
+					<div class="mcrt_top">
+						<h2><a href="list.php?ct=g0208" style="color: #000000;">애드버토리얼</a></h2>
+						<img src="https://cfnimage.commutil.kr/fntimes_www/img/common/ad_ico01.png" class="ad" alt="AD"/>
+					</div>
+					<div class="mcrt19d_con">
+						<ul>
+<li>
+								<a href="https://www.fntimes.com/html/view.php?ud=2021073016001548786c0eb6f11e_18">
+									<span class="q1">
+										<span>메리츠증권, 국내외 펀드에 분산 투자하는 ‘메리츠펀드마스터Wrap’</span>
+										</span>
+									<span class="q2"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=89&h=45&m=1&simg=20210730160044076556c0eb6f11e125187135125.jpg" /></span>
+								</a>
+							</li><li>
+								<a href="https://www.fntimes.com/html/view.php?ud=2021050618050431617de3572ddd_18">
+									<span class="q1">
+										<span>기아, 탄소정보공개(CDP) 최고등급 '리더십A' 획득</span>
+										</span>
+									<span class="q2"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=89&h=45&m=1&simg=20210506180540009477de3572ddd3639115106.jpg" /></span>
+								</a>
+							</li><li>
+								<a href="https://www.fntimes.com/html/view.php?ud=2021050617541031147de3572ddd_18">
+									<span class="q1">
+										<span>기아, 역동성·효율성 강화한 'K8 하이브리드' 출시</span>
+										</span>
+									<span class="q2"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=89&h=45&m=1&simg=20210506175814086027de3572ddd3639115106.jpg" /></span>
+								</a>
+							</li><li>
+								<a href="https://www.fntimes.com/html/view.php?ud=2021033016361595815e6e69892f_18">
+									<span class="q1">
+										<span>현대건설, ‘힐스테이트 달성공원역’ 본격 분양…초고층 주상복합단지</span>
+										</span>
+									<span class="q2"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=89&h=45&m=1&simg=20210330163644073735e6e69892f211217167105.jpg" /></span>
+								</a>
+							</li><li>
+								<a href="https://www.fntimes.com/html/view.php?ud=202103280136507158dd55077bc2_18">
+									<span class="q1">
+										<span>한국예탁결제원, LEI 시장 활성화 박차</span>
+										</span>
+									<span class="q2"><img src="https://cfnimage.commutil.kr/phpwas/restmb_setimgmake.php?w=89&h=45&m=1&simg=2021032801370401580dd55077bc25812316482.jpg" /></span>
+								</a>
+							</li>						</ul>
+					</div>
+				</div>
+				<!-- // 20171228 : 추가 -->
+<div class="crt_ad" style="padding-top: 15px;"><div style="width:100%;text-align:center;"><a href="https://www.fntimes.com/extcont/adclick.php?sad=202110070925518095dd55077bc2175114235199&ssid=view"  target="_blank"><img src="https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?idx=999&simg=202110070925501959dd55077bc2175114235199_0.jpg" width="300" height="300" /><span class="clsAdViewLog" data-id="202110070925518095dd55077bc2175114235199" data-sec="view" data-mtype="18" width="0" height="0" style="display:none;"></span></a></div></div>			</div><!-- // con_rt -->
+		</div><!-- // con_wrap -->
+		
+	</div><!-- // con -->
+	
+<div style="margin:0 auto;width:1100px;"><!-- MEDIA_61_FNTIMES_COM_GRP_DEVICE:PC#기사 페이지#UNIT:페이지하단 -->
+<ins class="adsbyaiinad" data-aiinad-inv="21836814151"></ins></div>
+<script>
+$('.cvp_c01').click(function(){
+	$('.cvp_wrap').hide();
+	$(this).addClass('on');
+	$(this).closest('.cvp01').find('.cvp_wrap').show();
+});
+
+$('.cvp_c01').mouseenter(function(){
+	$('.cvp_wrap').hide();
+	$(this).addClass('on');
+	$(this).closest('.cvp01').find('.cvp_wrap').show();
+});
+
+$('.cvp_close01').click(function(){
+	$(this).closest('.cvp_wrap').hide();
+	$(this).closest('.cvp01').find('.cvp_c01').removeClass('on');
+});
+</script>
+
+
+	<div class="footer">
+		<div class="footer1d">
+			<div class="footer1d_in">
+				<div class="footer1d_con">
+					<h1><a href="https://www.fntimes.com/html/index.php"><img src="https://cfnimage.commutil.kr/fntimes_www/img/common/footer_logo.png" alt="한국금융신문" /></a></h1>
+					<div class="footer1d_nb">
+						<ul>
+							<li style="padding:0 9px;"><a href="/html/company_info.php" target="_blank">회사소개</a></li>
+							<li style="padding:0 9px;"><a href="/html/infomation.php">광고안내</a></li>
+							<li style="padding:0 9px;"><a href="/html/subscription.php">구독신청(신문)</a></li>
+							<li style="padding:0 9px;"><a href="/html/userqanda.php">1:1독자문의</a></li>
+							<li style="padding:0 9px;"><a href="/html/cooperation.php">제휴문의</a></li>
+							<li style="padding:0 9px;"><a href="/html/privacy.php"><strong style="color:blue;font-weight:bold;">개인정보취급방침</strong></a></li>
+							<li style="padding:0 9px;"><a href="/html/foot_add1.php">청소년보호정책</a></li>
+							<li style="padding:0 9px;"><a href="/html/foot_add2.php">고충처리제도</a></li>
+							<li style="padding:0 9px;"><a href="/html/email_privacy.php">이메일 무단수집 거부</a></li>
+							</a>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer2d">
+			<div class="footer2d_in">
+				<p>
+				발행소(주소) : 서울시 중구 다동길 46 다동빌딩 6층 한국금융신문사 ㅣ 사업자번호 : 202-81-39551 ㅣ 제호: 한국금융신문<br />
+				등록번호: 서울, 아03960 ㅣ 등록일자: 1992년 1월 29일 ㅣ 발행.편집인 : 김봉국 ㅣ 발행일자: 1992년 3월2일 ㅣ 대표번호 : 02)773-6300<br />
+FNTIMES.COM의 모든 콘텐츠 및 기사는 저작권법의 보호를 받는 바, 무단 전재, 복사, 배포 등을 금합니다.<br />
+Copyrightⓒ 한국금융신문 All Rights Reserved.
+				</p>
+			</div>
+		</div>
+	
+	</div>
+<div id="snssharedid" style="display:none;"></div>
+<script type="text/javascript">
+/*
+var __strFaceBookStr = "&display=popup&ref=plugin&src=like&kid_directed_site=0&app_id=495945427429135";
+*/
+var __strFaceBookStr = "&display=popup&ref=plugin&src=like&kid_directed_site=0";
+
+var __strFaceBookDebug = 'true';
+</script>
+<script language=javascript src="https://cfnimage.commutil.kr/fntimes_www/jscomm/sns_shared.js?pp=008"></script>
+<script type="text/javascript">
+//본문 확대축소하기
+$(function(){
+	max = 24; // 글씨 크기 최대치
+	min = 12; // 글씨 크기 최소치
+	var fontSize = 17; //기본 폰트 사이즈입니다.
+	$(document).on("click", ".bigger_size",function(){   
+		if(fontSize < max){
+			fontSize = fontSize + 2; //2px씩 증가합니다.
+		}else alert("가장 큰 폰트크기는 "+max+ "px 입니다.");
+		$("div .vcon_con_intxt").css({"font-size": fontSize + "px"});
+	});
+
+	$(document).on("click", ".smaller_size",function(){   
+		if(fontSize > min){
+			fontSize = fontSize - 2; //2px씩 축소됩니다.
+		}else alert("가장 작은 폰트크기는 "+min+ "px 입니다.");
+		$("div .vcon_con_intxt").css({"font-size": fontSize + "px"});
+	}); 
+});
+//카카오스토리 공유
+function loginWithKakao(urls, strMode) {
+	if( strMode == 'pc' )
+	{
+		var kakaoUrl="https://story.kakao.com/share?url="+urls;
+		var popupOptions="width=600, height=460, resizable=no, scrollbars=yes, status=no";
+		window.open(kakaoUrl,"kakaoPop",popupOptions);
+	}
+	else
+	{
+		var kakaoUrl="https://story.kakao.com/share?url="+urls;
+		document.location.href=kakaoUrl;
+	}
+}
+function print( ud )
+{
+	var objWinPrint = window.open('/html/print.php?ud='+ud, 'dispWinPrint', 'width=710, height=600, top=0, left=0, scrollbars=yes');
+}
+</script>
+<script language=javascript>
+var g_strDispType='18';
+var g_strCategory='18-02-01';
+var g_strNewsID='202110291250558039645ffc9771_18';
+var g_strRemoteIP = '112.163.203.88';
+
+function InternalLogFunc()
+{
+	var fbds = document.createElement('script');
+	var s = document.getElementsByTagName('script')[0];
+	fbds.src = 'https://cgeimage.commutil.kr/jscomm/logger/logger.js?pp=007';
+	s.parentNode.insertBefore(fbds, s);
+}
+</script>
+
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "27e1d11e3c72a8";
+wcs_do();
+</script>
+
+<script language=javascript>
+	InternalLogFunc();
+</script> <script src="https://media.adpnut.com/cgi-bin/PelicanC.dll?impr?pageid=01sU&out=script"></script><div id="elpVideoToast">&nbsp;</div>
+<script type="text/javascript">
+var mobonPlToastS = 19769;
+var mobonPlToastW = 300;
+var mobonPlToastH = 200;
+</script>
+<script src="//www.mediacategory.com/mediaCategory/playLinkAd/js/mobonPlayLinkToast.js"></script><script src='//ads.tapzin.com/fntimes/tdn_vod.js'></script><script type="text/javascript" src="https://deepdive.zum.com/widget/starter.js"></script><!--[APPLAD] 네이버 한국금융신문 분석 코드 삽입 요청 -->
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "735da10f136ad8";
+wcs_do();
+</script>
+<!--// [APPLAD] 네이버 한국금융신문 분석 코드 삽입 요청 -->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+</body>
+</html>

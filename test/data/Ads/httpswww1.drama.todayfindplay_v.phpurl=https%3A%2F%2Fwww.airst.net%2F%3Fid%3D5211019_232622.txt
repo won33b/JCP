@@ -1,0 +1,387 @@
+
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+     
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+	<!-- Latest compiled and minified JavaScript -->
+	<script src=" //code.jquery.com/jquery-latest.min.js"></script>
+
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<script type="text/javascript">
+	//<![CDATA[
+	$(document).ready(function()
+	{
+		$("#search_btn").on("click", function()
+		{
+			window.location.href = "/findplay_v.php?url=" + encodeURIComponent($("#search_keyword").val());
+		});
+	});
+	//]]>
+	</script>
+	<style>
+	.ellipsis 
+	{
+		text-overflow:ellipsis;
+		overflow:hidden;
+		white-space:nowrap;
+	}
+
+
+	</style>
+	<style>
+	.ellipsis 
+	{
+		text-overflow:ellipsis;
+		overflow:hidden;
+		white-space:nowrap;
+	}
+
+
+	</style>
+	<style>
+		.progress{
+		    width: 150px;
+		    height: 150px;
+		    line-height: 150px;
+		    background: none;
+		    margin: 0 auto;
+		    box-shadow: none;
+		    position: relative;
+		}
+		.progress:after{
+		    content: "";
+		    width: 100%;
+		    height: 100%;
+		    border-radius: 50%;
+		    border: 2px solid #fff;
+		    position: absolute;
+		    top: 0;
+		    left: 0;
+		}
+		.progress > span{
+		    width: 50%;
+		    height: 100%;
+		    overflow: hidden;
+		    position: absolute;
+		    top: 0;
+		    z-index: 1;
+		}
+		.progress .progress-left{
+		    left: 0;
+		}
+		.progress .progress-bar{
+		    width: 100%;
+		    height: 100%;
+		    background: none;
+		    border-width: 2px;
+		    border-style: solid;
+		    position: absolute;
+		    top: 0;
+		}
+		.progress .progress-left .progress-bar{
+		    left: 100%;
+		    border-top-right-radius: 80px;
+		    border-bottom-right-radius: 80px;
+		    border-left: 0;
+		    -webkit-transform-origin: center left;
+		    transform-origin: center left;
+		}
+		.progress .progress-right{
+		    right: 0;
+		}
+		.progress .progress-right .progress-bar{
+		    left: -100%;
+		    border-top-left-radius: 80px;
+		    border-bottom-left-radius: 80px;
+		    border-right: 0;
+		    -webkit-transform-origin: center right;
+		    transform-origin: center right;
+		    animation: loading-1 1.8s linear forwards;
+		}
+		.progress .progress-value{
+		    width: 85%;
+		    height: 85%;
+		    border-radius: 50%;
+		    border: 2px solid #cccccc;
+		    font-size: 32px;
+		    line-height: 125px;
+		    text-align: center;
+		    position: absolute;
+		    top: 7.5%;
+		    left: 7.5%;
+		}
+		.progress.blue .progress-bar{
+		    border-color: #049dff;
+		}
+		.progress.blue .progress-value{
+		    color: #049dff;
+		}
+		.progress.blue .progress-left .progress-bar{
+		    animation: loading-1 3.2s linear forwards 1.8s;
+		}
+		.progress.yellow .progress-bar{
+		    border-color: #fdba04;
+		}
+		.progress.yellow .progress-value{
+		    color: #fdba04;
+		}
+		.progress.yellow .progress-left .progress-bar{
+		    animation: loading-3 1s linear forwards 1.8s;
+		}
+		.progress.pink .progress-bar{
+		    border-color: #ed687c;
+		}
+		.progress.pink .progress-value{
+		    color: #ed687c;
+		}
+		.progress.pink .progress-left .progress-bar{
+		    animation: loading-4 0.4s linear forwards 1.8s;
+		}
+		.progress.green .progress-bar{
+		    border-color: #1abc9c;
+		}
+		.progress.green .progress-value{
+		    color: #1abc9c;
+		}
+		.progress.green .progress-left .progress-bar{
+		    animation: loading-5 1.2s linear forwards 1.8s;
+		}
+		@keyframes loading-1{
+		    0%{
+		        -webkit-transform: rotate(0deg);
+		        transform: rotate(0deg);
+		    }
+		    100%{
+		        -webkit-transform: rotate(180deg);
+		        transform: rotate(180deg);
+		    }
+		}
+		@keyframes loading-2{
+		    0%{
+		        -webkit-transform: rotate(0deg);
+		        transform: rotate(0deg);
+		    }
+		    100%{
+		        -webkit-transform: rotate(144deg);
+		        transform: rotate(144deg);
+		    }
+		}
+		@keyframes loading-3{
+		    0%{
+		        -webkit-transform: rotate(0deg);
+		        transform: rotate(0deg);
+		    }
+		    100%{
+		        -webkit-transform: rotate(90deg);
+		        transform: rotate(90deg);
+		    }
+		}
+		@keyframes loading-4{
+		    0%{
+		        -webkit-transform: rotate(0deg);
+		        transform: rotate(0deg);
+		    }
+		    100%{
+		        -webkit-transform: rotate(36deg);
+		        transform: rotate(36deg);
+		    }
+		}
+		@keyframes loading-5{
+		    0%{
+		        -webkit-transform: rotate(0deg);
+		        transform: rotate(0deg);
+		    }
+		    100%{
+		        -webkit-transform: rotate(126deg);
+		        transform: rotate(126deg);
+		    }
+		}
+		@media only screen and (max-width: 990px){
+		    .progress{ margin-bottom: 20px; }
+		}		
+	</style>	
+</head>
+
+<body>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<script>
+		  (adsbygoogle = window.adsbygoogle || []).push({
+		    google_ad_client: "ca-pub-1553436124913377",
+		    enable_page_level_ads: true
+		  });
+		</script>
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">Find Link</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="/">Home</a>
+                    </li>     	
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>        
+                	
+     <!-- Page Content -->
+    <div class="container">
+    	<br><br>
+		<div class="row">
+    		<div class="col-lg-12">
+    			<br>
+        		<div class="input-group custom-search-form">
+                    <input type="text" name="search_keyword" id="search_keyword" class="form-control" placeholder="Link URL..." title="Link URL">
+                    <span class="input-group-btn">
+                        <button class="btn btn-default search_btn" type="button" id="search_btn">
+                            <i class="glyphicon glyphicon-search"></i>
+                        </button>
+                    </span>
+               </div>
+			</div>
+		</div>
+		
+    	<br>
+    	<center>
+			<!-- VAVER_TOP -->
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:728px;height:90px"
+			     data-ad-client="ca-pub-1553436124913377"
+			     data-ad-slot="5964077449"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+		</center>
+		<hr>
+        <!-- Page Heading/Breadcrumbs -->
+        <div class="row">
+            <div class="col-lg-12 ellipsis">
+                <ol class="breadcrumb">
+                	<li><i class="glyphicon glyphicon-link"></i></li>
+                    <li><a href="#" id="url_address">loading</a></li>
+                </ol>
+            </div>
+        </div>
+        <!-- /.row -->
+        <div class="row">
+
+            <div class="col-md-8" align="center">
+	            <!-- VIDEO PLAYER -->
+	                    	
+				<iframe src='https://www.airst.net/?id=5211019_232622' width='100%' height='430' frameborder=0 scrolling=no type='application/x-shockwave-flash' allowscriptaccess='always' allowfullscreen='true' name="video_player" id="video_player"></iframe>
+            </div>
+            <div class="col-md-4">            
+            	<center id="ad_box">
+			<!-- VAVER_BOX -->
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:336px;height:280px"
+			     data-ad-client="ca-pub-1553436124913377"
+			     data-ad-slot="3010611046"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+				</center>
+            </div>
+
+        </div>
+
+        <hr>
+		<center>
+			<!-- VAVER_TOP -->
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:728px;height:90px"
+			     data-ad-client="ca-pub-1553436124913377"
+			     data-ad-slot="5964077449"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+		</center>
+		<br>
+		<div class="row">
+			<div class="col-lg-12">
+                <div class="dailymotion-widget" data-placement="5853105e2d2df505ce783433"></div><script>(function(w,d,s,u,n,e,c){w.PXLObject = n; w[n] = w[n] || function(){(w[n].q = w[n].q || []).push(arguments);};w[n].l = 1 * new Date();e = d.createElement(s); e.async = 1; e.src = u;c = d.getElementsByTagName(s)[0]; c.parentNode.insertBefore(e,c);})(window, document, "script", "//api.dmcdn.net/pxl/client.js", "pxl");</script>         
+        		<br>
+			</div>
+		</div>	
+        <!-- Call to Action Section -->
+        <div class="well">
+            <div class="row">
+                <div class="col-md-12">
+                    <p>We are not responsible for any content linked to or referred to from this website or other linked sites. We do not store any music, video, mutimedia files on this website. Also, we are not responsible for copyright, legality, accuracy, compliance, or any other aspects of linked content from other websites. If you have any legal issues please contact appropriate media file owners or hosters</p>
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; Find Link</p>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+    <!-- /.container -->
+</body>
+
+</html>
+<script>
+
+	var timerId = 0;
+	var sum = 0;
+
+	
+	$(document).ready(function() 
+	{
+		setInterval(function() 
+		{
+			sum += 2;
+			
+			if(sum == 100)
+			{
+				$("#btn_go").show();
+				$("#per_value").text(sum + "%");
+				$("#url_address").attr("href", "https://www.airst.net/?id=5211019_232622");
+				$("#url_address").text("https://www.airst.net/?id=5211019_232622");
+			}
+			else if(sum < 100 && sum >= 0)
+			{
+				$("#per_value").text(sum + "%");
+			}
+			
+		}, 100); 
+	});
+	
+</script>
+<script async type="text/javascript">
+(function(cl,i,c,k,m,o,n){m=c;o=cl.referrer;m+='&mon_rf='+encodeURIComponent(o);
+n='<'+i+' type="text/javascript" src="'+m+'"></'+i+'>';cl.writeln(n);
+})(document,'script','https://tab2.clickmon.co.kr/pop/cm_mat.php?PopAd=1056296');
+</script>
