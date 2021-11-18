@@ -146,7 +146,7 @@ BayesClassifier.prototype.classify = function(doc) {
   if (!this._size(classifications)) {
     throw 'Not trained';
   }
-  console.log(classifications[0].value-classifications[1].value);
+  //console.log(classifications[0].value-classifications[1].value);
   return classifications[0].label;
 };
 
