@@ -10,7 +10,16 @@
  * Include Porter Stemmer algorithm
  * https://github.com/miguelmota/bayes-classifier/blob/master/lib/stemmers/porter.js
  */
+
+
+
  var stemmer = require('./porter');
+/*************************************************************** */
+ var fs = require('fs');
+ const path = require('path');
+/**************************************************************                          * *2021-11-26추가/
+
+
 
  /**
   * BayesClassifier
@@ -101,6 +110,7 @@
    for (var i = 0; i < doc.length; i++) {
      this.features[doc[i]] = 1;
    }
+   //console.log(this.features);                                               addDocument확인
  };
  
  /**
@@ -168,6 +178,7 @@
      this.addExample(features, this.docs[i].label);
      this.lastAdded++;
    }
+   console.log(this.classFeatures);
  };
  
  /**
@@ -342,7 +353,23 @@
    }
    return 0;
  };
- 
+
+
+
+/*********************************************************************************** */
+ BayesClassifier.prototype.inputData = function(add1, add2)
+ {
+    addPath = path.join(__dirname,add1,add2);
+    var files = fs.readdirSync(addPath);
+    var Arr = []
+    for(i=0;i<files.length;i++)
+    {
+      var array = fs.readFileSync(addPath+'/'+files[i]).toString();
+      Arr.push(array);
+    }
+    return Arr;
+  };
+ /*****************************************************************************************************2021-11-26추가**** */
  /*
   * Export constructor
   */
