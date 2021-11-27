@@ -113,25 +113,14 @@
             (this.totalExamples = 9),
             (this.smoothing = 1);
         }
-        (o.prototype.addDocument = function (e, t) {
-          if (this._size(e)) {
-            this._isString(e) && (e = this.stemmer.tokenizeAndStem(e));
-            var s = { label: t, value: e };
-            this.docs.push(s);
-            for (var i = 0; i < e.length; i++) this.features[e[i]] = 1;
-          }
+        (o.prototype.docToFeatures = function (e) {
+          var t = [];
+          for (var s in (this._isString(e) &&
+            (e = this.stemmer.tokenizeAndStem(e)),
+          this.features))
+            t.push(Number(!!~e.indexOf(s)));
+          return t;
         }),
-          (o.prototype.addDocuments = function (e, t) {
-            for (var s = 0; s < e.length; s++) this.addDocument(e[s], t);
-          }),
-          (o.prototype.docToFeatures = function (e) {
-            var t = [];
-            for (var s in (this._isString(e) &&
-              (e = this.stemmer.tokenizeAndStem(e)),
-            this.features))
-              t.push(Number(!!~e.indexOf(s)));
-            return t;
-          }),
           (o.prototype.classify = function (e) {
             var t = this.getClassifications(e);
             if (!this._size(t)) throw "Not trained";
