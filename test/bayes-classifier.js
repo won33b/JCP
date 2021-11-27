@@ -1,4 +1,7 @@
 var stemmer = require('./porter');
+var fs = require('fs');
+const path = require('path');
+
 
 /**
  * Terminology
@@ -360,6 +363,20 @@ BayesClassifier.prototype._size = function(s) {
 if (typeof window !== 'undefined') {
   window.BayesClassifier = BayesClassifier;
 }
+
+
+BayesClassifier.prototype.inputData = function(add1, add2)
+ {
+    addPath = path.join(__dirname,add1,add2);
+    var files = fs.readdirSync(addPath);
+    var arr = []
+    for(i = 0; i < files.length; i++)
+    {
+      arr.push(fs.readFileSync(addPath + '/' + files[i]).toString());
+    }
+    return arr;
+  };
+
 
 /*
  * Export constructor
