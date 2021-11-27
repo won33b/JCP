@@ -3,7 +3,7 @@ var classifier = new BayesClassifier();
 
 AdvArr = classifier.inputData('/data', '/Ads');
 notAdvArr = classifier.inputData('/data', '/NotAds');
-htmlArr = classifier.inputData('/data', '/html')
+htmlArr = classifier.inputData('/data', '/html');
 
 classifier.addDocuments(AdvArr, 'Ad');
 classifier.addDocuments(notAdvArr, 'NotAd');
