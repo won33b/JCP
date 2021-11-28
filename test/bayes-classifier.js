@@ -2,7 +2,6 @@ var stemmer = require('./porter');
 var fs = require('fs');
 const path = require('path');
 
-
 /**
  * Terminology
  *
@@ -19,56 +18,56 @@ const path = require('path');
  */
 function BayesClassifier() {
   /*
-   * Create a new instance when not using the `new` keyword.
-   */
+    * Create a new instance when not using the `new` keyword.
+    */
   if (!(this instanceof BayesClassifier)) {
     return new BayesClassifier();
   }
 
   /*
-   * The stemmer provides tokenization methods.
-   * It breaks the doc into words (tokens) and takes the
-   * stem of each word. A stem is a form to which affixes can be attached.
-   */
+    * The stemmer provides tokenization methods.
+    * It breaks the doc into words (tokens) and takes the
+    * stem of each word. A stem is a form to which affixes can be attached.
+    */
   this.stemmer = stemmer;
 
   /*
-   * A collection of added documents
-   * Each document is an object containing the class, and array of tokenized strings.
-   */
+    * A collection of added documents
+    * Each document is an object containing the class, and array of tokenized strings.
+    */
   this.docs = [];
 
   /*
-   * Index of last added document.
-   */
+    * Index of last added document.
+    */
   this.lastAdded = 0;
 
   /*
-   * A map of every class features.
-   */
+    * A map of every class features.
+    */
   this.features = {};
 
   /*
-   * A map containing each class and associated features.
-   * Each class has a map containing a feature index and the count of feature appearances for that class.
-   */
+    * A map containing each class and associated features.
+    * Each class has a map containing a feature index and the count of feature appearances for that class.
+    */
   this.classFeatures = {};
 
   /*
-   * Keep track of how many features in each class.
-   */
+    * Keep track of how many features in each class.
+    */
   this.classTotals = {};
 
   /*
-   * Number of examples trained
-   */
+    * Number of examples trained
+    */
   this.totalExamples = 1;
 
   /* Additive smoothing to eliminate zeros when summing features,
-   * in cases where no features are found in the document.
-   * Used as a fail-safe to always return a class.
-   * http://en.wikipedia.org/wiki/Additive_smoothing
-   */
+    * in cases where no features are found in the document.
+    * Used as a fail-safe to always return a class.
+    * http://en.wikipedia.org/wiki/Additive_smoothing
+    */
   this.smoothing = 1;
 }
 
@@ -78,7 +77,7 @@ function BayesClassifier() {
  * @param {string} label - class
  * @return {object} - Bayes classifier instance
  */
-BayesClassifier.prototype.addDocument = function(doc, label) {
+BayesClassifier.prototype.addDocument = function (doc, label) {
   if (!this._size(doc)) {
     return;
   }
@@ -98,7 +97,6 @@ BayesClassifier.prototype.addDocument = function(doc, label) {
   for (var i = 0; i < doc.length; i++) {
     this.features[doc[i]] = 1;
   }
-
 };
 
 /**
@@ -107,7 +105,7 @@ BayesClassifier.prototype.addDocument = function(doc, label) {
  * @param {string} label - class
  * @return {object} - Bayes classifier instance
  */
-BayesClassifier.prototype.addDocuments = function(docs, label) {
+BayesClassifier.prototype.addDocuments = function (docs, label) {
   for (var i = 0; i < docs.length; i++) {
     this.addDocument(docs[i], label);
   }
@@ -124,7 +122,7 @@ BayesClassifier.prototype.addDocuments = function(docs, label) {
  * @param {string|array} doc - document
  * @return {array} features
  */
-BayesClassifier.prototype.docToFeatures = function(doc) {
+BayesClassifier.prototype.docToFeatures = function (doc) {
   var features = [];
 
   if (this._isString(doc)) {
@@ -132,7 +130,9 @@ BayesClassifier.prototype.docToFeatures = function(doc) {
   }
 
   for (var feature in this.features) {
-    features.push(Number(!!~doc.indexOf(feature)));
+    if (this.features.hasOwnProperty(feature)) {
+      features.push(Number(!!~doc.indexOf(feature)));
+    }
   }
 
   return features;
@@ -144,12 +144,11 @@ BayesClassifier.prototype.docToFeatures = function(doc) {
  * @param {string} doc - document
  * @return {string} class
  */
-BayesClassifier.prototype.classify = function(doc) {
+BayesClassifier.prototype.classify = function (doc) {
   var classifications = this.getClassifications(doc);
   if (!this._size(classifications)) {
     throw 'Not trained';
   }
-  //console.log(classifications[0].value-classifications[1].value);
   return classifications[0].label;
 };
 
@@ -158,7 +157,7 @@ BayesClassifier.prototype.classify = function(doc) {
  * @desc train the classifier on the added documents.
  * @return {object} - Bayes classifier instance
  */
-BayesClassifier.prototype.train = function() {
+BayesClassifier.prototype.train = function () {
   var totalDocs = this.docs.length;
   for (var i = this.lastAdded; i < totalDocs; i++) {
     var features = this.docToFeatures(this.docs[i].value);
@@ -174,7 +173,7 @@ BayesClassifier.prototype.train = function() {
  * @param {string} label - class
  * @return {object} - Bayes classifier instance
  */
-BayesClassifier.prototype.addExample = function(docFeatures, label) {
+BayesClassifier.prototype.addExample = function (docFeatures, label) {
   if (!this.classFeatures[label]) {
     this.classFeatures[label] = {};
     this.classTotals[label] = 1;
@@ -186,7 +185,7 @@ BayesClassifier.prototype.addExample = function(docFeatures, label) {
     var i = docFeatures.length;
     this.classTotals[label]++;
 
-    while(i--) {
+    while (i--) {
       if (docFeatures[i]) {
         if (this.classFeatures[label][i]) {
           this.classFeatures[label][i]++;
@@ -197,12 +196,13 @@ BayesClassifier.prototype.addExample = function(docFeatures, label) {
     }
   } else {
     for (var key in docFeatures) {
-      value = docFeatures[key];
-
-      if (this.classFeatures[label][value]) {
-        this.classFeatures[label][value]++;
-      } else {
-        this.classFeatures[label][value] = 1 + this.smoothing;
+      if (docFeatures.hasOwnProperty(key)) {
+        value = docFeatures[key];
+        if (this.classFeatures[label][value]) {
+          this.classFeatures[label][value]++;
+        } else {
+          this.classFeatures[label][value] = 1 + this.smoothing;
+        }
       }
     }
   }
@@ -246,7 +246,7 @@ BayesClassifier.prototype.addExample = function(docFeatures, label) {
  * The final equation looks like this:
  * P(c|d) = P(c)P(d|c)
  */
-BayesClassifier.prototype.probabilityOfClass = function(docFeatures, label) {
+BayesClassifier.prototype.probabilityOfClass = function (docFeatures, label) {
   var count = 0;
   var prob = 0;
 
@@ -254,38 +254,40 @@ BayesClassifier.prototype.probabilityOfClass = function(docFeatures, label) {
     var i = docFeatures.length;
 
     // Iterate though each feature in document.
-    while(i--) {
+    while (i--) {
       // Proceed if feature collection.
       if (docFeatures[i]) {
         /*
-         * The number of occurances of the document feature in class.
-         */
+          * The number of occurances of the document feature in class.
+          */
         count = this.classFeatures[label][i] || this.smoothing;
 
         /* This is the `P(d|c)` part of the formula.
-         * How often the class occurs. We simply count the relative
-         * feature frequencies in the corpus (document body).
-         *
-         * We divide the count by the total number of features for the class,
-         * and add it to the probability total.
-         * We're using Natural Logarithm here to prevent Arithmetic Underflow
-         * http://en.wikipedia.org/wiki/Arithmetic_underflow
-         */
+          * How often the class occurs. We simply count the relative
+          * feature frequencies in the corpus (document body).
+          *
+          * We divide the count by the total number of features for the class,
+          * and add it to the probability total.
+          * We're using Natural Logarithm here to prevent Arithmetic Underflow
+          * http://en.wikipedia.org/wiki/Arithmetic_underflow
+          */
         prob += Math.log(count / this.classTotals[label]);
       }
     }
   } else {
     for (var key in docFeatures) {
-      count = this.classFeatures[label][docFeatures[key]] || this.smoothing;
-      prob += Math.log(count / this.classTotals[label]);
+      if (docFeatures.hasOwnProperty(key)) {
+        count = this.classFeatures[label][docFeatures[key]] || this.smoothing;
+        prob += Math.log(count / this.classTotals[label]);
+     }
     }
   }
 
   /*
-   * This is the `P(c)` part of the formula.
-   *
-   * Divide the the total number of features in class by total number of all features.
-   */
+    * This is the `P(c)` part of the formula.
+    *
+    * Divide the the total number of features in class by total number of all features.
+    */
   var featureRatio = (this.classTotals[label] / this.totalExamples);
 
   /**
@@ -303,18 +305,20 @@ BayesClassifier.prototype.probabilityOfClass = function(docFeatures, label) {
  * @param {string} doc - document
  * @return classification ordered by highest probability.
  */
-BayesClassifier.prototype.getClassifications = function(doc) {
+BayesClassifier.prototype.getClassifications = function (doc) {
   var classifier = this;
   var labels = [];
 
   for (var className in this.classFeatures) {
-    labels.push({
-      label: className,
-      value: classifier.probabilityOfClass(this.docToFeatures(doc), className)
-    });
+    if (this.classFeatures.hasOwnProperty(className)) {
+      labels.push({
+        label: className,
+        value: classifier.probabilityOfClass(this.docToFeatures(doc), className)
+      });
+    }
   }
 
-  return labels.sort(function(x, y) {
+  return labels.sort(function (x, y) {
     return y.value - x.value;
   });
 };
@@ -325,7 +329,7 @@ BayesClassifier.prototype.getClassifications = function(doc) {
  * @param {object} classifier object
  * @return {object} - Bayes classifier instance
  */
-BayesClassifier.prototype.restore = function(classifier) {
+BayesClassifier.prototype.restore = function (classifier) {
   this.docs = classifier.docs;
   this.lastAdded = classifier.lastAdded;
   this.features = classifier.features;
@@ -338,21 +342,21 @@ BayesClassifier.prototype.restore = function(classifier) {
 };
 
 /*
- * Helper utils
- */
-BayesClassifier.prototype._isString = function(s) {
+* Helper utils
+*/
+BayesClassifier.prototype._isString = function (s) {
   return typeof s === 'string' || s instanceof String;
 };
 
-BayesClassifier.prototype._isArray = function(s) {
+BayesClassifier.prototype._isArray = function (s) {
   return Array.isArray(s);
 };
 
-BayesClassifier.prototype._isObject = function(s) {
+BayesClassifier.prototype._isObject = function (s) {
   return s instanceof Object;
 };
 
-BayesClassifier.prototype._size = function(s) {
+BayesClassifier.prototype._size = function (s) {
   if (this._isArray(s) || this._isString(s) || this._isObject(s)) {
     return s.length;
   }
