@@ -1,0 +1,781 @@
+
+<!doctype html>
+<html lang="ko">
+<head>
+<title>동아일보</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="description" content="대한민국을 대표하는 정론지 동아일보는 디지털 창인 동아닷컴과 함께 공정하고 정확한 뉴스로 독자 여러분과 더 나은 미래를 만들어 나가겠습니다." />
+<meta name="writer" content="동아닷컴" />
+<meta name='referrer' content='unsafe-url'>
+
+<meta name="facebook-domain-verification" content="nyedn3qpatz7zur9vbmms5epehnszw" />
+<link rel="image_src" href="https://image.donga.com/donga2013/images/common/donga_icon.png" />
+<link rel="canonical" href="https://www.donga.com" />
+
+<link rel='stylesheet' type='text/css' href='https://image.donga.com/pc/2020/css/donga_main.css?t=20211102'>
+
+<link rel="stylesheet" type="text/css" href="https://image.donga.com/donga/css.v.2.0/slick.css"/>
+
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+    'userData': {
+        'userId': '',
+        'loginType': '',
+        'loginStatus': 'logout'
+    }
+});
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PCVCHHT');</script>
+<!-- End Google Tag Manager -->
+<script async src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script>
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+googletag.defineSlot('/106061858/donga_news_bigbanner', [[336, 280], [300, 250], [300, 600]], 'div-gpt-ad-1635320402500-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+});
+</script>
+<script type="text/javascript" src="https://image.donga.com/donga/js.v.1.0/jquery-latest.js"></script>
+<script type='text/javascript' src='https://image.donga.com/donga/js.v.1.0/jquery-ui.js'></script>
+<script type='text/javascript' src='https://image.donga.com/donga/js.v.1.0/jquery-cookie.js'></script>
+<script type="text/javascript" src="https://image.donga.com/donga/js.v.2.0/donga_ui.js"></script>
+<script type="text/javascript" src="https://image.donga.com/donga/js.v.2.0/slick.js"></script>
+<script>
+/*
+    $(document).on('click', 'a[href="#"]', function(e){
+        e.preventDefault();
+    });
+*/
+</script>
+<script>
+    (function(d,a,b,l,e,_) {
+    d[b]=d[b]||function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+    e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+    _=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+    })(window,document,'dable','script');
+    dable('setService', 'news.donga.com');
+    dable('sendLog');
+</script>
+<script async src='//d1cykymlllue3h.cloudfront.net/js/donga_hp_outer_admaru.js'></script>
+
+
+</head>
+
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src='https://www.googletagmanager.com/ns.html?id=GTM-PCVCHHT' height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class='skip'><a href='#main_content'>본문바로가기</a></div>
+
+<!-- wrap -->
+<div id="dongawrap">
+    <div id='gnb'><div class='gnbBox'><ul class='gnbLeft'><script type='text/javascript' src='https://www.donga.com/HUB/sports/login1.php?p0=main'></script><li><span class='txt_bar'>|</span><a href='https://readers.donga.com/' target='_blank'>구독신청</a></li><li><span class='txt_bar'>|</span><a href='https://www.donga.com/news/Pdf' target='_blank'>신문보기</a></li><li><span class='txt_bar'>|</span><a href='https://voice.donga.com' target='_blank'>보이스뉴스</a></li></ul><ul class='gnbRight'><li><a href='https://www.donga.com/en'>ENG</a></li><li><a href='https://www.donga.com/cn'>中文</a></li><li><a href='https://www.donga.com/jp'>日文</a><span class='txt_bar'>|</span></li><li><a href='https://www.ichannela.com/' target='_blank'>채널A</a><span class='txt_bar'>|</span></li><li><a href='https://sports.donga.com/' target='_blank'>스포츠동아</a><span class='txt_bar'>|</span></li><li class='more'><a href='#' onClick="javascript:$('#moremap').toggle();return false;">더보기<span class='icon_com icon_more'></span></a></li></ul></div></div>
+    <!-- header -->
+    <div id="header">
+        <div class='header_box'><div id='top_banner'><div class='elements'><div class='pannel'><span class='dongabird'><a href='https://heritage.donga.com/' target='_blank'  data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 헤더 좌측 배너'><img src='https://dimg.donga.com/a/210/60/95/1/carriage/NEWS/images/home_logo_left_banner/5fc5eef51469a1e072b.jpg' alt='DNA' /></a></span></div></div></div><div id='top_right'><a href='https://original.donga.com/' target='_blank' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 헤더 우측 배너'><img src='https://dimg.donga.com/a/210/60/95/1/carriage/NEWS/images/home_logo_right_banner/616e68d20c7ad27382d9.jpg' alt='The original'></a></div><div class='donga_logo'><h1><a href='https://www.donga.com/'><img src='https://image.donga.com/pc/2020/images/common/logo_donga.png' alt='동아닷컴'></a></a></h1></div><div class='top_menu'><a href='#' class='icon_com btn_allmenu' onClick='javascript:return allmenuPopupObj.show();'>전체메뉴보기</a><ul class='menu_list'><li ><a href='https://www.donga.com/news/Opinion'>오피니언</a></li><li ><a href='https://www.donga.com/news/Politics'>정치</a></li><li ><a href='https://www.donga.com/news/Economy'>경제</a></li><li ><a href='https://www.donga.com/news/Inter'>국제</a></li><li ><a href='https://www.donga.com/news/Society'>사회</a></li><li ><a href='https://www.donga.com/news/Culture'>문화</a></li><li ><a href='https://www.donga.com/news/Entertainment'>연예</a></li><li ><a href='https://www.donga.com/news/Sports'>스포츠</a></li><li><a href='https://magazine.donga.com/' target='_blank'>매거진</a></li></ul><script src='https://dimg.donga.com/carriage/NEWS/files/home_content_keyword_2015/home_content_keyword_2015.6.js'></script><a href='#' class='icon_com t_btn btn_search'>검색</a></div></div>
+        
+        <!-- 검색 -->
+        <div id="search_cont">
+            <div class="search_box">
+                <form name='search_form' id='search_form' method='get' action='https://www.donga.com/news/search'>
+                    <div class="search_inp">
+                        <span class="t"><input type="text" id="query" name="query" title="검색어 입력" placeholder="검색어를 입력하세요."></span>
+                        <input type="submit" alt="검색" title="검색" class="icon_com searchbtn" value="search" >
+                    </div>
+                </form>
+                <div class="trend_news">
+                    <script type='text/javascript' src="https://dimg.donga.com/carriage/NEWS/cron/headerbestClick/headerbestClick.js"></script>
+                </div>
+            </div>
+        </div>
+        <!-- //검색 -->
+    </div>
+    <script type="text/javascript">
+        $( document ).ready( function() {
+            $('.top_menu .t_btn').on('click', function () {
+                $('.top_menu .t_btn').toggleClass('btn_search btn_close');
+                $('#search_cont').slideToggle();
+            });
+        });
+    </script>
+    <!-- //header -->
+
+    <!-- 전체메뉴 -->
+    <div id="allmenu_layer">
+        <div class="allmenu_con">
+            <div class="weather">
+                <span class="logo_donga"><a href="https://www.donga.com/"><img src="https://image.donga.com/pc/2020/images/common/icon_donag.png" alt="donga.com" /></a></span>
+                <div class="weather_info">
+                    <div class="weather_frame">
+                        <script type="text/javascript" src="https://www.donga.com/news/Weatheri?m=current&p1=js"></script>
+                    </div>
+                </div>
+                <span class="btn_close" onClick="javascript:return allmenuPopupObj.hide();"><span class="icon_com icon_close">닫기</span></span>
+            </div>
+            <div class="menu_wrap">
+                <ul class="menu_list main_menu">
+                    <li>
+                        <a href="https://www.donga.com/news/List" class="tit">실시간 뉴스</a>
+                    </li>
+                    <li>
+                        <a href="https://www.donga.com/news/Opinion" class="tit">오피니언</a><span class="icon_com icon_view"></span>
+                        <div class="sub" >
+                            <ul class="menu">
+                                <li><a href="https://www.donga.com/news/Series/70040100000001">사설</a></li>
+                                <li><a href="https://www.donga.com/news/Series/70040100000019">동아광장</a></li>
+                                <li><a href="https://www.donga.com/news/Series/70040100000009">오늘과 내일</a></li>
+                                <li><a href="https://www.donga.com/news/Series/70040100000018">시론</a></li>
+                                <li><a href="https://www.donga.com/news/Series/70040100000002">횡설수설</a></li>
+                                <li><a href="https://www.donga.com/news/Series/70040100000034">광화문에서</a></li>
+                                <li><a href="https://www.donga.com/news/Series/70040100000109">@뉴스룸</a></li>
+                                <li><a href="https://www.donga.com/news/Series/70040100000007">기자의 눈</a></li>
+                                <li><a href="https://www.donga.com/news/Series/70080000000359">이슈&트렌트</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="https://www.donga.com/news/Politics" class="tit">정치</a><span class="icon_com icon_view"></span>
+                        <div class="sub" >
+                            <ul class="menu">
+                                <li><a href="https://www.donga.com/news/Politics/CWD">청와대</a></li>
+                                <li><a href="https://www.donga.com/news/Politics/NA">국회정당</a></li>
+                                <li><a href="https://www.donga.com/news/Politics/NK">북한</a></li>
+                                <li><a href="https://www.donga.com/news/Politics/Dip">외교안보</a></li>
+                                <li><a href="https://www.donga.com/news/Politics/Admin">행정자치</a></li>
+                                <li><a href="https://www.donga.com/news/Politics/Poll">여론조사</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="https://www.donga.com/news/Economy" class="tit">경제</a><span class="icon_com icon_view"></span>
+                        <div class="sub" >
+                            <ul class="menu">
+                                <li><a href="https://www.donga.com/news/Economy/CEO">기업CEO</a></li>
+                                <li><a href="https://www.donga.com/news/Economy/RE">부동산</a></li>
+                                <li><a href="https://www.donga.com/news/Economy/Money">금융</a></li>
+                                <li><a href="https://www.donga.com/news/It/List">IT</a></li>
+                                <li><a href="https://www.donga.com/news/Economy/Car">자동차</a></li>
+                                <li><a href="https://www.donga.com/news/Economy/Market">유통</a></li>
+                                <li><a href="https://www.donga.com/news/Economy/Policy">정책/칼럼</a></li>
+                                <li><a href="https://www.donga.com/news/Economy/Job">Job</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="https://www.donga.com/news/Inter" class="tit">국제</a><span class="icon_com icon_view"></span>
+                        <div class="sub" >
+                            <ul class="menu">
+                                <li><a href="https://www.donga.com/news/Inter/Asia">아시아</a></li>
+                                <li><a href="https://www.donga.com/news/Inter/USA">미국/북미</a></li>
+                                <li><a href="https://www.donga.com/news/Inter/EU">유럽</a></li>
+                                <li><a href="https://www.donga.com/news/Inter/China">중국</a></li>
+                                <li><a href="https://www.donga.com/news/Inter/Japan">일본</a></li>
+                                <li><a href="https://www.donga.com/news/Inter/ME">중동</a></li>
+                                <li><a href="https://www.donga.com/news/Inter/Latin">중남미</a></li>
+                                <li><a href="https://www.donga.com/news/Inter/Russia">러시아</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="https://www.donga.com/news/Society" class="tit">사회</a><span class="icon_com icon_view"></span>
+                        <div class="sub" >
+                            <ul class="menu">
+                                <li><a href="https://www.donga.com/news/Society/Edu">교육</a></li>
+                                <li><a href="https://www.donga.com/news/Society/Labor">노동</a></li>
+                                <li><a href="https://www.donga.com/news/Society/Event">사건사고</a></li>
+                                <li><a href="https://www.donga.com/news/Society/Law">법조</a></li>
+                                <li><a href="https://www.donga.com/news/Society/Envi">환경</a></li>
+                                <li><a href="https://www.donga.com/news/Society/Welfare">보건복지</a></li>
+                                <li><a href="https://www.donga.com/news/Society/Weather">날씨</a></li>
+                                <li><a href="https://www.donga.com/news/Society/Traffic">교통</a></li>
+                                <li><a href="https://www.donga.com/news/Society/Region">내고장소식</a></li>
+                                <li><a href="https://www.donga.com/news/Society/List_060007">인사동정</a></li>
+                                <li><a href="https://www.donga.com/news/Society/List_060008">인사</a></li>
+                                <li><a href="https://www.donga.com/news/Society/List_060002">부고</a></li>
+                                <li><a href="https://www.donga.com/news/Society/List_0602">사고</a></li>
+                                <li><a href="https://www.donga.com/news/Society/List_060013">본사손님</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="https://www.donga.com/news/Culture" class="tit">생활 문화</a><span class="icon_com icon_view"></span>
+                        <div class="sub" >
+                            <ul class="menu">
+                                <li><a href="https://www.donga.com/news/Culture/Liter">문학</a></li>
+                                <li><a href="https://www.donga.com/news/Section/Health">건강</a></li>
+                                <li><a href="https://www.donga.com/news/Culture/Food">요리</a></li>
+                                <li><a href="https://www.donga.com/news/Culture/Fashion">패션</a></li>
+                                <li><a href="https://www.donga.com/news/Culture/Travel">여행</a></li>
+                                <li><a href="https://www.donga.com/news/Culture/Music">음악</a></li>
+                                <li><a href="https://www.donga.com/news/Culture/Ani">만화</a></li>
+                                <li><a href="https://www.donga.com/news/Culture/Play">공연</a></li>
+                                <li><a href="https://www.donga.com/news/Culture/Reli">종교</a></li>
+                                <li><a href="https://www.donga.com/news/Culture/Acad">학술</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="https://www.donga.com/news/Entertainment" class="tit">연예</a><span class="icon_com icon_view"></span>
+                        <div class="sub" >
+                            <ul class="menu">
+                                <li><a href="https://www.donga.com/news/Entertainment/TV">방송</a></li>
+                                <li><a href="https://www.donga.com/news/Entertainment/Movie">영화</a></li>
+                                <li><a href="https://www.donga.com/news/Entertainment/Music">대중음악</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="https://www.donga.com/news/Sports" class="tit">스포츠</a><span class="icon_com icon_view"></span>
+                        <div class="sub" >
+                            <ul class="menu">
+                                <li><a href="https://www.donga.com/news/Sports/Base">야구&MLB</a></li>
+                                <li><a href="https://www.donga.com/news/Sports/Foot">축구</a></li>
+                                <li><a href="https://www.donga.com/news/Sports/Golf">골프</a></li>
+                                <li><a href="https://www.donga.com/news/Sports/Basket">농구</a></li>
+                                <li><a href="http://www.donga-marathon.com/" target="_blank">마라톤</a></li>
+                                <li><a href="https://www.donga.com/news/Sports/Combi">종합</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="https://www.donga.com/news/Hotissue" class="tit">실시간 이슈</a>
+                    </li>
+                </ul>
+                <ul class="menu_list sub_menu">
+                    <li>
+                        <a href="https://www.donga.com/news/Issue" class="tit">이슈</a>
+                    </li>
+                    <li>
+                        <a href="https://www.donga.com/news/Series" class="tit">연재</a>
+                    </li>
+                    <li>
+                        <a href="https://www.donga.com/news/TrendNews" class="tit">트렌드뉴스</a><span class="icon_com icon_view"></span>
+                        <div class="sub">
+                            <ul class="menu">
+                                <li><a href="https://www.donga.com/news/TrendNews">많이 본 뉴스</a></li>
+                                <li><a href="https://www.donga.com/news/TrendNews?m=1">댓글이 핫 한 뉴스</a></li>
+                                <li><a href="https://www.donga.com/news/TrendNews?m=2">베스트 추천 뉴스</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="https://www.donga.com/news/Pdf" class="tit">신문보기</a>
+                    </li>
+                </ul>
+                <div class="side_menu">
+                    <a href="https://www.donga.com/news/List/Culture/unse" class="btn_fortune">오늘의 운세</a>
+                </div>
+                <div class="language_menu">
+                    <a href="https://www.donga.com/en" class="eng">ENG</a><a href="https://www.donga.com/cn" class="cha">中文</a><a href="https://www.donga.com/jp" class="jpn">日文</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $( document ).ready( function() {
+            $('.menu_list li .icon_view').on('click', function () {
+                $(".menu_list div").slideUp();
+                $('.menu_list li').removeClass('on');
+                if(!$(this).next().is(":visible"))
+                {
+                    $(this).next().slideDown();
+                    $(this).closest('li').addClass('on');
+                }
+            });
+            window.allmenuPopupObj = Popup( $( '#allmenu_layer' ), {
+                vertical: 'top',  /* top, bottom, center */
+                horizontal: 'left',  /* left, right, center */
+                effect: 'slide',  /* clip slide blind */
+                //direction: 'left',   /* up, down, left, right */
+                //duration: 300,
+                scroll: true
+            });
+        });
+    </script>
+    <!-- //전체메뉴 -->
+    
+    
+
+    <div id="main_container">
+    
+            <div id='main_content' class='headline_type2'>
+                <div class="headline_box2">
+                    <div class="headline1">
+                        
+                        <div class='thumb' ><a href='https://www.donga.com/news/Politics/article/all/20211123/110410600/1?ref=main'  data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 헤드라인 기사'><img src='https://dimg.donga.com/carriage/NEWS/images/home_top_special_photoslide/619c471b20e3d273824a.jpg' alt='headline' /></a><a href='https://www.donga.com/news/Politics/article/all/20211123/110410600/1?ref=main'  style='display:none;'  data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 헤드라인 기사'><img src='https://dimg.donga.com/carriage/NEWS/images/home_top_special_photoslide/619c477d1b58d273824a.jpg' alt='headline' /></a><a href='https://www.donga.com/news/Politics/article/all/20211123/110410600/1?ref=main'  style='display:none;'  data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 헤드라인 기사'><img src='https://dimg.donga.com/carriage/NEWS/images/home_top_special_photoslide/619c472226cad273824a.jpg' alt='headline' /></a><a href='https://www.donga.com/news/Politics/article/all/20211123/110410600/1?ref=main'  style='display:none;'  data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 헤드라인 기사'><img src='https://dimg.donga.com/carriage/NEWS/images/home_top_special_photoslide/619c442e0151d273824a.jpg' alt='headline' /></a><a href='https://www.donga.com/news/Politics/article/all/20211123/110410600/1?ref=main'  style='display:none;'  data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 헤드라인 기사'><img src='https://dimg.donga.com/carriage/NEWS/images/home_top_special_photoslide/619c456a1fd8d273824a.jpg' alt='headline' /></a><a href='https://www.donga.com/news/Politics/article/all/20211123/110410600/1?ref=main'  style='display:none;'  data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 헤드라인 기사'><img src='https://dimg.donga.com/carriage/NEWS/images/home_top_special_photoslide/619c443907fad273824a.jpg' alt='headline' /></a><a href='https://www.donga.com/news/Politics/article/all/20211123/110410600/1?ref=main'  style='display:none;'  data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 헤드라인 기사'><img src='https://dimg.donga.com/carriage/NEWS/images/home_top_special_photoslide/619c44410703d273824a.jpg' alt='headline' /></a><a href='https://www.donga.com/news/Politics/article/all/20211123/110410600/1?ref=main'  style='display:none;'  data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 헤드라인 기사'><img src='https://dimg.donga.com/carriage/NEWS/images/home_top_special_photoslide/619c448e2599d273824a.jpg' alt='headline' /></a><a href='https://www.donga.com/news/Politics/article/all/20211123/110410600/1?ref=main'  style='display:none;'  data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 헤드라인 기사'><img src='https://dimg.donga.com/carriage/NEWS/images/home_top_special_photoslide/619c47971bded273824a.jpg' alt='headline' /></a><a href='https://www.donga.com/news/Politics/article/all/20211123/110410600/1?ref=main'  style='display:none;'  data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 헤드라인 기사'><img src='https://dimg.donga.com/carriage/NEWS/images/home_top_special_photoslide/619c44de1d5cd273824a.jpg' alt='headline' /></a><a href='https://www.donga.com/news/Politics/article/all/20211123/110410600/1?ref=main'  style='display:none;'  data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 헤드라인 기사'><img src='https://dimg.donga.com/carriage/NEWS/images/home_top_special_photoslide/619c451c14c0d273824a.jpg' alt='headline' /></a><span class='sub_head'>전두환 전 대통령 사망</span></div>
+                        <h2 class="tit"><a href="https://www.donga.com/news/Politics/article/all/20211123/110410600/1?ref=main" data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 헤드라인 기사'><center>‘12·12 쿠데타’로 정권 잡고 ‘5·18 민주화운동’ 유혈 진압</center></a></h2>
+                    </div>
+                    <div class='related_cont'>
+                        <ul class='related_list'><li><a href='https://www.donga.com/news/Politics/article/all/20211123/110411094/1?ref=main'  data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 헤드라인 연관 기사'>사과·반성은 끝내 없었다<br>전두환, 출생부터 사망까지</a></li><li><a href='https://www.donga.com/news/Society/article/all/20211123/110412561/1?ref=main'  data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 헤드라인 연관 기사'>전두환 “북녘 보이는 고지에 <br>백골로” 유언…가족장할 듯</a></li><li><a href='https://www.donga.com/news/Politics/article/all/20211123/110413259/2?ref=main'  data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 헤드라인 연관 기사'>국가보훈처 “전두환, <br>국립묘지 안장 배제 대상”</a></li><li><a href='https://www.donga.com/news/Inter/article/all/20211123/110415328/1?ref=main'  data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 헤드라인 연관 기사'>NYT “군사 독재자 전두환 사망<br>…끝까지 사과하지 않았다”</a></li></ul>
+                    </div>
+                </div>
+                <script>
+    setInterval( function() {
+        var headPhoTotal = $('.headline_box2 .headline1 .thumb a').length;
+        var headPhoCursor = 0 ;
+        $('.headline_box2 .headline1 .thumb a').each ( function(index){
+            if ( $(this).css('display') == 'block' )
+            {
+                headPhoCursor = index;
+            }
+        });
+        var headPhoNext = (headPhoCursor + headPhoTotal + 1) %  headPhoTotal  ;
+        $('.headline_box2 .headline1 .thumb a').eq(headPhoCursor).fadeOut( "slow", function() {
+            $('.headline_box2 .headline1 .thumb a').eq(headPhoNext).fadeIn( "slow") ;
+        }) ;
+    }, 3000 ) ;
+</script>
+            <div class='main_top'>
+
+                <div class='main_article'>
+                    <!-- article_left -->
+                    <div class='article_left'>
+                        <div class='scroll_start01'>
+                            <div class='scroll_start01_in'>
+                                <ul class='topnews_list'>
+                                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Politics/article/all/20211123/110411900/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 1' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110411900.1.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Politics/article/all/20211123/110411900/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 1' ><span class='txt'>전두환 24년째 미납 추징금 956억 원, <br>고스란히 사회적 빚으로</span></a></div>
+                </li>
+                <ul class='list'><li class='list_item related_story'><a href='https://www.donga.com/news/Society/article/all/20211123/110414097/1?ref=main' >전두환 사망, 남은 형사·행정 재판들에 미칠 영향은?</a></li></ul>                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Politics/article/all/20211123/110413141/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 2' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110413141.2.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Politics/article/all/20211123/110413141/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 2' ><span class='txt'>이재명 “전두환씨는 내란학살 주범<br>조문 생각 없어”</span></a></div>
+                </li>
+                <ul class='list'><li class='list_item related_story'><a href='https://www.donga.com/news/Politics/article/all/20211123/110414430/2?ref=main' >민주당 “자연인으로선 애도, 역사적 평가는 냉정해야“</a></li></ul>                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Politics/article/all/20211123/110415636/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 3' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110415636.2.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Politics/article/all/20211123/110415636/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 3' ><span class='txt'>윤석열 “전두환 조문, <br>전직 대통령이니 가야 하지 않겠나”</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Politics/article/all/20211123/110410939/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 4' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110410939.2.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Politics/article/all/20211123/110410939/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 4' ><span class='txt'>김종인 “일상으로 돌아갈 것”<br>윤석열 “그 양반 묻지마라”</span></a></div>
+                </li>
+                <ul class='list'><li class='list_item related_story'><a href='https://www.donga.com/news/Politics/article/all/20211123/110414120/1?ref=main' >김종인 “윤석열 찾아오면 만나겠다”…尹 “金 기다리겠다”</a></li><li class='list_item related_story'><a href='https://www.donga.com/news/Politics/article/all/20211123/110415970/1?ref=main' >장제원 “한번도 尹 옆자리 탐한 적 없다…곁 떠나겠다”</a></li></ul>                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Politics/article/all/20211123/110414201/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 5' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110414201.2.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Politics/article/all/20211123/110414201/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 5' ><span class='txt'>“고구려 기병처럼 디지털 영토 확장”<br>‘반성’ 이재명, 선출 후 첫 공약 발표</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Economy/article/all/20211123/110414377/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 6' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110414377.1.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Economy/article/all/20211123/110414377/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 6' ><span class='txt'>‘마약왕 본거지’ 콜롬비아 메데진에 <br>한국형 지능형교통체계 구축</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Society/article/all/20211122/110406182/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 7' ><span class='icon_exclusive'>단독</span><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110406182.1.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Society/article/all/20211122/110406182/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 7' ><span class='txt'>스마트워치로 범행현장 자동 연결<br> 경찰, 7분간 듣고만 있었다</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Society/article/all/20211123/110409438/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 8' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110409438.2.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Society/article/all/20211123/110409438/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 8' ><span class='txt'>‘흉기 난동’에 도망간 여경, <br>실습 훈련 한 번도 못했다…왜?</span></a></div>
+                </li>
+                <ul class='list'><li class='list_item related_story'><a href='https://www.donga.com/news/Society/article/all/20211123/110414836/1?ref=main' >‘층간소음 살인미수’ 속속 드러나는 진실…남성 경찰도 현장 이탈</a></li></ul>                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Economy/article/all/20211123/110406578/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 9' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110406578.1.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Economy/article/all/20211123/110406578/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 9' ><span class='txt'>“종부세로 중형차 한대 값” vs<br> “16억집 종부세, 중형차 세금 수준”</span></a></div>
+                </li>
+                <ul class='list'><li class='list_item related_story'><a href='https://www.donga.com/news/Economy/article/all/20211123/110406531/1?ref=main' >“1주택 종부세 부담 낮아진다”더니… 1인평균 97만→152만원</a></li><li class='list_item related_story'><a href='https://www.donga.com/news/Economy/article/all/20211123/110406573/1?ref=main' >영유아까지 포함시켜 “국민 1.8%만 종부세 낸다”는 정부</a></li></ul>                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Economy/article/all/20211123/110406513/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 10' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110406513.1.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Economy/article/all/20211123/110406513/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 10' ><span class='sub_tit red'>부동산 세제 공약 비교</span><span class='txt'>李 “보유세 강화로 90%에 혜택”<br> 尹 “종부세 폭탄 내년엔 없을것”</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Politics/article/all/20211123/110410747/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 11' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110410747.2.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Politics/article/all/20211123/110410747/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 11' ><span class='txt'>홍준표 “좌파 중 유시민이 낫다<br>제일 싫은 사람 이재명”</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Politics/article/all/20211123/110406263/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 12' ><span class='icon_exclusive'>단독</span><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110406263.1.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Politics/article/all/20211123/110406263/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 12' ><span class='txt'>韓美, 종전선언문에 ‘유엔사 해체않고<br> 정전체제 유지’ 담기로 가닥</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Society/article/all/20211123/110406630/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 13' ><span class='icon_exclusive'>단독</span><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110406630.1.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Society/article/all/20211123/110406630/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 13' ><span class='txt'>수능출제위원장 “코로나에 중위권<br> 무너진듯…수학-국어 쉬웠다”</span></a></div>
+                </li>
+                <ul class='list'><li class='list_item related_story'><a href='https://www.donga.com/news/Society/article/all/20211122/110406014/1?ref=main' >수험생들 “수능 국어 대비해 LEET 풀어야 하나” 불만</a></li></ul>                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Society/article/all/20211123/110412454/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 14' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110412454.2.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Society/article/all/20211123/110412454/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 14' ><span class='txt'>“라면 먹자” 초등생 유인 50대男<br>경찰, 취했다고 조사도 안해</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Economy/article/all/20211123/110407961/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 15' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110407961.2.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Economy/article/all/20211123/110407961/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 15' ><span class='txt'>홍남기 “승용차 개별소비세 인하, <br>내년 6월까지 6개월 연장”</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Society/article/all/20211123/110409623/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 16' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110409623.2.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Society/article/all/20211123/110409623/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 16' ><span class='txt'>위중증 환자 549명 역대 최다<br>신규확진 2699명</span></a></div>
+                </li>
+                <ul class='list'><li class='list_item related_story'><a href='https://www.donga.com/news/Society/article/all/20211122/110406157/1?ref=main' >수도권 코로나 위험도 1주만에 ‘중간’→‘매우 높음’ 2단계 껑충</a></li><li class='list_item related_story'><a href='https://www.donga.com/news/Society/article/all/20211123/110413993/1?ref=main' >정부 “엄중한 상황 계속되면 비상계획 발동까지 염두”</a></li><li class='list_item related_story'><a href='https://www.donga.com/news/Society/article/all/20211123/110407351/1?ref=main' >재택치료 확대로 병상대기 줄인다?…의료계 “현대판 고려장”</a></li></ul>                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Society/article/all/20211123/110409944/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 17' ><span class='icon_com icon_video'>동영상</span><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110409944.2.thumb.gif' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Society/article/all/20211123/110409944/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 17' ><span class='txt'>‘쿵’하며 쓰러진 70대 노인<br>마트 직원·손님이 살렸다</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Politics/article/all/20211123/110406618/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 18' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110406618.1.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Politics/article/all/20211123/110406618/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 18' ><span class='txt'>檢 “대장동 공범 배임액, <br>화천대유 분양수익의 절반 1176억 추가”</span></a></div>
+                </li>
+                <ul class='list'><li class='list_item related_story'><a href='https://www.donga.com/news/Politics/article/all/20211123/110406477/1?ref=main' >대장동 ‘정관계 로비-윗선 의혹’ 수사는 진전 없어</a></li><li class='list_item related_story'><a href='https://www.donga.com/news/Politics/article/all/20211123/110406487/1?ref=main' >檢 “정영학, 특정범죄신고자 해당돼 불구속”</a></li></ul>                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Politics/article/all/20211122/110405987/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 19' ><span class='icon_exclusive'>단독</span><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110405987.1.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Politics/article/all/20211122/110405987/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 19' ><span class='txt'>檢대장동 수사팀 ‘쪼개기 회식’ 식당에 <br>과태료 150만원</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Politics/article/all/20211123/110409017/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 20' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110409017.1.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Politics/article/all/20211123/110409017/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 20' ><span class='txt'>김총리, 막판 대선 등판설에<br> “국민 모욕”…개각설도 부인</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Economy/article/all/20211123/110407987/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 21' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110407987.1.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Economy/article/all/20211123/110407987/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 21' ><span class='txt'>文정부 역대급 공급량에도 집값 상승은 왜?<br>“반쪽 통계에 미스매치”</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Society/article/all/20211123/110406433/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 22' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110406433.1.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Society/article/all/20211123/110406433/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 22' ><span class='txt'>이준석 “경찰, 성비보다 제압능력 봐야”<br> 장혜영 “젠더갈등 조장 버릇”</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Society/article/all/20211123/110413059/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 23' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110413059.2.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Society/article/all/20211123/110413059/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 23' ><span class='txt'>“엄마!” 흉기난동에 여경 도망?<br>양평경찰 “악의적 편집”</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Economy/article/all/20211123/110415614/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 24' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110415614.1.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Economy/article/all/20211123/110415614/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 24' ><span class='txt'>한국조선해양, 7456억 규모<br> LNG 컨테이너선 10척 수주</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Inter/article/all/20211123/110406380/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 25' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110406380.1.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Inter/article/all/20211123/110406380/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 25' ><span class='txt'>“러軍 10만명 우크라 침공, <br>푸틴 결정만 남아”…서방-러 갈등 고조</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Opinion/article/all/20211122/110406210/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 26' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110406210.1.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Opinion/article/all/20211122/110406210/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 26' ><span class='sub_tit red'>인사이드&인사이트</span><span class='txt'>‘부스터샷 무장’ 이스라엘,<br> 1만6000명→760명 확진 급감</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Inter/article/all/20211123/110408802/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 27' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110408802.2.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Inter/article/all/20211123/110408802/2?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 27' ><span class='txt'>화이자 이사 “돌파감염 생각보다 빈번,<br> 부스터샷 접종해야”</span></a></div>
+                </li>
+                                <li class='list_item'>
+                    <div class='thumb'><a href='https://www.donga.com/news/Society/article/all/20211122/110405992/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 28' ><img src='https://dimg.donga.com/a/130/80/90/1/wps/NEWS/FEED/Top_Main_Top_List_2015/110405992.1.thumb.jpg' alt='' /></a></div>
+                    <div class='cont_info'><a href='https://www.donga.com/news/Society/article/all/20211122/110405992/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 주요 기사'  data-evnt-lbl='index: 28' ><span class='txt'>‘차박하며 LPG 난방’ 60대 부부 숨져<br>일산화탄소 중독 사망 추정</span></a></div>
+                </li>
+                
+                               </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- //article_left -->
+                    <!-- article_right -->
+                    <div class='article_right'>
+                        <div class='scroll_start02'>
+                            <div class='scroll_start02_in'>
+                                <!-- 사설 -->
+                                <div class='editorial_cont'><dl class='editorial'><dt><a href='https://www.donga.com/news/Opinion' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 오피니언' data-evnt-lbl='btn: 오피니언 이동' >사설</a></dt><dd><a href='https://www.donga.com/news/Opinion/article/all/20211122/110406137/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 오피니언' data-evnt-lbl='lbl: TOP사설기사' >여야는 특검 서둘고, 檢 ‘윗선’ ‘50억 클럽’ 수사 본격 나서라</a></dd></dl></div>
+                                <!-- //사설 -->
+                                <!-- 칼럼 -->
+                                                                <div class='column_cont'>
+                                    <div class='column_box'>
+                                        <ul class='column_list'>
+                                            <li><div class='thumb'><a href='https://www.donga.com/news/Opinion/article/all/20211122/110406164/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 오피니언' data-evnt-lbl='index: 1' ><img src='https://dimg.donga.com/a/72/72/90/1//wps/NEWS/FEED/Top_Column_2013/110406164.1.thumb.jpg' alt='횡설수설' /></a></div><div class='cont_info'><a href='https://www.donga.com/news/Opinion/article/all/20211122/110406164/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 오피니언' data-evnt-lbl='index: 1' ><span class='tit'>횡설수설</span><span class='txt'>매도 우위로 돌아선 아파트</span><span class='name'>by 허진석</span></a></div></li>
+                                            <li><div class='thumb'><a href='https://www.donga.com/news/Opinion/article/all/20211123/110406261/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 오피니언' data-evnt-lbl='index: 2' ><img src='https://dimg.donga.com/a/72/72/90/1//wps/NEWS/FEED/Top_Column_2013/110406261.1.thumb.jpg' alt='클래식의 품격' /></a></div><div class='cont_info'><a href='https://www.donga.com/news/Opinion/article/all/20211123/110406261/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 오피니언' data-evnt-lbl='index: 2' ><span class='tit'>클래식의 품격</span><span class='txt'>오늘을 즐기고, 독특하게 살아라</span><span class='name'>by 노혜진의 엔딩 크레디트</span></a></div></li>
+                                            <li><div class='thumb'><a href='https://www.donga.com/news/Opinion/article/all/20211123/110406250/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 오피니언' data-evnt-lbl='index: 3' ><img src='https://dimg.donga.com/a/72/72/90/1//wps/NEWS/FEED/Top_Column_2013/110406250.1.thumb.jpg' alt='2030세상' /></a></div><div class='cont_info'><a href='https://www.donga.com/news/Opinion/article/all/20211123/110406250/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 오피니언' data-evnt-lbl='index: 3' ><span class='tit'>2030세상</span><span class='txt'>“내년 트렌드 책 사셨나요?”</span><span class='name'>by 김소라</span></a></div></li>
+                                        </ul>
+                                        <ul class='column_list'>
+                                            <li><div class='thumb'><a href='https://www.donga.com/news/Opinion/article/all/20211122/110406168/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 오피니언' data-evnt-lbl='index: 4' ><img src='https://dimg.donga.com/a/72/72/90/1//wps/NEWS/FEED/Top_Column_2013/110406168.1.thumb.jpg' alt='특파원칼럼' /></a></div><div class='cont_info'><a href='https://www.donga.com/news/Opinion/article/all/20211122/110406168/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 오피니언' data-evnt-lbl='index: 4' ><span class='tit'>특파원칼럼</span><span class='txt'>통제와 감시, 중국의 ‘만리방화벽’</span><span class='name'>by 김기용</span></a></div></li>
+                                            <li><div class='thumb'><a href='https://www.donga.com/news/Opinion/article/all/20211122/110406210/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 오피니언' data-evnt-lbl='index: 5' ><img src='https://dimg.donga.com/a/72/72/90/1//wps/NEWS/FEED/Top_Column_2013/110406210.1.thumb.jpg' alt='인사이드&인사이트' /></a></div><div class='cont_info'><a href='https://www.donga.com/news/Opinion/article/all/20211122/110406210/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 오피니언' data-evnt-lbl='index: 5' ><span class='tit'>인사이드&인사이트</span><span class='txt'>‘부스터샷 무장’ 이스라엘, 1만6000명→760명 확진 급감</span></a></div></li>
+                                            <li><div class='thumb'><a href='https://www.donga.com/news/Opinion/article/all/20211122/110406176/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 오피니언' data-evnt-lbl='index: 6' ><img src='https://dimg.donga.com/a/72/72/90/1//wps/NEWS/FEED/Top_Column_2013/110406176.1.thumb.jpg' alt='광화문에서' /></a></div><div class='cont_info'><a href='https://www.donga.com/news/Opinion/article/all/20211122/110406176/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 오피니언' data-evnt-lbl='index: 6' ><span class='tit'>광화문에서</span><span class='txt'>카드 수수료·통신비까지 정부가 정해주는 나라</span><span class='name'>by 정임수</span></a></div></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <script>
+                                    $( document ).ready( function() {
+                                        $('.column_box').slick({
+                                            dots: false,
+                                            infinite: true,
+                                            speed: 500,
+                                            slidesToShow: 1,
+                                            slidesToScroll: 1,
+                                            arrows: true,
+                                            touchMove: false
+                                        });
+                                    });
+                                </script>
+                                <!-- //칼럼 -->
+                                <!-- 단독기사 -->
+                                
+                                <!-- //단독기사 -->
+                                                                <div class='ban_cont'>
+                                    <div class='ban_box'>
+                                        <a href='https://www.donga.com/news/Series/70030000000919' target='_blank' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 롤링배너' data-evnt-lbl='lbl: 법조 Zoom In'><img src='https://dimg.donga.com/carriage/NEWS/images/home_rolling_banner/612509961154d2738241.jpg' alt='법조 Zoom In' /></a><a href='https://www.donga.com/news/Series/70070000001123' target='_blank' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 롤링배너' data-evnt-lbl='lbl: MZ세대가 사는 법'><img src='https://dimg.donga.com/carriage/NEWS/images/home_rolling_banner/6125099b14aed2738241.jpg' alt='MZ세대가 사는 법' /></a><a href='https://www.donga.com/news/Series/70030000000908' target='_blank' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 롤링배너' data-evnt-lbl='lbl: 코로날리지(Corona+Knowledge)'><img src='https://dimg.donga.com/carriage/NEWS/images/home_rolling_banner/6062e788154ed27382d9.jpg' alt='코로날리지(Corona+Knowledge)' /></a><a href='https://www.donga.com/news/photojournalist' target='_blank' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 롤링배너' data-evnt-lbl='lbl: 청계천 옆 사진관'><img src='https://dimg.donga.com/carriage/NEWS/images/home_rolling_banner/5eb8deb31d17d27382a0.jpg' alt='청계천 옆 사진관' /></a><a href='https://www.donga.com/news/Series/70010000000943' target='_blank' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 롤링배너' data-evnt-lbl='lbl: THE 사건 '><img src='https://dimg.donga.com/carriage/NEWS/images/home_rolling_banner/5eb8e2d818d5d27382a0.jpg' alt='THE 사건 ' /></a><a href='https://www.donga.com/news/wooahan' target='_blank' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 롤링배너' data-evnt-lbl='lbl: 우아한'><img src='https://dimg.donga.com/carriage/NEWS/images/home_rolling_banner/5eb8e2db0ea9d27382a0.jpg' alt='우아한' /></a>
+                                    </div>
+                                </div>
+                                <script>
+                                    $( document ).ready( function() {
+                                        $('.ban_box').slick({
+                                            dots: true,
+                                            infinite: true,
+                                            autoplay: true,
+                                            autoplaySpeed: 3000,
+                                            slidesToShow: 1,
+                                            slidesToScroll: 1,
+                                            arrows: false,
+                                            touchMove: false
+                                        });
+                                    });
+                                </script>
+                                                                <!-- 동아 아카이브 -->
+                                <div class='donga_archives'>
+                                    <div class='archives_cont'>
+                                        <h3 class='title'><a href='https://archives.donga.com/' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 동아 아카이브' data-evnt-lbl='btn: 아카이브 이동'><img src='https://image.donga.com/pc/2020/images/common/tit_archives.png' alt='donga archives' /></a></h3>
+                                        
+                                        <div class='ban_archives'>
+                                            <a href='https://www.donga.com/ISSUE/vote2021?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 동아 아카이브' data-evnt-lbl='lbl: 미리보는 대선 민심'>
+                                                <span class='thumb'><img src='https://dimg.donga.com/a/268/103/90/1/wps/NEWS/FEED/Top_Main_Archive/106085384.1.thumb.jpg' alt='archive' /></span>
+                                                <div class='desc'>
+                                                    <span class='tit'>미리보는 '대선' 민심</span>
+                                                    <span class='txt'>나는 진보일까 보수일까 <br>정치성향 테스트</span>
+                                                </div>
+                                                <span class='bg'></span>
+                                            </a>
+                                        </div>
+                                        <ul class='archives_list'>
+                                                                                <li>
+                                        <div class='thumb'><a href='https://dongatalks.donga.com/news?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 동아 아카이브' data-evnt-lbl='lbl: 극과극이 만나다 - 시즌2'><img src='https://dimg.donga.com/a/95/85/90/1/wps/NEWS/FEED/Top_Main_Archive/110295682.1.thumb.jpg' alt='' /></a></div>
+                                        <div class='cont_info'>
+                                        <a href='https://dongatalks.donga.com/news?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 동아 아카이브' data-evnt-lbl='lbl: 극과극이 만나다 - 시즌2'>
+                                            <span class='tit'>극과극이 만나다 - 시즌2</span>
+                                            <span class='txt'>부동산 정책</span>
+                                            <span class='icon_com arrow'>이동</span>
+                                        </a>
+                                        </div>
+                                    </li>                                    <li>
+                                        <div class='thumb'><a href='https://www.donga.com/news/Issue/031406?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 동아 아카이브' data-evnt-lbl='lbl: 위드 코로나 시대'><img src='https://dimg.donga.com/a/95/85/90/1/wps/NEWS/FEED/Top_Main_Archive/101002013.1.thumb.jpg' alt='' /></a></div>
+                                        <div class='cont_info'>
+                                        <a href='https://www.donga.com/news/Issue/031406?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 동아 아카이브' data-evnt-lbl='lbl: 위드 코로나 시대'>
+                                            <span class='tit'>위드 코로나 시대</span>
+                                            <span class='txt'>위중증 환자 증가<br>병상 확보 비상</span>
+                                            <span class='icon_com arrow'>이동</span>
+                                        </a>
+                                        </div>
+                                    </li>                                    <li>
+                                        <div class='thumb'><a href='https://www.donga.com/news/Opinion/article/all/20211122/110406190/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 동아 아카이브' data-evnt-lbl='lbl: 고양이 눈'><img src='https://dimg.donga.com/a/95/85/90/1/wps/NEWS/FEED/Top_Main_Archive/110406190.1.thumb.jpg' alt='' /></a></div>
+                                        <div class='cont_info'>
+                                        <a href='https://www.donga.com/news/Opinion/article/all/20211122/110406190/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 동아 아카이브' data-evnt-lbl='lbl: 고양이 눈'>
+                                            <span class='tit'>고양이 눈</span>
+                                            <span class='txt'>스마일!</span>
+                                            <span class='icon_com arrow'>이동</span>
+                                        </a>
+                                        </div>
+                                    </li>
+                                        </ul>
+                                        <div class='ban_archives'><a href='https://www.donga.com/archive/newslibrary' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 동아 아카이브' data-evnt-lbl='lbl: 동아디지털 아카이브' ><img src='https://dimg.donga.com/a/268/100/90/1/carriage/NEWS/images/home_top_archive_banner/5eb8b7260dccd27382a0.gif' alt='동아디지털 아카이브'/></a></div><div class='ban_archives'><a href='https://www.donga.com/news/dobal' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 동아 아카이브' data-evnt-lbl='lbl: 김순덕의 도발' ><img src='https://dimg.donga.com/a/268/100/90/1/carriage/NEWS/images/home_top_archive_banner/5e4deb691513a1e0725.jpg' alt='김순덕의 도발'/></a></div>
+                                    </div>
+                                </div>
+                                <!-- //동아 아카이브 -->
+                                                                <!-- 동아 저널리스트 -->
+                                <div class='donga_journalists'>
+                                    <div class='journalists_cont'>
+                                        <h3 class='title'><a href='http://www.donga.com/news/Journalist' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 동아 저널리스트' data-evnt-lbl='btn: 동아 저널리스트'><img src='https://image.donga.com/pc/2020/images/common/tit_journalists.png' alt='동아 저널리스트' /></a></h3>
+                                        <ul class='journalists_list'>
+                                                                                        <li>
+                                                <div class='thumb'><a href='https://www.donga.com/news/Journalist?pid=yjongk@donga.com' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 동아 저널리스트' data-evnt-lbl='index: 1'><img src='https://dimg.donga.com/a/69/69/90/1/carriage/NEWS/images/home_top_journalists/5e4e20c8172dd27382a0.jpg' alt='' /></a></div>
+                                                <div class='cont_info'>
+                                                    <a href='https://www.donga.com/news/Journalist?pid=yjongk@donga.com' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 동아 저널리스트' data-evnt-lbl='index: 1'>
+                                                        <span class='name'>양종구 기자의 </span>
+                                                        <span class='tit'>100세 시대 건강법</span>
+                                                    </a>
+                                                </div>
+                                            </li>                                            <li>
+                                                <div class='thumb'><a href='https://www.donga.com/news/Journalist?pid=bjk@donga.com' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 동아 저널리스트' data-evnt-lbl='index: 2'><img src='https://dimg.donga.com/a/69/69/90/1/carriage/NEWS/images/home_top_journalists/5e4e20d8123dd27382a0.jpg' alt='' /></a></div>
+                                                <div class='cont_info'>
+                                                    <a href='https://www.donga.com/news/Journalist?pid=bjk@donga.com' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: 동아 저널리스트' data-evnt-lbl='index: 2'>
+                                                        <span class='name'>변종국 기자의 </span>
+                                                        <span class='tit'>떴다떴다 변비행</span>
+                                                    </a>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <!-- //동아 저널리스트 -->
+                            </div>
+                        </div>
+                    </div>
+                    <!-- //article_right -->
+                </div>
+            </div>
+            <!-- //main_top -->
+            <!-- main_aside -->
+            <div class='main_aside'>
+               
+        <!-- ADMARU Donga_DT_HP_SV_Video -->
+        <div id='div-gpt-ad-1591686621935-0' style='min-width: 1px; min-height: 1px;'></div>
+                <div class='scroll_start03'>
+                    <div class='scroll_start03_in'>
+                         
+                        <!-- 당신이 안본 뉴스 -->
+                        <div class='only_news'>
+                            <ul class='only_list'>
+                                                <li>
+        
+                
+                            </ul>
+                        </div>
+                        <!-- //당신이 안본 뉴스 -->
+                        <!-- 광고 -->
+                        <div class='aside_ban01'>
+                            <script type='text/javascript' src='https://image.donga.com/dac/NEWS/PC/news_main_right_box.js'></script>
+                        </div>
+                        <!-- //광고 -->
+                        <!-- 실시간 이슈 -->
+                        <div class='realtime_news'>
+                            <div class='realtime_cont'>
+                                <h3 class='title'><span class='img'><img src='https://image.donga.com/pc/2020/images/common/tit_realtime.png' alt='실시간 이슈' /></span></h3>
+                                <div class='time_box'>
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- //실시간 -->
+                        <!-- 프로모션 배너 -->
+                        <div class='promotion_ban'>
+                        <script type='text/javascript' src='https://image.donga.com/dac/NEWS/PC/news_main_aside_2.js'></script>
+                        
+                        </div>
+                        <!-- //프로모션 배너 -->
+                    </div>
+                </div>
+            </div>
+            <!-- //main_aside -->
+            <!-- 좌우 윙 광고 -->
+            <div id="left_wingad"><script type='text/javascript' src='https://image.donga.com/dac/NEWS/PC/news_main_left_blank.js'></script></div>
+            <div id="right_wingad"><script type='text/javascript' src='https://image.donga.com/dac/NEWS/PC/news_main_right_blank.js'></script></div>
+            <!-- //좌우 윙 광고 -->
+        </div>
+        <script type='text/javascript'>
+            $( document ).ready( function() {
+                onScrollDirection();
+                onScrollAdjustEndLine('.scroll_start01',  '#main_content',  '.scroll_start01_in');
+                onScrollAdjustEndLine('.scroll_start02',  '#main_content',  '.scroll_start02_in');
+                onScrollAdjustEndLine('.scroll_start03',  '#main_content',  '.scroll_start03_in');
+            });
+        </script>
+        <!--// main_content -->        <!-- D_lite -->
+        <div class='main_dlite'>
+            <div class='dlite_cont'>
+                <div class='tit_cont'>
+                    <h3 class='title'><img src='https://image.donga.com/pc/2020/images/common/tit_dlite.png' alt='dlite' /></h3>
+                    <ul class='dlite_menu'>
+                        <li><a href='https://29street.donga.com/' target='_blank'>29STREET</a></li>
+                        <li><a href='https://bizn.donga.com/car' target='_blank'>동아오토</a></li>
+                        <li><a href='https://idolpick.donga.com/' target='_blank'>아이돌픽</a></li>
+                        <li><a href='https://trotpick.donga.com/' target='_blank'>트롯픽</a></li>
+                        <li><a href='https://voda.donga.com/' target='_blank'>VODA</a></li>
+                        <li><a href='http://mlbpark.donga.com/' target='_blank'>MLB파크</a></li>
+                        <li><a href='http://it.donga.com/' target='_blank'>IT동아</a></li>
+                        <li><a href='https://www.ichannela.com/' target='_blank'>채널A</a></li>
+                    </ul>
+                </div>
+                <div class='dlite_slide'>
+                    <ul class='dlite_list'>
+         </ul>
+                    <a href="#" class="slick-next"></a>
+                </div>
+                <div class="btn_move">
+                    <a href="#" class="btn_prev">이전</a><a href="#" class="btn_next">다음</a>
+                </div>
+            </div>
+        </div>
+        <script>
+            $( document ).ready( function() {
+                $('.dlite_list').slick({
+                    dots: false,
+                    infinite: true,
+                    speed: 1000,
+                    slidesToScroll: 4,
+                    slidesToShow: 4,
+                    variableWidth: true,
+                    prevArrow: $('.btn_move .btn_prev'),
+                    nextArrow: $('.btn_move .btn_next'),
+                    touchMove: false
+                });
+                $('.dlite_slide .slick-next').click(function(){
+                    $(".dlite_list").slick('slickNext');
+                    return false;
+                });
+            });
+        </script>
+        <!-- //D_lite -->            <!-- bizN -->
+            <div class='main_bizn'>
+                <div class='bizn_cont'>
+                    <h3 class='title'><a href='https://bizn.donga.com/'><img src='https://image.donga.com/pc/2020/images/common/tit_bizn.png' alt='bizn' /></a></h3>
+                    <div class='bizn_slide'>
+                        <ul class='bizn_list'>
+      
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <script>
+                $( document ).ready( function() {
+                    $('.bizn_slide').slick({
+                        dots: false,
+                        infinite: true,
+                        speed: 500,
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                        arrows: true,
+                        touchMove: false
+                    });
+                });
+            </script>
+            <!-- //bizN -->        <!-- main video -->
+        <div class='main_video'>
+            <div class='video_cont'>
+                <div class='list_cont'>
+                    <h3 class='title'><img src='https://image.donga.com/pc/2020/images/common/tit_video.png' alt='video' /></h3>
+
+                        </li>
+                    </ul>
+                </div>
+                <div class='video_large'>
+                                            <div class='cont_info'>
+                            <a href='https://studio.donga.com/dongaTop/Main/3/all/20211123/110409370/1?ref=main' data-evnt-ctg='page : 동아|홈|Desktop' data-evnt-act='area: Video'>
+                                <span class='icon_video'>동영상</span>
+                                
+                                <span class='thumb'><img src='https://dimg.donga.com/a/520/288/90/1/wps/STUDIO/FEED/VODA_STUDIO_DONGA/110409370.1.thumb.jpg' alt='그룹 원어스, ‘Intro : 창’ 동양미 돋보이는 퍼포먼스' /></span>
+                            </a>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <!-- //main video -->        <!-- 메인 광고 -->
+        <div class='main_adzone'>
+            <script type='text/javascript' src='https://image.donga.com/dac/NEWS/PC/news_main_content_top.js'></script>
+        </div>
+        <!-- //메인 광고 -->
+                <!-- Trend news -->
+        <div class='main_trendnews'>
+            <div class='trendnews_cont'>
+                <div class='trend_info'>
+                    <h3 class='title'><a href='https://www.donga.com/news/TrendNews'><img src='https://image.donga.com/pc/2020/images/common/tit_trendnews.png' alt='트랜드뉴스' /></a></h3>
+                    <ul class='tab_menu'>
+                        <li class='on'><a href='#tab1'>많이 본</a></li><li><a href='#tab2'>댓글이 핫한</a></li><li><a href='#tab3'>베스트추천</a></li>
+                    </ul>
+
+                    </div>
+                </div>
+                <div class='trend_adzone'>
+                    <script type='text/javascript' src='https://image.donga.com/dac/NEWS/PC/news_main_right_box.js'></script>
+                </div>
+            </div>
+        </div>
+        <script>
+            $(document).ready(function(){
+              var tab_m = $('.tab_menu');
+              var tab_sel = tab_m.find('li >a');
+              tab_sel.on('click', function(e){
+                e.preventDefault();
+                var t = $(this).parent();
+                var path = $(this).attr('href');
+                tab_sel.parent().removeClass('on');
+                t.addClass('on');
+                $('.list_box').not(path).removeClass('on');
+                $(path).addClass('on');
+              });

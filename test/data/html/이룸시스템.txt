@@ -1,0 +1,1634 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+<meta name="title" content="경상대학교 인재개발원" />
+<meta name="description" content="경상대학교 인재개발원" />
+<meta name="keywords" content="경상대학교 인재개발원" />
+<meta name="robots" content="index, follow">
+
+<title>경상대학교 이룸시스템</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="javascript">
+var COMMON_JS_CONF = "/static_root/js";						// 사용자 JS 경로
+
+var COMMON_IMAGES_CONF = "/static_root/images";				// 사용자 이미지 경로 
+var COMMON_CSS_CONF = "/static_root/css";						// 사용자 CSS 경로  
+var COMMON_INC_CONF = "/static_root/inc";						// 사용자 공통 JSP 경로
+var EDITOR_INC_URL_CONF = "/cheditor";			// 에디터 경로
+var N_DEPT_LOCT_CD = 'J';			// 에디터 경로
+</script>
+<link type="text/css" rel="stylesheet" href="/static_root/css/common.css" media=""/><!-- 초기화/공통/레이아웃 -->
+<link type="text/css" rel="stylesheet" href="/static_root/css/option.css" media=""/><!-- css 옵션 -->
+<link type="text/css" rel="stylesheet" href="/static_root/css/bbsTable.css" media=""/><!-- 게시물/테이블 -->
+<link type="text/css" rel="stylesheet" href="/static_root/css/content.css" media=""/><!-- 개별컨텐츠 -->
+<link type="text/css" rel="stylesheet" href="/static_root/css/main.css" media=""/><!-- 메인페이지 -->
+<link type="text/css" rel="stylesheet" href="/static_root/css/fontAwesome.css" media=""/>
+<link type="text/css" rel="stylesheet" href="/static_root/css/ionicons.css" media=""/>
+<link type="text/css" rel="stylesheet" href="/static_root/css/hover.css" media=""/>
+<link type="text/css" rel="stylesheet" href="/static_root/css/nyroModal.css" media=""/>
+<script type="text/javascript" src="/static_root/js/jquery-1.7.2.min.js" ></script>
+<script type="text/javascript" src="/static_root/js/jquery.form.js" ></script>
+<script type="text/javascript" src="/static_root/js/jqueryPaging.js"></script><!-- 페이징  -->
+<script type="text/javascript" src="/static_root/js/jquery.PrintArea.js_4.js" ></script><!-- 프린트 javascript -->
+<script type="text/javascript" src="/static_root/js/printThis.js" ></script><!-- 프린트 javascript -->
+<script type="text/javascript" src="/static_root/js/valid.js"></script> <!--  공통  js  -->
+<script type="text/javascript" src="/static_root/js/_link.js"></script> <!--  공통  js  -->
+<script type="text/javascript" src="/static_root/js/fileDownLoad.js"></script> <!--  공통  js  -->
+<script type="text/javascript" src="/static_root/js/common.js"></script> <!--  공통  js  -->
+<script type="text/javascript" src="/static_root/js/jquery.nyroModal.custom.js"></script> <!--  레이어  js  -->
+<script type="text/javascript" src="/static_root/js/calendar/jquery-ui.min.js" ></script><!-- 달력 javascript -->
+<link type="text/css" rel="stylesheet" href="/static_root/js/calendar/jquery-ui.css" media=""/><!-- 달력 CSS -->
+<script type="text/javascript" src="/cheditor/cheditor.js" ></script><!-- cheditor 인클루드  -->
+<script type="text/javascript" src="/static_root/js/json2.js"></script> <!--  공통  js  -->
+<script type="text/javascript" language="javascript" src="/static_root/js/jquery-syaku.rolling.js"></script>
+<script type="text/javascript" src="/static_root/js/jquery.cookie.js"></script>
+
+<script>
+$(document).ready(function () {
+	
+	$(window).load(function() {
+		if($.cookie('starttime') != "" && $.cookie('starttime') != null) {
+			$.cookie("starttime", new Date().getTime());
+			$.cookie("counttime", 10800);
+			initTimer();
+		}
+	});
+	document.onclick = initTimer;		// 현재 페이지의 사용자 마우스 클릭이벤트
+	document.onkeypress = initTimer;	// 현재 페이지의 키보트 입력이벤트
+	
+});
+
+function Lpad(str, len) {
+	str = str + "";
+	while(str.length < len) {
+		str = "0"+str;
+	}
+	return str;
+}
+
+var child = [];
+var childcnt = 0;
+
+// 자동로그아웃 처리 몇초전에 경고를 보여줄지 설정하는 부분, 초단위
+var noticeSecond = 58;
+var timerchecker = null;
+
+function initTimer() {
+	if($.cookie('starttime') != "") {
+		// 사용자부터 마우스 또는 키보드 이벤트가 발생했을경우 자동로그아웃까지의 대기시간을 다시 초기화 
+		if(window.event) {
+			$.cookie("starttime", new Date().getTime());	// 쿠키시간 초기화
+			$.cookie("counttime", 10800);						// 경고창 카운팅 시간 초기화
+			clearTimeout(timerchecker);
+		}
+		rMinute = parseInt($.cookie("counttime") / 60);
+		rSecond = $.cookie("counttime") % 60;
+		if($.cookie("counttime") > 0)	{
+			// 자동로그아웃 경고레이어에 경고문+남은 시간 보여주는 부분
+			$.cookie("counttime", Number($.cookie("counttime") - 1));
+			timerchecker = setTimeout("initTimer()", 1000); // 1초 간격으로 체크
+		}
+		else {
+				clearTimeout(timerchecker);
+				for( var a = 0; a < child.length; a++) {
+					child[a].loginchk();
+				}
+				$.cookie("starttime", '');
+				location.href="/logOut.do";
+				alert("사용 시간(3시간)이 경과하여\n 시스템에서 자동으로 로그아웃 되었습니다");
+		}
+	}
+}
+
+</script>
+
+
+
+<script type="text/javascript">
+var PAGE_SIZE = 10;
+$(document).ready(function() {
+	fncMakePageBody("5","1");
+
+	$('#frm').find("input").each(function(e){
+		$(this).bind("keyup",function(){
+			if(event.keyCode == 13){
+				fnSearch();
+			}
+		});
+	});
+});
+
+//페이징
+var page_List = function(pageNo) {
+	$("#CURR_PAGE").val(pageNo);
+	$('#frm').attr("action", location.href);
+	$('#frm').submit();
+};
+
+//조회
+function fnSearch() {
+	$("#CURR_PAGE").val('1');
+	$('#frm').attr("action", "/user/Capability/diagnosisMngL.do");
+	$('#frm').submit();
+}
+
+//상세
+function fnDetail(SurveySeq){
+	$('#CAP_SURVEY_SEQ').val(SurveySeq);
+	var mobile = '';
+	$('#DIAGNOSISMOBILE').val(mobile);
+	
+	var popup = window.open('about:blank','cap_diagnosisMng_popup','width=1000,height=900,scrollbars=yes');
+	popup.focus();
+
+	$('#frm').attr("action", "/user/Capability/diagnosisMngD.do");
+	$('#frm').attr("target","cap_diagnosisMng_popup");
+	$('#frm').submit();
+	$('#frm').attr("target","");  
+}
+
+//결과
+function fnResult(SurveySeq){
+	$('#CAP_SURVEY_SEQ').val(SurveySeq);
+	var popUrl = "/user/Capability/diagnosisResult.do?POP_OPEN_YN=Y&CAP_SURVEY_SEQ=" + SurveySeq;
+	var popup = window.open(popUrl,'cap_diagnosisMng_popup','width=1000,height=900,scrollbars=yes');
+}
+</script>
+<html>
+<body>
+<div id="wrap">
+<!-- 상단영역 -->
+					
+		<script language="javascript">
+			function fnCampMove(CampGb){
+				if(CampGb == 'J'){
+					$('#COMMON_CAMP_GB').val('J');
+				}else if(CampGb == 'C'){
+					$('#COMMON_CAMP_GB').val('C');
+				}else{
+				}
+				var headerfrm  = document.headerfrm;
+				headerfrm.action= "/main.do";	
+				headerfrm.submit();
+			}
+			
+			function fnMain(site){
+				var headerfrm  = document.headerfrm;
+				if(site == 'E'){
+					headerfrm.action= "/main.do";
+				}else{
+					headerfrm.action= "/jobMain.do";
+				}
+				headerfrm.submit();
+			}
+			
+			//즐겨찾기
+			function favot(){
+				 if (window.sidebar && window.sidebar.addPanel) { // Mozilla Firefox Bookmark
+                	window.sidebar.addPanel(document.title,window.location.href,'');
+	            } else if(window.external && ('AddFavorite' in window.external)) { // IE Favorite
+	                window.external.AddFavorite('https://jobs.gnu.ac.kr','경상대학교 인재개발원');
+	            }else { // webkit - safari/chrome
+	                alert('Ctrl+D키를 눌러 북마크에 추가해주세요');
+	            }
+			     
+			}
+			
+			function fncTopMovePage(topmenucd){
+				var currentMenuCd = "";
+				$.ajax({ 
+					type : "post"
+					,url  : "/moveMenu.do"
+					,data : {
+						"TOP_MENU_CODE" 	  :topmenucd
+						,"COMMON_CAMP_GB" : $('#COMMON_CAMP_GB').val()
+					}
+					,dataType : "json"
+					,success : function(transport) {					
+						if(transport.RET_MSG != ''){
+							if('2017011853' == ''){
+								alert("로그인 해주세요");
+							}else{
+								alert(transport.RET_MSG);
+							}
+						}else{
+							var resultMst = eval(transport.leftMenu);
+							var headerfrm = document.headerfrm;
+							currentMenuCd = resultMst.CURRENT_MENU_CODE;
+							$('#TOP_MENU_CODE').val(topmenucd);
+							$('#CURRENT_MENU_CODE').val(resultMst.CURRENT_MENU_CODE);
+							if(resultMst.MENU_URL.indexOf("?") > -1){
+								headerfrm.action=resultMst.MENU_URL+"&CURRENT_MENU_CODE=" + currentMenuCd+ "&TOP_MENU_CODE=" + topmenucd;
+							}else{
+								headerfrm.action=resultMst.MENU_URL+"?CURRENT_MENU_CODE=" + currentMenuCd+ "&TOP_MENU_CODE=" + topmenucd;
+							}
+							if(resultMst.TARGET_LOCT == "POP"){
+								headerfrm.target = "_blank";
+							}else{
+								headerfrm.target = "_self";
+							}
+							headerfrm.submit();
+						}							
+					}
+				});
+			}
+			
+		</script>
+		<form name="headerfrm" method="post">
+		<input type="hidden" name="COMMON_CAMP_GB" id="COMMON_CAMP_GB" value="J">
+		<input type="hidden" name="TOP_MENU_CODE" id="TOP_MENU_CODE" value="MENU2021">
+		</form>
+		<!-- 상단영역 -->
+		
+		<div class="headerErum">
+			<dl>
+				<dt><a href="javascript:fnMain('E');"><img src="/static_root/images/erum/logo.jpg" alt="" title="" /></a></dt>
+				<dd>
+					
+					
+						
+						<a href="javascript:fncTopMovePage('MENU2066');"><i class="fa fa-sign-in" aria-hidden="true"></i> &nbsp;마이페이지</a>
+						
+						
+						
+						<a href="/logOut.do"><i class="fa fa-sign-in" aria-hidden="true"></i> &nbsp;로그아웃</a>
+					
+					<a href="http://fge.gnu.ac.kr/main" target="_blank"><i class="fa fa-graduation-cap" aria-hidden="true"></i> &nbsp;기초교육원 홈페이지</a>
+					<a href="http://www.gnu.ac.kr" target="_blank"><i class="fa fa-graduation-cap" aria-hidden="true"></i> &nbsp;경상대학교 홈페이지</a>
+				</dd>
+			</dl>
+			<div>
+				<ul>
+					
+					<li><a id="top_MENU2016"  href="javascript:fncTopMovePage('MENU2016')" >비교과 프로그램신청</a></li>
+					
+					<li><a id="top_MENU2450"  href="javascript:fncTopMovePage('MENU2450')" >비교과 프로그램 참여현황</a></li>
+					
+					<li><a id="top_MENU2021"  href="javascript:fncTopMovePage('MENU2021')" class="on">핵심역량관리</a></li>
+					
+					<li><a id="top_MENU2028"  href="javascript:fncTopMovePage('MENU2028')" >학생상담</a></li>
+					
+					<li><a id="top_MENU2291"  href="javascript:fncTopMovePage('MENU2291')" >진로취업정보</a></li>
+					
+					<li><a id="top_MENU2034"  href="javascript:fncTopMovePage('MENU2034')" >커뮤니티</a></li>
+					
+					<li><a id="top_MENU2395"  href="javascript:fncTopMovePage('MENU2395')" >비교과프로그램 정의</a></li>
+					
+				</ul>
+			</div>
+		</div>
+		
+		
+		<!-- 상단영역 끝 -->
+		
+<!-- 상단영역 -->
+
+<ul id="content">
+			<li id="left">
+				<!-- 좌측영역 -->
+				
+<script language="javascript">
+$(document).ready(function(){
+	/* var authChk = false;
+	
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+					authChk = true;
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			       
+				
+			
+	
+	if(!authChk){
+		alert("권한이없습니다");
+		var leftfrm = document.left;
+		leftfrm.action= "/main.do";
+		leftfrm.submit();
+	} */ 
+});
+function fncLeftMenuMove(menuid, url,target){
+	var currentMenuCd = "";
+	
+	$.ajax({ 
+		 type : "post"
+		,url  : "/moveMenu.do"
+		,data : {
+			"MENU_URL" 	  :url
+			,"CURRENT_MENU_CODE" : menuid
+		}
+		,dataType : "json"
+		,success : function(transport) {
+			var leftfrm = document.left;
+			if(transport.RET_MSG != ''){
+				alert(transport.RET_MSG);
+			}else{
+				var resultMst = eval(transport.leftMenu);
+				currentMenuCd = resultMst.CURRENT_MENU_CODE;
+				if(url.indexOf("?") > -1){
+					leftfrm.action=url + "&CURRENT_MENU_CODE=" + currentMenuCd+ "&TOP_MENU_CODE=" + $('#TOP_MENU_CODE').val();
+					if(target != 'IN'){
+						leftfrm.target = "_blank";
+					}else{
+						leftfrm.target = "_self";
+					}
+					leftfrm.submit();
+					leftfrm.target = "_self";
+				}else
+				{
+					leftfrm.action=url + "?CURRENT_MENU_CODE=" + currentMenuCd+ "&TOP_MENU_CODE=" + $('#TOP_MENU_CODE').val();
+					if(target != 'IN'){
+						leftfrm.target = "_blank";
+					}else{
+						leftfrm.target = "_self";
+					}
+					leftfrm.submit();
+					leftfrm.target = "_self";
+				}	
+			}
+			
+		}
+	});
+	
+} 
+
+</script>
+<form name="left" method="post">
+<input type="hidden" name="CURRENT_MENU_CODE" id="CURRENT_MENU_CODE" value="MENU2452">
+</form>
+
+					<div class="leftMenu" id="leftMenu">					
+						
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+								
+								<!-- <p>채용정보</p>각 카타고리별 타이틀 -->
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+						
+						
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+									
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+						
+					</div>
+				
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+							
+									
+									<script language="javascript">
+											$('#leftMenu').html('<p class="leftMENU2021">핵심역량관리</p>');
+									</script>
+									
+									
+									
+								
+						
+					
+						
+							
+									
+									
+										
+											
+													<script language="javascript">
+													$('#leftMenu').append('<dl id="MENU2452"><dt><a href="javascript:fncLeftMenuMove(\'MENU2452\',\'/user/Capability/diagnosisMngL.do\',\'IN\')" class="on">핵심역량 진단</a></dt><dd></dd></dl>');
+													</script>
+											
+											
+										
+									
+									
+								
+						
+					
+						
+							
+									
+									
+										
+											
+													<script language="javascript">
+													$('#leftMenu').append('<dl id="MENU2022"><dt><a href="javascript:fncLeftMenuMove(\'MENU2022\',\'/user/Ir/IrCm010L.do\',\'IN\')" >핵심역량 로드맵</a></dt><dd></dd></dl>');
+													</script>
+											
+											
+										
+									
+									
+								
+						
+					
+						
+							
+									
+									
+										
+											
+													<script language="javascript">
+													$('#leftMenu').append('<dl id="MENU2027"><dt><a href="javascript:fncLeftMenuMove(\'MENU2027\',\'/user/Ir/IrItemAll010L.do\',\'IN\')" >내역량점수현황</a></dt><dd></dd></dl>');
+													</script>
+											
+											
+										
+									
+									
+								
+						
+					
+						
+							
+									
+									
+										
+											
+													<script language="javascript">
+													$('#leftMenu').append('<dl id="MENU2025"><dt><a href="javascript:fncLeftMenuMove(\'MENU2025\',\'/user/Ir/IrItemAppMng010L.do\',\'IN\')" >외국어 시험성적 신청</a></dt><dd></dd></dl>');
+													</script>
+											
+											
+										
+									
+									
+								
+						
+					
+						
+							
+									
+									
+										
+											
+													<script language="javascript">
+													$('#leftMenu').append('<dl id="MENU2026"><dt><a href="javascript:fncLeftMenuMove(\'MENU2026\',\'/user/Ir/IrItemApp010L.do\',\'IN\')" >핵심역량 점수신청</a></dt><dd></dd></dl>');
+													</script>
+											
+											
+										
+									
+									
+								
+						
+					
+						
+							
+									
+									
+										
+											
+													<script language="javascript">
+													$('#leftMenu').append('<dl id="MENU2023"><dt><a href="javascript:fncLeftMenuMove(\'MENU2023\',\'/user/Ir/IrCs010L.do\',\'IN\')" >핵심역량 점수표</a></dt><dd></dd></dl>');
+													</script>
+											
+											
+										
+									
+									
+								
+						
+					
+						
+							
+									
+									
+										
+											
+													<script language="javascript">
+													$('#leftMenu').append('<dl id="MENU2024"><dt><a href="javascript:fncLeftMenuMove(\'MENU2024\',\'/user/Ir/IrItemWeight010L.do\',\'IN\')" >핵심역량 점수표(학과별)</a></dt><dd></dd></dl>');
+													</script>
+											
+											
+										
+									
+									
+								
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					<script language="javascript">
+ 
+					$("#leftMenu dd").each(function(){
+						if($(this).text() == "")
+						{
+							$(this).remove();	
+						}
+					});
+					</script>
+				
+				<!-- 좌측영역 -->
+				
+			</li>
+			<li id="right">
+				<!-- 타이틀/네비 -->
+				
+				
+				<dl class="titleNavi">
+					<dt>> 핵심역량관리 > <span>핵심역량 진단</span></dt>
+					<dd>핵심역량 진단</dd>
+				</dl>
+				<div class="visualMENU2021"></div>
+				
+				<!-- 타이틀/네비 끝 -->
+				
+				<form id="frm" name="frm" method="post" action="/admin/Capability/diagnosisMngL.do">
+				<input type="hidden" name="CAP_SURVEY_SEQ"   id="CAP_SURVEY_SEQ"  value="" />
+				<input type="hidden" name="DATA_FLAG"    id="DATA_FLAG"   value="" />
+				<input type="hidden" name="CURR_PAGE" id="CURR_PAGE"   value="1" />
+				<input type="hidden" name="VIEW_SIZE" id="VIEW_SIZE"   value="10" />
+				<!-- 본문영역 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+				<div>
+					<!-- 검색 -->
+						<fieldset>
+						<legend>게시물 검색</legend>
+						<div class="searchTable">
+							<table cellpadding="0" cellspacing="0" summary="게시물 검색하세요.">
+								<caption>게시물 검색</caption>
+								<colgroup>
+									<col width="13%" />
+									<col width="*" />
+									<col width="10%" />
+								</colgroup>
+								<tr>
+									<th rowspan="2">Search</th>
+									<td>
+										<b>년도</b>&nbsp;<select name="SCH_YEAR" id="SCH_YEAR" title="년도" class="select w100">
+											<option value="">년도</option>
+											
+											<option value="2021" >2021</option>
+											
+											<option value="2020" >2020</option>
+											
+											<option value="2019" >2019</option>
+											
+											<option value="2018" >2018</option>
+											
+											<option value="2017" >2017</option>
+											
+											<option value="2016" >2016</option>
+											
+										</select>&nbsp;&nbsp;
+										<b>구분</b>&nbsp;<select name="SCH_GB" id="SCH_GB" title="구분" class="select w100">
+											<option value="">구분</option>
+											<option value="0001" >통합진단</option>
+											<option value="0002" >자기주도</option>
+											<option value="0003" >전문성</option>
+											<option value="0004" >문제해결</option>
+											<option value="0005" >도전정신</option>
+											<option value="0006" >세계시민</option>
+											<option value="0007" >글로컬</option>
+										</select>&nbsp;&nbsp;
+										<b>검사대상</b>&nbsp;<select name="SCH_TAR" id="SCH_TAR" title="검사대상" class="select w120">
+											<option value="">검사대상</option>
+											<option value="A" >전체</option>
+											<option value="1" >1학년</option>
+											<option value="2" >2학년</option>
+											<option value="3" >3학년</option>
+											<option value="4" >4학년</option>
+											<option value="5" >5학년</option>
+											<option value="U" >사용자지정</option>
+										</select>&nbsp;&nbsp;
+										<b>참여상태</b>&nbsp;<select name="SCH_STATUS" id="SCH_STATUS" title="참여상태" class="select w100">
+											<option value="">참여상태</option>
+											<option value="Y" >완료</option>
+											<option value="N" >미완료</option>
+										</select>
+									</td>
+									<th rowspan="2" class="stBtn">
+										<a href="/admin/Capability/diagnosisMngL.do" onclick="fnSearch(); return false;" class="btnS w70">Search</a>
+									</th>
+								</tr>
+								<tr>
+									<td>
+										<input type="text" name="SCH_TEXT" id="SCH_TEXT" value="" class="input w450" title="검사명" placeholder="검사명" maxlength="100" />
+									</td>
+								</tr>
+							</table>
+						</div>
+					</fieldset>
+					<!-- 검색 끝 -->
+
+					<!-- 리스트 -->
+				<div class="tableList">
+					<table cellpadding="0" cellspacing="0" summary="목록">
+						<caption>목록</caption>
+						<colgroup>
+							<col width="5%">
+							<col width="5%">
+							<col width="7%">
+							<col width="*">
+							<col width="10%">
+							<col width="17%">
+							<col width="7%">
+							<col width="9%">
+							<col width="7%">
+							<col width="8%">
+							<col width="8%">
+						</colgroup>
+						<thead>
+							<tr>
+								<th>번호</th>
+								<th>년도</th>
+								<th>구분</th>
+								<th>진단검사명</th>
+								<th>검사대상</th>
+								<th>검사기간</th>
+								<th>문항수</th>
+								<th>등록일</th>
+								<th>상태</th>
+								<th>참여</th>
+								<th>결과</th>
+							</tr>
+						</thead>
+						<tbody>
+							
+								
+									<tr>
+										<td>5</td>
+										<td>2021</td>
+										<td>통합진단</td>
+										<th class="ellipsis">2021학년도 재학생 핵심역량진단(추가 실시)</th>
+										<td>
+											
+											
+												
+												2
+												3
+												4
+												5
+												  
+												학년
+											
+										</td>
+										<td>2021.06.21~2021.06.27</td>
+										<td>72</td>
+										<td>2021.06.17</td>
+										<td>검사전</td>
+										<td>
+											
+											
+										</td>
+										<td>
+											
+										</td>
+									</tr>
+								
+									<tr>
+										<td>4</td>
+										<td>2021</td>
+										<td>통합진단</td>
+										<th class="ellipsis">2021학년도 재학생 핵심역량진단(기간연장)</th>
+										<td>
+											
+											
+												
+												2
+												3
+												4
+												5
+												  
+												학년
+											
+										</td>
+										<td>2021.05.01~2021.05.09</td>
+										<td>72</td>
+										<td>2021.04.29</td>
+										<td>검사완료</td>
+										<td>
+											
+												<a href="javascript:fnDetail('481');" class="btn4 w60">완료</a>
+											
+											
+										</td>
+										<td>
+											 
+												<a href="javascript:fnResult('481');"  class="btn5 w60">조회</a>
+											
+										</td>
+									</tr>
+								
+									<tr>
+										<td>3</td>
+										<td>2021</td>
+										<td>통합진단</td>
+										<th class="ellipsis">2021학년도 재학생 핵심역량진단</th>
+										<td>
+											
+											
+												
+												2
+												3
+												4
+												5
+												  
+												학년
+											
+										</td>
+										<td>2021.03.29~2021.04.30</td>
+										<td>72</td>
+										<td>2021.03.15</td>
+										<td>검사전</td>
+										<td>
+											
+											
+										</td>
+										<td>
+											
+										</td>
+									</tr>
+								
+									<tr>
+										<td>2</td>
+										<td>2020</td>
+										<td>통합진단</td>
+										<th class="ellipsis">2020학년도 재학생(2학년 3학년) 핵심역량진단</th>
+										<td>
+											
+											
+												
+												2
+												3
+												
+												
+												  
+												학년
+											
+										</td>
+										<td>2020.12.09~2021.01.05</td>
+										<td>72</td>
+										<td>2020.12.09</td>
+										<td>검사완료</td>
+										<td>
+											
+												<a href="javascript:fnDetail('441');" class="btn4 w60">완료</a>
+											
+											
+										</td>
+										<td>
+											 
+												<a href="javascript:fnResult('441');"  class="btn5 w60">조회</a>
+											
+										</td>
+									</tr>
+								
+									<tr>
+										<td>1</td>
+										<td>2020</td>
+										<td>통합진단</td>
+										<th class="ellipsis">2020학년도 재학생(2학년 3학년) 핵심역량진단</th>
+										<td>
+											
+											
+												
+												2
+												3
+												
+												
+												  
+												학년
+											
+										</td>
+										<td>2020.11.09~2020.12.04</td>
+										<td>72</td>
+										<td>2020.11.02</td>
+										<td>검사전</td>
+										<td>
+											
+											
+										</td>
+										<td>
+											
+										</td>
+									</tr>
+								
+							
+							
+						</tbody>
+					</table>
+				</div>
+				<!-- 리스트 끝 -->
+					
+					<!-- 페이징 -->
+					<div class="listPaging mt25" id="paging_bar"></div>
+					<!-- 페이징 끝 -->
+				</div>
+				<!-- 본문영역 끝 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+
+				</form>
+			</li>
+		</ul>
+		
+<!-- 하단영역 -->
+					
+		
+		
+		<script type="text/javascript">
+			$(document).ready(function() {
+ 
+				// 취업포털 롤링
+				$("#srolling").srolling({
+				      data : $("#srolling  > li"),
+				      auto : true,
+				      delay_frame : 10,
+				      move : 'left',
+				      item_count : 1,         // 이동 될 아이템 수
+				      cache_count : 5, 
+				      prev : '#p_click',          // < 이동 버튼
+                	  next : '#n_click'           // > 이동 버튼
+			    });
+
+			});
+			
+			function fnSiteUrl(){
+				
+				var url = "";
+				var num = $("#SITEURL option:selected").val();
+				
+				if(num == '1'){
+					url = "http://nis.gnu.ac.kr";
+				}else if(num == '2'){
+					url = "http://simaic.gnu.ac.kr";
+				}else if(num == '3'){
+					url = "http://webmail.gnu.ac.kr";
+				}else if(num == '4'){
+					url = "http://webhard.gnu.ac.kr";
+				}else if(num == '5'){
+					url = "http://gw.gnu.ac.kr";
+				}else if(num == '6'){
+					url = "http://edufac.gnu.ac.kr";
+				}else if(num == '7'){
+					url = "http://939.co.kr/gnu/";
+				}else if(num == '8'){
+					url = "http://cc.gnu.ac.kr/sub/04_01.jsp";
+				}else if(num == '9'){
+					url = "http://cc.gnu.ac.kr/sub/05_01.jsp";
+				}else if(num == '10'){
+					url = "http://library.gnu.ac.kr/DLiWeb20fr/Components/gnu2/sub02/sub02_1.asp?dep1=2";
+				}else if(num == '11'){
+					url = "http://cc.gnu.ac.kr/sub/04_09.jsp";
+				}else if(num == '12'){
+					url = "http://ufis.gnu.ac.kr/";
+				}else{
+					url = "http://cc.gnu.ac.kr/sub/03_03.jsp";
+				};
+				
+				window.open(url, "");
+			};
+		</script>
+		<!-- 관련기업 -->
+		<div class="mainErumSite">
+			<h1><a id="n_click"><img src="/static_root/images/erum/site_arrL.gif" alt="" title="" /></a></h1>
+			<ul id="srolling" style="height:110px">
+				<li><a href="/common/jobdam.do"  target="_blank"><img src="/static_root/images/erum/site_logo00.jpg" alt="" title="" /></a></li>
+				<li><a href="http://www.work.go.kr/gangso"  target="_blank"><img src="/static_root/images/erum/site_logo01.gif" alt="" title="" /></a></li>
+				<li><a href="http://job.alio.go.kr/main/main.jsp" target="_blank"><img src="/static_root/images/erum/site_logo02.gif" alt="" title="" /></a></li>
+				<li><a href="http://www.thinkcontest.com/" target="_blank"><img src="/static_root/images/erum/site_logo03.gif" alt="" title="" /></a></li>
+				<li><a href="http://www.hopelink.kr/main.do" target="_blank"><img src="/static_root/images/erum/site_logo04.gif" alt="" title="" /></a></li>
+				<li><a href="http://www.kosaf.go.kr/" target="_blank"><img src="/static_root/images/erum/site_logo05.gif" alt="" title="" /></a></li>
+			</ul>
+			<h2><a id="p_click"><img src="/static_root/images/erum/site_arrR.gif" alt="" title="" /></a></h2>
+		</div>
+		<!-- 관련기업 끝 -->
+		<!-- 하단영역 -->
+		<div class="footerErum">
+			<dl class="ftLink">
+				<dt>
+					<a href="http://www.gnu.ac.kr/etc/privacy.jsp" target="_blank">개인정보처리방침</a>
+					<a href="http://information.gnu.kr/" target="_blank">정보공개</a>
+					<a href="http://www.gnu.ac.kr/etc/netizen.jsp" target="_blank">네티즌윤리강령</a>
+					<a href="http://www.gnu.ac.kr/etc/management.jsp" target="_blank">이메일집단수집거부</a>
+					<a href="http://search.gnu.ac.kr/search/emp_page.jsp?" target="_blank">교직원검색</a>
+					<a href="http://rule.gnu.ac.kr/" target="_blank">규정집</a>
+					<a href="http://www.gnu.ac.kr/etc/etc_01.jsp" target="_blank">교직원행동강령</a>
+				</dt>
+				<!-- <dd>
+					<strong>사이트 바로가기 : </strong> &nbsp;
+					<select name="" class="select w150">
+						<option value="">구분</option>
+					</select>
+					<select name="" class="select w150">
+						<option value="">홈페이지 선택</option>
+					</select>
+				</dd> -->
+			</dl>
+			<dl class="ftInfo">
+				<dt><img src="/static_root/images/common/footer_logo.gif" alt="경상대학교" title="경상대학교" /></dt>
+				<dd>
+					<strong>경상대학교 기초교육원</strong> &nbsp; (우)52828 경상남도 진주시 진주대로 501 경상대학교 학술정보관 2층 기초교육원<br />
+					<strong>사이트관련 문의 : </strong><font color="red">※ 프로그램별 문의는 해당 프로그램의 담당자에게 문의바람</font><br />
+					Copyright ⓒ 2015 <span>Gyeongsang National University.</span> All right reserved.
+				</dd>
+				<dd style="float:right; width:200px">
+					<select name="SITEURL" id="SITEURL" class="select w170" title="" onchange="fnSiteUrl();">
+						<option value="1">차세대정보시스템</option>
+						<option value="2">산단통합관리시스템</option>
+						<option value="3">웹메일</option>
+						<option value="4">웹하드</option>
+						<option value="5">정보광장</option>
+						<option value="6">시설바로바로서비스</option>
+						<option value="7">원격지원 서비스</option>
+						<option value="8">전산서비스신청/안내</option>
+						<option value="9">소프트웨어사용안내</option>
+						<option value="10">도서관 전자자료</option>
+						<option value="11">홈페이지빌더서비스</option>
+						<option value="12">시설공간관리서비스</option>
+						<option value="13">무선랜인증서비스</option>
+					</select>
+				</dd>								
+			</dl>
+		</div> 
+		<!-- 하단영역 끝 -->
+		
+		<form name="fileDownFrmFooter" id="fileDownFrmFooter" method="post">
+		<input type="hidden" name="F_FILENM" />
+		<input type="hidden" name="F_FILEPATH" />
+		<input type="hidden" name="F_TRANSFILENM" />
+		</form>
+		<form name="crossLoginFrm" id="crossLoginFrm" method="post">
+		<input type="hidden" name="CROSS_INTG_UID" id="CROSS_INTG_UID"/>
+		<input type="hidden" name="CROSS_INTG_PWD" id="CROSS_INTG_PWD"/>
+		</form>
+		<iframe id="fileDownFrameFooter" name="fileDownFrameFooter" src="about:blank" width="0" height="0" frameborder="0" scrolling="no"></iframe>
+		
+		
+		<p style="color:#ffffff">172.16.156.128</p>
+		<p style="color:#ffffff">4</p>
+		
+		
+		
+<!-- 하단영역 끝 -->
+</div>
+</body>
+</html>

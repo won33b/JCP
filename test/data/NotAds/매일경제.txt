@@ -1,0 +1,1558 @@
+try {
+	var category_id = "yonhap100405";
+	var article_num = "2021/11/1066325";
+	var publish_date = "2021/11/11";
+	var journalist = null;
+	var keywords = [];
+	var domainStr = "www.mk.co.kr";
+	var refererStr = "newsstand.naver.com";
+	var mk_login = document.cookie.indexOf("cUserID") > 0 ? "on" : "off";
+	var login_type = mk_login == "on" ? "mk" : "unkown";
+	// noinspection all
+	googletag.pubads()
+	.setTargeting("category_id", category_id)
+	.setTargeting("article_num", article_num)
+	.setTargeting("publish_date", publish_date)
+	.setTargeting("journalist", journalist)
+	.setTargeting("domain", domainStr)
+	.setTargeting("domain", refererStr)
+	.setTargeting("mk_login", mk_login)
+	.setTargeting("login_type", login_type)
+	.setTargeting("keywords", keywords);
+	
+	googletag.pubads().collapseEmptyDivs(true); 
+	//googletag.pubads().enableSyncRendering();
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+} catch (e) { console.trace(e); }
+})(googletag);
+</script>
+    <link rel="stylesheet" type="text/css" href="https://common.mk.co.kr/common/css/2020/news_view.css" />
+    <link rel="stylesheet" type="text/css" href="https://common.mk.co.kr/common/css/2019/error.css" />
+    <script type="text/javascript" src="//file.mk.co.kr/js/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript">(function () {
+            var useSSL = 'https:' == document.location.protocol;
+            var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+            document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+        })();
+    </script>
+    <script type="text/javascript">
+        /* google analytics */
+        //@formatter:off
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        var host_name = document.location.hostname ;
+        if ( host_name == "nnews.mk.co.kr") ga_key = "UA-24472307-40";
+        else ga_key = "UA-24472307-26";
+        ga('create',ga_key, 'auto');
+        ga('require','displayfeatures');
+                ga('set', 'dimension7', 'it');
+        ga('send', 'pageview');
+        //@formatter:on
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "url": "https://www.mk.co.kr",
+      "logo": "https://img.mk.co.kr/main/2020/logo640240.png"
+    }
+    </script>
+
+    <!-- 20181119 통합 트래픽 GA코드 추가  -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-24472307-90"></script>
+
+    <!-- Promise IE 지원 -->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.min.js"></script>
+    <script type="text/javascript"
+            src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js"></script>
+    <!-- Promise IE 지원 -->
+    <script>
+        function jsonp(uri) {
+            return new Promise(function (resolve, reject) {
+                var id = '_' + Math.round(10000 * Math.random());
+                var callbackName = 'jsonp_callback_' + id;
+                window[callbackName] = function (data) {
+                    delete window[callbackName];
+                    var ele = document.getElementById(id);
+                    ele.parentNode.removeChild(ele);
+                    resolve(data);
+                }
+
+                var src = uri + '&callback=' + callbackName;
+                var script = document.createElement('script');
+                script.src = src;
+                script.id = id;
+                script.addEventListener('error', reject);
+                (document.getElementsByTagName('head')[0] || document.body || document.documentElement).appendChild(script)
+            });
+        }
+    </script>
+
+    <script>
+
+        var url = 'https://news.mk.co.kr/v7/inc/inc_ga_code_v2.php?no=' + '1066325' + '&year=' + '2021' + '&callback=?';
+        var dimension = '', dimension2 = '', dimension3 = '', dimension4 = '', dimension5 = '', dimension6 = '';
+
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        jsonp(url).then(function (data) {
+
+            if (data.dimension != "none") {
+                dimension = data.dimension;
+            } else {
+                dimension = '';
+            }
+
+            if (data.dimension2 != "none") {
+                dimension2 = data.dimension2;
+            } else {
+                dimension2 = '';
+            }
+
+            if (data.dimension3 != "none") {
+                dimension3 = data.dimension3;
+            } else {
+                dimension3 = '';
+            }
+
+            if (data.dimension4 != "none") {
+                dimension4 = data.dimension4;
+            } else {
+                dimension4 = '';
+            }
+
+            if (data.dimension5 != "0") {
+                dimension5 = parseInt(data.dimension5);
+            } else {
+                dimension5 = 0;
+            }
+
+            if (data.dimension6 != "0") {
+                dimension6 = parseInt(data.dimension6);
+            } else {
+                dimension6 = 0;
+            }
+
+            /*
+                    console.log('## dimension :' + dimension);
+                    console.log('## dimension2 :' + dimension2);
+                    console.log('## dimension3 :' + dimension3);
+                    console.log('## dimension4 :' + dimension4);
+                    console.log('## dimension5 :' + dimension5);
+                    console.log('## dimension6 :' + dimension6);
+            */
+
+            gtag('js', new Date());
+            gtag('config', 'UA-24472307-90', {
+                'custom_map': {
+                    'dimension1': 'category',
+                    'dimension2': 'code',
+                    'dimension3': 'author',
+                    'dimension4': 'date',
+                    'dimension5': 'image',
+                    'dimension6': 'length'
+                },
+                'linker': {
+                    'domains': ['mk.co.kr', 'news.mk.co.kr', 'opinion.mk.co.kr', 'premium.mk.co.kr', 'star.mk.co.kr', 'sports.mk.co.kr', 'game.mk.co.kr', 'pulsenews.co.kr', 'uberin.mk.co.kr', 'mkbn.mk.co.kr', 'raythep.mk.co.kr',
+                        'vip.mk.co.kr', 'estate.mk.co.kr', 'mplay.mk.co.kr', 'm.mk.co.kr', 'm.pulsenews.co.kr', 'm.raythep.com', 'raythe.mk.co.kr', 'photos.mk.co.kr', 'www.mk.co.kr']
+                }
+            });
+            gtag('event', 'news_category', {
+                'category': dimension,
+                'code': dimension2,
+                'author': dimension3,
+                'date': dimension4,
+                'image': dimension5,
+                'length': dimension6,
+                'non_interaction': true
+            });
+        });
+
+    </script>
+
+    <!-- 20181119 통합 트래픽 GA코드 추가  -->    <!-- Dable 스크립트 시작 / 문의 support@dable.io -->
+    <script>
+    (function(d,a,b,l,e,_) {
+    d[b]=d[b]||function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+    e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+    _=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+    })(window,document,'dable','script');
+    dable('setService', 'news.mk.co.kr');
+    dable('sendLogOnce');
+    </script>
+    <!-- Dable 스크립트 종료 / 문의 support@dable.io -->
+</head>
+<body><script>
+var mkScrollNewsInfo = {
+	params: "news_no=1066325&news_year=2021&news_category=yonhap100405&pub_ymdhis=20211111164758&keyword=",
+	domain: document.domain, // 도메인
+	uripath: document.location.pathname, // 페이지 URI
+	access_time: new Date(), // 접근시간
+	view_time: 0, // 머문 시간
+	read_time: 0, // 기사 읽은 시간
+	readfinish: "N", // 완독여부
+	callBackTime: 100,
+	readerLocation: 150,
+	scrolltimer: 0,
+	scroller: false,
+	endContent: false,
+	scrollStart: 0,
+	trackLocation: function() { // 스크롤 이벤트
+		var scroll_bottom = window.innerHeight + window.pageYOffset;
+		var height = document.body.scrollHeight;
+		var readElement;
+		var stand = 0;
+
+		// 스크롤시작(=읽기시작)
+        if(scroll_bottom > this.readerLocation && !this.scroller) {
+			var currentTime = new Date();
+			this.scrollStart = currentTime.getTime();
+			this.scroller = true;
+		}
+
+        if("" !== "") { // end id 가 있을 경우
+			readElement = document.getElementById("");
+			stand = window.pageYOffset + readElement.getBoundingClientRect().top;
+		} else {
+			readElement = document.getElementsByClassName("art_txt")[0];
+			stand = window.pageYOffset + readElement.getBoundingClientRect().top + readElement.offsetHeight;
+		}
+
+		// 기사 끝까지 내렸을 시
+		if(scroll_bottom >= stand && !this.endContent) {
+			currentTime = new Date();
+			contentScrollEnd = currentTime.getTime();
+
+			// 기사 끝까지 내렸을 때까지 걸린 시간
+			var timeToContentEnd = ((contentScrollEnd - this.scrollStart) / 1000).toFixed(2);
+
+			console.log(timeToContentEnd);
+
+			this.endContent = true;
+			this.read_time = timeToContentEnd; // 기사 읽은 시간
+			this.readfinish = "Y"; // 기사 완독
+		}
+	},
+	calViewTime: function() { // 페이지 머문 시간 연산
+		var currentTime = new Date();
+		this.view_time = ((currentTime.getTime() - this.access_time.getTime()) / 1000).toFixed(2);
+
+		var accessYear = this.access_time.getFullYear();
+		var accessMonth = this.access_time.getMonth()+1;
+		var accessDate = this.access_time.getDate();
+		var accessHours = this.access_time.getHours();
+		var accessMinutes = this.access_time.getMinutes();
+		var accessSeconds = this.access_time.getSeconds();
+		
+		if(accessMonth < 10) {
+			accessMonth = "0"+accessMonth;
+		}
+		if(accessDate < 10) {
+			accessDate = "0"+accessDate;
+		}
+		if(accessHours < 10) {
+			accessHours = "0"+accessHours;
+		}
+		if(accessMinutes < 10) {
+			accessMinutes = "0"+accessMinutes;
+		}
+		if(accessSeconds < 10) {
+			accessSeconds = "0"+accessSeconds;
+		}
+		this.access_time = ""+accessYear+accessMonth+accessDate+accessHours+accessMinutes+accessSeconds;
+	},
+	configParam: function() { // 파라미터 정의
+		var tmpDomain = document.location.href.split('/');
+		if(tmpDomain.length > 2) {
+			this.domain = tmpDomain[2];
+		}
+		
+		this.params += "&domain="+this.domain+"&uripath="+this.uripath+"&access_time="+this.access_time+"&view_time="+this.view_time+"&read_time="+this.read_time+"&readfinish="+this.readfinish;
+		console.log(this.params);
+	}
+}
+
+// 스크롤 이벤트 추가
+window.addEventListener('scroll', function() {
+	if(mkScrollNewsInfo.scrolltimer) {
+		clearTimeout(mkScrollNewsInfo.scrolltimer);
+	}
+
+	mkScrollNewsInfo.scrolltimer = setTimeout(mkScrollNewsInfo.trackLocation(), mkScrollNewsInfo.callBackTime);
+});
+
+// 이동시 실행되는 이벤트
+window.addEventListener('beforeunload', function() {
+	try {
+		mkScrollNewsInfo.calViewTime();
+		mkScrollNewsInfo.configParam();
+		
+		var img= new Image();
+		img.src="https://www25.mk.co.kr:8444/news/scrolldata/?" + mkScrollNewsInfo.params;
+	} catch (e) {}
+});
+window.addEventListener('pagehide', function() {
+	try {
+		mkScrollNewsInfo.calViewTime();
+		mkScrollNewsInfo.configParam();
+		
+		var img= new Image();
+		img.src="https://www25.mk.co.kr:8444/news/scrolldata/?" + mkScrollNewsInfo.params;
+	} catch (e) {}
+});
+</script>
+<iframe id='newslog2_iframe' frameborder='0' scrolling='no' width='0' height='0' style='position:absolute;visibility:hidden;top:0;left:0;'></iframe>
+<script>
+    (function () {
+        var guid = function () {
+            function s4() {return Math.floor((1 + Math.random()) * 0x10000).toString(16).substring(1);}
+
+            return s4() + s4() + s4() + s4() + s4() + s4() + s4() + s4();
+        }
+        var getCookie = function (cname) {
+            var name = cname + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') c = c.substring(1);
+                if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+            }
+            return "";
+        }
+        var setCookie = function (cname, cvalue, exdays) {
+            var d = new Date();
+            d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+            var expires = "expires=" + d.toUTCString();
+            document.cookie = cname + "=" + cvalue + "; " + expires;
+        }
+        var params = "maeche=mk&login_maeche=mk&maeche_category=yonhap100405&ustr=2021%2F1066325&keyword=&pub_ymdhis=20211111164758";
+        var referrer = '';
+        var tmp = document.referrer.split('/');
+        if (tmp.length > 2) {referrer = tmp[2];}
+        var domain = '';
+        tmp = document.location.href.split('/');
+        if (tmp.length > 2) {domain = tmp[2];}
+        var pathname = document.location.pathname;
+        var login_id = getCookie("cUserID");
+        var login_yn = 'y';
+        if (login_id == "") {
+            login_id = getCookie("tmpUserID");
+            login_yn = 'n';
+            if (login_id == "") {
+                login_id = guid();
+                setCookie("tmpUserID", login_id, 365 * 100);
+            }
+        }
+        var dumDate = new Date();
+        params += "&referrer=" + referrer + "&domain=" + domain + "&pathname=" + pathname + "&login_id=" + login_id + "&login_yn=" + login_yn + "&dummy=" + dumDate.getTime();
+        document.getElementById("newslog2_iframe").src = "//www.mk.co.kr/news/inc/mkNewsLogIframe.php?" + params;
+        console.log(params);
+    })();
+</script>
+
+    <!-- News Log  -->
+    <iframe id='newslog_iframe' frameborder='0' scrolling='no' width='0' height='0' align='middle' valign='top' name='newscnt' title='news log' style='position:absolute;visibility:hidden;top:0;left:0;'></iframe>
+    <script type="text/javascript">
+        <!--
+        var fromUrl = document.referrer.toString();
+        if (fromUrl != null && fromUrl != "") {
+            fromUrl = fromUrl.replace("https://", "");
+            fromUrl = fromUrl.replace("http://", "");
+            fromUrl = fromUrl.split("/");
+            fromUrl = fromUrl[0];
+        }
+        var toUrl = document.location.href.toString();
+        if (toUrl != null && toUrl != "") {
+            toUrl = toUrl.replace("https://", "");
+            toUrl = toUrl.replace("http://", "");
+            toUrl = toUrl.split("/");
+            toUrl = toUrl[0];
+        }
+        //var loadingUrl = "/include/inc_news_cnt.php?oc=yonhap100405&year=2021&no=1066325&domain_from=" + fromUrl + "&domain_to=" + toUrl + "&isMobile=N&nTitle=청소년 심야 게임 금지 `셧다운 제도` 10년 만에 사라진다(종합)";
+        var loadingUrl = "//www.mk.co.kr/include/inc_news_cnt.php?oc=yonhap100405&year=2021&no=1066325&domain_from=" + fromUrl + "&domain_to=" + toUrl + "&isMobile=N&nTitle=";
+        document.getElementById("newslog_iframe").src = loadingUrl;
+        //-->
+    </script>
+    <!--// News Log  -->
+    
+<script type='text/javascript'>
+$().ready(function() {
+    var maxt = 0, rt = 3.45, weight = 0.4, st;
+    var intv = setInterval(function () {
+        var cont = $('.art_txt');
+        try {
+            var wc = cont.html().replace(/(<([^>]+)>)/gi, "").replace('window.jQuery || document.write("")', '').split(/\s+/).length;
+            if(wc > 0) {
+                maxt = (wc/rt)*weight;
+                st = new Date();
+                clearInterval(intv);
+            }
+        } catch(err) {}
+    }, 500);
+    
+    
+    $(window).on('beforeunload ',function() {
+        //ga('send', 'event', 'rating', 10);
+        var diff = ((new Date()).getTime() - st.getTime())/1000, rating = (diff/maxt)*10;
+        if(rating > 10) rating = 10;
+    
+        //console.log(diff + ' | ' + maxt);
+        //console.log(parseInt(rating));
+    });
+});
+</script>
+    
+    
+<!-- 팝업 -->
+<!--if IE 7 배경-->
+<div id='overlay' class='overlay' style='display: none;'></div>
+<div id='popup' style='display: none;'>
+	<map name='map_popup'>
+		<area href='#' shape='rect' coords='489, 9, 530, 49' alt='닫기'>
+		<area href='https://software.naver.com/software/summary.nhn?softwareId=MFS_100203' shape='rect' coords='51, 289, 165, 403' alt='IE 8 다운로드' target='_blank'>
+		<area href='https://www.google.com/chrome/browser/desktop/index.html' shape='rect' coords='209, 287, 328, 403' alt='크롬 다운로드' target='_blank'>
+		<area href='https://www.mozilla.org/ko/firefox/new/' shape='rect' coords='370, 286, 490, 403' alt='파이어폭스 다운로드' target='_blank'>
+	</map>
+	<img src='//img.mk.co.kr/main/201509/pop_browser_update.jpg' alt='매경닷컴 홈페이지는 인터넷 익스플로러 8 이상을 지원합니다' usemap='#map_popup'>
+</div>
+<!--// 팝업 -->
+    
+    
+<div id='Wrap'>
+    
+    <!--상단 네이게이션바 js-->
+    <script type='text/javascript' src='https://www.mk.co.kr/news/js/header_move.js'></script>
+    <!--검색 js-->
+    <script type='text/javascript' src='https://channel.mk.co.kr/2020/js/news_search.js?1=1'></script>
+    <!-- 200909_상단 고정 네비게이션바 -->
+<div id = "gnb_move" class="gnbbx_wrap">
+    <div id="gnbbx_m">
+        <div class="allmn_m">
+            <a href="javascript:openMoveNavAll();"><span class="ic_ham_m"></span></a>
+            <!--a href="#"><span class="ic_close_m"></span></a--> <!-- 햄버거 메뉴 버튼 클릭 시 span태그 class="ic_close_m"으로 적용 -->
+        </div>
+
+        <div class="logo_sm">
+            <a href="https://www.mk.co.kr/">
+                <img src="https://img.mk.co.kr/main/2020/l_mk_sm.jpg" alt="매일경제"/>
+            </a>
+        </div>
+
+        <!-- 서브 메뉴 -->
+        <ul id = "gnb_m_sub" class="gnb_m_sub" style="display:none;">
+                            <li><a href="https://www.mk.co.kr/news/">뉴스</a></li>
+                <li  ><a href="https://www.mk.co.kr/news/economy/" data-category="gnb" data-label="news_economy"><span>경제</span></a></li>
+                <li  ><a href="https://www.mk.co.kr/news/business/" data-category="gnb" data-label="news_business"><span>기업</span></a></li>
+                <li  ><a href="https://www.mk.co.kr/news/society/" data-category="gnb" data-label="news_society"><span>사회</span></a></li>
+                <li  ><a href="https://www.mk.co.kr/news/world/" data-category="gnb" data-label="news_international"><span>국제</span></a></li>
+                <li  ><a href="https://www.mk.co.kr/news/realestate/" data-category="gnb" data-label="news_estate"><span>부동산</span></a></li>
+                <li  ><a href="https://www.mk.co.kr/news/stock/" data-category="gnb" data-label="news_stock"><span>증권</span></a></li>
+                <li  ><a href="https://www.mk.co.kr/news/politics/" data-category="gnb" data-label="news_politics"><span>정치</span></a></li>
+                <li class='on' ><a href="https://www.mk.co.kr/news/it/" data-category="gnb" data-label="news_it"><span>IT·과학</span></a></li>
+                <li  ><a href="https://www.mk.co.kr/news/culture/" data-category="gnb" data-label="news_culture"><span>문화</span></a></li>
+                        </ul>
+        <!--// 서브 메뉴 -->
+
+        <!-- 로그인 -->
+        <div class="gnb_m_member">
+            <a id = "move_subscribe_btn" class="btn_subscribe" data-category="gnb" data-label="subscribe" href="http://subscribe.mk.co.kr/?TM=S&MM=1" rel='nofollow'>구독신청</a>
+            <!-- //로그인/로그아웃 -->
+            <script language='JavaScript' type='text/javascript'>
+                login_check = document.cookie.indexOf('cUserID');
+                if (login_check == -1) {
+                    document.write("<a class = 'btn_login' href='https://member.mk.co.kr/mem/v1/login.php?successUrl=" + document.location + "'>로그인</a>");
+                    document.write("<a id = 'move_join_btn' class='btn_join' data-category='gnb' data-label='signup' href='https://member.mk.co.kr/mem/intro.php' rel='nofollow'>회원가입</a>");
+
+                } else {
+                    document.write("<a class = 'btn_login' href='https://member.mk.co.kr/member_logoff.php?nextUrl=" + document.location + "'>로그아웃</a>");
+                    document.write("<a id = 'move_join_btn' class='btn_join' data-category='gnb' data-label='profile' href='https://member.mk.co.kr/modify/modify_info.php' rel='nofollow'>회원수정</a>");
+
+                }
+            </script>
+            <!-- //로그인/로그아웃 -->
+
+        </div>
+        <!--// 로그인 -->
+
+        <!-- 검색 -->
+        <div class="srchmn"><a href="javascript:openSearchBoxMove();"><span class="ic_sch_m"></span></a></div>
+
+        <div class="gnb_srch_m" id="search_box_move" style="display:none;">
+            <form name="top_search_move" id="mkSearchMove" method="GET" onsubmit="return goSearch( document.top_search_move );" target="_blank">
+                <input type='hidden' name='s_kwd' >
+                <input type='hidden' name='page' value='total'>
+                <input type='hidden' name='ADSTK' value=''><input type='hidden' name='ADSTL' value=''>                <fieldset>
+                    <legend>통합검색</legend>
+                    <div class="srch_wrap_m">
+                        <label for="s_keyword">
+                            <input type="text" title="검색어 입력" class="text" name="s_keyword" id="s_keyword" placeholder="통합검색" autocapitalize="off" autocomplete="off">
+                        </label>
+                    </div>
+                    <label for="search">
+                        <input type="submit" class="img" value="검색" /> <span class="blind">검색</span>
+                    </label>
+                    <a href="javascript:closeSearchBoxMove();" class="btn_close">닫기</a>
+                </fieldset>
+            </form>
+        </div>
+        <!--// 검색 -->
+    </div>
+
+    <!--이동식 전체메뉴 -->
+    <!-- 메뉴 //-->
+<div class="menubx_wrap" id = "move_gnb_total_list" style="display:none;">
+    <div class="menubx">
+        
+            <div class='depth_col'>
+                <ul class='depth_list'>
+                    <li class='tit'>뉴스</li>
+
+                        <li><a href='https://www.mk.co.kr/news/bestclick/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">인기뉴스</a></li>
+                        <li><a href='https://www.mk.co.kr/opinion/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">오피니언</a></li>
+                        <li><a href='https://www.mk.co.kr/news/feature-story/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">기획·연재</a></li>
+                        <li><a href='https://www.mk.co.kr/news/special-edition/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">스페셜에디션</a></li>
+                        <li><a href='https://www.mk.co.kr/star/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">스타투데이</a></li>
+                        <li><a href='https://www.mk.co.kr/sports/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">스포츠</a></li>
+                        <li><a href='https://game.mk.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">게임진</a></li>
+                        <li><a href='https://www.pulsenews.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">영문뉴스</a></li>
+                        <li><a href='https://china.mk.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">MK China</a></li>
+                        <li><a href='https://japan.mk.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">MK Japan</a></li>
+                        <li><a href='https://mkbn.mk.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">MK빌리어드뉴스</a></li>
+                        <li><a href='https://mirakle.mk.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">미라클어헤드</a></li>
+                        <li><a href='https://www.mk.co.kr/esg/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">MK ESG</a></li>
+                        <li><a href='' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');"></a></li>
+                </ul>
+            </div>
+
+            <div class='depth_col'>
+                <ul class='depth_list'>
+                    <li class='tit'>프리미엄</li>
+
+                        <li><a href='https://digital.mk.co.kr' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">매경e신문</a></li>
+                        <li><a href='https://www.mk.co.kr/premium/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">매경프리미엄</a></li>
+                        <li><a href='http://raythem.com/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">레이더M</a></li>
+                        <li><a href='https://raythep.mk.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">레이더P</a></li>
+                        <li><a href='https://www.mk.co.kr/today-paper/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">오늘의 매경</a></li>
+                        <li><a href='https://www.mk.co.kr/newsletter/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">뉴스레터</a></li>
+                        <li><a href='https://www.mk.co.kr/readingnews/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">들려주는 뉴스</a></li>
+                        <li><a href='' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');"></a></li>
+                        <li><a href='' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');"></a></li>
+                </ul>
+            </div>
+
+            <div class='depth_col'>
+                <ul class='depth_list'>
+                    <li class='tit'>재테크</li>
+
+                        <li><a href='http://stock.mk.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">증권</a></li>
+                        <li><a href='http://estate.mk.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">부동산</a></li>
+                        <li><a href='http://dic.mk.co.kr/cp/pop/index.php' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">경제용어</a></li>
+                        <li><a href='https://www.mk.co.kr/news/business/new-corporation/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">신설법인</a></li>
+                </ul>
+            </div>
+
+            <div class='depth_col'>
+                <ul class='depth_list'>
+                    <li class='tit'>라이프</li>
+
+                        <li><a href='https://golf.mk.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">골프</a></li>
+                        <li><a href='https://book.mk.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">Book</a></li>
+                        <li><a href='https://tripplus.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">여행</a></li>
+                        <li><a href='http://weather.mk.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">날씨</a></li>
+                        <li><a href='https://uberin.mk.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">우버人사이트</a></li>
+                        <li><a href='https://senior.mk.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">MK생애설계센터</a></li>
+                        <li><a href='https://luxurym.mk.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">LUXURY M</a></li>
+                        <li><a href='http://mplay.mk.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">M플레이</a></li>
+                        <li><a href='https://www.mk.co.kr/car/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">Car</a></li>
+                </ul>
+            </div>
+
+            <div class='depth_col'>
+                <ul class='depth_list'>
+                    <li class='tit'>비즈니스</li>
+
+                        <li><a href='https://www.mk.co.kr/news/special-edition/the-biz-times/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">The Biz Times</a></li>
+                        <li><a href='https://nikkei.mk.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">닛케이텔레콤</a></li>
+                        <li><a href='https://dstreet.io/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">블록체인 트렌드</a></li>
+                        <li><a href='http://www.gunbbang.kr/home/main' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">집꾸미기 큐레이션 건빵</a></li>
+                        <li><a href='http://kdx.mbn.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">한국데이터거래소</a></li>
+                        <li><a href='https://medalshop.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">Medal Shop</a></li>
+                </ul>
+            </div>
+
+            <div class='depth_col'>
+                <ul class='depth_list'>
+                    <li class='tit'>캠페인</li>
+
+                        <li><a href='http://www.wkforum.org/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">세계지식포럼</a></li>
+                        <li><a href='http://www.hansang.net&#8203;/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">세계한상대회</a></li>
+                        <li><a href='https://www.mk.co.kr/news/economy/view/2021/06/628953/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">정진기언론문화상</a></li>
+                        <li><a href='http://subscribe.mk.co.kr/index.php?TM=S&MM=1' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">구독신청</a></li>
+                        <li><a href='http://maekyungopen.mk.co.kr/' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');">매경오픈</a></li>
+                        <li><a href='' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');"></a></li>
+                        <li><a href='' target='_blank' onclick="ga('send', 'event', 'GNB', 'click', 'more_view');"></a></li>
+                </ul>
+            </div>
+    </div>
+</div>
+</div>
+<!--// 200909_상단 고정 네비게이션바 -->
+    <!-- header -->
+    <div id = "mkheader" class="mkheader">
+        <!-- head -->
+        <div class="mkhead_wrap">
+            <div class="mkhead_comm">
+                <h1>
+                                            <a href="https://www.mk.co.kr/news/" class = "mkservicelogo" data-category="gnb" data-label="news" onclick="ga('send', 'event', 'GNB', 'click', 'news');">뉴스</a>
+                                        </h1>
+                <ul class="mkservices">
+                                                                <li><a href="https://www.mk.co.kr/opinion/" data-category="gnb" data-label="opinion" onclick="ga('send', 'event', 'gnb', 'click', 'opinion');">오피니언</a></li>
+                                            <li><a href="https://www.mk.co.kr/premium/" data-category="gnb" data-label="premium" onclick="ga('send', 'event', 'gnb', 'click', 'premium');">프리미엄</a></li>
+                    <li><a href="https://www.mk.co.kr/star/" data-category="gnb" data-label="startoday" onclick="ga('send', 'event', 'gnb', 'click', 'entertainment');">연예</a></li>
+                                            <li><a href="https://www.mk.co.kr/sports/" data-category="gnb" data-label="sports" onclick="ga('send', 'event', 'gnb', 'click', 'sports');">스포츠</a></li>
+                                            <li><a href="https://stock.mk.co.kr/" data-category="gnb" data-label="stock" onclick="ga('send', 'event', 'GNB', 'click', 'stock_dropdown');">증권</a></li>
+                    <li><a href="http://estate.mk.co.kr/" data-category="gnb" data-label="estate" onclick="ga('send', 'event', 'GNB', 'click', 'estate');">부동산</a></li>
+                </ul>
+            </div>
+        </div>
+        <!--// head -->
+
+        <!-- gnb -->
+        <div class="mkgnb_wrap">
+            <div class="mkgnb_comm">
+                <ul class="mkgnb_list">
+                                            <li  ><a href="https://www.mk.co.kr/news/economy/" data-category="gnb" data-label="news_economy"><span>경제</span></a></li>
+                        <li  ><a href="https://www.mk.co.kr/news/business/" data-category="gnb" data-label="news_business"><span>기업</span></a></li>
+                        <li  ><a href="https://www.mk.co.kr/news/society/" data-category="gnb" data-label="news_society"><span>사회</span></a></li>
+                        <li  ><a href="https://www.mk.co.kr/news/world/" data-category="gnb" data-label="news_international"><span>국제</span></a></li>
+                        <li  ><a href="https://www.mk.co.kr/news/realestate/" data-category="gnb" data-label="news_estate"><span>부동산</span></a></li>
+                        <li  ><a href="https://www.mk.co.kr/news/stock/" data-category="gnb" data-label="news_stock"><span>증권</span></a></li>
+                        <li  ><a href="https://www.mk.co.kr/news/politics/" data-category="gnb" data-label="news_politics"><span>정치</span></a></li>
+                        <li class='on' ><a href="https://www.mk.co.kr/news/it/" data-category="gnb" data-label="news_it"><span>IT·과학</span></a></li>
+                        <li  ><a href="https://www.mk.co.kr/news/culture/" data-category="gnb" data-label="news_culture"><span>문화</span></a></li>
+                        <li  ><a href="https://www.mk.co.kr/news/feature-story/" data-category="gnb" data-label="news_serial"><span>기획·연재</span></a></li>
+                        <li  ><a href="https://www.mk.co.kr/news/special-edition/" data-category="gnb" data-label="news_specialedition"><span>Special Edition</span></a></li>
+                        <li  ><a href="https://www.mk.co.kr/news/bestclick/" data-category="gnb" data-label="news_bestclick"><span>인기뉴스</span></a></li>
+                        <li  ><a href="https://www.mk.co.kr/news/crypto-currency/" data-category="gnb" data-label="news_cryptocurrency"><span>암호화폐</span></a></li>
+                        <li><a href="https://www.mk.co.kr/today-paper/" data-category="gnb" data-label="today_paper"><span>오늘의 매경</span></a></li>
+                                                                                </ul>
+            </div>
+        </div>
+        <!--// gnb -->
+            </div>
+    <!--// header -->
+    <!--// 200911_수정 -->
+
+    
+    
+	<!-- Google DFP TC 광고 시작-->
+	<div class='ad_header_view'>
+		<div id='google_dfp_TC_728x90,970x90,970x250,fluid'>
+			<center><script type='text/javascript'>googletag.display('google_dfp_TC_728x90,970x90,970x250,fluid'); </script></center>
+		</div>
+	</div>
+	<!-- Google DFP  TC 광고 끝-->
+    
+    <div class='pd10'>
+
+	<!-- view top  -->
+	<div id='top_header'>
+		<div class='news_title'>
+			<div class='news_title_text'>
+				<h1 class='top_title'>청소년 심야 게임 금지 '셧다운 제도' 10년 만에 사라진다(종합)</h1>
+				<h2 class='sub_title1_new'>청소년보호법 개정안, 국회 본회의 통과…내년부터 폐지</h2>
+				<div class='news_title_author'>
+					<ul>
+						<li class='author'>
+						</li>
+						<li class='lasttime1'>입력 : 2021.11.11 16:47:58 &nbsp; 수정 : 2021.11.11 16:59:53</li>
+                        <!-- 댓글영역 노출공간 -->
+						    
+                        <li class='reple_out'>
+                        <a href='#reple'><div class='reple_box_out'><img src='//img.mk.co.kr/news/2020/ic_reple.png' class='reple_icon_sm' alt='댓글' /> <span id='reply_btn_text'></span></div></a>
+                        </li>
+                        <!--// 댓글영역 노출공간 -->
+					</ul>
+				</div>
+				<div class='sns_right'>
+					<ul>
+						<li><a href='javascript:void(0);' data-category='share' data-label='print' onclick='sendPrint();'><img src='//img.mk.co.kr/news/2020/ic_print.png' alt='프린트'></a></li>
+						<li><a href='javascript:void(0);' onclick='kakaotalkShare();'><img src='//img.mk.co.kr/news/2020/ic_kakaotalk.png'  alt='카카오톡'></a></li>
+						<li><a href='javascript:void(0);' data-category='share' data-label='email' onclick='sendMail();'><img src='//img.mk.co.kr/news/2020/ic_email.png' alt='이메일'></a></li>
+						<li><a href='javascript:void(0);' data-category='share' data-label='facebook'><img src='//img.mk.co.kr/news/2020/ic_facebook.png' alt='페이스북' class='sns_section_li' sns_name='facebook'></a></li>
+						<li><a href='javascript:void(0);' data-category='share' data-label='twitter'><img src='//img.mk.co.kr/news/2020/ic_twitter.png' alt='트위터' class='sns_section_li' sns_name='twitter'></a></li>
+						<li><a href='javascript:void(0);' data-category='share' data-label='kakaostory' class='kakaostoryShareBtn'><img src='//img.mk.co.kr/news/2020/ic_kakaostory.png' alt='카카오스토리'></a></li>
+						<li><a href='javascript:void(0);' data-category='share' data-label='source' onclick='sendShareArt()'><img src='//img.mk.co.kr/news/2020/ic_sendshare.png' alt='공유'></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--// view top -->
+						    
+						    
+	<!--// sns box -->
+	<div class='sns_mbox' style='display:none;'>
+		<div class='sns_left' id='sns_left'>
+			<ul>
+				<li><a href='javascript:void(0);' data-category='share' data-label='print' onclick='sendPrint();'><img src='//img.mk.co.kr/news/2020/ic_print.png' alt='프린트'></a></li>
+				<li><a href='javascript:void(0);' onclick='kakaotalkShare();'><img src='//img.mk.co.kr/news/2020/ic_kakaotalk.png' alt='카카오톡'></a></li>
+				<li><a href='javascript:void(0);' data-category='share' data-label='email' onclick='sendMail();'><img src='//img.mk.co.kr/news/2020/ic_email.png' alt='이메일'></a></li>
+				<li><a href='javascript:void(0);' data-category='share' data-label='facebook'><img src='//img.mk.co.kr/news/2020/ic_facebook.png' alt='페이스북' class='sns_section_li' sns_name='facebook'></a></li>
+				<li><a href='javascript:void(0);' data-category='share' data-label='twitter'><img src='//img.mk.co.kr/news/2020/ic_twitter.png' alt='트위터' class='sns_section_li' sns_name='twitter'></a></li>
+				<li><a href='javascript:void(0);' data-category='share' data-label='kakaostory' class='kakaostoryShareBtn'><img src='//img.mk.co.kr/news/2020/ic_kakaostory.png' alt='카카오스토리'></a></li>
+				<li><a href='javascript:void(0);' data-category='share' data-label='source' onclick='sendShareArt()'><img src='//img.mk.co.kr/news/2020/ic_sendshare.png' alt='공유'></a></li>
+			</ul>
+		</div>
+	</div>
+	<!--// sns box -->
+						    
+						    
+	<!-- content -->
+	<div id='Content'>
+						    
+		<!--  left contets -->
+		<div class='left_content'>
+			<div id='article_body' itemprop='articleBody'>
+				<div class='art_txt'>
+                    <div class="img_center" style="width: 820px;" originw="1024" originh="576">
+                    <div class="zoom_icon" style="display: none; z-index: 100; position: absolute;"><img src="//img.mk.co.kr/news/2013/bt_news_zoom.png" alt="원본사이즈 보기" style="cursor: pointer;" ></div>
+                    <img src="https://file.mk.co.kr/meet/yonhap/2021/11/11/image_readtop_2021_1066325_0_164811.jpg" border="0" hspace="0" vspace="0" width="820" alt="게임 셧다운제 결국 폐지…시간선택제로 일원화 (CG)" ><br>
+                    <figure><figcaption><img src="//img.mk.co.kr/main/2015/mk_new/ic_arrow_top.gif" alt="사진설명">게임 셧다운제 결국 폐지…시간선택제로 일원화 (CG)</figcaption></figure>
+                    <div class="zoom_txt" style="width: 655px; cursor: pointer;">▶ 여기를 누르시면 크게 보실 수 있습니다</div>
+                    </div>   청소년의 심야 게임을 금지하는 이른바 '셧다운 제도'가 도입 10년 만에 폐지된다.
+<br><br>국회는 11일 본회의에서 16세 미만의 청소년에게 오전 0시부터 오전 6시까지 인터넷 게임 제공을 제한하는 규정을 삭제하는 내용을 골자로 하는 청소년 보호법 개정안을 의결했다. 
+<br><br>이 법안에는 인터넷게임 중독·과몰입 피해 청소년뿐만 아니라 피해 청소년 가족에게도 상담·교육 및 치료와 재활서비스를 지원할 수 있도록 하는 내용도 포함됐다. 
+<br><div style="text-align:center; border:0; width:100%; margin:0 auto;"><div id="google_dfp_MC_2x1,fluid" style="float:inherit; padding: 20px 40px 9px 40px;"><script type="text/javascript">googletag.display("google_dfp_MC_2x1,fluid");</script></div></div><br>법 개정은 올해 8월 관계부처 합동으로 마련한 '셧다운제 폐지 및 청소년의 건강한 게임이용 환경 조성 방안'의 후속 조치로 이뤄졌다.
+<br><br>당초 게임 셧다운제는 2000년대 초반 게임 과몰입이 사회적 문제로 떠오름에 따라 논의가 시작됐다.
+<br><br>2005년 국회에서 청소년 보호법 개정안이 발의됐고, 2011년부터 시행됐다.
+<br><br>이후 19·20대 국회에서 셧다운제의 합리적 운영을 위해 2차례 제도 개선을 추진했으나 법률 개정에는 이르지 못했다. 
+<br><br>이에 정부는 올해 '셧다운제 개선'을 정부 규제 챌린지 과제로 선정하고 재검토한 결과, '강제적 셧다운제'(청소년 보호법)를 폐지하고 부모와 자녀가 자율적으로 게임 이용 시간을 조절하는 '게임시간 선택제'(게임산업법)로 제도를 일원화하기로 했다.
+<br><br>2011년 셧다운 제도 도입 당시에는 청소년 게임 중독 방지 등 취지가 있었지만, 그새 온라인 게임 산업이 PC에서 모바일 위주로 바뀌었고 1인 방송·온라인동영상서비스(OTT)·웹툰 등이 활성화하면서 제도 개선의 필요성이 제기됐다. 
+<br><br>한편 여성가족부는 교육부, 문화체육관광부 등과 협조해 건전한 게임 이용 교육, 과몰입 예방 조치 및 치유 캠프 확대 등을 지원해나갈 방침이다.
+<div style="padding:15px 15px 15px 0; text-align:left; float:left; margin-right:5px; margin-bottom:15px;"><div id="google_dfp_MC_250x250"><script type="text/javascript">googletag.display("google_dfp_MC_250x250"); </script></div></div><br><br>정영애 여가부 장관은 "법 개정으로 청소년의 자율성에 기반한 게임 과몰입 예방 정책이 마련됐다"며 "앞으로 매체 환경 변화에 맞춰 미디어 과의존 청소년에 대한 교육, 상담, 치유 지원을 강화하는 등 청소년 보호 주무 부처로서 최선을 다하겠다"고 말했다.
+<br><br><span style='font-size:13px; color:#999'>[연합뉴스]</span>
+<br><br><span style='font-size:13px; color:#999'>Copyrights ⓒ 연합뉴스. 무단 전재 및 재배포금지</span>
+        
+					<!--이미지 키우는 스크립트-->
+					<script>window.jQuery || document.write("<script src='//common.mk.co.kr/common/include/mklib/jquery.js'>")</script>
+					<script type='text/javascript' src='//www.mk.co.kr/news/js/zoom.js'></script>
+				</div>
+			</div>
+
+			<!--// art -->
+    
+			<div id='bottom_art'>
+<div class="t_hotnews">
+    <h3><span>오늘의 핫뉴스 <img src="//img.mk.co.kr/main/2015/mk_new/ic_hot_icon.gif" alt="hot" style="position:absolute; right:0"></span></h3>
+    <div class="hotnews_box">
+        <ul class="hotnews_list">
+            <li><a href='https://www.mk.co.kr/news/it/view/2021/11/1066325/' data-category="hotwnews" data-label="2021/1066325">"밤에 게임하지 마" 셧다운 제도 10년만에 폐지</a> &nbsp; <span style="color:#9b9b9b">40분</span></li><li style="padding-top:-30px; padding-bottom:28px;"><div id="google_dfp_MC_1x1,fluid" style="height:0px; margin:0px;"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("google_dfp_MC_1x1,fluid"); });</script></div></li><li><a href='https://www.mk.co.kr/news/society/view/2021/11/1066355/' data-category="hotwnews" data-label="2021/1066355">1인당 최고 1억 넘게 피해…구멍난 블록체인</a> &nbsp; <span style="color:#9b9b9b">31분</span></li><li><a href='https://www.mk.co.kr/news/it/view/2021/11/1066376/' data-category="hotwnews" data-label="2021/1066376">세포밖서 초고속 항체생산…K바이오 신기술 뜬다</a> &nbsp; <span style="color:#9b9b9b">28분</span></li><li><a href='https://www.mk.co.kr/news/stock/view/2021/11/1066197/' data-category="hotwnews" data-label="2021/1066197">'인플레 공포'…코스피, 장중 2900선까지 밀려</a> &nbsp; <span style="color:#9b9b9b">1시간 14분</span></li>        </ul>
+        <div id='google_dfp_MC_468x61' style='text-align:left;'>
+            <script type='text/javascript'>googletag.display('google_dfp_MC_468x61'); </script>
+        </div>
+
+        <div class="ad_bottom_art">
+            <div id='google_dfp_BL_301x250' style="float:left">
+                <script type='text/javascript'>googletag.display('google_dfp_BL_301x250'); </script>
+            </div>
+            <div id='google_dfp_BC_302x250' style="float:left; padding-left:25px">
+                <script type='text/javascript'>googletag.display('google_dfp_BC_302x250'); </script>
+            </div>
+        </div>
+    </div>
+</div>
+<div id='google_dfp_BC_468x60,625x120' class="ad_type1">
+    <script type='text/javascript'>googletag.display('google_dfp_BC_468x60,625x120'); </script>
+</div><div class="reple_box">
+    <h3>당신이 좋아할 만한 기사 </h3>
+    <div class="recommend_box">
+    	<!-- Begin Dable 중단_교차B5 / For inquiries, visit http://dable.io -->
+		<div id="dablewidget_AlmJ8vX1" data-widget_id="AlmJ8vX1">
+		<script>
+		(function(d,a){d[a]=d[a]||function(){(d[a].q=d[a].q||[]).push(arguments)};}(window,'dable'));
+		dable('renderWidget', 'dablewidget_AlmJ8vX1');
+		</script>
+		</div>
+		<!-- End 중단_교차B5 / For inquiries, visit http://dable.io -->
+    </div>
+</div>
+			<!-- 댓글 -->
+			<div class='reple_box'>
+                <a name='reple'>
+				    <h3>댓글</h3>
+                </a>
+				<div class='reple'><script type='text/javascript'>
+window.livereOptions = { 
+refer : 'news.mk.co.kr/newsRead.php?year=2021&no=1066325',
+site : 'https://www.mk.co.kr/news/it/view/2021/11/1066325/?utm_source=naver&utm_medium=newsstand'
+};
+</script>
+
+<div id='lv-container' data-id='mk' data-uid='MjQvMzYvMjc='>
+<script type='text/javascript'>
+(function(d, s) {
+var j, e = d.getElementsByTagName(s)[0];
+
+if (typeof LivereTower === 'function') { return; }
+
+j = d.createElement(s);
+j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+j.async = false;
+
+e.parentNode.insertBefore(j, e);
+})(document, 'script');
+</script>
+<noscript></noscript>
+</div>
+						<!--  시선집중  시작 -->
+						<div class='ad_viewad_box'>
+							<h4 class='adtitle'>시선집중</h4>
+							<div class='adcont'>
+							    <div class='adcont_left'>
+								<ul class='ad_viewad'><li><img src="//img.mk.co.kr/news/2010/ic_gray_newsdot.gif" border="0" align="absmiddle" onerror="this.style.display='none';" alt="news dot"/>  <a href="https://vip.mk.co.kr/newSt/news/"><b>[매경증권센터] 이시각 증시는?</b></a></li><li><img src="//img.mk.co.kr/news/2010/ic_gray_newsdot.gif" border="0" align="absmiddle" onerror="this.style.display='none';" alt="news dot"/>  <a href="https://vip.mk.co.kr/newSt/news/news_list.php?sCode=121"><b>[이시각 증시는] 거래소, 코스닥 시황 종합</b></a></li><li><img src="//img.mk.co.kr/news/2010/ic_gray_newsdot.gif" border="0" align="absmiddle" onerror="this.style.display='none';" alt="news dot"/>  <a href="https://vip.mk.co.kr/newSt/news/news_list.php?sCode=10002"><b>[이 시각 특징주] 투자자별 매매동향, 이슈 테마..</b></a></li><li><img src="//img.mk.co.kr/news/2010/ic_gray_newsdot.gif" border="0" align="absmiddle" onerror="this.style.display='none';" alt="news dot"/>  <a href="https://vip.mk.co.kr/newSt/news/news_list2.php?sCode=110"><b>[증권사 리포트] 최신 증권사 리포트 요약</b></a></li>
+								</ul>
+								</div>
+								<div class='adcont_right' id='viewShopDiv'> <a href='https://vip.mk.co.kr/newSt/news/' target='_blank'>
+								    <img src='//img.mk.co.kr/news/2013/banner_280X112.gif' alt='시선집중' class='imgf' width='280' onerror="this.style.display='none';" style='float:left'/></a>
+								</div>
+							</div>
+						</div>
+
+						<!--// 시선집중  끝 -->    <script type="text/javascript">
+        function getLivereCnt(mcp_url){
+            var xhr = new XMLHttpRequest();
+            var formData = new FormData();
+            formData.append('mcp_url',mcp_url);
+            xhr.open('POST', 'https://m.mk.co.kr/origin/news/ajax/livere_cnt_ajax.php',true);
+            xhr.timeout = 3000;
+            xhr.onload = function() {
+                if (xhr.status === 200 || xhr.status === 201) {
+                    var data=xhr.responseText;
+                    var rElement=document.getElementById('reply_btn_text');
+                    if(rElement){
+                        rElement.innerHTML=data;
+                    }
+                }
+            };
+            xhr.ontimeout = function (e) {
+                var rElement=document.getElementById('reply_btn_text');
+                if(rElement){
+                    rElement.innerHTML="0";
+                }
+            };
+            xhr.send(formData); // 폼 데이터 객체 전송
+        }
+        getLivereCnt('news.mk.co.kr/newsRead.php?year=2021&no=1066325');
+    </script>
+
+				</div>
+			</div>
+			<br><br>
+		</div>
+		<!--// bottom art -->
+
+	</div>
+	<!--// left contets -->
+
+
+	<!-- right aside --><!-- Cache Start : 47010bb7206d571ad6859801f0e26f1e -->
+
+<div class='right_aside'>
+    <script type='text/javascript'>
+    var rel_json = [{"0":{"title":"게임산업협회 \"셧다운제 폐지로 게임 재평가 ..","link":"https://www.mk.co.kr/news/economy/view/2021/11/1066284/","title_font":"","wdate":"20211111163321","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"1066284"},"1":{"title":"청소년 심야 게임 금지 '셧다운 제도' 10년 만..","link":"https://www.mk.co.kr/news/it/view/2021/11/1066261/","title_font":"","wdate":"20211111162620","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"1066261"},"2":{"title":"엔씨소프트 실적 감소에도…장중 상한가 터치 ..","link":"https://www.mk.co.kr/news/stock/view/2021/11/1065591/","title_font":"","wdate":"20211111134715","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"1065591"},"3":{"title":"엔씨소프트 '리니지2M', 내달 2일 해외 29개국..","link":"https://www.mk.co.kr/news/it/view/2021/11/1063145/","title_font":"","wdate":"20211110154810","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"1063145"},"4":{"title":"NHN \"NFT게임 내년 출시\"","link":"https://www.mk.co.kr/news/it/view/2021/11/1060893/","title_font":"","wdate":"20211109172301","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"1060893"}},{"0":{"title":"컴투스, 日 도에이 애니메이션과 '서머너즈 워..","link":"https://www.mk.co.kr/news/economy/view/2021/11/1059966/","title_font":"","wdate":"20211109132636","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"1059966"},"1":{"title":"넥슨, 서브컬처 게임 '블루 아카이브' 한국 등..","link":"https://www.mk.co.kr/news/it/view/2021/11/1059453/","title_font":"","wdate":"20211109104353","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"1059453"},"2":{"title":"택진이형 정말 안풀리네…야심작 '리니지W' 출..","link":"https://www.mk.co.kr/news/it/view/2021/11/1047698/","title_font":"","wdate":"20211104171910","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"1047698"},"3":{"title":"엔씨소프트, '리니지W' 12개국 동시 출시","link":"https://www.mk.co.kr/news/it/view/2021/11/1045004/","title_font":"","wdate":"20211104094642","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"1045004"},"4":{"title":"'오딘' '미르' 돌풍…3N 위협하는 중형게임사","link":"https://www.mk.co.kr/news/it/view/2021/11/1043526/","title_font":"","wdate":"20211103171836","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"1043526"}},{"0":{"title":"넷마블, '세븐나이츠2' 글로벌 버전 10일 출시","link":"https://www.mk.co.kr/news/it/view/2021/11/1042273/","title_font":"","wdate":"20211103141410","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"1042273"},"1":{"title":"'中 허가 기다리다 지쳐'…美 포트나이트 중국..","link":"https://www.mk.co.kr/news/world/view/2021/11/1041194/","title_font":"","wdate":"20211103104213","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"1041194"},"2":{"title":"\"아이템 뽑기로 배 불리더니\"…게임 '3N' 시총..","link":"https://www.mk.co.kr/news/it/view/2021/10/1031149/","title_font":"","wdate":"20211031183223","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"1031149"},"3":{"title":"최상급 용사되려면 서울 아파트값 내야한다고?..","link":"https://www.mk.co.kr/news/it/view/2021/10/1031080/","title_font":"","wdate":"20211031181231","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"1031080"},"4":{"title":"메타버스로, 캐릭터로…모바일게임 싹쓸이한 ..","link":"https://www.mk.co.kr/news/it/view/2021/10/1031079/","title_font":"","wdate":"20211031181217","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"1031079"}},{"0":{"title":"\"게임하고 돈도 번다\"…모바일게임 '코인' 만..","link":"https://www.mk.co.kr/news/stock/view/2021/10/1014462/","title_font":"","wdate":"20211026174900","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"1014462"},"1":{"title":"'린저씨 컴백' 열흘 앞으로…엔씨소프트 기관 ..","link":"https://www.mk.co.kr/news/stock/view/2021/10/1011657/","title_font":"","wdate":"20211026103636","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"1011657"},"2":{"title":"이달에만 주가 2배 급등…공매도 투자자가 110..","link":"https://www.mk.co.kr/news/stock/view/2021/10/993059/","title_font":"","wdate":"20211020112947","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"993059"},"3":{"title":"\"성희롱 때문에 여직원 줄퇴사\"…엔씨소프트 \"..","link":"https://www.mk.co.kr/news/it/view/2021/10/952909/","title_font":"","wdate":"20211007160057","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"952909"},"4":{"title":"블록체인·메타버스 도입한 게임사는 신났네","link":"https://www.mk.co.kr/news/stock/view/2021/10/948564/","title_font":"","wdate":"20211006174033","r_title":"게임·게임업계","img":"","code":"000060182","year":"2021","no":"948564"}}];
+    var rel_idx = 0, rel_limit = rel_json.length-1;
+    var pageReated = function (idx) {
+        if(idx > rel_limit) idx = 0;
+        else if(idx <0) idx = rel_limit;
+        
+        rel_idx = idx;
+
+        var list_html = '';
+        try {
+            for (var i = 0; i < Object.keys(rel_json[idx]).length; i++) {            
+                list_html += '<li> <a href="' + rel_json[idx][i]['link'] + '" data-category="related" data-label="' + rel_json[idx][i]['year'] + '/' + rel_json[idx][i]['no'] + '">' + rel_json[idx][i]['title'] + '</a></li>';
+            }
+        } catch(e) {}
+        $('.rel_art').html(list_html);
+    };
+    </script>
+<div class='aside'>
+    <div class='rel_art_tit'>
+         <h3>관련뉴스</h3>
+        <a href='javascript:void(0);' onclick='pageReated(--rel_idx);' class='btn_prev'><img alt='이전 배너' src='//img.mk.co.kr/main/201509/btn_bn_prev.gif'></a><a href='javascript:void(0);' onclick='pageReated(++rel_idx);' class='btn_next'><img alt='다음 배너' src='//img.mk.co.kr/main/201509/btn_bn_next.gif'></a>
+    </div>
+
+    
+    
+	<ul class='rel_art'>
+		<li>
+			<a href='https://www.mk.co.kr/news/economy/view/2021/11/1066284/'  data-category='related' data-label='2021/1066284'>게임산업협회 "셧다운제 폐지로 게임 재평가 ..</a>
+		</li>
+		<li>
+			<a href='https://www.mk.co.kr/news/it/view/2021/11/1066261/'  data-category='related' data-label='2021/1066261'>청소년 심야 게임 금지 '셧다운 제도' 10년 만..</a>
+		</li>
+		<li>
+			<a href='https://www.mk.co.kr/news/stock/view/2021/11/1065591/'  data-category='related' data-label='2021/1065591'>엔씨소프트 실적 감소에도…장중 상한가 터치 ..</a>
+		</li>
+		<li>
+			<a href='https://www.mk.co.kr/news/it/view/2021/11/1063145/'  data-category='related' data-label='2021/1063145'>엔씨소프트 '리니지2M', 내달 2일 해외 29개국..</a>
+		</li>
+		<li>
+			<a href='https://www.mk.co.kr/news/it/view/2021/11/1060893/'  data-category='related' data-label='2021/1060893'>NHN "NFT게임 내년 출시"</a>
+		</li>
+    </ul>
+    <ul>
+        <li>
+            <div id='google_dfp_TR_1x1,300x100,300x125,fluid'>
+                <script>
+                googletag.cmd.push(function() { googletag.display('google_dfp_TR_1x1,300x100,300x125,fluid'); });
+                </script>
+            </div>
+        </li>
+    </ul>
+</div>
+<div class='ad_rightview' id='google_dfp_MR_300x250,300x450,300x600,fluid'>
+	<script type='text/javascript'>googletag.display('google_dfp_MR_300x250,300x450,300x600,fluid'); </script>
+</div>
+
+<!-- 인기뉴스 -->
+<div class="aside1" id='bestclick'>
+    <div class="many_art_tit">
+        <h3>인기뉴스</h3>
+	</div>
+	
+	<ul class="tab_bestclick">
+		<li class="on"><a href="#n">종합</a></li>
+		<li><a href="#n">연예</a></li>
+		<li><a href="#n">스포츠</a></li>
+	</ul>
+<div style='display: block'>
+
+				<dl class="many_art0">
+				<dd class='thum'><a href='https://www.mk.co.kr/news/it/view/2021/11/1065752/' onclick="ga('send', 'event', 'ranking', 'click', 'news');"  alt='인기뉴스 1' title='인기뉴스 1'><img src='//file.mk.co.kr/meet/2021/11/image_listtop_2021_1065752_1636610949.jpg.thumb' alt='인기뉴스 섬네일 1' width='50'></a></dd>
+				<dt><span class='num'>1</span><a href='https://www.mk.co.kr/news/it/view/2021/11/1065752/' onclick="ga('send', 'event', 'ranking', 'click', 'news');"  alt='인기뉴스 1' title='인기뉴스 1'>"진짜 겁나게 팔린다"…갤워치4 골프 에디션, 이번엔 1..</a></dt>
+				</dl>
+
+				<dl class="many_art0">
+				<dd class='thum'><a href='https://www.mk.co.kr/news/stock/view/2021/11/1065598/' onclick="ga('send', 'event', 'ranking', 'click', 'news');"  alt='인기뉴스 2' title='인기뉴스 2'><img src='//file.mk.co.kr/meet/2021/11/image_listtop_2021_1065598_1636606376.jpg.thumb' alt='인기뉴스 섬네일 2' width='50'></a></dd>
+				<dt><span class='num'>2</span><a href='https://www.mk.co.kr/news/stock/view/2021/11/1065598/' onclick="ga('send', 'event', 'ranking', 'click', 'news');"  alt='인기뉴스 2' title='인기뉴스 2'>"땡큐 머스크"…테슬라 급락하자 이틀 만에 44% 폭등한 ..</a></dt>
+				</dl>
+
+				<dl class="many_art0">
+				<dd class='thum'><a href='https://www.mk.co.kr/news/society/view/2021/11/1065896/' onclick="ga('send', 'event', 'ranking', 'click', 'news');"  alt='인기뉴스 3' title='인기뉴스 3'><img src='//file.mk.co.kr/meet/2021/11/image_listtop_2021_1065896_1636610741.jpg.thumb' alt='인기뉴스 섬네일 3' width='50'></a></dd>
+				<dt><span class='num'>3</span><a href='https://www.mk.co.kr/news/society/view/2021/11/1065896/' onclick="ga('send', 'event', 'ranking', 'click', 'news');"  alt='인기뉴스 3' title='인기뉴스 3'>롤스로이스 타고 엘시티 합숙하며 `연 5000%` 돈놀이…..</a></dt>
+				</dl>
+
+				<dl class="many_art0">
+				<dd class='thum'><a href='https://www.mk.co.kr/news/society/view/2021/11/1065697/' onclick="ga('send', 'event', 'ranking', 'click', 'news');"  alt='인기뉴스 4' title='인기뉴스 4'><img src='//file.mk.co.kr/meet/2021/11/image_listtop_2021_1065697_1636609491.jpg.thumb' alt='인기뉴스 섬네일 4' width='50'></a></dd>
+				<dt><span class='num'>4</span><a href='https://www.mk.co.kr/news/society/view/2021/11/1065697/' onclick="ga('send', 'event', 'ranking', 'click', 'news');"  alt='인기뉴스 4' title='인기뉴스 4'>정은경 "일상회복 2단계 전환 어려울수도…방역조치 강..</a></dt>
+				</dl>
+
+				<dl class="many_art0">
+				<dd class='thum'><a href='https://www.mk.co.kr/news/society/view/2021/11/1064949/' onclick="ga('send', 'event', 'ranking', 'click', 'news');"  alt='인기뉴스 5' title='인기뉴스 5'><img src='//file.mk.co.kr/meet/neds/2021/11/image_readtop_2021_1064949_16365945934846519.gif.thumb' alt='인기뉴스 섬네일 5' width='50'></a></dd>
+				<dt><span class='num'>5</span><a href='https://www.mk.co.kr/news/society/view/2021/11/1064949/' onclick="ga('send', 'event', 'ranking', 'click', 'news');"  alt='인기뉴스 5' title='인기뉴스 5'>"아무 말 없어도 한마음으로"…8차선 건너는 할머니에게..</a></dt>
+				</dl>
+</div><div style='display: none'>
+
+				<dl class="many_art0">
+				<dd class='thum'><a href='https://www.mk.co.kr/news/entertain/view/2021/11/1064309/' onclick="ga('send', 'event', 'ranking', 'click', 'entertainment');"  alt='인기뉴스 1' title='인기뉴스 1'><img src='//file.mk.co.kr/meet/neds/2021/11/image_readtop_2021_1064309_16365807024845731.jpg.thumb' alt='인기뉴스 섬네일 1' width='50'></a></dd>
+				<dt><span class='num'>1</span><a href='https://www.mk.co.kr/news/entertain/view/2021/11/1064309/' onclick="ga('send', 'event', 'ranking', 'click', 'entertainment');"  alt='인기뉴스 1' title='인기뉴스 1'>박현진, 아찔한 볼륨감 자랑…넘치는 건강美 [똑똑SNS]</a></dt>
+				</dl>
+
+				<dl class="many_art0">
+				<dd class='thum'><a href='https://www.mk.co.kr/news/entertain/view/2021/11/1061502/' onclick="ga('send', 'event', 'ranking', 'click', 'entertainment');"  alt='인기뉴스 2' title='인기뉴스 2'><img src='//file.mk.co.kr/meet/neds/2021/11/image_readtop_2021_1061502_16364944224844222.jpg.thumb' alt='인기뉴스 섬네일 2' width='50'></a></dd>
+				<dt><span class='num'>2</span><a href='https://www.mk.co.kr/news/entertain/view/2021/11/1061502/' onclick="ga('send', 'event', 'ranking', 'click', 'entertainment');"  alt='인기뉴스 2' title='인기뉴스 2'>비키니 입은 오또맘, 아찔한 무보정 몸매 [똑똑SNS]</a></dt>
+				</dl>
+
+				<dl class="many_art0">
+				<dd class='thum'><a href='https://www.mk.co.kr/news/entertain/view/2021/11/1061640/' onclick="ga('send', 'event', 'ranking', 'click', 'entertainment');"  alt='인기뉴스 3' title='인기뉴스 3'><img src='//file.mk.co.kr/meet/2021/11/image_listtop_2021_1061640_1636527464.jpg.thumb' alt='인기뉴스 섬네일 3' width='50'></a></dd>
+				<dt><span class='num'>3</span><a href='https://www.mk.co.kr/news/entertain/view/2021/11/1061640/' onclick="ga('send', 'event', 'ranking', 'click', 'entertainment');"  alt='인기뉴스 3' title='인기뉴스 3'>김승현·한정원 이혼, 결혼 3년 6개월만에 각자의 길로</a></dt>
+				</dl>
+
+				<dl class="many_art0">
+				<dd class='thum'><a href='https://www.mk.co.kr/news/entertain/view/2021/11/1064294/' onclick="ga('send', 'event', 'ranking', 'click', 'entertainment');"  alt='인기뉴스 4' title='인기뉴스 4'><img src='//file.mk.co.kr/meet/neds/2021/11/image_readtop_2021_1064294_16365790214845726.jpg.thumb' alt='인기뉴스 섬네일 4' width='50'></a></dd>
+				<dt><span class='num'>4</span><a href='https://www.mk.co.kr/news/entertain/view/2021/11/1064294/' onclick="ga('send', 'event', 'ranking', 'click', 'entertainment');"  alt='인기뉴스 4' title='인기뉴스 4'>‘오징어 게임’ 정호연, 아찔한 드레스 자태…역시 명..</a></dt>
+				</dl>
+
+				<dl class="many_art0">
+				<dd class='thum'><a href='https://www.mk.co.kr/news/entertain/view/2021/11/1058642/' onclick="ga('send', 'event', 'ranking', 'click', 'entertainment');"  alt='인기뉴스 5' title='인기뉴스 5'><img src='//file.mk.co.kr/meet/2021/11/image_listtop_2021_1058642_1636438878.jpg.thumb' alt='인기뉴스 섬네일 5' width='50'></a></dd>
+				<dt><span class='num'>5</span><a href='https://www.mk.co.kr/news/entertain/view/2021/11/1058642/' onclick="ga('send', 'event', 'ranking', 'click', 'entertainment');"  alt='인기뉴스 5' title='인기뉴스 5'>‘폭행 시비’ 이규한 “목숨 걸고 폭행·폭언 NO…공황..</a></dt>
+				</dl>
+</div><div style='display: none'>
+
+				<dl class="many_art0">
+				<dd class='thum'><a href='https://www.mk.co.kr/news/sports/view/2021/11/1031583/' onclick="ga('send', 'event', 'ranking', 'click', 'sports');"  alt='인기뉴스 1' title='인기뉴스 1'><img src='//file.mk.co.kr/meet/2021/11/image_listtop_2021_1031583_1636009313.jpg.thumb' alt='인기뉴스 섬네일 1' width='50'></a></dd>
+				<dt><span class='num'>1</span><a href='https://www.mk.co.kr/news/sports/view/2021/11/1031583/' onclick="ga('send', 'event', 'ranking', 'click', 'sports');"  alt='인기뉴스 1' title='인기뉴스 1'>`비키니 여신` 소리베베, 몸매 끝판왕` [MK화보]</a></dt>
+				</dl>
+
+				<dl class="many_art0">
+				<dd class='thum'><a href='https://www.mk.co.kr/news/sports/view/2016/12/850852/' onclick="ga('send', 'event', 'ranking', 'click', 'sports');"  alt='인기뉴스 2' title='인기뉴스 2'><img src='//file.mk.co.kr/meet/neds/2016/12/image_readtop_2016_850852_14811718392709505.jpg.thumb' alt='인기뉴스 섬네일 2' width='50'></a></dd>
+				<dt><span class='num'>2</span><a href='https://www.mk.co.kr/news/sports/view/2016/12/850852/' onclick="ga('send', 'event', 'ranking', 'click', 'sports');"  alt='인기뉴스 2' title='인기뉴스 2'>정인영 아나운서 `초미니에 조심조심` [MK포토]</a></dt>
+				</dl>
+
+				<dl class="many_art0">
+				<dd class='thum'><a href='https://www.mk.co.kr/news/sports/view/2021/11/1065173/' onclick="ga('send', 'event', 'ranking', 'click', 'sports');"  alt='인기뉴스 3' title='인기뉴스 3'><img src='//file.mk.co.kr/meet/2021/11/image_listtop_2021_1065173_1636603279.jpg.thumb' alt='인기뉴스 섬네일 3' width='50'></a></dd>
+				<dt><span class='num'>3</span><a href='https://www.mk.co.kr/news/sports/view/2021/11/1065173/' onclick="ga('send', 'event', 'ranking', 'click', 'sports');"  alt='인기뉴스 3' title='인기뉴스 3'>치어리더 `강추위 녹인 핫팬츠 공연` [MK화보]</a></dt>
+				</dl>
+
+				<dl class="many_art0">
+				<dd class='thum'><a href='https://www.mk.co.kr/news/sports/view/2020/05/496075/' onclick="ga('send', 'event', 'ranking', 'click', 'sports');"  alt='인기뉴스 4' title='인기뉴스 4'><img src='//file.mk.co.kr/meet/neds/2020/05/image_readtop_2020_496075_15894999264200392.jpeg.thumb' alt='인기뉴스 섬네일 4' width='50'></a></dd>
+				<dt><span class='num'>4</span><a href='https://www.mk.co.kr/news/sports/view/2020/05/496075/' onclick="ga('send', 'event', 'ranking', 'click', 'sports');"  alt='인기뉴스 4' title='인기뉴스 4'>골프여신 유현주, 숨 막히는 몸매 밀착 촬영 화보</a></dt>
+				</dl>
+
+				<dl class="many_art0">
+				<dd class='thum'><a href='https://www.mk.co.kr/news/sports/view/2021/11/1043958/' onclick="ga('send', 'event', 'ranking', 'click', 'sports');"  alt='인기뉴스 5' title='인기뉴스 5'><img src='//file.mk.co.kr/meet/neds/2021/11/image_readtop_2021_1043958_16359372024836052.jpg.thumb' alt='인기뉴스 섬네일 5' width='50'></a></dd>
+				<dt><span class='num'>5</span><a href='https://www.mk.co.kr/news/sports/view/2021/11/1043958/' onclick="ga('send', 'event', 'ranking', 'click', 'sports');"  alt='인기뉴스 5' title='인기뉴스 5'>김세라 레이싱모델 7번째 시즌 마쳐…“올해도 감사했다..</a></dt>
+				</dl>
+</div><dl>
+            <dt>
+                <dd id='google_dfp_BR_300x100,300x125,fluid'>
+                <script>googletag.cmd.push(function() { googletag.display('google_dfp_BR_300x100,300x125,fluid'); });</script>
+                </dd>
+            </dt>
+        </dl></div>
+<script type="text/javascript">
+    $().ready(function () {
+        var tg = $('#bestclick div').not('.tab_bestclick').not('.many_art_tit').not('#google_dfp_BR_300x100,300x125,fluid'), mn = $('.tab_bestclick li'), mn_btn = mn.find('a'), idx = 0; //
+        var tabname = {
+            '종합': 0, '연예': 1, '스포츠': 2
+        };
+        try {
+            if (typeof right_tab1 != 'undefined' && right_tab1 != '') idx = tabname[right_tab1];
+        } catch (e) {}
+
+        function bestclickShow(n) {
+            console.log('n : '+n);
+            mn.removeClass('on').eq(n).addClass('on');
+            tg.hide().eq(n).show();
+        }
+
+        mn_btn.on('click', function (e) {
+            bestclickShow(mn_btn.index($(this)));
+            e.preventDefault();
+        });
+
+        bestclickShow(idx);
+    });
+</script>
+<!--// 인기뉴스 -->
+
+<div class='aside1'>
+	<div class='many_art_tit'>
+		<h3>가장 많이 공유된 기사</h3>
+	</div>
+	<ul class='many_art'>
+	<li>
+		<div class="art_facebook">433</div>
+        <a href="https://www.mk.co.kr/news/business/view/2021/11/1045164/" data-category="bestclick_sns" data-label="/">"콘텐츠가 곧 영업사원" 베스핀 ..</a>
+	</li>
+	<li>
+		<div class="art_facebook">354</div>
+        <a href="https://www.mk.co.kr/news/society/view/2021/11/1051495/" data-category="bestclick_sns" data-label="/">동네에 이야기를 담겠다고하니…"네..</a>
+	</li>
+	<li>
+		<div class="art_facebook">339</div>
+        <a href="http://mksports.co.kr/view/2021/1048223/" data-category="bestclick_sns" data-label="/">5회초 10분 경기 중단, 김태형..</a>
+	</li>
+	<li>
+		<div class="art_facebook">334</div>
+        <a href="https://www.mk.co.kr/news/culture/view/2021/11/1051541/" data-category="bestclick_sns" data-label="/">[BOOKS] 공학계 집단지성이 ..</a>
+	</li>
+	<li>
+		<div class="art_facebook">325</div>
+        <a href="http://mksports.co.kr/view/2021/1055112/" data-category="bestclick_sns" data-label="/">두산은 강했다…LG에 대승 업셋 ..</a>
+	</li>
+	<li>
+		<div class="art_facebook">319</div>
+        <a href="http://mksports.co.kr/view/2021/1052529/" data-category="bestclick_sns" data-label="/">더스티 베이커, 휴스턴과 1년 계..</a>
+	</li>
+	<li>
+		<div class="art_facebook">317</div>
+        <a href="http://mksports.co.kr/view/2021/1049908/" data-category="bestclick_sns" data-label="/">전역 앞둔 우도환, 넷플릭스 ‘사..</a>
+	</li>
+	<li>
+		<div class="art_facebook">288</div>
+        <a href="https://www.mk.co.kr/news/business/view/2021/11/1043646/" data-category="bestclick_sns" data-label="/">두산重, 수소터빈 도입 앞당긴다..</a>
+	</li>
+	<li>
+		<div class="art_facebook">274</div>
+        <a href="http://mksports.co.kr/view/2021/1044451/" data-category="bestclick_sns" data-label="/">‘12kg 감량’ 제이미, 과감한..</a>
+	</li>
+	<li>
+		<div class="art_facebook">253</div>
+        <a href="http://mksports.co.kr/view/2021/1044454/" data-category="bestclick_sns" data-label="/">정우연(류효영), 탄탄 수영복 뒤..</a>
+	</li>
+	</ul>
+</div>
+
+<div class='aside1'>
+	<div class='many_art_tit' style='margin-bottom:20px'>
+		<h3>포토</h3>
+	</div>
+    
+	<iframe id='xy_inc_todayPhoto' width='300' height='224' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='//common.mk.co.kr/common/include/inc_todayPhoto_mk_20210402.php?sc=40100044&mc=ES' title='포토'></iframe>
+</div>
+
+<style type='text/css'>
+.banner_bxtop {border-top:1px solid #d2d2d2; border-bottom:1px solid #d2d2d2;}
+.banner_bx {position:relative;overflow:hidden;width:300px;height:102px;margin:0 auto;padding:15px 0}
+.banner_bx .pg_num{position:absolute;top:94px;right:39px;font-size:12px;line-height:15px;color:#999;z-index:40}
+.banner_bx .btn_prev{position:absolute;top:94px;right:14px;width:15px;height:15px;z-index:41}
+.banner_bx .btn_next{position:absolute;top:94px;right:0px;width:14px;height:15px;z-index:42}
+.banner_bx .bn_img img{width:300px;height:95px;border:none}
+</style>
+<div class='banner_bxtop'>
+
+    <div class='banner_bx'><a href='http://senior.mk.co.kr/lifeplan/view.php?m=course&itemCode=3490&gb=OFF' class='bn_img' style='display:block;'  data-category='banner' data-label='1200'><img src='//img.mk.co.kr/mk/1/20210611/right_middle/202106110342011253474.jpg' alt='배너' width='300' height='95'></a><a href='http://senior.mk.co.kr/lifeplan/view.php?m=course&itemCode=3618&gb=OFF' class='bn_img' style='display:none;'  data-category='banner' data-label='1201'><img src='//img.mk.co.kr/mk/1/20210611/right_middle/202106110342471632005.jpg' alt='배너' width='300' height='95'></a><a href='http://senior.mk.co.kr/lifeplan/view.php?m=course&itemCode=3614&gb=OFF' class='bn_img' style='display:none;'  data-category='banner' data-label='1202'><img src='//img.mk.co.kr/mk/1/20210611/right_middle/202106110343411658296.jpg' alt='배너' width='300' height='95'></a><a href='http://senior.mk.co.kr/lifeplan/view.php?m=course&itemCode=3616&gb=OFF' class='bn_img' style='display:none;'  data-category='banner' data-label='1203'><img src='//img.mk.co.kr/mk/1/20210611/right_middle/202106110344141016756.jpg' alt='배너' width='300' height='95'></a><a href='https://www.mk.co.kr/opinion/notice/view/2021/09/872594/' class='bn_img' style='display:none;'  target='_blank'  data-category='banner' data-label='1218'><img src='//img.mk.co.kr/mk/1/20211029/right_middle/202110290330371228675.jpg' alt='배너' width='300' height='95'></a><a href='https://www.mk.co.kr/event/2021/economy/' class='bn_img' style='display:none;'  target='_blank'  data-category='banner' data-label='1220'><img src='//img.mk.co.kr/mk/1/20211105/right_middle/202111050204461210294.jpg' alt='배너' width='300' height='95'></a><a href='https://www.mk.co.kr/news/feature-story/business/?scp=603&sc=60301162' class='bn_img' style='display:none;'  target='_blank'  data-category='banner' data-label='1222'><img src='//img.mk.co.kr/mk/1/20211110/right_middle/202111100349381026992.jpg' alt='배너' width='300' height='95'></a>
+        <span class='pg_num'>1/7</span>
+        <a href='javascript:void(0);' class='btn_prev'><img alt='이전 배너' src='//img.mk.co.kr/main/201509/btn_bn_prev.gif'></a>
+        <a href='javascript:void(0);' class='btn_next'><img alt='다음 배너' src='//img.mk.co.kr/main/201509/btn_bn_next.gif'></a>
+    </div>
+    
+</div>
+<!--// banner -->
+<div id='google_dfp_BR_300x250' class='ad_rightbottom' style='border-top:none'><script type='text/javascript'>googletag.display('google_dfp_BR_300x250'); </script></div>
+</div>
+		<script type='text/javascript'>
+		var view_url_other	= '';
+		var viewParam		= 'https://www.mk.co.kr/news/it/view/2021/11/1066325/';
+		var view_title		= '청소년 심야 게임 금지 `셧다운 제도` 10년 만에 사라진다(종합) - 매일경제';
+		var view_desc		= '청소년보호법 개정안, 국회 본회의 통과…내년부터 폐지';
+		var view_img		= 'https://file.mk.co.kr/meet/yonhap/2021/11/11/image_readtop_2021_1066325_0_164811.jpg';
+		var imgParam		= 'https://file.mk.co.kr/meet/yonhap/2021/11/11/image_readtop_2021_1066325_0_164811.jpg';
+		</script>
+		<!--// right aside -->
+		</div>
+				    
+			
+		</div>
+		<!--// content -->
+		<div class='ad_footer' style='padding-top:30px; padding-bottom:0px'>
+			<center>
+			<div id='google_dfp_BC_970x250,980x120,930x180'>
+				<script type='text/javascript'>googletag.display('google_dfp_BC_970x250,980x120,930x180'); </script>
+			</div>
+			</center>
+		</div>
+				    
+				    
+		<div id='google_dfp_MC_1x1,110x110'>
+			<script type='text/javascript'>googletag.display('google_dfp_MC_1x1,110x110'); </script>
+		</div><div class='sitemap_menu2'>
+	<div class='sitemap_in'>
+		<h4 class='hidden'>전체 메뉴</h4>
+		
+	<div class='ct1'>
+		<ul>
+			<li class='tit'><a href='https://www.mk.co.kr/news/'>뉴스</a></li><li><a href='https://www.mk.co.kr/news/economy/
+'>경제</a></li>
+<li><a href='https://www.mk.co.kr/news/business/
+'>기업</a></li>
+<li><a href='https://www.mk.co.kr/news/society/
+'>사회</a></li>
+<li><a href='https://www.mk.co.kr/news/world/
+'>국제</a></li>
+<li><a href='https://www.mk.co.kr/news/realestate/
+'>부동산</a></li>
+<li><a href='https://www.mk.co.kr/news/stock/
+'>증권</a></li>
+<li><a href='https://www.mk.co.kr/news/politics/
+'>정치</a></li>
+<li><a href='https://www.mk.co.kr/news/it/
+'>IT·과학</a></li>
+<li><a href='https://www.mk.co.kr/news/culture/
+'>문화</a></li>
+<li><a href='https://www.mk.co.kr/news/feature-story/
+'>기획·연재</a></li>
+<li><a href='https://www.mk.co.kr/news/special-edition/
+'>Special Edition</a></li>
+<li><a href='http://www.pulsenews.co.kr/
+'>Pulse</a></li>
+<li><a href='http://china.mk.co.kr/china/
+'>MK China</a></li>
+<li><a href='http://japan.mk.co.kr/'>MK Japan</a></li>
+
+		</ul>
+	</div>
+
+	<div class='ct2'>
+		<ul>
+			<li class='tit'><a href='https://www.mk.co.kr/opinion/'>오피니언</a></li><li><a href='https://www.mk.co.kr/opinion/editorial/
+'>사설</a></li>
+<li><a href='https://www.mk.co.kr/opinion/columnists/
+'>기명칼럼</a></li>
+<li><a href='https://www.mk.co.kr/opinion/contributors/
+'>사외칼럼</a></li>
+<li><a href='https://www.mk.co.kr/opinion/maekyung-forum/
+'>매경포럼</a></li>
+<li><a href='https://www.mk.co.kr/opinion/maekyung-desk/
+'>매경데스크</a></li>
+<li><a href='https://www.mk.co.kr/opinion/weekend-column/
+'>주말칼럼</a></li>
+<li><a href='https://www.mk.co.kr/opinion/special-column/
+'>특별칼럼</a></li>
+<li><a href='https://www.mk.co.kr/opinion/correspondent/
+'>전문기자칼럼</a></li>
+<li><a href='https://www.mk.co.kr/opinion/journalist/
+'>기자24시</a></li>
+
+		</ul>
+	</div>
+
+	<div class='ct3'>
+		<ul>
+			<li class='tit'><a href='https://www.mk.co.kr/sports/'>스포츠</a></li><li><a href='https://www.mk.co.kr/sports/baseball/
+'>야구</a></li>
+<li><a href='https://www.mk.co.kr/sports/football/
+'>축구</a></li>
+<li><a href='http://mkbn.mk.co.kr/
+'>당구</a></li>
+<li><a href='https://www.mk.co.kr/sports/general/'>일반</a></li>
+
+			<li class='tit' style="margin-top:25px"><a href='https://www.mk.co.kr/star/'>연예</a></li><li><a href='https://www.mk.co.kr/star/all/
+'>주요뉴스</a></li>
+<li><a href='https://www.mk.co.kr/star/interview/
+'>스타인터뷰</a></li>
+<li><a href='https://www.mk.co.kr/star/broadcasting-service/
+'>TV · 방송</a></li>
+<li><a href='https://www.mk.co.kr/star/musics/
+'>가요 · 음악</a></li>
+<li><a href='https://www.mk.co.kr/star/movies/
+'>영화</a></li>
+<li><a href='https://www.mk.co.kr/star/foreign-star/'>해외연예</a></li>
+
+		</ul>
+	</div>
+
+	<div class='ct4'>
+		<ul>
+			<li class='tit'><a href='#'>라이프</a></li><li><a href='http://weather.mk.co.kr/info/info01_01.html
+'>날씨</a></li>
+<li><a href='http://golf.mk.co.kr/
+'>골프</a></li>
+<li><a href='https://tripplus.co.kr/
+'>여행</a></li>
+<li><a href='http://book.mk.co.kr/
+'>Book</a></li>
+<li><a href='http://uberin.mk.co.kr/
+'>우버人사이트</a></li>
+<li><a href='http://senior.mk.co.kr/
+'>MK생애설계센터</a></li>
+<li><a href='http://luxurym.mk.co.kr/
+'>LUXURY M</a></li>
+<li><a href='https://www.mk.co.kr/car/'>Car</a></li>
+
+		</ul>
+	</div>
+
+	<div class='ct5'>
+		<ul>
+			<li class='tit'><a href='https://www.mk.co.kr/premium/'>프리미엄</a></li><li><a href='http://digital.mk.co.kr/intro/intro.php
+'>매경e신문</a></li>
+<li><a href='https://www.mk.co.kr/premium/
+'>매경프리미엄</a></li>
+<li><a href='http://raythem.com/
+'>레이더M</a></li>
+<li><a href='http://raythep.mk.co.kr/
+'>레이더P</a></li>
+<li><a href='https://www.mk.co.kr/today-paper/
+'>오늘의 매경</a></li>
+<li><a href='https://www.mk.co.kr/readingnews/'>들려주는 뉴스</a></li>
+
+			<li class='tit' style="margin-top:25px"><a href='http://www.wkforum.org/'>캠페인</a></li><li><a href='http://www.wkforum.org/
+'>세계지식포럼</a></li>
+<li><a href='http://www.wkforum.org/VK/vkp.php
+'>국민보고대회</a></li>
+<li><a href='http://www.hansang.net&#8203;/
+'>세계한상대회</a></li>
+<li><a href='https://www.mk.co.kr/news/economy/view/2021/06/628953/
+'>정진기언론문화상</a></li>
+<li><a href='http://maekyungopen.mk.co.kr/'>매경오픈</a></li>
+
+		</ul>
+	</div>
+
+	<div class='ct6'>
+		<ul>
+			<li class='tit'><a href='https://vip.mk.co.kr/'>재테크</a></li><li><a href='http://vip.mk.co.kr/newSt/index.php
+'>증권</a></li>
+<li><a href='http://estate.mk.co.kr/
+'>부동산</a></li>
+<li><a href='http://dic.mk.co.kr/cp/pop/index.php
+'>경제용어</a></li>
+
+			<li class='tit' style="margin-top:25px"><a href='https://economy.mk.co.kr/'>매거진</a></li><li><a href='http://economy.mk.co.kr/
+'>매경ECONOMY</a></li>
+<li><a href='http://luxmen.mk.co.kr/
+'>매경LUXMEN</a></li>
+<li><a href='https://www.mk.co.kr/news/special-edition/citylife/
+'>시티라이프</a></li>
+<li><a href='http://gfw.mk.co.kr/'>골프포위민</a></li>
+
+		</ul>
+	</div>
+
+	<div class='ct7'>
+		<ul>
+			<li class='tit'><a href='https://www.mk.co.kr/news/special-edition/the-biz-times/'>비즈니스</a></li><li><a href='http://nikkei.mk.co.kr/main.php
+'>닛케이텔레콤</a></li>
+<li><a href='https://www.mk.co.kr/news/business/new-corporation/
+'>신설법인</a></li>
+<li><a href='http://kdx.mbn.co.kr/'>한국데이터거래소</a></li>
+
+		</ul>
+	</div>
+
+	<div class='ct8'>
+		<ul>
+			<li class='tit'><a href='https://edu.mk.co.kr/'>교육</a></li><li><a href='http://edu.mk.co.kr/
+'>오프라인교육</a></li>
+<li><a href='http://kids.mk.co.kr/new/
+'>어린이경제교실</a></li>
+<li><a href='http://mktest.mk.co.kr/'>매경TEST</a></li>
+
+			<li class='tit' style="margin-top:25px"><a href='http://subscribe.mk.co.kr/index.php?TM=S&MM=1'>서비스</a></li><li><a href='http://subscribe.mk.co.kr/index.php?TM=S&MM=1
+'>구독신청</a></li>
+<li><a href='http://etc.mk.co.kr/mobile_info/index.php
+'>MK모바일</a></li>
+<li><a href='http://epaper.mk.co.kr/PaperList.aspx'>신문PDF</a></li>
+<li><a href='https://twitter.com/maekyungsns
+'>트위터</a></li>
+<li><a href='https://www.facebook.com/maekyungsns
+'>페이스북</a></li>
+<li><a href='http://news.mk.co.kr/rss/rss.php
+'>RSS</a></li>
+<li><a href='https://www.mk.co.kr/newsletter/'>뉴스레터</a></li>
+
+		</ul>
+	</div>
+	</div>
+</div>
+<script>
+var selectUrlMove=function(frm){
+	if( frm.selectedIndex>0){
+		document.location.href=frm.options[frm.selectedIndex].value;
+	}
+}
+</script>
+<div id='footer2_2019'> 
+    <div class='pd10'>
+
+
+			</div>
+			<div class='foot_sec3'>
+				<form>
+				<select name='url' id='footer_url' alt='매일경제 사이트 모음' onChange='selectMove(this.form)' >
+					<option value selected>매경 Family site</option>
+					<option value='https://etc.mk.co.kr/company/intro/sub01_1.php' alt='매일경제' title='매일경제'>매일경제</option>
+					<option value='https://channel.mk.co.kr/mk_intro/html/main.htm' alt='매경닷컴' title='매경닷컴'>매경닷컴</option>
+					<option value='https://mbn.co.kr/' alt='MBN' title='MBN'>MBN</option>
+					<option value='https://economy.mk.co.kr/' alt='매경ECONOMY' title='매경ECONOMY'>매경ECONOMY</option>
+					<option value='https://luxmen.mk.co.kr/' alt='Luxmen' title='Luxmen'>Luxmen</option>
+					<option value='https://www.mk.co.kr/news/special-edition/citylife/' alt='시티라이프' title='시티라이프'>시티라이프</option>
+					<option value='https://m-print.co.kr/' alt='M-Print' title='M-Print'>M-Print</option>
+				</select>
+				</form>
+			</div>
+		</div>
+</div>
+</div>
+
+		</div><script>
+function closeMail() {
+	/* var lm = document.getElementById( 'layerMail' );
+	lm.style.display = 'none'; */
+	$("#layerMail").hide();
+}
+
+function submit_check(){
+	cm = document.mail_form;
+	//cm = document.getElementById('mail_form');
+
+	// E-Mail Check
+	var i, alpa, dot, gol,E_Mail_Error=1;	
+
+	if( cm.tomail.value.length < 5 ) {
+		alert('받는 분의 메일 주소를 정확히 입력해 주시기 바랍니다.');
+		cm.tomail.value = '';
+		cm.tomail.focus();
+		return;
+	}
+
+	if( (cm.tomail.value).match(/@/g).length > 1 ) {
+		alert('받는 분의 메일은 두 개 이상일 수 없습니다. ');
+		cm.tomail.value = '';
+		cm.tomail.focus();
+		return;
+	}
+	
+
+	if( cm.frommail.value.length < 5 || CheckEmail( cm.frommail.value ) != true  ) {
+		alert('보내는 분의 메일 주소를 정확히 입력해 주시기 바랍니다.');
+		cm.frommail.value = '';
+		cm.frommail.focus();
+		return;
+	}
+	
+	if( cm.subject.value != '' ) {
+		if( str_count( cm.subject.value ) > 80 ) {
+			alert( '제목은 80자까지만 작성이 가능합니다.' );
+			var cut_memo = str_cut( cm.subject.value, 80, '' );
+			cm.subject.value = cut_memo;		
+			return;
+		}	
+	}
+
+	if( cm.send_message.value != '' ) {
+		if( str_count( cm.send_message.value ) > 200 ) {
+			alert( '전할 메시지는 200자까지만 작성이 가능합니다.' );
+			var cut_memo = str_cut( cm.send_message.value, 200, '' );
+			cm.send_message.value = cut_memo;		
+			return;
+		}	
+	}
+
+	if( cm.fromname.value.length < 2 ) {
+		alert('보내는 사람을 적어 주시기 바랍니다.');
+		cm.fromname.focus();
+		return;
+	}
+
+	$("#mail_mode").val("real");
+	closeMail();
+	cm.submit();
+}
+
+function CheckEmail( strText ) {
+	if( strText.match( /^[a-zA-Z0-9_-]+@[a-zA-Z0-9_-]+.[a-zA-Z.]+$/ ) ) {
+		return true;
+	}
+	else {
+		return false;
+	}
+}
+
+function str_count(expression) {
+	var VLength=0;
+	var temp = expression;
+	var EscTemp;
+	if(temp!='' & temp !=null) {
+		for(var i=0;i<temp.length;i++) {
+			if (temp.charAt(i)!=escape(temp.charAt(i))) {
+				EscTemp=escape(temp.charAt(i));
+				if (EscTemp.length>=6) VLength+=2;
+				else VLength+=1;
+			}
+			else VLength+=1;
+		}
+	}
+	return VLength;
+}
+
+function str_cut( str, len, tail ) {
+    var l = 0;
+	var ll = len;
+
+    for( var i=0; i<str.length; i++ ) {
+        l += ( str.charCodeAt(i) > 128 ) ? 2 : 1;
+        if( l > ll ) return str.substring( 0, i ) + tail;
+    }
+    return str;
+}
+</script>
+<style>
+.sendnews_layer_wrap{
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    text-align: center;
+}
+.sendnews_layer_wrap:before {
+    content: "";
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.sendnews_layer_pop{
+    display: inline-block;
+    vertical-align: middle;
+    width: 628px;
+    height: 528px;
+    border: 1px solid #b0b2bd;
+    background-color: #fff;
+    z-index: 500;
+    overflow:hidden;
+}
+.sendnews_layer_pop .bt_close{position:relative; top:18px; right:18px; border:none; background:none; float: right;}
+.sendnews_layer_pop .bt_popup{clear:both; margin:20px 0 0 230px; text-align:center}
+.sendnews_tit h1{position:relative; top:19px; left:20px; float:left;}
+.sendnews_tit h2{position:relative; top:19px; left:30px; float:left;}
+.sendnews_tit .send_mailtit {position:relative; top:19px; left:20px; float:left;} 
+</style>
+<!-- layer_메일보내기 --> 
+
+
+<div class='sendnews_layer_wrap' style='display:none' id='layerMail'>
+	<div class="sendnews_layer_pop">
+    	<form name='mail_form' method='POST' action="https://mkpost.mk.co.kr/news_email_send_2019.php" target="mail_frame">
+    	<input type='hidden' name='mail_mode' value='real' id="mail_mode">
+    	<input type='hidden' name='no' value='1066325'>
+    	<input type='hidden' name='year' value='2021'>
+		<input type='hidden' name='cm' value=''>
+		<input type='hidden' name='cUserID' value=''/>
+		<input type='hidden' name='linkUrl' value='https://www.mk.co.kr/news/it/view/2021/11/1066325/'/>
+		
+    	<div class="sendnews_tit">
+         <div class="send_mailtit"><img src="//img.mk.co.kr/news/2017/t_mknews_pop.png" alt='mk뉴스'></div>
+         <h2><img src="//img.mk.co.kr/mkde/epaper/t_popup_mail.png" alt='메일보내기' ></h2>
+         <button type="button" class='bt_close' onclick="closeMail()" ><img src='//img.mk.co.kr/mkde/epaper/bt_mailpop_close.png' alt='팝업창 닫기'></button>
+      	</div>
+    	<h3 class='article_tit'>청소년 심야 게임 금지 `셧다운 제도` 10년 만에 사라진다(종합) - 매일경제</h3>
+    	<dl class='input_box'>
+    		<dt><label for='tomail'>받는 메일</label></dt>
+    		<dd><input type='text' id='tomail' name='tomail'  value=''>
+    			<!-- <p style='margin-top:3px'>
+    			<span class='important'><img src='//img.mk.co.kr/mkde/epaper/bu_important.gif' alt='필수 입력'></span>
+    			<span class='etc'>받는 사람이 여러 명일 경우, 콤마( , )로 구분해주세요</span> 
+    			</p>--> 
+    		</dd>
+    		<dt><label for='subject'>제목</label></dt>
+    		<dd><input type='text' id='subject' name='subject'  value='' maxlength=100></dd>
+    		<dt><label for='send_message'>전할 메시지</label></dt>
+    		<dd><textarea cols='	70' rows='20' id='send_message' name='send_message'></textarea>
+    			<p style='margin-top:3px'>
+    			<span class='important'><img src='//img.mk.co.kr/mkde/epaper/bu_important.gif' alt='필수 입력'></span>
+    			<span class='etc'>200자	이내로 적어주세요</span>
+    			</p>
+    		</dd>
+    		<dt><label for='frommail'>보내는 메일</label></dt>
+    		<dd><input type='text' id='frommail' name='frommail'  value=''></dd>
+    		<dt><label for='fromname'>보내는 사람</label></dt>
+    		<dd><input type='text' id='fromname' name='fromname' value=''></dd>
+    	</dl>
+    	<div class='bt_popup'>
+    		<a href='#' onClick='javascript:submit_check();' class='bt_send_mail'>메일보내기</a>
+    		<a href='#' onClick='javascript:closeMail();' class='bt_cancel_mail'>취&nbsp;&nbsp;&nbsp;소</a>
+    	</div>
+    	
+    	</form>
+    </div>
+</div>
+<!-- //layer_메일보내기 -->
+		<iframe name='mail_frame' src='' frameborder=0 width=0 height=0></iframe>
+		<script src='//developers.kakao.com/sdk/js/kakao.min.js'></script>
+		<script type='text/javascript' src='/news/js/view.js'></script>
+		<script type='text/javascript' src='/news/js/util.js?v=20200120'></script>
+	</body>
+	</html>
+<!-- Cache End : 47010bb7206d571ad6859801f0e26f1e, Cached : 2021.11.11 17:26:18, Expired : 2021.11.11 17:29:18-->

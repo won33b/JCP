@@ -1,0 +1,920 @@
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>전자신문</title>
+   <meta name="viewport" content="width=device-width">
+  <meta http-equiv="Expires" content="-1" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <meta name="robots" content="all" />
+    <meta name="author" content="www.etnews.com" />
+    <meta name="copyright" content="Copyright &copy; Electronic Times Internet. All Right Reserved." />
+    <meta name="keywords" content="전자신문,전자신문인터넷,Etnews,Etnews.com,뉴스,News,속보,방송,연예,통신,SW,바이오,소재,부품,과학,전자,자동차,경제,금융,산업,정책,글로벌,리포트,동영상," />
+    <meta name="description" content="대한민국을 대표하는 IT 전문 뉴스포털 전자신문" />
+    <meta property="fb:app_id" content="1425291491111655" />
+
+	<meta name="format-detection" content="telephone=no" />
+	<meta property="og:title" content="전자신문" />
+	<meta property="og:image" content="https://img.etnews.com/2017/img/facebookblank.png" />
+	<meta property="og:site_name" content="IT 전문 뉴스포털 전자신문" />
+	<meta property="og:url" content="https://www.etnews.com" />
+    <meta property="og:description" content="대한민국을 대표하는 IT 전문 뉴스포털 전자신문" />
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-P8B2ZWL');</script>
+	<!-- End Google Tag Manager -->
+
+    <link rel="shortcut icon" href="https://www.etnews.com/favicon.ico" />
+    <link rel="alternate" type="application/rss+xml" title="etnews.com [RSS]" href="http://rss.etnews.com/" />
+    <link rel="stylesheet" type="text/css" href="https://img.etnews.com/2016/etnews/css/common.css?1636620003">
+		<link rel="stylesheet" type="text/css" href="https://img.etnews.com/2016/etnews/css/main.css?1636620003">
+		<script type="text/javascript" src="https://www.etnews.com/static/js/jquery-1.11.2.js"></script>
+	<script type="text/javascript" src="https://img.etnews.com/2016/etnews/js/common.js?1636620003"></script>
+	<script type="text/javascript" src="https://img.etnews.com/2016/etnews/js/unslider-min.js"></script> <!-- 우측슬라이더 js -->
+	<!--[if lt IE 9]>
+	<script src="https://img.etnews.com/2016/etnews/js/html5shiv.js"></script>
+	<![endif]-->
+
+    <script type="text/javascript" src="https://www.etnews.com/static/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="https://www.etnews.com/static/js/makePCookie.js"></script>
+			<script type="text/javascript" src="/static/js/jquery.vticker.js"></script>
+			<script type="text/javascript" src="/tools/promotion_banners.js?202111111740"></script>
+	    <script type="text/javascript" src="https://www.etnews.com/static/js/weather.js" charset="utf-8"></script>
+		
+
+<script type="text/javascript" src="https://www.etnews.com/static/js/common.js?1636620003" charset="utf-8"></script>
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '199817140623212');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=199817140623212&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+<script type="text/javascript">
+	document.querySelector('meta[name=referrer]');
+</script>
+
+</head>
+<body >
+		<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P8B2ZWL"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	
+<div class="et_wrap">
+
+	<!-- header -->
+	<header class="header">
+	
+		<div class="clearfix">
+			<h1><a href="https://www.etnews.com" title="홈으로"><img src="https://img.etnews.com/2020/etnews/images/logo_et.png" alt="전자신문 로고"></a></h1>
+			<!-- 광고728x90 -->
+			<div class="ad_728x90">
+				<iframe width="728" height="90" src="https://www.etnews.com/tools/refresh_script.html?duration=30&src=%2F%2Fyellow.contentsfeed.com%2FRealMedia%2Fads%2Fadstream_jx.ads%2Fetnews.com%2FMain%40Top" scrolling="no"></iframe>
+			</div>
+			<!-- //광고728x90 -->
+		</div>
+ 		<nav class="gnb_wrap">
+			<ul class="gnb clearfix" >
+				
+				<li><a href="https://news.etnews.com">전자신문</a></li>
+				
+				<li><a href="https://conference.etnews.com/">Conference</a></li>
+				<li><a href="http://www.allshowtv.com/">allshowTV</a></li> <!--class="relative"-->
+				<li><a href="http://etedu.co.kr/" target="_blank">ETEdu</a></li>
+				<li><a href="http://english.etnews.com/">English</a></li> 
+				
+			</ul>
+						<div class="search_wrap" role="search">
+				<form action="https://search.etnews.com/etnews/search.php" method="get" class="searchbox">
+					<input type="search" required="" onkeyup="buttonUp();" class="searchbox-input" name="kwd" placeholder="검색어 입력">
+					<input type="submit" value="검색" class="searchbox-submit">
+					<span class="searchbox-icon">검색</span>
+				</form>
+			</div>
+			
+			<div class="et_all_trig">
+				<a href="javascript:void(0)" onclick="et_menu_all()" id="et_all_trig_id" title="메뉴 전체보기" class="et_all_trig_off">전체메뉴보기</a>
+			</div>
+
+			<!-- 전체메뉴 -->
+			<div id="full_menu_id" class="full_menu clearfix" style="display:none;">
+				<span class="hide">전체메뉴</span>
+				<dl>
+					<dt><a href="https://www.etnews.com">뉴스</a></dt>
+					<dd><a href="https://www.etnews.com/news/section.html">속보</a></dd>
+					<dd><a href="https://www.etnews.com/news/section.html?id1=03">통신&amp;방송</a></dd>
+					<dd><a href="https://www.etnews.com/news/section.html?id1=04">SW&amp;게임&amp;성장기업</a></dd>
+					<dd><a href="https://www.etnews.com/news/section.html?id1=06">소재&amp;부품</a></dd>
+					<dd><a href="https://www.etnews.com/news/section.html?id1=60">전자&amp;자동차&amp;유통</a></dd>
+					<dd><a href="https://www.etnews.com/news/section.html?id1=02">경제&amp;금융</a></dd>
+					<dd><a href="https://www.etnews.com/news/section.html?id1=20">산업&amp;과학&amp;정책</a></dd>
+					<dd><a href="https://www.etnews.com/news/section.html?id1=25">전국</a></dd>
+				</dl>
+				<dl>
+					<dt>뉴스</dt>
+					<dd><a href="https://www.etnews.com/news/section.html?id1=12">국제</a></dd>
+					<dd><a href="https://www.etnews.com/news/section.html?id1=15">골프</a></dd>
+					<dd><a href="https://www.etnews.com/news/section.html?id1=05">화제의뉴스</a></dd>
+					<dd><a href="https://www.etnews.com/news/people.html">인사&middot;부음</a></dd>
+					<dd><a href="https://www.etnews.com/news/opinion.html">오피니언</a></dd>
+					<dd><a href="https://www.etnews.com/news/series.html?id=1">특집</a></dd>
+					<dd><a href="https://www.etnews.com/news/series.html?id=3">연재</a></dd>
+				</dl>
+				<dl>
+					<dt>비주얼IT</dt>
+					<dd><a href="https://www.etnews.com/news/photonews.html">뷰포인트</a></dd>
+					<dd><a href="https://www.etnews.com/news/cardnews.html">카드뉴스</a></dd>
+					<dd><a href="https://www.etnews.com/news/motion_graphic.html">모션그래픽</a></dd>
+					<dd><a href="https://premium.etnews.com/stats/list_stats.html" target="_blank">인포그래픽</a></dd>
+				</dl>
+				<dl>
+					<dt>부가서비스</dt>
+					<dd><a href="https://conference.etnews.com/">콘퍼런스</a></dd>
+					<dd><a href="http://www.sek.co.kr/" target="_blank" title="새창으로">IT 전시 컨벤션</a></dd>
+										<dt><a href="https://premium.etnews.com/" target="_blank" title="새창으로">ET프리미엄</a></dt>
+					<dt><a href="http://ipdf.etnews.com/">PDF 서비스</a></dt>
+				</dl>
+				<dl>
+					<dt>서비스 안내</dt>
+					<dd><a href="https://member.etnews.com/etnews/info/subscription_01.html" target="_blank" title="새창으로">신문구독신청</a></dd>
+					<dd><a href="https://www.etnews.com/info/ko/banner.html">온라인광고안내</a></dd>
+					<dd><a href="https://bizcenter.etnews.com/dmail/introduce/">콘텐츠구매</a></dd>
+					<dd><a href="https://bizcenter.etnews.com/trans/">번역센터</a></dd>
+					<dd><a href="https://leadersedition.etnews.com/intro/info.aspx" target="_blank" title="새창으로">초판서비스</a></dd>
+					<dd>
+						 <ul class="member_service" id="gnb03_18">
+							<li class="menu_tit">회원 서비스</li>
+							<li><a href="https://member.etnews.com/member/login.html">로그인</a></li>
+							<li><a href="https://member.etnews.com/member/join_index.html">회원가입</a></li>
+						 </ul>
+					</dd>
+				</dl>
+				<dl>
+					<dt>패밀리미디어</dt>
+					<dd><a href="http://www.rpm9.com/" target="_blank" title="새창으로">RPM9</a></dd>
+					<dd><a href="https://www.ebn.co.kr/" target="_blank" title="새창으로">EBN</a></dd>
+					<dd><a  title="새창으로">산업경제신문</a></dd>
+				</dl>
+
+				<ul class="full_menu_sns">
+					<li class="sns_facebook"><a href="https://www.facebook.com/etnews.kr" target="_blank" title="전자신문 페이스북 바로가기"><span class="hide">전자신문 페이스북</span></a></li>
+					<li class="sns_twitter"><a href="https://twitter.com/imetnews" target="_blank" title="전자신문 트위터 바로가기"><span class="hide">전자신문 트위터</span></a></li>
+					<li class="sns_youtube"><a href="https://www.youtube.com/user/etnews" target="_blank" title="전자신문 유튜브 바로가기"><span class="hide">전자신문 유튜브</span></a></li>
+				</ul>
+			</div>
+			<!-- //전체메뉴 -->
+		</nav>
+			</header>
+	<!-- //header -->
+	
+	<script src="https://www.etnews.com/tools/header_update.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$('.automatic-slider').unslider({autoplay: true });
+	});
+</script>
+<!-- main -->
+
+
+
+            <!-- 날개배너 시작 -->
+            <div id="wingBanner">
+                <div id="leftWingBanner">
+
+                    <div id="wingLeftSticky">
+                        <div id="wingLeftSticky1" style="right:90px;">
+                        </div>
+                    </div>
+                </div>
+
+                <div id="RightWingBanner">
+                    <div id="wingRightSticky">
+
+									                        <div id="wingRightSticky2"> <!-- style="top:220px;" -->
+                            <iframe width="120" height="600" src="//www.etnews.com/tools/refresh_script.html?duration=30&pos=rwing&src=%2F%2Fyellow.contentsfeed.com%2FRealMedia%2Fads%2Fadstream_jx.ads%2Fetnews.com%2FAll%40x45" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+                        </div>
+	                                            
+                                            
+                    </div>
+                </div>
+            </div>
+
+            <script type="text/javascript">
+	            if (navigator.userAgent.match(/(iPod|iPhone|iPad|Android)/) != null) { $('#wingBanner').hide(); }
+            </script>
+            <!-- 날개배너 끝 -->
+<!-- ad_355x220 -->
+<!-- //ad_355x220 -->
+
+	<main role="main" class="clearfix">
+		<!-- et_contnets_wrap -->
+		<div class="et_contents_wrap">
+			<!-- main_top -->
+			<div class="main_top clearfix">
+				<section class="weather_wrap">
+					<!-- 날씨 -->
+					<div id="src_w">
+					  <div class="dt_w">
+						<div class="date_01">2021.11.11(목)</div>
+						<div class="img_ft btn_arr" id="popupWeatherButton"><a href="javascript:;">더보기</a></div>
+						<div class="weather" id="rollWeatherBox" style="display: none;">
+							<ul class="clearfix" id="rollWeatherUL">
+								<li>
+									<em><img src="https://img.etnews.com/2015/et/images/w_p01.png"  alt="맑음"/></em>
+									<span class="tit_c">서울</span>
+									<span class="w_dt01"><strong class="bl">-31.3</strong>℃</span>
+								</li>
+								<li style="visibility:hidden;">
+									<em><img src="https://img.etnews.com/2015/et/images/w_p01.png"  alt="맑음"/></em>
+									<span class="tit_c">대구</span>
+									<span class="w_dt01"><strong class="bl">-31.3</strong>℃</span>
+								</li>
+							</ul>
+							
+						</div>
+					  </div>
+					  <div class="pop_weather" id="popupWeather" style="display:none;">
+						  <h3 class="hide">주요 지역별 날씨</h3>
+						  <div class="w_box">
+							  <ul class="w_list clearfix">
+								  <li>
+									  <span class="w_img"><img src="https://img.etnews.com/2015/et/images/w_g01.png" alt="맑음"/></span>
+									  <dl class="w_dt">
+										  <dd>서울</dd>
+										  <dt class="pk"><strong>34.6</strong>℃</dt>
+									  </dl>
+								  </li>
+								  <li>
+									  <span class="w_img"><img src="https://img.etnews.com/2015/et/images/w_g02.png" alt="구름조금"/></span>
+									  <dl class="w_dt">
+										  <dd>Gangneung</dd>
+										  <dt class="bl"><strong>3</strong>℃</dt>
+									  </dl>
+								  </li>
+							  </ul>
+							  <ul class="w_list">
+								  <li>
+									  <span class="w_img"><img src="https://img.etnews.com/2015/et/images/w_g03.png" alt="구름많음"/></span>
+									  <dl class="w_dt">
+										  <dd>대전</dd>
+										  <dt class="pk"><strong>-3</strong>℃</dt>
+									  </dl>
+								  </li>
+								  <li>
+									  <span class="w_img"><img src="https://img.etnews.com/2015/et/images/w_g04.png" alt="흐림"/></span>
+									  <dl class="w_dt">
+										  <dd>광주</dd>
+										  <dt class="bl"><strong>3</strong>℃</dt>
+									  </dl>
+								  </li>
+							  </ul>
+							   <ul class="w_list">
+								  <li>
+									  <span class="w_img"><img src="https://img.etnews.com/2015/et/images/w_g05.png" alt="비"/></span>
+									  <dl class="w_dt">
+										  <dd>대구</dd>
+										  <dt class="pk"><strong>-3</strong>℃</dt>
+									  </dl>
+								  </li>
+								  <li>
+									  <span class="w_img"><img src="https://img.etnews.com/2015/et/images/w_g06.png" alt="눈"/></span>
+									  <dl class="w_dt">
+										  <dd>울산</dd>
+										  <dt class="bl"><strong>3</strong>℃</dt>
+									  </dl>
+								  </li>
+							  </ul>
+							   <ul class="w_list">
+								  <li>
+									  <span class="w_img"><img src="https://img.etnews.com/2015/et/images//w_g07.png" alt="비온후갬"/></span>
+									  <dl class="w_dt">
+										  <dd>부산</dd>
+										  <dt class="pk"><strong>-3</strong>℃</dt>
+									  </dl>
+								  </li>
+								  <li>
+									  <span class="w_img"><img src="https://img.etnews.com/2015/et/images/w_g08.png" alt="소나기"/></span>
+									  <dl class="w_dt">
+										  <dd>포항</dd>
+										  <dt class="bl"><strong>3</strong>℃</dt>
+									  </dl>
+								  </li>
+							  </ul>
+							   <ul class="w_list">
+								  <li>
+									  <span class="w_img"><img src="https://img.etnews.com/2015/et/images/w_g09.png" alt="눈또는비"/></span>
+									  <dl class="w_dt">
+										  <dd>여수</dd>
+										  <dt class="pk"><strong>-3</strong>℃</dt>
+									  </dl>
+								  </li>
+								  <li>
+									  <span class="w_img"><img src="https://img.etnews.com/2015/et/images/w_g10.png" alt="비또는눈"/></span>
+									  <dl class="w_dt">
+										  <dd>강릉</dd>
+										  <dt class="bl"><strong>3</strong>℃</dt>
+									  </dl>
+								  </li>
+							  </ul>
+							  <ul class="w_list">
+								  <li>
+									  <span class="w_img"><img src="https://img.etnews.com/2015/et/images/w_g11.png" alt="천둥번개"/></span>
+									  <dl class="w_dt">
+										  <dd>제주</dd>
+										  <dt class="pk"><strong>-3</strong>℃</dt>
+									  </dl>
+								  </li>
+								  <li>
+									  <span class="w_img"><img src="https://img.etnews.com/2015/et/images/w_g12.png" alt="안개"/></span>
+									  <dl class="w_dt">
+										  <dd>울릉</dd>
+										  <dt class="bl"><strong>3</strong>℃</dt>
+									  </dl>
+								  </li>
+							  </ul>
+						  </div>
+						  <p class="pwby_w"><span>Powered by</span><a href="http://www.153weather.com" target="_blank"><img src="https://img.etnews.com/2015/et/images/img_153.jpg" alt="웨더153"></a></p>
+					  </div>                
+					</div>
+					<!-- //날씨 -->
+
+
+					<!-- //레이어팝업 시작 -->
+					<div class="layer_notice" id="promotionBanner">
+					</div>
+					<!-- //레이어팝업 끝 -->
+					<!--
+					<div class="layer_banner_ict">
+						<a href="https://써볼래.kr/" target="_blank">
+							<img src="https://img.etnews.com/2017/banner/ict_96x96.jpg" alt="ICT청년 일자리 매칭 서비스">
+						</a>
+					</div>
+					-->
+					<ul class="accnav">
+						
+																					<li><a href="https://member.etnews.com/member/login.html">로그인</a></li>
+												<li><a href="http://english.etnews.com/" target="_blank">English</a></li>
+						<li><a href="http://chn.etnews.com/" target="_blank">中文</a></li>
+					</ul>
+					<ul class="left_sns">
+						<li class="sns_twitter"><a href="https://twitter.com/imetnews" target="_blank" title="전자신문 트위터 바로가기"><span class="hide">전자신문 트위터</span></a></li>
+						<li class="sns_facebook"><a href="https://www.facebook.com/etnews.kr" target="_blank" title="전자신문 페이스북 바로가기"><span class="hide">전자신문 페이스북</span></a></li>
+						<li class="sns_mailto"><a href="https://member.etnews.com/member/myinfo.html?mc=m_011_00002" target="_blank" title="전자신문 뉴스레터 바로가기"><span class="hide">전자신문 뉴스레터</span></a></li>
+					</ul>
+				</section>
+
+				<!-- 9,8기사영역 -->
+				<section class="headline_wrap">
+					<div class="level9">
+						<h2><a href="//www.etnews.com/20211111000227?mc=em_001_00001">&quot;육상풍력 발전단지 '국산 터빈' 20% 불과&quot;</a></h2>
+						<figure>
+							<a href="//www.etnews.com/20211111000227?mc=em_001_00001">
+								<span class="thum_gradient"></span>
+								<img src="https://img.etnews.com/news/article/2021/11/11/article_11164517299408.jpg" alt="주요뉴스 이미지">
+							</a>
+							<figcaption><a href="//www.etnews.com/20211111000227?mc=em_001_00001">국내 육상풍력 발전단지의 국산 풍력터빈 채택 비중이 20%에 불과한 것으로 나타났다. 국내 기업들이 그나마 경쟁력을 갖...</a></figcaption>
+						</figure>
+					</div>
+					
+					<ul class="level8">
+
+												<li class="clearfix">
+							<a href="//www.etnews.com/20211111000184?mc=em_002_00001" class="thumb"><img src="https://img.etnews.com/photonews/2111/1473101_20211111140915_791i.jpg" alt="[단독]이베이코리아 '크로스보더 사업' 日법인에 넘긴다"></a>
+							<strong><a href="//www.etnews.com/20211111000184?mc=em_002_00001">[단독]이베이코리아 '크로스보더 사업' 日법인에 넘긴다</a></strong>
+							<p><a href="//www.etnews.com/20211111000184?mc=em_002_00001">이마트에 매각을 앞둔 이베이코리아가 판매자 수출지원 전담 조직인 크로스보더트레이드(CBT) 사업부를 ...</a></p>
+						</li>
+												<li class="clearfix">
+							<a href="//www.etnews.com/20211111000220?mc=em_003_00001" class="thumb"><img src="https://img.etnews.com/photonews/2111/1473209_20211111145032_891i.jpg" alt="&quot;IPTV+디즈니플러스, 월 2만4600원에 다본다&quot;"></a>
+							<strong><a href="//www.etnews.com/20211111000220?mc=em_003_00001">&quot;IPTV+디즈니플러스, 월 2만4600원에 다본다&quot;</a></strong>
+							<p><a href="//www.etnews.com/20211111000220?mc=em_003_00001">LG유플러스가 인터넷(IP)TV 독점 디즈니플러스(디즈니+) 제휴 요금제를 출시한다. 월 2만4600원에 IPTV와 디즈...</a></p>
+						</li>
+											</ul>
+					<!-- 텍스트 광고 -->
+					<ul class="ad_text">
+						<li><iframe height="22" width="600" src="//www.etnews.com/tools/refresh_script.html?type=text&src=%2F%2Fyellow.contentsfeed.com%2FRealMedia%2Fads%2Fadstream_jx.ads%2Fetnews.com%2FMain%40x03" style="margin-top:4px;" scrolling="no"></iframe></li>
+						<li><iframe height="22" width="600"  src="//www.etnews.com/tools/refresh_script.html?type=text&src=%2F%2Fyellow.contentsfeed.com%2FRealMedia%2Fads%2Fadstream_jx.ads%2Fetnews.com%2FMain%40x04" style="margin-top:4px;" scrolling="no"></iframe></li>
+					</ul>
+					<!-- 텍스트 광고 -->
+				</section>
+				<!-- //9,8기사영역 -->
+			</div>
+			<!-- //main_top -->
+			<!-- 카테고리 기사 7,5 -->
+			<div class="categorynews_wrap clearfix">
+				<div class="ad_main_left">
+					<ul class="accnav offlineservice">
+						<li><a href="//www.etnews.com/info/ko/banner.html">광고안내</a></li>
+						<li><a href="https://member.etnews.com/etnews/info/subscription_01.html" target="_blank">신문구독</a></li>
+						<li><a href="http://leadersedition.etnews.com" target="_blank">초판서비스</a></li>
+						<li><a class="btn_img" href="http://truehr.co.kr/intro.html" target="_blank" title="맞춤형 인재추천"><img src="https://img.etnews.com/2021/images/btn_truehr.png"></a></li>
+					</ul>
+
+					<a class="btn_trans" href="https://bizcenter.etnews.com/trans/"><img src="https://img.etnews.com/2019/images/btn_trans.png" alt="번역센터"></a>
+				</div>
+				<section class="clearfix">
+					<ul class="categorynews">
+
+
+						<li class="clearfix list75_1" >
+							<a href="//www.etnews.com/20211111000224?mc=em_004_0001" class="thumb"><img src="https://img.etnews.com/photonews/2111/1472967_20211111145629_901i.jpg" alt="기사 섬네일"></a>
+							<strong><a href="//www.etnews.com/20211111000224?mc=em_004_0001">실크로드소프트, 미래에셋증권 마이데이터·계정계 연동 CDC 솔루션 선정</a></strong>
+							<p><a href="//www.etnews.com/20211111000224?mc=em_004_0001">실크로드소프트(대표 윤정일)가 미래에셋증권 마이데이터 구축 및 계정계-정보계 연동 사업에 데이터 동기화 솔루션(CDC)...</a></p>
+						</li>
+						<li class="list75_1_5" ><strong><a href="//www.etnews.com/20211111000130?mc=em_004_0002">세종시, 전국 최초 사물주소기반 자율주행 산업모델 구현한다</a></strong></li>
+						<li class="list75_1_5" ><strong><a href="//www.etnews.com/20211111000236?mc=em_004_0003">이재명 &quot;가상자산 과세 유예” 공식 표명</a></strong></li>
+
+
+								</ul>
+
+					<ul class="categorynews tailorreport">
+						<li class="clearfix">
+							<a href="https://www.etnews.com/20211102000046?mc=em_TR_0001" class="thumb"><img src="https://img.etnews.com/news/article/2021/11/04/article_04151243686511.jpg" alt="글로벌 섬네일"></a>
+							<strong><a href="https://www.etnews.com/20211102000046?mc=em_TR_0001">Globalization Partners, 해외진출을 희망하는 스타트업 대상 웨비나 개최</a></strong>
+							<p><a href="https://www.etnews.com/20211102000046?mc=em_TR_0001">글로벌 HR 전문 기업 &lsquo;Globalization Partners&rsquo;의 마케팅 에이전시 EC21이 오는 11월 12일 오후 3시에 해외진출을 고민하는...</a></p>
+						</li>
+												<li class="tailor_li2"><strong><a href="https://www.etnews.com/20211014000027?mc=em_TR_0002">SAS 현업 전문가로부터 듣는 Virtual SAS School: 빅데이터 분석 시각화 첫 걸음</a></strong></li>
+												<li class="tailor_li3"><strong><a href="https://www.etnews.com/20211104000171?mc=em_TR_0003">'인더스트리 4.0 디지털 인사이트 2021' 11일 온라인서 열려</a></strong></li>
+											</ul>
+
+					<ul class="categorynews">
+
+									<li class="clearfix list75_2" >
+							<a href="//www.etnews.com/20211111000097?mc=em_005_0001" class="thumb"><img src="https://img.etnews.com/photonews/2111/1472927_20211111104511_640i.jpg" alt="기사 섬네일"></a>
+							<strong><a href="//www.etnews.com/20211111000097?mc=em_005_0001">[자율주행 특허전쟁 서막]완성차·IT·부품기업 기술확보 치열한 3파전</a></strong>
+							<p><a href="//www.etnews.com/20211111000097?mc=em_005_0001">자율주행차 개발을 놓고 자동차 업계에 지각변동 움직임이 일고 있다. 전통적인 완성차 제조사부터 정보기술(IT)기업, 자...</a></p>
+						</li>
+						<li class="list75_2_5" ><strong><a href="//www.etnews.com/20211111000152?mc=em_005_0002">[카&amp;테크]교통사고 예방하는 '긴급제동 시스템'</a></strong></li>
+						<li class="list75_2_5" ><strong><a href="//www.etnews.com/20211111000105?mc=em_005_0003">[클릭!이 차]롤스로이스 '뉴 블랙 배지 고스트'…&quot;블랙으로 더 특별하게&quot;</a></strong></li>
+						<li class="clearfix list75_3" >
+							<a href="//www.etnews.com/20211111000156?mc=em_006_0001" class="thumb"><img src="https://img.etnews.com/photonews/2111/1473131_20211111133113_743i.jpg" alt="기사 섬네일"></a>
+							<strong><a href="//www.etnews.com/20211111000156?mc=em_006_0001">&quot;美, EV 충전소 8.8조원 사업 잡아라&quot;...국내 3사 현지 공략</a></strong>
+							<p><a href="//www.etnews.com/20211111000156?mc=em_006_0001">미국 의회가 최근 전기차 충전 인프라 구축에 75억달러(약 8조8425억원)의 예산을 통과시키면서, 한국 충전기 업계가 북미 ...</a></p>
+						</li>
+						<li class="list75_3_5" ><strong><a href="//www.etnews.com/20211111000217?mc=em_006_0002">&quot;기업가정신 핵심은 정확한 질문으로 해답 찾는 과정&quot;</a></strong></li>
+						<li class="list75_3_5" ><strong><a href="//www.etnews.com/20211111000212?mc=em_006_0003">KT, 영등포·구로서 무선통신 일시장애...3시간만 복구</a></strong></li>
+						<li class="clearfix list75_4" >
+							<a href="//www.etnews.com/20211111000079?mc=em_007_0001" class="thumb"><img src="https://img.etnews.com/news/article/2021/11/11/article_11104754216523.png" alt="기사 섬네일"></a>
+							<strong><a href="//www.etnews.com/20211111000079?mc=em_007_0001">[커머스핫라인]김장철 맞아 김치냉장고 '들썩'</a></strong>
+							<p><a href="//www.etnews.com/20211111000079?mc=em_007_0001">김장철을 앞두고 김치냉장고 시장이 들썩이고 있다. 일찍 시작된 추위로 김장을 서두르는 가정이 많고 코로나19로 집밥...</a></p>
+						</li>
+						<li class="list75_4_5" ><strong><a href="//www.etnews.com/20211111000211?mc=em_007_0002">서경배 회장 '통큰 지원'...사옥 상가 임차료 11개월 면제 뒤늦게 알려져</a></strong></li>
+						<li class="list75_4_5" ><strong><a href="//www.etnews.com/20211111000205?mc=em_007_0003">해외 하늘길 열렸다...여행업계 '휴양·허니문 패키지' 출시 잇따라</a></strong></li>
+						<li class="clearfix list75_5" >
+							<a href="//www.etnews.com/20211111000127?mc=em_008_0001" class="thumb"><img src="https://img.etnews.com/photonews/2111/1473089_20211111121114_681i.jpg" alt="기사 섬네일"></a>
+							<strong><a href="//www.etnews.com/20211111000127?mc=em_008_0001">삼성전자, 차세대 2.5D 패키지 기술 '에이치-큐브' 개발</a></strong>
+							<p><a href="//www.etnews.com/20211111000127?mc=em_008_0001">삼성전자가 새로운 2.5D 패키지 기술 에이치-큐브(H-Cube)를 선보였다. 에이치-큐브는 반도체 크기를 줄이면서 차세대 메모...</a></p>
+						</li>
+						<li class="list75_5_5" ><strong><a href="//www.etnews.com/20211111000199?mc=em_008_0002">4세대 실손보험 나왔지만, 여전히 보험사 '끼워팔기'</a></strong></li>
+						<li class="list75_5_5" ><strong><a href="//www.etnews.com/20211111000187?mc=em_008_0003">윤석열, &quot;김대중 대통령 국민통합 정신 이어가겠다&quot;</a></strong></li>
+						<li class="clearfix list75_6" >
+							<a href="//www.etnews.com/20211111000123?mc=em_009_0001" class="thumb"><img src="https://img.etnews.com/news/article/2021/11/11/article_11114719404460.jpg" alt="기사 섬네일"></a>
+							<strong><a href="//www.etnews.com/20211111000123?mc=em_009_0001">진짜로 테슬라 주식 판 머스크…1조 3000억 규모</a></strong>
+							<p><a href="//www.etnews.com/20211111000123?mc=em_009_0001">트위터를 통해 테슬라 보유 주식 10%를 매각할 지 투표를 받은 일론 머스크 최고경영자(CEO)가 진짜 주식을 매각했다. 11일(...</a></p>
+						</li>
+						<li class="list75_6_5" ><strong><a href="//www.etnews.com/20211111000180?mc=em_009_0002">엔씨소프트, 리니지W 출시 9일 만에 매출 1000억원 돌파</a></strong></li>
+						<li class="list75_6_5" ><strong><a href="//www.etnews.com/20211111000167?mc=em_009_0003">PG사 등록한 GLN인터내셔널, 첫 행보는 '싱가포르'</a></strong></li>
+						<li class="clearfix list75_7" >
+							<a href="//www.etnews.com/20211111000120?mc=em_010_0001" class="thumb"><img src="https://img.etnews.com/news/article/2021/11/11/article_11113607920756.png" alt="기사 섬네일"></a>
+							<strong><a href="//www.etnews.com/20211111000120?mc=em_010_0001">삼성의 애플 저격?...&quot;광택용 천, 우린 공짜&quot;</a></strong>
+							<p><a href="//www.etnews.com/20211111000120?mc=em_010_0001">&quot;애플 로고 값&quot;이라는 논란이 불거졌던 2만5000원의 '광택용 천'. 유사한 디스플레이 청소용 천을 경쟁사 삼성은 무료로 제...</a></p>
+						</li>
+						<li class="list75_7_5" ><strong><a href="//www.etnews.com/20211111000080?mc=em_010_0002">[티몬 티비온 프리뷰]'추운 겨울 따뜻하고 건강하게'...본죽·닥터바이오 특가 판매</a></strong></li>
+						<li class="list75_7_5" ><strong><a href="//www.etnews.com/20211111000084?mc=em_010_0003">2년새 3배 커진 EUV 산학협력체...&quot;데이터 축적 계획&quot;</a></strong></li>
+						<li class="clearfix list75_8" >
+							<a href="//www.etnews.com/20211111000103?mc=em_011_0001" class="thumb"><img src="https://img.etnews.com/news/article/2021/11/11/article_11110548633491.png" alt="기사 섬네일"></a>
+							<strong><a href="//www.etnews.com/20211111000103?mc=em_011_0001">정승일 한전 사장 “원전, 정쟁 아닌 과학으로 접근해야”</a></strong>
+							<p><a href="//www.etnews.com/20211111000103?mc=em_011_0001">정승일 한국전력 사장이 원전을 정쟁이 아닌 논리와 과학으로 접근해야 한다고 강조했다. 원전이 발전량에 많은 부분을 ...</a></p>
+						</li>
+						<li class="list75_8_5" ><strong><a href="//www.etnews.com/20211111000077?mc=em_011_0002">내년 모바일 운전면허증 나온다...은행 등 신분증 대체 여부 관심</a></strong></li>
+						<li class="list75_8_5" ><strong><a href="//www.etnews.com/20211111000021?mc=em_011_0003">DGIST, 6G 네트워크 기지국 전력소모 획기적 감소 기술 개발</a></strong></li>
+						<li class="clearfix list75_9"  style='display:none' >
+							<a href="//www.etnews.com/20211111000089?mc=em_012_0001" class="thumb"><img src="https://img.etnews.com/news/article/2021/11/11/article_11103709062967.png" alt="기사 섬네일"></a>
+							<strong><a href="//www.etnews.com/20211111000089?mc=em_012_0001">한국 상륙…마블 흥행작 대기…디즈니+, 가입자수 둔화 반전 승부수</a></strong>
+							<p><a href="//www.etnews.com/20211111000089?mc=em_012_0001">월트디즈니컴퍼니가 온라인 동영상 서비스(OTT) 디즈니+ 가입자 성장 둔화로 예상을 하회하는 실적을 기록했다. CNBC는 10...</a></p>
+						</li>
+						<li class="list75_9_5"  style='display:none' ><strong><a href="//www.etnews.com/20211110000263?mc=em_012_0002">LG, 구광모 회장 단독 대표체제 전환..권영수 후임에 관심 집중</a></strong></li>
+						<li class="list75_9_5"  style='display:none' ><strong><a href="//www.etnews.com/20211110000080?mc=em_012_0003">[산림 디지털 대전환 下]디지털 숲가꾸기로 과거-현재-미래 잇는 메타포레스트 실현</a></strong></li>
+						<li class="clearfix list75_10"  style='display:none' >
+							<a href="//www.etnews.com/20211111000073?mc=em_013_0001" class="thumb"><img src="https://img.etnews.com/news/article/2021/11/11/article_11101538878937.jpg" alt="기사 섬네일"></a>
+							<strong><a href="//www.etnews.com/20211111000073?mc=em_013_0001">'오징어게임', 유튜브 170억뷰 돌파...'왕좌의게임'도 제쳤다</a></strong>
+							<p><a href="//www.etnews.com/20211111000073?mc=em_013_0001">넷플릭스 한국 오리지널 드라마 '오징어 게임'이 유튜브 동영상 조회수 기준으로 HBO 최대 히트작 '왕좌의 게임'을 제쳤다...</a></p>
+						</li>
+						<li class="list75_10_5"  style='display:none' ><strong><a href="//www.etnews.com/20211108000260?mc=em_013_0002">[과학기술이 미래다] &lt;26&gt;과학기술처 출범 막후…초대 장관에 김기형 박사</a></strong></li>
+						<li class="list75_10_5"  style='display:none' ><strong><a href="//www.etnews.com/20211110000206?mc=em_013_0003">호반그룹, 첫 그룹광고 캠페인 '미래' 편 공개</a></strong></li>
+					</ul>
+
+					<div class="ad_600x100">
+						<!-- //광고600x100 -->
+						<iframe width="600" height="100" src="//www.etnews.com/tools/refresh_script.html?src=%2F%2Fyellow.contentsfeed.com%2FRealMedia%2Fads%2Fadstream_jx.ads%2Fetnews.com%2FMain%40Left2" scrolling="no"></iframe>
+						<!-- //광고600x100 -->
+					</div>
+
+				</section>
+
+			</div>
+			<!-- 카테고리 기사 7,5 -->
+
+		</div>
+		<!-- //et_contnets_wrap -->
+		<!-- aside_wrap -->
+		<div class="aside_wrap">
+
+		
+		<aside class="RightTopSpecial textthumblist2">
+			<h3><a href="https://www.hitchallenge.org/" title="호반 혁신기술공모전 총상금 2억, 26일까지 ... 더보기"  target="_blank" ><img src="https://img.etnews.com/news/board/2021/11/09/cms_temp_board_09094807734663.png" alt="호반 혁신기술공모전 총상금 2억, 26일까지 ..."></a></h3>
+		</aside>
+			<aside class="textthumblist">
+				<h3><a href="/news/hot_content_list.html" title="많이 본 기사 클릭 더보기">많이 본 기사</a></h3>
+				<ul>
+										<li class="clearfix">
+						<a href="//www.etnews.com/20211110000188?mc=em_101_00001" class="thumb"><img src="https://img.etnews.com/news/article/2021/11/10/article_10170219955648.jpg" alt="많이 본 기사 섬네일"></a>
+						<p><a href="//www.etnews.com/20211110000188?mc=em_101_00001">SK온, '꿈의 배터리' 세계 첫 생산, '구반반 배터리' 시대 개막</a></p>
+					</li>
+										<li class="clearfix">
+						<a href="//www.etnews.com/20211108000167?mc=em_101_00002" class="thumb"><img src="https://img.etnews.com/photonews/2111/1471768_20211108141725_830i.jpg" alt="많이 본 기사 섬네일"></a>
+						<p><a href="//www.etnews.com/20211108000167?mc=em_101_00002">팀 쿡 “인앱결제, 한국에서 밀리면 안 된다”</a></p>
+					</li>
+										<li class="clearfix">
+						<a href="//www.etnews.com/20211108000136?mc=em_101_00003" class="thumb"><img src="https://img.etnews.com/news/article/2021/11/08/article_08132718029788.png" alt="많이 본 기사 섬네일"></a>
+						<p><a href="//www.etnews.com/20211108000136?mc=em_101_00003">반도체 장비 AI 특허, 외국계 기업 98% '독식'</a></p>
+					</li>
+										<li class="clearfix">
+						<a href="//www.etnews.com/20211110000069?mc=em_101_00004" class="thumb"><img src="https://img.etnews.com/photonews/2111/1472601_20211110104618_089i.jpg" alt="많이 본 기사 섬네일"></a>
+						<p><a href="//www.etnews.com/20211110000069?mc=em_101_00004">[이슈분석] 고성능 PCB '초호황'...조 단위 투자 '쩐의 전쟁' 펼쳐진다</a></p>
+					</li>
+									</ul>		
+			</aside>
+			
+			
+			<aside class="textlist">
+				<h3><a href="/news/issue_analysis.html" title="이슈분석 더보기">이슈분석</a></h3>
+				<ul class="photomovie">
+					<li>
+						<!-- 슬라이드 -->
+						<div class="headline_slideWrap">
+							<div class="automatic-slider">
+																<ul>
+																		<li>
+										<a href="//www.etnews.com/tools/redirect_log.html?url=%2F%2Fwww.etnews.com%2Fnews%2Fissue_analysis.html%3Fid%3D3488&mc=em_102_00001" class="imgWrap"><img src="https://img.etnews.com/news/issue_analysis/2021/11/11/cms_temp_issue_analysis_11164745807946.jpg"></a>
+										<a href="//www.etnews.com/tools/redirect_log.html?url=%2F%2Fwww.etnews.com%2Fnews%2Fissue_analysis.html%3Fid%3D3488&mc=em_102_00001"><strong>블록체인·메타버스에 올라탄 게임</strong></a>
+									</li>
+																		<li>
+										<a href="//www.etnews.com/tools/redirect_log.html?url=%2F%2Fwww.etnews.com%2Fnews%2Fissue_analysis.html%3Fid%3D3487&mc=em_102_00002" class="imgWrap"><img src="https://img.etnews.com/news/issue_analysis/2021/11/10/cms_temp_issue_analysis_10165534005445.jpg"></a>
+										<a href="//www.etnews.com/tools/redirect_log.html?url=%2F%2Fwww.etnews.com%2Fnews%2Fissue_analysis.html%3Fid%3D3487&mc=em_102_00002"><strong>호황기 맞은 '고성능 반도체 PCB'</strong></a>
+									</li>
+																		<li>
+										<a href="//www.etnews.com/tools/redirect_log.html?url=%2F%2Fwww.etnews.com%2Fnews%2Fissue_analysis.html%3Fid%3D3486&mc=em_102_00003" class="imgWrap"><img src="https://img.etnews.com/news/issue_analysis/2021/11/09/cms_temp_issue_analysis_09164313596045.jpg"></a>
+										<a href="//www.etnews.com/tools/redirect_log.html?url=%2F%2Fwww.etnews.com%2Fnews%2Fissue_analysis.html%3Fid%3D3486&mc=em_102_00003"><strong>가전업계 '디지털 전환' 열풍</strong></a>
+									</li>
+																	</ul>
+															</div>
+						</div>
+						<!-- //슬라이드 -->
+					</li>
+				</ul>
+			</aside>
+			
+
+			<!-- 이향선의 테크비전 2017-12-14일부터  -->
+			<!-- 이향선의 테크비전 -->
+			<aside class="textthumblist thumb_left">
+				<h3><a href="//www.etnews.com/news/category_list.html?id=2607" title="테크비전 더보기" target="_blank">테크비전</a></h3>
+				<ul>
+									<li class="clearfix">
+						<a href="//www.etnews.com/tools/redirect_log.html?url=%2F%2Fwww.etnews.com%2F20211012000306&mc=em_108_00001" class="thumb" target="_blank"><img src="https://img.etnews.com/news/article/2021/10/12/article_12175810139661.jpg" alt="테크비전 섬네일"></a>
+						<p><a href="//www.etnews.com/tools/redirect_log.html?url=%2F%2Fwww.etnews.com%2F20211012000306&mc=em_108_00001" target="_blank">국가 경쟁력과 미래 사회에 결정적 영향을 끼치는 'HPC' 어디까지 왔나...유충근 상무 인터뷰</a></p>
+					</li>
+				</ul>		
+			</aside>
+			<!-- 이향선의 테크비전 -->			<!-- 이향선의 테크비전 2017-12-14일부터 -->
+
+			
+				
+<aside class="textthumblist">
+	<h3><a href="//www.etnews.com/news/category_list.html?id=2495" title="혁신프런티어 더보기">혁신프런티어</a></h3>
+	<ul>
+				<li class="clearfix">
+			<a href="//www.etnews.com/20211111000098?mc=em_103_00001" class="thumb"><img src="https://img.etnews.com/news/article/2021/11/11/article_11105812767713.png" alt="혁신프런티어 섬네일"></a>
+			<p><a href="//www.etnews.com/20211111000098?mc=em_103_00001">시옷, 울산·광주시에 자율주행 보안 인증 모듈 공급</a></p>
+		</li>
+				<li class="clearfix">
+			<a href="//www.etnews.com/20211111000074?mc=em_103_00002" class="thumb"><img src="https://img.etnews.com/photonews/2111/1472882_20211111101845_611i.jpg" alt="혁신프런티어 섬네일"></a>
+			<p><a href="//www.etnews.com/20211111000074?mc=em_103_00002">한국산업기술대, '2021 A-Class 500 Job Fair' 개최</a></p>
+		</li>
+			</ul>		
+</aside>							
+			<aside class="textlist">
+				<h3><a href="//www.etnews.com/news/photonews.html" title="뷰포인트 더보기">뷰포인트</a></h3>
+				<ul class="photomovie">
+					<li>
+						<!-- 슬라이드 -->
+						<div class="headline_slideWrap">
+							<div class="automatic-slider">
+																<ul>
+																		<li>
+										<a href="https://www.etnews.com/20211108000134?mc=em_105_00001" class="imgWrap"><img src="https://img.etnews.com/news/board/2021/11/09/cms_temp_board_09090954275866.jpg"></a>
+										<a href="https://www.etnews.com/20211108000134?mc=em_105_00001"><strong>&quot;금세기 가장 긴 월식&quot;…19일 부분월식 펼쳐...</strong></a>
+									</li>
+																		<li>
+										<a href="https://www.etnews.com/20211104000256?mc=em_105_00002" class="imgWrap"><img src="https://img.etnews.com/news/board/2021/11/08/cms_temp_board_08104258113940.jpg"></a>
+										<a href="https://www.etnews.com/20211104000256?mc=em_105_00002"><strong>&quot;사라진 빙하&quot;…위성이 찍은 '위태위태한' 지...</strong></a>
+									</li>
+																		<li>
+										<a href="https://www.etnews.com/20211103000224?mc=em_105_00003" class="imgWrap"><img src="https://img.etnews.com/news/board/2021/11/05/cms_temp_board_05104133113647.png"></a>
+										<a href="https://www.etnews.com/20211103000224?mc=em_105_00003"><strong>애플 로고 값?...사용기까지 등장한 '광택용 ...</strong></a>
+									</li>
+																	</ul>
+															</div>
+						</div>
+						<!-- //슬라이드 -->
+					</li>
+				</ul>
+			</aside>
+			<aside class="textthumblist opinion">
+				<h3><a href="//www.etnews.com/news/section.html?id1=11" title="오피니언 더보기">오피니언</a></h3>
+				                    <ul>
+					                        <li class="clearfix">
+							<a href="//www.etnews.com/20211111000154" class="thumb"><img src="https://img.etnews.com/2013/reporters/unknown-42.png" alt="ET단상"></a>							<p><a href="//www.etnews.com/20211111000154?mc=em_106_00001">[ET단상] 차세대 6G 이동통신 R&D, 시작할 때다</a></p>
+						</li>
+						                        <li class="clearfix">
+							<a href="//www.etnews.com/20211111000190" class="thumb"><img src="https://img.etnews.com/2013/reporters/jin-42.png" alt="기자수첩"></a>							<p><a href="//www.etnews.com/20211111000190?mc=em_106_00002">[기자수첩] UAM, 첫 경험이 중요하다</a></p>
+						</li>
+						                        <li class="clearfix">
+							<a href="//www.etnews.com/20211111000172" class="thumb"><img src="https://img.etnews.com/2013/reporters/seung-42.png" alt="데스크라인"></a>							<p><a href="//www.etnews.com/20211111000172?mc=em_106_00003">[데스크라인] '제2 요소수 사태' 방지하려면</a></p>
+						</li>
+						                        <li class="clearfix">
+							<a href="//www.etnews.com/20211106000031" class="thumb"><img src="https://img.etnews.com/2013/reporters/hcan-42.png" alt="관망경"></a>							<p><a href="//www.etnews.com/20211106000031?mc=em_106_00004">[관망경] 공공 클라우드 전환</a></p>
+						</li>
+						                     </ul>
+							</aside>
+
+			<aside class="card_motion">
+				<script language="JavaScript">
+					var main_alarm = Math.ceil(Math.random()*2);
+					jQuery("#card_motion_tab > li:eq("+(main_alarm-1)+")").addClass("on");
+					jQuery("#card_motion_tab"+main_alarm).show();
+
+					function main_alarm_tab(val){
+						var val2 = parseInt(val)+parseInt(1);
+						jQuery("#card_motion_tab1, #card_motion_tab2").hide();
+						jQuery("#card_motion_tab"+val2).show();
+						jQuery("#card_motion_tab > li").removeClass("on");
+						jQuery("#card_motion_tab > li:eq("+val+")").addClass("on");
+					}
+				</script>
+
+				<h3 class="tabs">
+					<ul id="card_motion_tab" class="clearfix">
+						<li class="on"><a href="//www.etnews.com/news/cardnews.html" onmouseover="main_alarm_tab('0')">카드뉴스</a></li>
+						<li><a href="//www.etnews.com/news/motion_graphic.html" onmouseover="main_alarm_tab('1')">모션그래픽</a></li>
+					</ul>
+				</h3>
+				<div class="tab_container">
+					<div class="tab_content" style="display:block" id="card_motion_tab1">
+						<figure>
+							<a href="//www.etnews.com/20211105000173?mc=em_109_00001" class="thumb"><img src="https://img.etnews.com/photonews/2111/1471173_20211105152555_110i.jpg" alt="카드뉴스 섬네일"></a>
+							<figcaption><a href="//www.etnews.com/20211105000173?mc=em_109_00001">마리화나 흡연 여부 5분 내 잡아낸다</a></figcaption>
+						</figure>
+					</div>
+
+					<div class="tab_content" style="display:none" id="card_motion_tab2">
+						<figure>
+							<a href="//www.etnews.com/20211105000053?mc=em_109_00002" class="thumb"><img src="https://img.etnews.com/photonews/2111/1471038_20211105102606_969i.jpg" alt="모션그래픽 섬네일"></a>
+							<figcaption><a href="//www.etnews.com/20211105000053?mc=em_109_00002">코로나19 속 ICT의 역할</a></figcaption>
+						</figure>
+					</div>
+				</div>
+			</aside>
+				
+	<aside class="textthumblist allshowtv">
+		<h3><a href="http://www.allshowtv.com" target="_blank" title="allshowTV 더보기">allshowTV</a></h3>
+		<ul>
+						<li class="clearfix">
+				<a href="https://www.etnews.com/tools/redirect_log.html?url=http%3A%2F%2Fwww.allshowtv.com%2Fdetail.html%3Fidx%3D796&mc=em_all_00001" target="_blank" class="thumb"><img src="https://img.etnews.com/allshowtv/tmp_upload/2021/09/29/main_29111952886249.jpg" alt="allshowtv 섬네일"></a>
+				<p>
+					<a href="https://www.etnews.com/tools/redirect_log.html?url=http%3A%2F%2Fwww.allshowtv.com%2Fdetail.html%3Fidx%3D796&mc=em_all_00001" target="_blank" class="title">Korea Autonomous Developer Forum 2021</a>
+					<a href="https://www.etnews.com/tools/redirect_log.html?url=http%3A%2F%2Fwww.allshowtv.com%2Fdetail.html%3Fidx%3D796&mc=em_all_00001" target="_blank" class="date">2021. 11. 11일(목) 13:00 ~ 16:00</a>							
+				</p>
+			</li>
+						<li class="clearfix">
+				<a href="https://www.etnews.com/tools/redirect_log.html?url=http%3A%2F%2Fwww.allshowtv.com%2Fdetail.html%3Fidx%3D806&mc=em_all_00002" target="_blank" class="thumb"><img src="https://img.etnews.com/allshowtv/tmp_upload/2021/10/27/main_27135352844559.png" alt="allshowtv 섬네일"></a>
+				<p>
+					<a href="https://www.etnews.com/tools/redirect_log.html?url=http%3A%2F%2Fwww.allshowtv.com%2Fdetail.html%3Fidx%3D806&mc=em_all_00002" target="_blank" class="title">위드코로나시대, 해외진출을 고민하고 있다면?
+이제는 기업을 위한 글로벌 채용 SaaS플랫폼!</a>
+					<a href="https://www.etnews.com/tools/redirect_log.html?url=http%3A%2F%2Fwww.allshowtv.com%2Fdetail.html%3Fidx%3D806&mc=em_all_00002" target="_blank" class="date">2021. 11. 12일(금) 15:00 ~ 15:45</a>							
+				</p>
+			</li>
+						<li class="clearfix">
+				<a href="https://www.etnews.com/tools/redirect_log.html?url=http%3A%2F%2Fwww.allshowtv.com%2Fdetail.html%3Fidx%3D787&mc=em_all_00003" target="_blank" class="thumb"><img src="https://img.etnews.com/allshowtv/tmp_upload/2021/09/17/main_17084445154335.jpg" alt="allshowtv 섬네일"></a>
+				<p>
+					<a href="https://www.etnews.com/tools/redirect_log.html?url=http%3A%2F%2Fwww.allshowtv.com%2Fdetail.html%3Fidx%3D787&mc=em_all_00003" target="_blank" class="title">SAS 현업 전문가로부터 듣는 Virtual SAS School
+빅데이터 분석 시각화 첫 걸음</a>
+					<a href="https://www.etnews.com/tools/redirect_log.html?url=http%3A%2F%2Fwww.allshowtv.com%2Fdetail.html%3Fidx%3D787&mc=em_all_00003" target="_blank" class="date">2021. 11. 16일(화) 14:00 ~ 15:00</a>							
+				</p>
+			</li>
+					</ul>		
+	</aside>
+<aside class="textthumblist thumb_left">
+	<h3><a href="https://www.etnews.com/tools/redirect_log.html?url=https%3A%2F%2Fwww.etnews.com%2Fnews%2Fcategory_list.html%3Fid%3D2830&mc=ev_R_0007" title="과학기술이 미래다 더보기">과학기술이 미래다</a></h3>
+	<ul>
+		<li class="clearfix">
+					<a href="https://www.etnews.com/tools/redirect_log.html?url=https%3A%2F%2Fwww.etnews.com%2F20211108000260?mc=ev_R_0007" class="thumb"><img src="https://img.etnews.com/news/article/2021/11/10/article_10165904719038.jpg" alt="과학기술이 미래다 섬네일"></a>
+					<p><a href="https://www.etnews.com/tools/redirect_log.html?url=https%3A%2F%2Fwww.etnews.com%2F20211108000260?mc=ev_R_0007">&lt;26&gt;과학기술처 출범 막후…초대 장관에 김기형 박사</a></p>
+		</li>
+	</ul>
+</aside>
+<aside class="textthumblist thumb_left">
+	<h3><a href="https://www.etnews.com/tools/redirect_log.html?url=https%3A%2F%2Fwww.etnews.com%2Fnews%2Fcategory_list.html%3Fid%3D2664&mc=ev_R_0005" title="데스크가 만났습니다 더보기">데스크가 만났습니다</a></h3>
+	<ul>
+		<li class="clearfix">
+			<a href="https://www.etnews.com/tools/redirect_log.html?url=https%3A%2F%2Fwww.etnews.com%2F20211104000158?mc=ev_R_0005" class="thumb"><img src="https://img.etnews.com/photonews/2111/1470655_20211104135928_615i.jpg" alt="데스크가 만났습니다 섬네일"></a>
+			<p><a href="https://www.etnews.com/tools/redirect_log.html?url=https%3A%2F%2Fwww.etnews.com%2F20211104000158?mc=ev_R_0005">이계문 서민금융진흥원장 "디지털로 서민금융을 구석구석 챙기겠습니다"</a></p>
+		</li>
+	</ul>
+</aside>
+<aside class="textthumblist thumb_left">
+	<h3><a href="https://www.etnews.com/tools/redirect_log.html?url=https%3A%2F%2Fwww.etnews.com%2Fnews%2Fcategory_list.html%3Fid%3D2746&mc=ev_R_0006" title="오늘의 CEO 더보기">오늘의 CEO</a></h3>
+	<ul>
+		<li class="clearfix">
+			<a href="https://www.etnews.com/tools/redirect_log.html?url=https%3A%2F%2Fwww.etnews.com%2F20210823000148?mc=ev_R_0006" class="thumb"><img src="https://img.etnews.com/photonews/2108/1446335_20210823135059_878i.jpg" alt="오늘의 CEO 섬네일"></a>
+			<p><a href="https://www.etnews.com/tools/redirect_log.html?url=https%3A%2F%2Fwww.etnews.com%2F20210823000148?mc=ev_R_0006">신대현 대연씨앤아이 대표 "태양광 솔루션 대표기업 되겠다"</a></p>
+		</li>
+	</ul>
+</aside>
+
+		<aside class="textthumblist">
+			<h3><a title="네이버 전자신문 포스트 더보기 새창" href="http://post.naver.com/my.nhn?memberNo=19850389" target="_blank" >전자신문 포스트</a></h3>
+			<ul>
+				<li class="clearfix">
+					<a class="thumb" href="//www.etnews.com/tools/redirect_log.html?url=http%3A%2F%2Fnaver.me%2FxTeOOh6Z&mc=em_110_00001"><img alt="전자신문 포스트 섬네일" src="https://img.etnews.com/news/board/2021/11/11/cms_temp_board_11084144276864.png"></a>
+					<p><a href="//www.etnews.com/tools/redirect_log.html?url=http%3A%2F%2Fnaver.me%2FxTeOOh6Z&mc=em_110_00001" target="_blank">일론 머스크 트위터명 잠시 바꿨더니 ‘동명 코인’ 첫날 825% 급등</a></p>
+				</li>
+				<li class="clearfix">
+					<a class="thumb" href="//www.etnews.com/tools/redirect_log.html?url=http%3A%2F%2Fnaver.me%2Fx7c2k1MI&mc=em_110_00002"><img alt="전자신문 포스트 섬네일" src="https://img.etnews.com/news/board/2021/11/11/cms_temp_board_11084107818269.png"></a>
+					<p><a href="//www.etnews.com/tools/redirect_log.html?url=http%3A%2F%2Fnaver.me%2Fx7c2k1MI&mc=em_110_00002" target="_blank">46일간 지킨 '오징어게임' 왕좌 뺏겼다...새로운 넷플 1위는?</a></p>
+				</li>
+			</ul>
+		</aside>
+
+		</div>
+		<!-- //aside_wrap -->
+	</main>
+	<!-- //main -->
+	<!-- vortal_wrap -->
+	<div class="vortal_wrap">
+		
+			
+<section class="clearfix">
+	<h3><a href="http://enteronnews.etnews.com/" target="_blank">EnterOnNews</a></h3>
+	<div class="vortal_news_wrap">
+		<ul class="thumbnews clearfix">
+			<li>
+				<figure>
+					<a class="thumb" href="//www.etnews.com/20211111000233?mc=em_201_00001"><img src="https://img.etnews.com/news/article/2021/11/11/article_11152058937767.jpg" alt="EnterOnNews 섬네일"></a>
+					<figcaption><a href="//www.etnews.com/20211111000233?mc=em_201_00001">가온차트, 10월 월간결과 공개…임영웅 5관왕·세븐틴 앨범 정상</a></figcaption>
+				</figure>
+			</li>
+						<li>
+				<figure>
+					<a class="thumb" href="//www.etnews.com/20211109000258?mc=em_201_00002"><img src="https://img.etnews.com/news/article/2021/11/09/article_09164802647939.jpg" alt="EnterOnNews 섬네일"></a>
+					<figcaption><a href="//www.etnews.com/20211109000258?mc=em_201_00002">[종합] 원어스, '달에 취한 소년들의 아련성숙 판소리풍 힙합' (블러드문 쇼케)</a></figcaption>
+				</figure>
+			</li>
+						<li>
+				<figure>
+					<a class="thumb" href="//www.etnews.com/20211104000193?mc=em_201_00003"><img src="https://img.etnews.com/news/article/2021/11/04/article_04152002078247.jpg" alt="EnterOnNews 섬네일"></a>
+					<figcaption><a href="//www.etnews.com/20211104000193?mc=em_201_00003">아이유·NCT 127·세븐틴·임영웅·BTS, 44주 가온차트 정상</a></figcaption>
+				</figure>
+			</li>
+					</ul>
+		<ul class="textnews clearfix">
+						<li><a href="//www.etnews.com/20211104000173?mc=em_201_00004">[종합] SM-유튜브, '리마스터링 프로젝트 통해 K팝 과거-현재-미래 잇는다'</a></li>
+						<li><a href="//www.etnews.com/20211102000097?mc=em_201_00005">[종합] 슈퍼주니어-D&amp;E, '새로운 카운트다운 위해 엘프와 나누는 ZERO 사이다'</a></li>
+						<li><a href="//www.etnews.com/20211102000053?mc=em_201_00006">2021 MAMA, 애플뮤직 차트 반영 등 개편내용 공개…3일 밤 노미네이션 발표</a></li>
+						<li><a href="//www.etnews.com/20211101000279?mc=em_201_00007">[종합] 임창정, '별거 없는 그 하루를 꽉 채울 창정신 감성' (정규17집 쇼케이스)</a></li>
+					</ul>
+	</div>
+</section>			
+			
+<section class="clearfix">
+	<h3><a href="http://www.rpm9.com/" target="_blank">전자신문ENT<br>RPM9</a></h3>
+	<div class="vortal_news_wrap">
+		<ul class="thumbnews clearfix">
+			<li>
+				<figure>
+					<a class="thumb" href="http://www.rpm9.com/news/article.html?id=20211108090007&mc=em_202_00001" target="_blank"><img src="https://img.etnews.com/news/article/2021/11/08/article_08125118968333.jpg" alt="rpm_grade_article 섬네일"></a>
+					<figcaption><a href="http://www.rpm9.com/news/article.html?id=20211108090007&mc=em_202_00001" target="_blank">한불모터스, 판매 부진으로 회사 존립 '흔들'</a></figcaption>
+				</figure>
+			</li>
+						<li>
+				<figure>
+					<a class="thumb" href="http://www.rpm9.com/news/article.html?id=20211104090009&mc=em_202_00002" target="_blank"><img src="https://img.etnews.com/news/article/2021/11/04/article_04171730840528.jpg" alt="rpm_grade_article 섬네일"></a>
+					<figcaption><a href="http://www.rpm9.com/news/article.html?id=20211104090009&mc=em_202_00002" target="_blank">[인터뷰] TO1(티오원), '청춘성숙 이끄는 내면의 다크히어로 vs. 빌런'</a></&mc=em_202_00001figcaption>
+				</figure>
+			</li>
+						<li>
+				<figure>
+					<a class="thumb" href="http://www.rpm9.com/news/article.html?id=20210908090007&mc=em_202_00003" target="_blank"><img src="https://img.etnews.com/news/article/2021/09/08/article_08101458157907.jpg" alt="rpm_grade_article 섬네일"></a>
+					<figcaption><a href="http://www.rpm9.com/news/article.html?id=20210908090007&mc=em_202_00003" target="_blank">[ET-ENT 뮤지컬] 'AIR' 실제 무대를 그대로 연상하게 만드는 XR 홀로그램 뮤지컬</a></&mc=em_202_00001figcaption>
+				</figure>
+			</li>
+					</ul>
+		<ul class="textnews clearfix">
+			<li><a href="http://www.rpm9.com/news/article.html?id=20211111090016&mc=em_202_00004" target="_blank">현대모비스, '어린이 교통안전 교육용 애플리케이션' 개발</a></li>
+			<li><a href="http://www.rpm9.com/news/article.html?id=20211020090007&mc=em_202_00005" target="_blank">[ET-ENT 인터뷰] KBS 웹소설 작가 양성 과정 - 디버스 대도서관 작가</a></li>
+			<li><a href="http://www.rpm9.com/news/article.html?id=20211111090009&mc=em_202_00006" target="_blank">BMW, 뉴 X3 M 컴페티션 · 뉴 X4 M 컴페티션 출시</a></li>
+			<li><a href="http://www.rpm9.com/news/article.html?id=20210908090017&mc=em_202_00007" target="_blank">KBS스포츠예술과학원, 'KBS 웹소설 작가 양성과정' 개설! 웹소설 IP의 '원소스멀티유즈' 트렌드에 따른 웹소설 작가 양성 목표</a></li>
+		</ul>
+	</div>
+</section>				</div>
+	<!-- //vortal_wrap -->
+
+
+
+	<footer class="footer clearfix">
+
+		<div class="logo"><a href="//www.etnews.com" title="전자신문인터넷"><img src="https://img.etnews.com/2016/etnews/images/common/logo_footer.png" alt="전자신문인터넷 로고"></a></div>
+		<div class="company_info">
+			<ul class="clearfix">
+				<li><a href="https://info.etnews.com/" target="_blank">전자신문</a></li>
+				<li><a href="https://info.etnews.com/sub01_1.html" target="_blank">회사소개</a></li>
+				<li><a href="https://info.etnews.com/sub04_1.html" target="_blank">지면광고</a></li>
+				<li><a href="http://www.sek.co.kr/" target="_blank">행사문의</a></li>
+			</ul>
+			<div class="address_copyright">
+				<address>
+					<b>주소: </b>서울시 서초구 양재대로2길 22-16 호반파크1관 8~9층 <b>대표번호: </b>02-2168-9200 <b>구독문의: </b> 02-2671-1806~7
+				</address>
+			</div>
+
+			<ul class="clearfix">
+				<li><a href="//www.etnews.com/">전자신문인터넷</a></li>
+				<li><a href="//www.etnews.com/company/" target="_blank">회사소개</a></li>
+				<li><a href="//www.etnews.com/pages/etnews_how.html">이용약관</a></li>
+				<li><a href="//www.etnews.com/pages/etnews_privacy.html"><strong>개인정보취급방침</strong></a></li>
+				<li><a href="http://netizen.etnews.com/bbs/bbs.html?code=sinmungo">이용문의</a></li>
+				<li><a href="//www.etnews.com/pages/ombudsman.html">고충처리</a></li>
+				<li><a href="//www.etnews.com/sitemap.html">사이트맵</a></li>
+			</ul>
+			<div class="address_copyright">
+				<address>
+					<b>주소: </b>서울시 서초구 양재대로2길 22-16 호반파크1관 7층   <b>대표번호:</b> 02-857-0114 <!--<b>대표이사:</b> 심규호 --><b>사업자번호:</b> 107-81-80959 <b>등록번호:</b> 서울 아04494 <br>
+					<b>제호:</b> 전자신문인터넷 <b>등록일자:</b> 2017년  04월 27일 <b>발행일자:</b> 1996년 04월 10일 <b>발행·편집인:</b> 심규호 <b>청소년보호책임자:</b> 김인기
+				</address>
+				<p class="copyright">Copyright &copy; Electronic Times Internet. All Rights Reserved. <a class="btn_rss" href="//www.etnews.com/rss/"><img src="https://img.etnews.com/2013/et/images/bg/rss.jpg"></a></p>
+			</div>
+		</div>
+		
+		
+		<div class="familysite">
+			<form>
+				<select onchange="go_url(this.value);">
+					<option selected="" value="">전자신문 패밀리미디어</option>
+					 <option value="//www.etnews.com/">전자신문</option>
+					 <option value="http://rpm9.etnews.com/">RPM9</option>
+					 <option value="https://www.ebn.co.kr/">EBN</option>
+					 <option value="">산업경제신문</option>
+				</select>
+			</form>
+			<script>
+				function go_url(url){ 
+				   if(url != "") window.open(url, "_blank", "");
+				} 
+			</script>
+		</div>
+		<a href="#" class="btn_gotop" title="맨 위로"><img src="https://img.etnews.com/2016/etnews/images/common/btn_gotop.png" alt="위방향 화살표"></a>
+	</footer>
+
+
+</div> <!-- div class="et_wrap" -->
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,94 @@
+<script data-ad-client="ca-pub-9778759981525856" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6009790068959470" crossorigin="anonymous"></script>
+<div class="posi-re float-center width-1080" id="wingBanner">
+<div class="wing-banner-left">
+<div class="wing-banner-right">
+<script src="https://cdn.kihoilbo.co.kr/adManager/js/lab.js"></script>
+<script type="text/javascript" src="https://cdn.kihoilbo.co.kr/library/isND/"></script>
+$('#wingBanner .wing-banner-left .wing-banner').each(function(){
+	if( $(this).data('scroll') == 'y' ) $(this).addClass('scroll-on');
+});
+
+$(window).scroll(function() {
+	if( $('#wingBanner .wing-banner').length > 0 ){											// 날개배너가 있으면 작동
+
+		var scrollingHeight_L = nonScrollingHeight_L = scrollingHeight_R = nonScrollingHeight_R = 0;
+
+		$('#wingBanner .wing-banner').each(function(idx){
+			var $_this		= $(this),														// 날개배너
+				scroll		= $_this.data('scroll'),										// 날개배너 스크롤 여부
+				topMargin	= $_this.data('top-margin'),									// 날개배너 상단여백
+				downMargin	= $_this.data('down-margin'),									// 날개배너 하단여백
+				duration	= $_this.data('duration'),										// 날개배너 스크롤 속도
+				direction	= $_this.data('direction'),										// 날개배너 위치
+				// bannerTop	= $_this.offset().top,											// 날개배너 상단 위치 (가변)
+				bannderHeight = $_this.outerHeight();										// 날개배너 높이 (고정)
+
+			var fixWingBannertop	= $('#wingBanner').offset().top;						// 날개배너 상단 위치 (고정)
+
+			var articleTitleHeight	= $('#sticky-header.scroll').height();			// 날개배너 스크롤 시 상단 타이틀 높이 (기사 본문 시)
+			if(!articleTitleHeight) articleTitleHeight = 0;
+
+			var $_userFooter		= $('#user-footer'),									// 사이트 Footer
+				userFooterHeight	= $_userFooter.outerHeight();							// 사이트 Footer 높이 (고정)
+
+			var winScrollTop		= $(window).scrollTop(),								// 윈도우 스크롤 위치 (가변)
+				winHeight			= $(window).height(),									// 윈도우 높이
+				docHeight			= $(document).height();									// 페이지 높이
+
+			switch (direction) {															// 날개 배너 위치 별
+				case 'left':
+					if(scroll == 'y') scrollingHeight_L += bannderHeight;					// 순서대로 노출되는 날개배너 중 스크롤 하는 배너의 높이값 (좌)
+					else nonScrollingHeight_L += bannderHeight;								// 순서대로 노출되는 날개배너 중 스크롤 하지 않는 배너의 높이값 (좌)
+					break;
+
+				case 'right':
+					if(scroll == 'y') scrollingHeight_R += bannderHeight;					// 순서대로 노출되는 날개배너 중 스크롤 하는 배너의 높이값 (우)
+					else nonScrollingHeight_R += bannderHeight;								// 순서대로 노출되는 날개배너 중 스크롤 하지 않는 배너의 높이값 (우)
+					break;
+			}
+
+			if(scroll == 'y') {																// 스크롤 배너만 움직임 처리
+				var bannerAllHeight = siteAllHeight = 0;
+
+				// 좌우측 각각 배너 스크롤 처리를 위해 나눠서 처리
+				if(direction == 'left'){																			// 좌측 날개
+					var wingBnTop_L = winScrollTop - fixWingBannertop + topMargin - nonScrollingHeight_L;			// 날개배너 스크롤 위치 (가변)
+
+					if( articleTitleHeight ) wingBnTop_L += articleTitleHeight;										// 기사본문 시 상단 스크롤 타이틀이 나타나면 스크롤 타이틀 만큼 날개배너 위치 조정
+
+					if((fixWingBannertop + nonScrollingHeight_L) < winScrollTop) {
+
+						bannerAllHeight = articleTitleHeight + scrollingHeight_L + 1;								// 상단 타이틀 + 스크롤배너의 총 높이
+						siteAllHeight = winHeight - userFooterHeight + downMargin;									// 윈도우 높이 + 사이트 Footer 높이
+
+						if( (winScrollTop >= ((docHeight - userFooterHeight) - winHeight)) && (bannerAllHeight >= siteAllHeight) ) {					// 사이트 Footer 넘어가는 경우 처리
+							wingBnTop_L -= ((userFooterHeight + downMargin) - (winHeight - (scrollingHeight_L + topMargin + articleTitleHeight)));
+							$('#wingBanner .wing-banner-left .wing-banner.scroll-on').animate({top:wingBnTop_L+"px" },{queue: false, duration: duration});		// 마지막 배너 움직임 처리
+						}
+					} else {
+						wingBnTop_L = 0;																			// 최상단 처리
+					}
+					$_this.animate({top:wingBnTop_L+"px" },{queue: false, duration: duration});
+
+				} else {																							// 우측 날개
+
+					var wingBnTop_R = winScrollTop - fixWingBannertop + topMargin - nonScrollingHeight_R;			// 날개배너 스크롤 위치 (가변)
+
+					if( articleTitleHeight ) wingBnTop_R += articleTitleHeight;										// 기사본문 시 상단 스크롤 타이틀이 나타나면 스크롤 타이틀 만큼 날개배너 위치 조정
+
+					if((fixWingBannertop + nonScrollingHeight_R) < winScrollTop) {
+
+						bannerAllHeight = articleTitleHeight + scrollingHeight_R + 1;								// 상단 타이틀 + 스크롤배너의 총 높이
+						siteAllHeight = winHeight - userFooterHeight + downMargin;									// 윈도우 높이 + 사이트 Footer 높이
+
+						if( (winScrollTop >= ((docHeight - userFooterHeight) - winHeight)) && (bannerAllHeight >= siteAllHeight) ) {					// 사이트 Footer 넘어가는 경우 처리
+							wingBnTop_R -= ((userFooterHeight + downMargin) - (winHeight - (scrollingHeight_R + topMargin + articleTitleHeight)));
+							$('#wingBanner .wing-banner-right .wing-banner.scroll-on').animate({top:wingBnTop_R+"px" },{queue: false, duration: duration});		// 마지막 배너 움직임 처리
+						}
+					} else {
+						wingBnTop_R = 0;																			// 최상단 처리
+					}
+					$_this.animate({top:wingBnTop_R+"px" },{queue: false, duration: duration});
+				}
+			}

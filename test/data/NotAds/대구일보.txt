@@ -1,0 +1,1474 @@
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>‘브랜드 효과’ 사라진 대구 청약시장 - 대구일보</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Script-Type" content="text/javascript"> 
+<meta http-equiv="Content-Style-Type" content="text/css"> 
+<meta name="keywords" content="대구일보">
+<meta name="location" content="Korea">
+<meta name="author" content="대구일보"> 
+<meta name="description" content="대구의 변화 혁신을 주도하는 신문">
+
+<meta property="fb:app_id" content="">
+<meta property="og:locale" content="ko_KR" />
+<meta property="og:url" content="https://www.idaegu.com/newsView/idg202111100069" />
+<meta property="og:description" content="지난 9월 청약을 받은 중구 힐스테이트 동인의 청약 결과. 전 타입 무더기 미달을 보였다.대기업 건설사들이 브랜드 선호도를 내세워 하반기 대구지역" />
+<meta property="og:site_name" content="대구일보">
+<meta property="og:type" content="article" />
+<meta property="og:title" content="&lsquo;브랜드 효과&rsquo; 사라진 대구 청약시장" />
+<meta property="og:image" content="https://www.idaegu.com/data/image/2021/11/10/idg202111100063.jpg" />
+
+<link rel="canonical" href="https://www.idaegu.com/newsView/idg202111100069">
+<link rel="icon" href="https://www.idaegu.com/favicon.ico" />
+<link rel="shortcut icon" href="https://www.idaegu.com/favicon.ico" type="image/x-icon">
+<link rel="alternate" type="application/rss+xml" href="https://www.idaegu.com/newsRss" title="대구일보">
+
+<meta property="article:publisher" content="176511959783112" />
+<meta property="article:tag" content="브랜드" />
+<meta property="article:tag" content="줄줄이" />
+<meta property="article:tag" content="대기업" />
+<meta property="article:tag" content="청약" />
+<meta property="article:tag" content="미달" />
+<meta property="article:tag" content="건설" />
+<meta property="article:tag" content="통장" />
+<meta property="article:tag" content="상품" />
+<meta property="article:tag" content="세운" />
+<meta property="article:tag" content="투척" />
+<meta property="article:tag" content="대구" />
+<meta property="article:tag" content="힐스테이트" />
+<meta property="article:modified_time" content="2021-11-10 18:06:58" />
+<meta property="article:section" content="" /> 
+<meta property="article:published_time" content="2021-11-10T18:33:02+09:00" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@idaegu" />
+<meta name="twitter:image" content="https://www.idaegu.com/data/image/2021/11/10/idg202111100063.jpg" />
+<meta name="twitter:title"  content="&lsquo;브랜드 효과&rsquo; 사라진 대구 청약시장" />
+<meta name="twitter:description" content="지난 9월 청약을 받은 중구 힐스테이트 동인의 청약 결과. 전 타입 무더기 미달을 보였다.대기업 건설사들이 브랜드 선호도를 내세워 하반기 대구지역" />
+<link rel="stylesheet" href="//cdn.idaegu.com/css/pc/layout.css?v=2021070401" type="text/css">
+<link rel="stylesheet" href="//cdn.idaegu.com/css/pc/box.css?v=2021070701" type="text/css">
+
+<script src="https://kit.fontawesome.com/7568904f02.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="//cdn.idaegu.com/js/jquery-3.5.1.min.js"></script>
+<script type="text/javascript" src="//cdn.idaegu.com/js/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="//cdn.idaegu.com/js/default.js?v=2021070101"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24761410-1', 'auto');
+try{
+	ga('set', 'dimension1', 'idg202111100069');
+	ga('set', 'dimension2', '경제일반');
+	ga('set', 'dimension3', 'yun');
+	ga('set', 'dimension4', '윤정혜');
+	ga('set', 'dimension5', '브랜드,줄줄이,대기업,청약,미달,건설,통장,상품,세운,투척,대구,힐스테이트');
+	ga('set', 'dimension6', '3532');
+	ga('set', 'dimension7', '1');
+	ga('set', 'dimension8', '0');
+	ga('set', 'dimension9', '//www.idaegu.com/newsView/idg202111100069');
+	ga('set', 'dimension10', 'idg004001000');
+}catch(e){
+}
+  ga('send', 'pageview');
+</script>
+<!-- 네이버 애널리틱스 시작 -->
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "abcc8bfde4d3a0";
+wcs_do();
+</script>
+<!-- 네이버 애널리틱스 끝 -->
+
+<script src="/js/kakao.js"></script>
+<script type="text/javascript">
+var shareTitle =encodeURI('‘브랜드 효과’ 사라진 대구 청약시장');
+var sharUrl = encodeURI('http://www.idaegu.com/newsView/idg202111100069');
+
+function shareFacebook(){
+	window.open('http://www.facebook.com/sharer/sharer.php?u='+'http://www.idaegu.com/newsView/idg202111100069', 'mywin','left=50,top=50,width=600,height=350,toolbar=0')
+}
+
+function shareTwitter(){
+	window.open("https://twitter.com/intent/tweet?text="+shareTitle+";url="+sharUrl, 'mywin','left=50,top=50,width=600,height=350,toolbar=0')
+}
+
+function shareNaver(){
+	var shareURL = "http://share.naver.com/web/shareView.nhn?url=" + sharUrl + "&title=" + shareTitle;
+	window.open(shareURL, "shareNaver");
+}
+
+function shareBand(){
+	var shareURL = "https://band.us/plugin/share?body=" + shareTitle + "&route=" + sharUrl;
+	window.open(shareURL, "shareBand");
+}
+
+function shareKakaoStoryLink(){
+	var shareURL = "https://story.kakao.com/s/share?url=" + sharUrl;
+	window.open(shareURL, "shareKakao", "width=600, height=600, resizable=no");
+}
+
+function runPrint(){
+	var prtWin = window.open("/newsPrint/idg202111100069","printWindow","width=800, height=800");
+}
+
+var chFont = new Array('16px','17px','18px','19px','20px','22px','24px');
+var dfFont = 3;
+function changeFsize(fs) {
+	var obj = document.getElementById('articleContent');
+	var fsize = dfFont;
+	if(fs == 'flarge') fsize += 1;
+	else fsize -= 1;
+	if(fsize < 0) {
+		alert('더이상 작아지지 않습니다.');
+		fsize = 0;
+	}
+	if(fsize > 6) {
+		alert('더이상 커지지 않습니다.');
+		fsize = 6;
+	}
+	dfFont = fsize;
+	obj.style.fontSize = chFont[fsize];
+}
+</script>
+<script type="text/javascript">
+Kakao.init('af054d27e4239ca3e009343dad4dbbae');
+  function sendLink() {
+    Kakao.Link.sendDefault({
+      objectType: 'feed',
+      content: {
+        title: '‘브랜드 효과’ 사라진 대구 청약시장',
+        description: '지난 9월 청약을 받은 중구 힐스테이트 동인의 청약 결과. 전 타입 무더기 미달을 보였다.대기업 건설사들이 브랜드 선호도를 내세워 하반기 대구지역',
+        imageUrl:'https://www.idaegu.com/data/image/2021/11/10/idg202111100063.jpg',
+        link: {
+          mobileWebUrl: 'https://www.idaegu.com/newsView/idg202111100069',
+          webUrl: 'https://www.idaegu.com/newsView/idg202111100069',
+        },
+      },
+      social: {
+        likeCount: 286,
+        commentCount: 45,
+        sharedCount: 845,
+      },
+      buttons: [
+        {
+          title: '웹으로 보기',
+          link: {
+            mobileWebUrl: 'https://www.idaegu.com/newsView/idg202111100069',
+            webUrl: 'https://www.idaegu.com/newsView/idg202111100069',
+          },
+        },
+        {
+          title: '앱으로 보기',
+          link: {
+            mobileWebUrl: 'https://www.idaegu.com/newsView/idg202111100069',
+            webUrl: 'https://www.idaegu.com/newsView/idg202111100069',
+          },
+        },
+      ],
+    })
+  }
+</script>
+</head>
+<body>
+
+<form name="frm" id="frm" method="post">
+	<input type="hidden" id="orgFileName" name="orgFileName" value="">
+	<input type="hidden" id="fileLink" name="fileLink" value="">
+</form>
+
+<div id="wrap_index" class="newsContent">
+<script type="text/javascript">
+$(document).ready(function(){
+	var d = new Date();
+	var weekname=['일','월','화','수','목','금','토'];
+	var today=d.getFullYear()+'년 '+(d.getMonth() + 1)+'월 '+d.getDate()+'일';
+	$('.day').text(today);
+
+	$('#nav > li').hover(function() {
+		$(this).children('ul').show();
+		$(this).children('a:first').addClass("hov");
+	}, function() {
+		$(this).children('ul').hide();
+		$(this).children('a:first').removeClass("hov");
+	});
+});
+
+function goMobile(){
+	document.cookie='device=';
+	window.location.href = '//m.idaegu.com/';
+}
+</script>
+
+<div id="header" class="">
+
+	<div id="logo_wrap">
+		<div class="inner">
+			<div class="info">
+				<div class="left">
+					<span class="day"></span>
+					<span><a href="javascript:goMobile();">모바일버전</a></span>
+					<span><a href="/newsList/">전체기사</a></span>
+				</div>
+				<div class="right">
+					<!--span><a href="javascript:;" onclick="this.style.behavior='url(#default#homepage)'; this.setHomePage('http://www.idaegu.com');">대구일보를 시작페이지로</a></span-->
+					<span><a href="/pdfList" alt="PDF 지면보기"> PDF 지면보기</a></span>
+					<span><a href="javascript:;" id="favorite" alt="즐겨찾기">즐겨찾기</a></span>
+					<span><a href="/memberJoinagree">회원가입</a></span>
+					<span><a href="/login"><i class="fas fa-user"></i>로그인</a></span>
+				</div>
+			</div>
+			<div class="box banner left">
+				
+			</div>
+
+			<div class="logo"><a href="/" target="_top"><img src="//cdn.idaegu.com/data/image2/2021/06/16/idg202106160002.png" alt="대구일보" alt="대구일보 로고"></a></div>
+
+			<div class="box banner right">
+				
+			</div>
+		</div>
+	</div>
+
+	<div id="nav_wrap">
+		<div class="inner">
+			<ul id="nav">
+				<li class="bars">
+					<a href="javascript:;"><i class="fas fa-bars"></i></a>
+					<ul>
+						<li><a href="/" title="HOME">HOME</a></li>
+							<li><a href="/newsList/idg001000000" title="사람">사람</a>
+							</li>
+							<li><a href="/newsList/idg002000000" title="경북뉴스">경북뉴스</a>
+							</li>
+							<li><a href="/newsList/idg003000000" title="정치">정치</a>
+							</li>
+							<li><a href="/newsList/idg004000000" title="경제">경제</a>
+							</li>
+							<li><a href="/newsList/idg005000000" title="사회">사회</a>
+							</li>
+							<li><a href="/newsList/idg006000000" title="문화">문화</a>
+							</li>
+							<li><a href="/newsList/idg007000000" title="교육">교육</a>
+							</li>
+							<li><a href="/newsList/idg008000000" title="오피니언">오피니언</a>
+							</li>
+							<li><a href="/newsList/idg009000000" title="스포츠">스포츠</a>
+							</li>
+							<li><a href="/newsList/idg011000000" title="포토">포토</a>
+							</li>
+							<li><a href="/newsList/idg012000000" title="특집">특집</a>
+							</li>
+							<li><a href="/newsList/idg022000000" title="대구일보TV">대구일보TV</a>
+							</li>
+					</ul>
+				</li>
+
+				<li class="search" style="margin-right: 10px;">
+					<form action="/newsSearch" method="get">
+						<input type="text" name="keyword" class="keyword" placeholder="" value="" autocomplete="off">
+						<button class="sbtn" alt="search"><i class="fas fa-search"></i></button>
+					</form>
+				</li>
+
+				<li >
+					<a href="/newsList/idg001000000" title="사람">사람</a>
+				</li>
+				<li >
+					<a href="/newsList/idg002000000" title="경북뉴스">경북뉴스</a>
+				</li>
+				<li >
+					<a href="/newsList/idg003000000" title="정치">정치</a>
+				</li>
+				<li >
+					<a href="/newsList/idg004000000" title="경제">경제</a>
+				</li>
+				<li >
+					<a href="/newsList/idg005000000" title="사회">사회</a>
+				</li>
+				<li >
+					<a href="/newsList/idg006000000" title="문화">문화</a>
+				</li>
+				<li >
+					<a href="/newsList/idg007000000" title="교육">교육</a>
+				</li>
+				<li >
+					<a href="/newsList/idg008000000" title="오피니언">오피니언</a>
+				</li>
+				<li >
+					<a href="/newsList/idg009000000" title="스포츠">스포츠</a>
+				</li>
+				<li >
+					<a href="/newsList/idg011000000" title="포토">포토</a>
+				</li>
+				<li >
+					<a href="/newsList/idg012000000" title="특집">특집</a>
+				</li>
+				<li >
+					<a href="/newsList/idg022000000" title="대구일보TV">대구일보TV</a>
+				</li>
+			</ul>
+
+			<div class="sns_icon">
+				<ul>
+					<li><a href="https://post.naver.com/idaegunews" target="_blank"><img src="//cdn.idaegu.com/image/sns/naver.png" alt="대구일보 네이버 포스트" width="28px" height="28px"></a></li>
+					<li><a href="https://www.facebook.com/daeguilbo" target="_blank"><img src="//cdn.idaegu.com/image/sns/facebook.png" alt="대구일보 페이스북" width="28px" height="28px"/></a></li>
+					<li><a href="https://twitter.com/idaegu" target="_blank"><img src="//cdn.idaegu.com/image/sns/twitter.png" alt="대구일보 트위터" width="28px" height="28px"/></a></li>
+					<li><a href="https://www.youtube.com/channel/UCEbyGEnwvmfKr64MaCEdKug" target="_blank"><img src="//cdn.idaegu.com/image/sns/youtube.png" alt="대구일보 유트뷰" width="28px" height="28px"/></a></li>
+					<li><a href="/newsRss" target="_blank"><img src="//cdn.idaegu.com/image/sns/rss.png" alt="RSS" width="28px" height="28px"/></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+	<!-- container -->
+	<div id="container">
+		<div class="din din2-21 " data-objid="idgDIN_1624436906929">
+			<div class="col-md-8 objEnable ui-sortable" data-dinnum="1">
+				<div class="din din1 din_newsview_title">
+					<div data-dinnum="1">
+						<div id="title_wrap">
+							<div class="category">
+								<a href="/">HOME</a>
+								<a href="/newsList/idg004000000" class="category">경제</a>
+								<a href="/newsList/idg004001000" class="category">경제일반</a>
+							</div>
+							<h1 class="title">‘브랜드 효과’ 사라진 대구 청약시장</h1>
+							<div class="info">
+								<span class="date">발행일 2021-11-10 18:33:02</span>
+								<span class="comment_count"><i class="far fa-comment-dots"></i><a href="#comment">댓글 0</a></span>
+								
+								<span class="view_icon">
+									<a href="javascript:;" onclick="changeFsize('flarge');"><img src="/image/plus.png" alt="글자 크기 키우기"></a>
+									<a href="javascript:;" onclick="changeFsize('fsmall');"><img src="/image/minus.png" alt="글자 크기 줄이기"></a>
+									<a href="javascript:;" onclick="javascript:runPrint(); return false;"><img src="/image/printer.png" alt="프린트"></a>
+								</span>
+							</div>
+							<!--div class="reporter"><a href="/newsList/@" class="reporter"><i class="fas fa-user"></i> 기자</a></div-->
+						</div>
+					</div>
+				</div>
+
+				<article>
+					<div id="body_wrap">
+<h2 class="sub_title">현대 힐스테이트 4개 단지 1순위 미달 사태<div><br style='margin-bottom:20px;'></div>지역 건설사 단지 경쟁률 높아 대조</h2>							<div class="content" id="articleContent">
+								<figure  class="image align-center"><img src="/data/image/2021/11/10/idg202111100063.jpg"/><figcaption>지난 9월 청약을 받은 중구 힐스테이트 동인의 청약 결과. 전 타입 무더기 미달을 보였다.</figcaption></figure>대기업 건설사들이 브랜드 선호도를 내세워 하반기 대구지역에 신규 아파트를 쏟아냈지만 무더기 청약 미달 사태가 벌어지는 등 힘을 못 쓰고 있다.<br><br>특히 공격적으로 대구 주택시장을 확대한 현대의 힐스테이트 단지는 중심지역 분양에도 청약 미달이 빚어졌다. 반면 상품성과 낮은 분양가로 소비자 공략에 나선 지역 건설사는 상대적으로 선방하며 대조를 보였다.<br><br>현대 힐스테이트 단지는 지난 6월 이후 청약이 이뤄진 4개 단지에서 모두 1순위 해당지역 미달이 두드러졌다.<br><br>청약홈에 따르면 지난 9일 1순위 해당지역 청약 접수를 받은 남구의 ‘힐스테이트 앞산 센트럴’은 공급 5개 타입 가운데 선호도 높은 전용면적 84㎡를 제외한 4개 평형에서 미달이 나타났다. 전용면적 52㎡는 타입별로 0.58대1부터 0.80대1의 경쟁률을 기록했다.<br><br>지난 9월 공급된 중구의 ‘힐스테이트 동인’은 상황이 더 심각하다. 시내 중심가에 941세대라는 대단지 프리미엄에도 전 타입 1·2순위 청약 미달로 주택시장에 충격을 안겼다.<br><br>1순위 해당지역 평균 경쟁률은 0.34대1로 공급 규모의 70% 가까이 미달이 생겼다. 2순위 접수에서도 평균 0.60대1로 선호도 높은 전용면적 84㎡ 9개 타입 모두 무더기 미달사태로 분양전선에 비상이 걸렸다<br><br>단지는 3.3㎡당 발코니 확장비를 포함한 평균 공급가격이 주변 단지 대비 많게는 100만 원까지 높게 책정됐다. 유상옵션과 주변 지역 대비 비싼 분양가라는 평가를 받으면서 소비자로부터 외면 받았다는 게 업계 분석이다.<br><br>지난 9월과 7월 공급에 나선 ‘힐스테이트 대구역 2차’와 ‘힐스테이트 대구역 퍼스트’ 도 사정은 다르지 않다. 청약 미달로 선착순 무순위 접수까지 이뤄졌다.<br><br>대우건설이 공급한 동구의 ‘용계역 푸르지오 아츠베르 1·2단지’, 북구의 ‘북구청역 푸르지오 에듀포레’ 역시 무더기 미달로 대구 미분양 물량 증가에 한몫했다. 다만 해당 단지는 대구 외곽이라는 입지적 요인이 맞물린 영향이 더해졌다.<br><br>반면 비슷한 시기 분양에 나선 지역 건설사는 상품성을 높게 평가받으면서 청약시장 냉각기에도 저력을 과시했다.<br><br>화성산업이 지난 8월 분양한 서구의 ‘서대구역 센텀 화성파크드림’은 7개 타입 모두 전 평형 1순위 해당지역에서 마감됐다. 선호도가 떨어지는 소형 평형대인 59㎡도 14대1, 5.88대1의 높은 경쟁률로 주목을 받았다.<br><br>7월 태왕이엔씨의 ‘태왕디아너스 오페라’ 역시 84㎡B타입에서 1순위 미달을 보였으나 2순위 접수에서 최종 1.37대1을 기록하는 등 3개 면적 타입에서 평균 1.84대1로 선방했다는 평가다.<br><br>지역 주택·부동산시장 관계자는 “분양시장이 실수요자 위주로 재편되면서 투자가치까지 고려해 가격과 상품성에 따른 주택시장의 양극화가 뚜렷해지고 있다”며 “브랜드 가치만 믿고 청약통장을 사용하는 시기는 지났다는 게 하반기 대구 주택시장의 흐름으로 청약통장 사용에 신중하는 모습”이라고 분석했다.<br><br>윤정혜 기자 yun@idaegu.com
+
+
+								<div class='entry-content' style="font-size:13px;margin-top:20px;margin-bottom:20px;">＜저작권자ⓒ 대구·경북 대표지역언론 대구일보 . 무단전재-재배포 금지.＞</div>
+							</div>
+
+					</div>
+				</article>
+
+				<div class="reporter_news">
+					<div class="reporter_info">
+						<a href="/newsList/@yun">
+<div class="thumb" style="background-image: url('/data/image2/2021/06/30/idg202106300027.png');"></div>							<div class="info"><span class="name">윤정혜 기자</span><!--span class="email">yun@idaegu.com</span--></div>
+						</a>
+					</div>
+					<ul class="list">
+						<li class="article">
+							<a class="link" href="/newsView/idg202111110023">
+								<div class="category">경제일반</div>
+								<h4 class="title">화성산업, 2022년도 신입·경력사원 공채</h4>
+								<div class="sub_title"></div>
+								<div class="desc"> 화성산업이 2022년도 신입 및 경력사원을 모집한다.이번 공채는 기술직(토목, 건축, 안전, 조경, 전기, 기계, PC(Precast Concrete), 환경, 건축설계/디자인)과 관리직(회계, 홍보, 주택영업) 전반에 걸쳐 이뤄진다.응시자격은 신입 기술직의 경우 4년제 대학이상 관련학과 졸업자 또는 2022년 2월 졸업예정자로서 지원분야별 관련자격증(기사 이상) 소지자이며 PC의 경우 건축관련 전공자다.신입 관리직은 4년제 대학이상 관련학과 졸업자 또는 2022년 2월 졸업예정자이며 주택영업의 경우 서울지사 근무 가능자이다.응시 지원은 오는 17일까지 화성산업 홈페이지 인재채용 온라인 지원(www.hwasung.com)을 통해 하면 된다. 윤정혜 기자 yun@idaegu.com</div>
+								<div class="info"><span class="writer">윤정혜</span><span class="date">2021-11-11 15:01:42</span></div>
+							</a>
+						</li>
+						<li class="article">
+							<a class="link" href="/newsView/idg202111100070">
+								<div class="category">경제일반</div>
+								<h4 class="title">이월드 83타워에 뉴욕 정통 스테이크하우스가? </h4>
+								<div class="sub_title"></div>
+								<div class="desc"> 이월드 83타워에 호텔 외식브랜드인 ‘뉴욕뉴욕 바이 켄싱턴’이 새롭게 입점한다.뉴욕뉴욕 바이 켄싱턴은 켄싱턴호텔 여의도에서 운영되고 있는 레스토랑으로 오는 19일 대구에서 처음으로 83타워에 선보인다.이번 결정은 호텔 경영을 해왔던 이월드 방병순 대표 취임 이후 추진된 것으로 켄싱턴호텔앤리조트와 대구 이월드 간 브랜드 시너지 강화를 위한 선택으로 보인다.방 대표는 켄싱턴리조트 가평점 총지배인을 거쳐 호텔레저 BU장에 오른 만큼 앞으로 호텔과 이월드 간 협업이 강화될 것으로 보인다.19일 첫 선을 보이는 ‘뉴욕뉴욕 바이 켄싱턴’은 티본·토마호크 스테이크를 비롯해 안심, 등심, 갈비, 채끝 스테이크 등 다양한 스테이크 메뉴가 중심이다.이외에도 세계 3대 진미로 구성된 기념일 코스 메뉴인 ‘러브 인 뉴욕’, 재철 식재료를 활용해 선보이는 시즌별 샴페인 브런치, 시그니처 커플 코스 메뉴 등 다양하게 준비된다.또한 소믈리에가 매월 추천하는 세계 각국의 다양한 와인을 함께 즐길 수 있어 품격 있는 만찬을 경험할 수 있다.83타워의 매력을 잘 느낄 수 있는 레스토랑 인테리어도 자랑거리다. 78층에 위치한 360도 회전 레스토랑으로 2시간 동안 전 좌석 탁 트인 통 창을 통해 파노라마 뷰로 대구 시내 전경을 한 눈에 내려다볼 수 있는 장점도 갖췄다.이월드 관계자는 “켄싱턴 호텔에서 운영해온 레스토랑의 콘셉트를 대구 도심에 위치한 83타워에서 선보일 수 있게 됐다”며 지역 대표 미식 문화 공간으로 발전시키겠다고 했다. 윤정혜 기자 yun@idaegu.com</div>
+								<div class="info"><span class="writer">윤정혜</span><span class="date">2021-11-10 18:51:45</span></div>
+							</a>
+						</li>
+						<li class="article">
+							<a class="link" href="/newsView/idg202111100069">
+								<div class="category">경제일반</div>
+								<h4 class="title">‘브랜드 효과’ 사라진 대구 청약시장</h4>
+								<div class="sub_title"></div>
+								<div class="desc">대기업 건설사들이 브랜드 선호도를 내세워 하반기 대구지역에 신규 아파트를 쏟아냈지만 무더기 청약 미달 사태가 벌어지는 등 힘을 못 쓰고 있다.특히 공격적으로 대구 주택시장을 확대한 현대의 힐스테이트 단지는 중심지역 분양에도 청약 미달이 빚어졌다. 반면 상품성과 낮은 분양가로 소비자 공략에 나선 지역 건설사는 상대적으로 선방하며 대조를 보였다.현대 힐스테이트 단지는 지난 6월 이후 청약이 이뤄진 4개 단지에서 모두 1순위 해당지역 미달이 두드러졌다.청약홈에 따르면 지난 9일 1순위 해당지역 청약 접수를 받은 남구의 ‘힐스테이트 앞산 센트럴’은 공급 5개 타입 가운데 선호도 높은 전용면적 84㎡를 제외한 4개 평형에서 미달이 나타났다. 전용면적 52㎡는 타입별로 0.58대1부터 0.80대1의 경쟁률을 기록했다.지난 9월 공급된 중구의 ‘힐스테이트 동인’은 상황이 더 심각하다. 시내 중심가에 941세대라는 대단지 프리미엄에도 전 타입 1·2순위 청약 미달로 주택시장에 충격을 안겼다.1순위 해당지역 평균 경쟁률은 0.34대1로 공급 규모의 70% 가까이 미달이 생겼다. 2순위 접수에서도 평균 0.60대1로 선호도 높은 전용면적 84㎡ 9개 타입 모두 무더기 미달사태로 분양전선에 비상이 걸렸다단지는 3.3㎡당 발코니 확장비를 포함한 평균 공급가격이 주변 단지 대비 많게는 100만 원까지 높게 책정됐다. 유상옵션과 주변 지역 대비 비싼 분양가라는 평가를 받으면서 소비자로부터 외면 받았다는 게 업계 분석이다.지난 9월과 7월 공급에 나선 ‘힐스테이트 대구역 2차’와 ‘힐스테이트 대구역 퍼스트’ 도 사정은 다르지 않다. 청약 미달로 선착순 무순위 접수까지 이뤄졌다.대우건설이 공급한 동구의 ‘용계역 푸르지오 아츠베르 1·2단지’, 북구의 ‘북구청역 푸르지오 에듀포레’ 역시 무더기 미달로 대구 미분양 물량 증가에 한몫했다. 다만 해당 단지는 대구 외곽이라는 입지적 요인이 맞물린 영향이 더해졌다.반면 비슷한 시기 분양에 나선 지역 건설사는 상품성을 높게 평가받으면서 청약시장 냉각기에도 저력을 과시했다.화성산업이 지난 8월 분양한 서구의 ‘서대구역 센텀 화성파크드림’은 7개 타입 모두 전 평형 1순위 해당지역에서 마감됐다. 선호도가 떨어지는 소형 평형대인 59㎡도 14대1, 5.88대1의 높은 경쟁률로 주목을 받았다.7월 태왕이엔씨의 ‘태왕디아너스 오페라’ 역시 84㎡B타입에서 1순위 미달을 보였으나 2순위 접수에서 최종 1.37대1을 기록하는 등 3개 면적 타입에서 평균 1.84대1로 선방했다는 평가다.지역 주택·부동산시장 관계자는 “분양시장이 실수요자 위주로 재편되면서 투자가치까지 고려해 가격과 상품성에 따른 주택시장의 양극화가 뚜렷해지고 있다”며 “브랜드 가치만 믿고 청약통장을 사용하는 시기는 지났다는 게 하반기 대구 주택시장의 흐름으로 청약통장 사용에 신중하는 모습”이라고 분석했다.윤정혜 기자 yun@idaegu.com</div>
+								<div class="info"><span class="writer">윤정혜</span><span class="date">2021-11-10 18:33:02</span></div>
+							</a>
+						</li>
+					</ul>
+				</div>
+
+				<section class="tag-list">
+					<div class="tag-items">
+						<span class="tags">Tags</span>
+						<span class="tag-item"><a href="/newsList/!브랜드">브랜드</a></span>
+						<span class="tag-item"><a href="/newsList/!줄줄이">줄줄이</a></span>
+						<span class="tag-item"><a href="/newsList/!대기업">대기업</a></span>
+						<span class="tag-item"><a href="/newsList/!청약">청약</a></span>
+						<span class="tag-item"><a href="/newsList/!미달">미달</a></span>
+						<span class="tag-item"><a href="/newsList/!건설">건설</a></span>
+						<span class="tag-item"><a href="/newsList/!통장">통장</a></span>
+						<span class="tag-item"><a href="/newsList/!상품">상품</a></span>
+						<span class="tag-item"><a href="/newsList/!세운">세운</a></span>
+						<span class="tag-item"><a href="/newsList/!투척">투척</a></span>
+						<span class="tag-item"><a href="/newsList/!대구">대구</a></span>
+						<span class="tag-item"><a href="/newsList/!힐스테이트">힐스테이트</a></span>
+					</div>
+				</section>
+
+
+				<div class="comment" id="commentsListDiv">
+					<div><span class="tit">댓글<span> <span class="cnt">(0)</span></div>
+
+					<div class="commentWrite">
+						<div class="cont">
+							<form method="post" id="commentform" name="commentform"> 
+								<input type="hidden" name="aid" id="aid" value="idg202111100069"/>
+								<input type="hidden" name="title" id="title" value="‘브랜드 효과’ 사라진 대구 청약시장"/>
+								<div class="txtbox"><textarea placeholder="로그인을 하시면 댓글 등록을 하실 수 있습니다." id="comment" name="comment" cols="45" rows="3" aria-required="true" onclick="isAuth()"></textarea></div>
+								<div class="btnbox">
+									<div class="notice">※ 댓글 작성시 상대방에 대한 배려와 책임을 담아 댓글 환경에 동참에 주세요.</div>
+									<input type="button" class="commentBtn" name="commentBtn" id="commentBtn" value="등록">
+								</div>
+							</form>
+						</div>
+					</div>
+
+					<div class="commentList">
+						<ul>
+						</ul>
+					</div>
+				</div>
+
+				<div class="box popular_list">
+	<div class="box_title">
+		<h3 class="name"></h3>
+	</div>
+	<ul class="list">
+		<li class="article">
+			<a class="link" href="/newsView/idg202111090047">
+				<div class="thumb"><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/09/idg202111090047.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/09/idg202111090047.86x58.0.jpg" alt="‘땅 위의 지하철’ 확정에도…대구시는 시큰둥"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg005001000"><div class="category">사회일반</div></a>
+				<a class="link" href="/newsView/idg202111090047">
+					<h4 class="title">‘땅 위의 지하철’ 확정에도…대구시는 시큰둥</h4>
+					<div class="sub_title"></div>
+					<div class="desc">정부가 대구지역 3곳에 ‘땅 위의 지하철’로 불리는 간선급행버스체계(BRT) 도입 계획을 발표했지만 정작 대구시는 시큰둥한 반응을 보이고 있다.지역 교통 여건 및 수요 확보 등의 문제로 사업 추진에 현실성이 떨어진다는 판단에서다.9일 대구시에 따르면 최근 국토교통부 대도시광역교통위원회가 ‘BRT 종합계획 수정계획(2021~2030년)’을 확정했다.BRT는 전용 주행로, 정류소 </div>
+					<div class="info">
+<span class="writer">이승엽</span>						<span class="date">2021-11-09 17:13:55</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111070053">
+				<div class="thumb"><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/07/idg202111070054.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/07/idg202111070054.86x58.0.jpg" alt="청약 찬바람 부는 대구…가을 분양으로 열기 달굴까"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg004001000"><div class="category">경제일반</div></a>
+				<a class="link" href="/newsView/idg202111070053">
+					<h4 class="title">청약 찬바람 부는 대구…가을 분양으로 열기 달굴까</h4>
+					<div class="sub_title"></div>
+					<div class="desc">대구지역 가을 아파트 분양시장이 속속 재개되고 있다.이미 지역 아파트 청약시장이 차갑게 식은 가운데 이들 신규 단지들이 하반기 청약 열기를 다시 띄울 수 있을지 관심이 모아진다.부동산 전문가들은 하반기 기대주로 통하는 단지들의 청약 성적이 내년도 대구 부동산시장의 바로미터가 될 것으로 전망했다.남구 봉덕동 일원에 들어서는 ‘힐스테이트 앞산 센트럴’은 8일 </div>
+					<div class="info">
+<span class="writer">윤정혜</span>						<span class="date">2021-11-07 18:00:00</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111100069">
+				<div class="thumb"><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/10/idg202111100063.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/10/idg202111100063.86x58.0.jpg" alt="‘브랜드 효과’ 사라진 대구 청약시장"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg004001000"><div class="category">경제일반</div></a>
+				<a class="link" href="/newsView/idg202111100069">
+					<h4 class="title">‘브랜드 효과’ 사라진 대구 청약시장</h4>
+					<div class="sub_title"></div>
+					<div class="desc">대기업 건설사들이 브랜드 선호도를 내세워 하반기 대구지역에 신규 아파트를 쏟아냈지만 무더기 청약 미달 사태가 벌어지는 등 힘을 못 쓰고 있다.특히 공격적으로 대구 주택시장을 확대한 현대의 힐스테이트 단지는 중심지역 분양에도 청약 미달이 빚어졌다. 반면 상품성과 낮은 분양가로 소비자 공략에 나선 지역 건설사는 상대적으로 선방하며 대조를 보였다.현대 힐스테</div>
+					<div class="info">
+<span class="writer">윤정혜</span>						<span class="date">2021-11-10 18:33:02</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<div class="text_box">
+				<a href="/newsList/idg004001000"><div class="category">경제일반</div></a>
+				<a class="link" href="/newsView/idg202110260033">
+					<h4 class="title">미분양 소진 안되자 대구 아파트시장에도 '조직분양' 등장</h4>
+					<div class="sub_title"></div>
+					<div class="desc">대구지역 아파트 분양시장에 대규모 인력을 투입, 일대일 마케팅으로 분양하는 속칭 ‘조직분양’이 다시 등장했다.과거 ‘벌떼 분양’으로도 불렸던 조직분양은 미분양 소진을 통한 자금 회전 등을 위해 시행사나 시공사 측에서 전담 판매조직을 동원, 불특정 다수를 상대로 분양에 나서는 영업형태다. 통상 계약이 이뤄질때마다 세대 당 수백만 원에서 많게는 1천만 원 이상</div>
+					<div class="info">
+<span class="writer">윤정혜</span>						<span class="date">2021-10-28 21:00:00</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<div class="text_box">
+				<a href="/newsList/idg004001000"><div class="category">경제일반</div></a>
+				<a class="link" href="/newsView/idg202110140040">
+					<h4 class="title">품절대란 그 슬리퍼 어그의 퍼 카라 스웨이드 올해도 인기 </h4>
+					<div class="sub_title"></div>
+					<div class="desc">신세계백화점 대구점 3층 여성 슈즈 장르 어그(UGG)에서는 지난해 품절 대란을 일으킨 인기 상품 ‘퍼 카라 스웨이드 슬리퍼’를 새롭게 선보였다. 퍼 카라 슬리퍼는 심플룩 혹은 캐주얼룩 등에 포인트를 더할 수 있고 보온성과 부드러운 착화감이 특징이다. 가격은 17만8천 원. 어그(UGG)는 캘리포니아 컨템포러리 라이프스타일 브랜드로 신발뿐 아니라 의류, 액세서리, 홈 제품까</div>
+					<div class="info">
+<span class="writer">윤정혜</span>						<span class="date">2021-10-14 17:10:52</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<div class="text_box">
+				<a href="/newsList/idg005001000"><div class="category">사회일반</div></a>
+				<a class="link" href="/newsView/idg202103260001">
+					<h4 class="title">"500원 동전 100만 원에 삽니다" 중고거래 '금값'된 희귀 화폐</h4>
+					<div class="sub_title"></div>
+					<div class="desc">"희귀 주화 동전 100만 원에 구입합니다. 1998년 발행된 500원 동전 현금 100만 원에 삽니다."500원짜리 동전을 현금 100만 원에 산다는 중고거래 희망 글이 올라와 온라인에서 화제가 되고 있다. 비대면 중고거래 플랫폼 &#039;헬로마켓&#039;에 희귀 주화를 모으는 구매 희망자는 1998년 발행된 500원 동전을 무려 100만 원에 사겠다는 글을 올렸다. 이 구매 희망자는 이 외에도 1987년 발행된 </div>
+					<div class="info">
+<span class="writer">강동원</span>						<span class="date">2021-03-26 15:08:21</span>
+					</div>
+				</a>
+			</div>
+		</li>
+	</ul>
+</div>
+
+			</div>
+			
+			<div class="col-md-4 objEnable ui-sortable" data-dinnum="2">
+				<div class="din din2-11 " data-objid="idgDIN_1624436911352">
+					<div class="col-md-6 objEnable ui-sortable" data-dinnum="1">
+						<div class="reporter_right">
+							<div class="reporter_info">
+								<a href="/newsList/@yun">
+<div class="thumb" style="background-image: url('/data/image2/2021/06/30/idg202106300027.png');"></div>									<div class="info"><span class="name">윤정혜 기자</span><!--span class="email">yun@idaegu.com</span--></div>
+								</a>
+							</div>
+						</div>
+
+						<div class="share_icon">
+							<ul>
+								<li><img src="/image/sns/kakao-talk_icon.png" alt="카카오톡 공유하기" onclick="javascript:sendLink();" rel="nofollow"/></li>
+								<li><img src="/image/sns/facebook_icon.png" alt="페이스북 공유하기" onclick="javascript:shareFacebook(); return false;" rel="nofollow"/></li>
+								<li><img src="/image/sns/twitter_icon.png" alt="트위터 공유하기" onclick="javascript:shareTwitter(); return false;" rel="nofollow"/></li>
+								<li><img src="/image/sns/kakaostory_icon.png" alt="카카오스토리 공유하기" onclick="javascript:shareKakaoStoryLink(); return false;" rel="nofollow"/></li>
+								<li><img src="/image/sns/naver_icon.png" alt="네이버 공유하기" onclick="javascript:shareNaver(); return false;" rel="nofollow"/></li>
+								<li><img src="/image/sns/band_icon.png" alt="네이버밴드 공유하기" onclick="javascript:shareBand(); return false;" rel="nofollow"/></li>
+							</ul>
+						</div>
+
+						<div class="box right_news">
+	<div class="box_title right">
+<a class="link" href="/newsList/idg000000000"><h3 class="name">지역최신뉴스</h3></a>	</div>
+	<ul class="list">
+		<li class="article">
+			<div class="text_box">
+				<a href="/newsList/idg003001000"><div class="category">정치일반</div></a>
+				<a class="link" href="/newsView/idg202111110047">
+					<h4 class="title">국회, 곽상도 의원 사직안 처리...곽상도 “대장동 의혹 결백 증명할 것”</h4>
+					<div class="sub_title"></div>
+					<div class="desc">무소속 곽상도 의원(대구 중·남구)의 사직 안이 11일 국회 본회의를 통과했다.21대 국회들어 의원직 사직 안이 본회의에서 가결된 것은 윤희숙·이낙연 </div>
+					<div class="info">
+<span class="writer">이상훈</span>						<span class="date">2021-11-11 17:11:52</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<div class="text_box">
+				<a href="/newsList/idg001002000"><div class="category">사람일반</div></a>
+				<a class="link" href="/newsView/idg202111110041">
+					<h4 class="title">군위군, 교육발전기금 줄이어…박정창 의흥면 명예면장, 1억 원 쾌척  </h4>
+					<div class="sub_title"></div>
+					<div class="desc">최근 군위의 교육 발전과 인재 양성을 위한 교육발전기금 기탁이 줄을 잇고 있다.이대식 군위읍 털보택시 대표는 지난 10일 군위군을 방문해 교육발전</div>
+					<div class="info">
+<span class="writer">배철한</span>						<span class="date">2021-11-11 16:57:42</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<div class="text_box">
+				<a href="/newsList/idg001002000"><div class="category">사람일반</div></a>
+				<a class="link" href="/newsView/idg202111110043">
+					<h4 class="title">계명대 동산병원 손대구 교수, 대한수부외과학회 회장 취임</h4>
+					<div class="sub_title"></div>
+					<div class="desc">계명대 동산병원 손대구 교수(성형외과)가 최근 열린 제39차 대한수부외과학회 추계학술대회 총회에서 제29대 회장으로 취임했다.1982년 창립된 대한수</div>
+					<div class="info">
+<span class="writer">이동률</span>						<span class="date">2021-11-11 16:57:32</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<div class="text_box">
+				<a href="/newsList/idg001002000"><div class="category">사람일반</div></a>
+				<a class="link" href="/newsView/idg202111110044">
+					<h4 class="title">영남대 원예생명과학과 윤해근 교수, 한국원예학회 학술공적상 수상</h4>
+					<div class="sub_title"></div>
+					<div class="desc">영남대학교 원예생명과학과 윤해근 교수가 원예학 및 원예학회 발전에 기여한 공로를 인정 받아 최근 한국원예학회 학술공적상을 수상했다.한국원예</div>
+					<div class="info">
+<span class="writer">서충환</span>						<span class="date">2021-11-11 16:57:26</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<div class="text_box">
+				<a href="/newsList/idg001002000"><div class="category">사람일반</div></a>
+				<a class="link" href="/newsView/idg202111110045">
+					<h4 class="title">제26회 농업인의 날 상주시 상복 터지다  </h4>
+					<div class="sub_title"></div>
+					<div class="desc">상주시가 지난 10일 열린 ‘제26회 농업인의 날’ 기념식에서 시·군 농정평가 우수상, 정부포상(3점), 경북도 농어업인 대상(2개 부문), 2021년 경북농업</div>
+					<div class="info">
+<span class="writer">김일기</span>						<span class="date">2021-11-11 16:57:22</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<div class="text_box">
+				<a href="/newsList/idg001002000"><div class="category">사람일반</div></a>
+				<a class="link" href="/newsView/idg202111090088">
+					<h4 class="title">경일대 박유진씨, 경북 건축대전 최우수상 수상</h4>
+					<div class="sub_title"></div>
+					<div class="desc">경일대학교 건축학부 박유진(4학년)씨가 최근 문경 실내체육관에서 열린 ‘2021 경북도 건축대전’에서 최우수상인 경북도지사상을 수상했다.박씨는 </div>
+					<div class="info">
+<span class="writer">서충환</span>						<span class="date">2021-11-11 16:57:17</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<div class="text_box">
+				<a href="/newsList/idg001002000"><div class="category">사람일반</div></a>
+				<a class="link" href="/newsView/idg202111100100">
+					<h4 class="title">경산시, MZ세대와 저출생 극복 소통의 장 마련</h4>
+					<div class="sub_title"></div>
+					<div class="desc">경산시는 지난 9일 경산시민회관에서 ‘청년소통·공감 콘서트’를 진행했다고 밝혔다.이번 ‘청년소통·공감 콘서트’는 이 시대를 살아가는 청년들</div>
+					<div class="info">
+<span class="writer">남동해</span>						<span class="date">2021-11-11 16:57:13</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<div class="text_box">
+				<a href="/newsList/idg001002000"><div class="category">사람일반</div></a>
+				<a class="link" href="/newsView/idg202111110046">
+					<h4 class="title">계명문화대 펫토탈케어학부, 제8회 관세청장배 탐지견 경진대회 최우수상·우수상 획득</h4>
+					<div class="sub_title"></div>
+					<div class="desc">계명문화대학교 펫토탈케어학부 학생들이 최근 인천 영종도 탐지견훈련센터에서 열린 ‘제8회 관세청장배 탐지견 경진대회’에 참가해 최우수상과 </div>
+					<div class="info">
+<span class="writer">서충환</span>						<span class="date">2021-11-11 16:57:09</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<div class="text_box">
+				<a href="/newsList/idg005001000"><div class="category">사회일반</div></a>
+				<a class="link" href="/newsView/idg202111110040">
+					<h4 class="title">“월급 빼고 다 오른다”…내년 지하철·버스·택시요금 도미노 인상 유력</h4>
+					<div class="sub_title"></div>
+					<div class="desc">최근 식료품값, 기름 값 등 생활물가가 천정부지로 치솟은 가운데 대중교통 요금 인상도 예고되고 있어 서민들의 삶이 더욱 고달파질 것으로 보인다.11</div>
+					<div class="info">
+<span class="writer">이승엽</span>						<span class="date">2021-11-11 16:56:31</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<div class="text_box">
+				<a href="/newsList/idg003001000"><div class="category">정치일반</div></a>
+				<a class="link" href="/newsView/idg202111110039">
+					<h4 class="title">윤석열, 김대중·노무현 발자취 훑으며 ‘국민통합’ 강조</h4>
+					<div class="sub_title"></div>
+					<div class="desc">국민의힘 윤석열 대선 후보가 호남 방문 이틀째인 11일 전남 목포와 경남 김해 봉하마을에서 진보진영 두 전직 대통령의 발자취를 훑으며 ‘국민 통합</div>
+					<div class="info">
+<span class="writer">이상훈</span>						<span class="date">2021-11-11 16:33:08</span>
+					</div>
+				</a>
+			</div>
+		</li>
+	</ul>
+</div>
+<div class="box sub_timeline">
+	<div class="box_title right">
+<a class="link" href="/newsList/!부동산"><h3 class="name">부동산</h3></a>	</div>
+	<ul class="list">
+		<li class="article">
+			<a class="link" href="/newsView/idg202111070053">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/07/idg202111070054.100x61.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/07/idg202111070054.100x61.0.jpg" alt="청약 찬바람 부는 대구…가을 분양으로 열기 달굴까"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg004001000"><div class="category">경제일반</div></a>
+				<a class="link" href="/newsView/idg202111070053">
+					<h4 class="title">청약 찬바람 부는 대구…가을 분양으로 열기 달굴까</h4>
+					<div class="sub_title">하반기 기대주 분양성적 내년 부동산시장 바로미터 …역세권 단지 결과에 관심||청약 분위기 양극화 심화 </div>
+					<div class="desc">10~11월 대구 분양단지 대구지역 가을 아파트 분양시장이 속속 재개되고 있다.이미 지역 아파트 청약시장이 차갑게 식은 가운데 이들 신규 단지들이 하</div>
+					<div class="info">
+<span class="writer">윤정혜</span>						<span class="date">2021-11-07 18:00:00</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111050001">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/05/idg202111050001.100x61.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/05/idg202111050001.100x61.0.jpg" alt="포스코건설, 더샵 동성로센트리엘 견본주택 열고 분양일정 돌입"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg004001000"><div class="category">경제일반</div></a>
+				<a class="link" href="/newsView/idg202111050001">
+					<h4 class="title">포스코건설, 더샵 동성로센트리엘 견본주택 열고 분양일정 돌입</h4>
+					<div class="sub_title">15일 특공 시작으로 청약일정||포스코건설 특화설계 적용 개방감 높여 </div>
+					<div class="desc">더샵 동성로 센트리엘 투시도 포스코건설이 ‘더샵 동성로센트리엘’ 견본주택을 개관하고 본격적인 분양일정에 돌입했다. 대구 중구 동성로에 들어</div>
+					<div class="info">
+<span class="writer">윤정혜</span>						<span class="date">2021-11-05 10:11:57</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202110210051">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/04/08/idg202104080050.100x61.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/04/08/idg202104080050.100x61.0.jpg" alt="법원, 캄보디아 금융사고 관련 대구은행 간부 구속영장 기각   "></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg005001000"><div class="category">사회일반</div></a>
+				<a class="link" href="/newsView/idg202110210051">
+					<h4 class="title">법원, 캄보디아 금융사고 관련 대구은행 간부 구속영장 기각   </h4>
+					<div class="sub_title"></div>
+					<div class="desc">대구지법DGB대구은행의 캄보디아 부동산 매입 손실 사건과 관련된 당시 DGB금융지주 글로벌사업부장에 대한 구속 영장이 기각됐다.대구지법 강경호 영</div>
+					<div class="info">
+<span class="writer">신헌호</span>						<span class="date">2021-10-21 20:35:40</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202110180022">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/10/18/idg202110180030.100x61.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/10/18/idg202110180030.100x61.0.jpg" alt="구자근 의원 “산단공 부동산 투기 자체감사 수박 겉핥기식”"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg002001000"><div class="category">지역일반</div></a>
+				<a class="link" href="/newsView/idg202110180022">
+					<h4 class="title">구자근 의원 “산단공 부동산 투기 자체감사 수박 겉핥기식”</h4>
+					<div class="sub_title">배우자ㆍ직계존비속은 빼고 진행</div>
+					<div class="desc">한국산업단지공단이 부동산 투기 자체감사에서 배우자와 직계존비속은 제외한 채 ‘수박 겉핥기’식 조사를 벌인 사실이 뒤늦게 밝혀졌다.18일 국민</div>
+					<div class="info">
+<span class="writer">류성욱</span>						<span class="date">2021-10-18 15:22:24</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202109300061">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/09/30/idg202109300055.100x61.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/09/30/idg202109300055.100x61.0.jpg" alt="대구 미분양 5년8개월만에 2천 호 넘겨…동구 이어 수성구 중구까지"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg004001000"><div class="category">경제일반</div></a>
+				<a class="link" href="/newsView/idg202109300061">
+					<h4 class="title">대구 미분양 5년8개월만에 2천 호 넘겨…동구 이어 수성구 중구까지</h4>
+					<div class="sub_title">동구에만 1천637호... 수개월째 미분양관리지역 요건 충족||수성구도 미분양 100호 넘겨 …대구 전체 물량 쌓아||대구 부동산시장 변곡점 시그널</div>
+					<div class="desc">대구 미분양 공동주택 현황 대구지역 미분양 공동주택이 2천 호를 훌쩍 넘겼다.대구에서 미분양이 2천 호를 넘긴 것은 2015년 12월 이후 5년8개월 만에 처</div>
+					<div class="info">
+<span class="writer">윤정혜</span>						<span class="date">2021-09-30 21:00:00</span>
+					</div>
+				</a>
+			</div>
+		</li>
+	</ul>
+</div>
+<div class="box sub_timeline">
+	<div class="box_title right">
+<a class="link" href="/newsList/!대선"><h3 class="name">대선</h3></a>	</div>
+	<ul class="list">
+		<li class="article">
+			<a class="link" href="/newsView/idg202111100057">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/10/idg202111100048.100x61.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/10/idg202111100048.100x61.0.jpg" alt="문다혜 아빠 찬스·대선 공약 발굴 등 ‘불꽃공방’"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg003001000"><div class="category">정치일반</div></a>
+				<a class="link" href="/newsView/idg202111100057">
+					<h4 class="title">문다혜 아빠 찬스·대선 공약 발굴 등 ‘불꽃공방’</h4>
+					<div class="sub_title">여야, 국회 운영위서 정면 충돌</div>
+					<div class="desc"></div>
+					<div class="info">
+<span class="writer">이상훈</span>						<span class="date">2021-11-10 16:39:16</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111100033">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/10/idg202111100025.100x61.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/10/idg202111100025.100x61.0.jpg" alt="이재명 “수사미진하면 특검”…고발사주와 동시특검에는 철벽"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg003001000"><div class="category">정치일반</div></a>
+				<a class="link" href="/newsView/idg202111100033">
+					<h4 class="title">이재명 “수사미진하면 특검”…고발사주와 동시특검에는 철벽</h4>
+					<div class="sub_title">대장동 관련 조건부 수용…“윤석열 과거 부실수사도 대상”</div>
+					<div class="desc"></div>
+					<div class="info">
+<span class="writer">이상훈</span>						<span class="date">2021-11-10 16:07:12</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111080043">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/08/idg202111080053.100x61.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/08/idg202111080053.100x61.0.jpg" alt="경북도청 간부들, 내년 대선 및 지방선거 앞두고 사의 표명 잇따라"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg002001000"><div class="category">지역일반</div></a>
+				<a class="link" href="/newsView/idg202111080043">
+					<h4 class="title">경북도청 간부들, 내년 대선 및 지방선거 앞두고 사의 표명 잇따라</h4>
+					<div class="sub_title">김장호 기조실장·이부형 경제특보, 8일 이철우 도지사에 사의 표명||</div>
+					<div class="desc"></div>
+					<div class="info">
+<span class="writer">문정화</span>						<span class="date">2021-11-08 16:53:59</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111080032">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/08/idg202111080044.100x61.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/08/idg202111080044.100x61.0.jpg" alt="1대1 회동 제안한 이재명…즉답 피한 윤석열"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg003001000"><div class="category">정치일반</div></a>
+				<a class="link" href="/newsView/idg202111080032">
+					<h4 class="title">1대1 회동 제안한 이재명…즉답 피한 윤석열</h4>
+					<div class="sub_title">이 “민생 개선 논의의 장 필요”, 윤 “한번 생각해볼 것” 신경전</div>
+					<div class="desc"></div>
+					<div class="info">
+<span class="writer">이상훈</span>						<span class="date">2021-11-08 16:00:38</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111080031">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/08/idg202111080043.100x61.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/08/idg202111080043.100x61.0.jpg" alt="홍준표, 캠프 해단식서 선대위 불참 의사 거듭 밝혀"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg003001000"><div class="category">정치일반</div></a>
+				<a class="link" href="/newsView/idg202111080031">
+					<h4 class="title">홍준표, 캠프 해단식서 선대위 불참 의사 거듭 밝혀</h4>
+					<div class="sub_title">“비리 혐의자끼리 비상식 대선…지는 사람 감옥가야”</div>
+					<div class="desc"></div>
+					<div class="info">
+<span class="writer">이혜림</span>						<span class="date">2021-11-08 15:54:29</span>
+					</div>
+				</a>
+			</div>
+		</li>
+	</ul>
+</div>
+<div class="box sub_timeline">
+	<div class="box_title right">
+<a class="link" href="/newsList/!코로나"><h3 class="name">코로나</h3></a>	</div>
+	<ul class="list">
+		<li class="article">
+			<a class="link" href="/newsView/idg202111100064">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/10/idg202111100055.100x61.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/10/idg202111100055.100x61.0.jpg" alt="11월에 찾아온 ‘메리크리스마스’"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg011000000"><div class="category">Photo</div></a>
+				<a class="link" href="/newsView/idg202111100064">
+					<h4 class="title">11월에 찾아온 ‘메리크리스마스’</h4>
+					<div class="sub_title"> ‘위드코로나’시작...유통업계는 ‘크리스마스’ 시즌 기대감 UP</div>
+					<div class="desc"></div>
+					<div class="info">
+<span class="writer">김진홍</span>						<span class="date">2021-11-10 17:18:33</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111100048">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/10/idg202111100038.100x61.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/10/idg202111100038.100x61.0.jpg" alt="대구시의회, 집단감염 취약 요양병원 관리 대책 마련촉구"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg003001000"><div class="category">정치일반</div></a>
+				<a class="link" href="/newsView/idg202111100048">
+					<h4 class="title">대구시의회, 집단감염 취약 요양병원 관리 대책 마련촉구</h4>
+					<div class="sub_title">시의회 문복위, 행감서 대책 요구</div>
+					<div class="desc"></div>
+					<div class="info">
+<span class="writer">김종엽</span>						<span class="date">2021-11-10 16:22:09</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111100009">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/10/idg202111100004.100x61.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/10/idg202111100004.100x61.0.jpg" alt="경북과학대 졸업생들, 후배들에게 ‘취업 꿀팁’ 전수"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg011000000"><div class="category">Photo</div></a>
+				<a class="link" href="/newsView/idg202111100009">
+					<h4 class="title">경북과학대 졸업생들, 후배들에게 ‘취업 꿀팁’ 전수</h4>
+					<div class="sub_title"></div>
+					<div class="desc"></div>
+					<div class="info">
+<span class="writer">이임철</span>						<span class="date">2021-11-10 14:06:36</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111090050">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/09/idg202111090050.100x61.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/09/idg202111090050.100x61.0.jpg" alt="‘오징어게임’ 덕에 지역 골목상권 ‘방긋’"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg005001000"><div class="category">사회일반</div></a>
+				<a class="link" href="/newsView/idg202111090050">
+					<h4 class="title">‘오징어게임’ 덕에 지역 골목상권 ‘방긋’</h4>
+					<div class="sub_title">‘달고나 뽑기’ㆍ‘무궁화 꽃…’, 관련 콘텐츠 행사에 활용||서문·칠성 야시장, 지산광장, 실내빙상장 등에 시민들 몰려 호황</div>
+					<div class="desc"></div>
+					<div class="info">
+<span class="writer">신정현</span>						<span class="date">2021-11-09 17:20:32</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111090049">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/09/idg202111090049.100x61.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/09/idg202111090049.100x61.0.jpg" alt="삼성의 가을 야구 좋아도 방역은 철저히..."></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg011000000"><div class="category">Photo</div></a>
+				<a class="link" href="/newsView/idg202111090049">
+					<h4 class="title">삼성의 가을 야구 좋아도 방역은 철저히...</h4>
+					<div class="sub_title"></div>
+					<div class="desc"></div>
+					<div class="info">
+<span class="writer">이연우</span>						<span class="date">2021-11-09 17:19:27</span>
+					</div>
+				</a>
+			</div>
+		</li>
+	</ul>
+</div>
+
+					</div>
+					<div class="col-md-6 objEnable ui-sortable" data-dinnum="2"><div class="box right_ranknews">
+	<div class="box_title right">
+<h3 class="name">많이 본 대구뉴스</h3></a>	</div>
+	<ul class="list">
+		<li class="article">
+			<a class="link" href="/newsView/idg202111090047">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/09/idg202111090047.76x47.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/09/idg202111090047.76x47.0.jpg" alt="‘땅 위의 지하철’ 확정에도…대구시는 시큰둥"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg005001000"><div class="category">사회일반</div></a>
+				<a class="link" href="/newsView/idg202111090047">
+					<h4 class="title">‘땅 위의 지하철’ 확정에도…대구시는 시큰둥</h4>
+					<div class="sub_title"></div>
+					<div class="desc">정부가 대구지역 3곳에 ‘땅 위의 지하철’로 불리는 간선급행버스체계(BRT) 도입 계획을 발표했지만 정작 대구시는 시큰둥한 반응을 보이고 있다.지역</div>
+					<div class="info">
+<span class="writer">이승엽</span>						<span class="date">2021-11-09 17:13:55</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111070053">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/07/idg202111070054.76x47.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/07/idg202111070054.76x47.0.jpg" alt="청약 찬바람 부는 대구…가을 분양으로 열기 달굴까"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg004001000"><div class="category">경제일반</div></a>
+				<a class="link" href="/newsView/idg202111070053">
+					<h4 class="title">청약 찬바람 부는 대구…가을 분양으로 열기 달굴까</h4>
+					<div class="sub_title"></div>
+					<div class="desc">대구지역 가을 아파트 분양시장이 속속 재개되고 있다.이미 지역 아파트 청약시장이 차갑게 식은 가운데 이들 신규 단지들이 하반기 청약 열기를 다시</div>
+					<div class="info">
+<span class="writer">윤정혜</span>						<span class="date">2021-11-07 18:00:00</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111100069">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/10/idg202111100063.76x47.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/10/idg202111100063.76x47.0.jpg" alt="‘브랜드 효과’ 사라진 대구 청약시장"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg004001000"><div class="category">경제일반</div></a>
+				<a class="link" href="/newsView/idg202111100069">
+					<h4 class="title">‘브랜드 효과’ 사라진 대구 청약시장</h4>
+					<div class="sub_title"></div>
+					<div class="desc">대기업 건설사들이 브랜드 선호도를 내세워 하반기 대구지역에 신규 아파트를 쏟아냈지만 무더기 청약 미달 사태가 벌어지는 등 힘을 못 쓰고 있다.특</div>
+					<div class="info">
+<span class="writer">윤정혜</span>						<span class="date">2021-11-10 18:33:02</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202110260033">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/10/26/idg202110260035.76x47.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/10/26/idg202110260035.76x47.0.jpg" alt="미분양 소진 안되자 대구 아파트시장에도 '조직분양' 등장"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg004001000"><div class="category">경제일반</div></a>
+				<a class="link" href="/newsView/idg202110260033">
+					<h4 class="title">미분양 소진 안되자 대구 아파트시장에도 '조직분양' 등장</h4>
+					<div class="sub_title"></div>
+					<div class="desc">대구지역 아파트 분양시장에 대규모 인력을 투입, 일대일 마케팅으로 분양하는 속칭 ‘조직분양’이 다시 등장했다.과거 ‘벌떼 분양’으로도 불렸던</div>
+					<div class="info">
+<span class="writer">윤정혜</span>						<span class="date">2021-10-28 21:00:00</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202110140040">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/10/14/idg202110140035.76x47.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/10/14/idg202110140035.76x47.0.jpg" alt="품절대란 그 슬리퍼 어그의 퍼 카라 스웨이드 올해도 인기 "></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg004001000"><div class="category">경제일반</div></a>
+				<a class="link" href="/newsView/idg202110140040">
+					<h4 class="title">품절대란 그 슬리퍼 어그의 퍼 카라 스웨이드 올해도 인기 </h4>
+					<div class="sub_title"></div>
+					<div class="desc">신세계백화점 대구점 3층 여성 슈즈 장르 어그(UGG)에서는 지난해 품절 대란을 일으킨 인기 상품 ‘퍼 카라 스웨이드 슬리퍼’를 새롭게 선보였다. 퍼 </div>
+					<div class="info">
+<span class="writer">윤정혜</span>						<span class="date">2021-10-14 17:10:52</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202103260001">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/03/26/idg202103260001.76x47.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/03/26/idg202103260001.76x47.0.jpg" alt="&quot;500원 동전 100만 원에 삽니다&quot; 중고거래 '금값'된 희귀 화폐"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg005001000"><div class="category">사회일반</div></a>
+				<a class="link" href="/newsView/idg202103260001">
+					<h4 class="title">"500원 동전 100만 원에 삽니다" 중고거래 '금값'된 희귀 화폐</h4>
+					<div class="sub_title"></div>
+					<div class="desc">"희귀 주화 동전 100만 원에 구입합니다. 1998년 발행된 500원 동전 현금 100만 원에 삽니다."500원짜리 동전을 현금 100만 원에 산다는 중고거래 희망 글이 </div>
+					<div class="info">
+<span class="writer">강동원</span>						<span class="date">2021-03-26 15:08:21</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111020042">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/10/11/idg202110110052.76x47.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/10/11/idg202110110052.76x47.0.jpg" alt="대구 공동주택 리모델링 속도전 …시공사, 정비·설계업체 속속 윤곽 "></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg004001000"><div class="category">경제일반</div></a>
+				<a class="link" href="/newsView/idg202111020042">
+					<h4 class="title">대구 공동주택 리모델링 속도전 …시공사, 정비·설계업체 속속 윤곽 </h4>
+					<div class="sub_title"></div>
+					<div class="desc">대구에서 처음 추진되는 공동주택 리모델링이 윤곽을 드러내며 추진에 속도가 붙고 있다.리모델링 공사를 수행할 시공사가 압축된 단지가 있는가 하</div>
+					<div class="info">
+<span class="writer">윤정혜</span>						<span class="date">2021-11-02 22:00:00</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<div class="text_box">
+				<a href="/newsList/idg012000000"><div class="category">special</div></a>
+				<a class="link" href="/newsView/idg201506260001">
+					<h4 class="title">수성구 범어동 교통사고 병원치료, 해아림한의원에서</h4>
+					<div class="sub_title"></div>
+					<div class="desc">-사고 직후, 교통사고 전문 병원 찾아 검사받아야-교통사고 전문 치료, 자동차 보험 내 처리 가능직장인 김모(34)씨는 교통사고 후유증으로 일상생활에 </div>
+					<div class="info">
+<span class="writer">김지혜</span>						<span class="date">2015-06-26 16:49:23</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111040043">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/04/idg202111040041.76x47.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/04/idg202111040041.76x47.0.jpg" alt="대구 동구, 4주연속 가격 하락에 미분양까지 ..조정대상해제 반영 여부 관심"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg004001000"><div class="category">경제일반</div></a>
+				<a class="link" href="/newsView/idg202111040043">
+					<h4 class="title">대구 동구, 4주연속 가격 하락에 미분양까지 ..조정대상해제 반영 여부 관심</h4>
+					<div class="sub_title"></div>
+					<div class="desc">미분양 증가로 조정대상지역 해제가 재건의(본보 10월4일 1면 보도)된 대구 동구가 아파트 매매가 역시 4주 연속 하락했다.미분양 증가와 더불어 아파트</div>
+					<div class="info">
+<span class="writer">윤정혜</span>						<span class="date">2021-11-04 17:49:59</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111020020">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/02/idg202111020061.76x47.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/02/idg202111020061.76x47.0.jpg" alt="'위드 코로나' 첫날밤, 활기로 들뜬 대구지역 식당·카페·영화관"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg005001000"><div class="category">사회일반</div></a>
+				<a class="link" href="/newsView/idg202111020020">
+					<h4 class="title">'위드 코로나' 첫날밤, 활기로 들뜬 대구지역 식당·카페·영화관</h4>
+					<div class="sub_title"></div>
+					<div class="desc">단계별 일상회복(위드 코로나) 첫날밤, 이용시간 제한이 사라진 대구지역 시민들과 자영업자들은 일상으로 돌아왔다는 현실에 들뜬 모습을 보였다. 주</div>
+					<div class="info">
+<span class="writer">권종민</span>						<span class="date">2021-11-02 15:51:20</span>
+					</div>
+				</a>
+			</div>
+		</li>
+	</ul>
+</div>
+<div class="box right_ranknews">
+	<div class="box_title right">
+<h3 class="name">많이 본 경북뉴스</h3></a>	</div>
+	<ul class="list">
+		<li class="article">
+			<a class="link" href="/newsView/idg202111080043">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/08/idg202111080053.76x47.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/08/idg202111080053.76x47.0.jpg" alt="경북도청 간부들, 내년 대선 및 지방선거 앞두고 사의 표명 잇따라"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg002001000"><div class="category">지역일반</div></a>
+				<a class="link" href="/newsView/idg202111080043">
+					<h4 class="title">경북도청 간부들, 내년 대선 및 지방선거 앞두고 사의 표명 잇따라</h4>
+					<div class="sub_title"></div>
+					<div class="desc">내년 대통령 선거와 전국동시지방선거를 앞두고 경북도청 간부들의 사의가 잇따르고 있다.경북도 김장호 기획조정실장과 이부형 경제특보가 8일 이철</div>
+					<div class="info">
+<span class="writer">문정화</span>						<span class="date">2021-11-08 16:53:59</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111020045">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/02/idg202111020051.76x47.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/02/idg202111020051.76x47.0.jpg" alt="강소농 현장을 가다&lt;98&gt;최플가든"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg002001000"><div class="category">지역일반</div></a>
+				<a class="link" href="/newsView/idg202111020045">
+					<h4 class="title">강소농 현장을 가다<98>최플가든</h4>
+					<div class="sub_title"></div>
+					<div class="desc">  농촌과 농업이 위기라고 한다. 농가인구 감소와 고령화가 큰 원인이다. 각종 지표가 이를 증명하고 있다.2019년 기준 농가인구는 224만여 명으로 인구</div>
+					<div class="info">
+<span class="writer">이동률</span>						<span class="date">2021-11-02 18:03:52</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111010067">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/01/idg202111010075.76x47.0.png&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/01/idg202111010075.76x47.0.png" alt="경북 명품 전통주가 한자리에…2021 소믈리에 축제 엑스코에서 "></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg002001000"><div class="category">지역일반</div></a>
+				<a class="link" href="/newsView/idg202111010067">
+					<h4 class="title">경북 명품 전통주가 한자리에…2021 소믈리에 축제 엑스코에서 </h4>
+					<div class="sub_title"></div>
+					<div class="desc">경북도농식품유통교육진흥원이 주최하고 대구일보가 주관하는 2021년 경북 전통주 축제가 5일부터 7일까지 엑스코 서편 광장에서 열린다.올해 12회째를</div>
+					<div class="info">
+<span class="writer">이동률</span>						<span class="date">2021-11-03 08:45:22</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202110200072">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/10/20/idg202110200080.76x47.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/10/20/idg202110200080.76x47.0.jpg" alt="청도루지 탑승권 40%할인 이벤트 진행"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg002001000"><div class="category">지역일반</div></a>
+				<a class="link" href="/newsView/idg202110200072">
+					<h4 class="title">청도루지 탑승권 40%할인 이벤트 진행</h4>
+					<div class="sub_title"></div>
+					<div class="desc">청도루지가 한국관광공사 경북기획전 참여업체로 선정돼 탑승권 40% 할인행사(조기소진 시 마감)를 진행한다.청도루지는 이번 행사를 통해 기존 가격</div>
+					<div class="info">
+<span class="writer">김산희</span>						<span class="date">2021-10-21 15:31:53</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202110200093">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/10/20/idg202110200105.76x47.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/10/20/idg202110200105.76x47.0.jpg" alt="한적한 트레킹 명소…칠곡에서 가을정취를 만끽"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg002001000"><div class="category">지역일반</div></a>
+				<a class="link" href="/newsView/idg202110200093">
+					<h4 class="title">한적한 트레킹 명소…칠곡에서 가을정취를 만끽</h4>
+					<div class="sub_title"></div>
+					<div class="desc"> 명품여행의 매력을 제대로 느낄 수 있는 가을로 접어들면서 가을 산들이 만산홍엽(온 산에 단풍이 들어 붉게 물든 모습)의 정취를 뽐내고 있다.단풍 </div>
+					<div class="info">
+<span class="writer">이임철</span>						<span class="date">2021-10-26 12:29:11</span>
+					</div>
+				</a>
+			</div>
+		</li>
+	</ul>
+</div>
+<div class="box sub_opinion">
+<div class="box_title right">
+<a class="link" href="/newsList/idg008000000"><h3 class="name">오피니언</h3></a>	</div>	<ul class="list">
+		<li class="article">
+			<a class="link" href="/newsView/idg202111100073">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/08/19/idg202108190003.88x53.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/08/19/idg202108190003.88x53.0.jpg" alt="도발이 필요한 한국 정치"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg008001000"><div class="category">오피니언일반</div></a>
+				<a class="link" href="/newsView/idg202111100073">
+					<h4 class="title">도발이 필요한 한국 정치</h4>
+					<div class="sub_title"></div>
+					<div class="desc">여야의 대통령 본선 후보가 결정됐다. 양당의 초반 여론 선두 주자의 굳히기가 성공한 모양새다. 막판 뒤집기를 기대했던 이낙연과 홍준표 예비 후보</div>
+					<div class="info">
+<span class="writer">서충환</span>						<span class="date">2021-11-11 11:19:05</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111110004">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/09/02/idg202109020018.88x53.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/09/02/idg202109020018.88x53.0.jpg" alt="한파, 대비하면 이겨낼 수 있습니다."></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg008001000"><div class="category">오피니언일반</div></a>
+				<a class="link" href="/newsView/idg202111110004">
+					<h4 class="title">한파, 대비하면 이겨낼 수 있습니다.</h4>
+					<div class="sub_title"></div>
+					<div class="desc">‘그해 겨울 추위는 땅속 깊이 박혔고 공기 속에서 차가운 칼날이 번뜩였다. 성첩 위 총안(銃眼) 앞에서 가리개 없는 군졸들이 눈비에 젖었다. 군졸들</div>
+					<div class="info">
+<span class="writer">서충환</span>						<span class="date">2021-11-11 11:18:48</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111100005">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/10/idg202111100001.88x53.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/10/idg202111100001.88x53.0.jpg" alt="독자기고…11월11일 ‘보행자의 날’을 아시나요"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg008001000"><div class="category">오피니언일반</div></a>
+				<a class="link" href="/newsView/idg202111100005">
+					<h4 class="title">독자기고…11월11일 ‘보행자의 날’을 아시나요</h4>
+					<div class="sub_title"></div>
+					<div class="desc">11월11일 하면 가장 먼저 떠오르는 것이 ‘빼빼로 데이’다. 하지만 11월11일이 ‘보행자의 날’이라는 것을 아는 사람은 드물다.‘보행자의 날’은 2010</div>
+					<div class="info">
+<span class="writer">신헌호</span>						<span class="date">2021-11-10 13:55:53</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111100003">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/07/idg202111070105.88x53.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/07/idg202111070105.88x53.0.jpg" alt="/이슈추적/ 팔공산 국립공원 지정"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg008001000"><div class="category">오피니언일반</div></a>
+				<a class="link" href="/newsView/idg202111100003">
+					<h4 class="title">/이슈추적/ 팔공산 국립공원 지정</h4>
+					<div class="sub_title"></div>
+					<div class="desc">500만 대구·경북민의 염원인 팔공산 국립공원화 사업이 본궤도에 오른 모습이다. 그동안 여러 차례 대구시, 경북도 차원에서 추진된 적은 있지만 이번</div>
+					<div class="info">
+<span class="writer">박준우</span>						<span class="date">2021-11-10 13:26:43</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111100001">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/08/18/idg202108180018.88x53.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/08/18/idg202108180018.88x53.0.jpg" alt="빈 들판에 나가 하늘을 보라"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg008001000"><div class="category">오피니언일반</div></a>
+				<a class="link" href="/newsView/idg202111100001">
+					<h4 class="title">빈 들판에 나가 하늘을 보라</h4>
+					<div class="sub_title"></div>
+					<div class="desc">당나라 시인 두목(杜牧)은 산행(山行)이란 시에서 ‘상림홍어이월화(霜林紅於二月花), 서리 내린 단풍잎은 봄꽃보다 더 붉구나’라고 노래했다. 실존</div>
+					<div class="info">
+<span class="writer">서충환</span>						<span class="date">2021-11-10 09:27:26</span>
+					</div>
+				</a>
+			</div>
+		</li>
+	</ul>
+</div>
+<div class="box sub_opinion">
+	<ul class="list">
+		<li class="article">
+			<a class="link" href="/newsView/idg202111110001">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/11/idg202111110001.88x53.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/11/idg202111110001.88x53.0.jpg" alt="대구시립교향악단 ‘제479회 정기연주회’ 19일 대구콘서트하우스"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg006001000"><div class="category">문화일반</div></a>
+				<a class="link" href="/newsView/idg202111110001">
+					<h4 class="title">대구시립교향악단 ‘제479회 정기연주회’ 19일 대구콘서트하우스</h4>
+					<div class="sub_title"></div>
+					<div class="desc">대구시립교향악단(이하 대구시향) ‘제479회 정기연주회’가 오는 19일 오후 7시30분 대구콘서트하우스 그랜드홀에서 개최된다.2021 월드오케스트라시리</div>
+					<div class="info">
+<span class="writer">구아영</span>						<span class="date">2021-11-11 09:46:46</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111100072">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/10/idg202111100066.88x53.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/10/idg202111100066.88x53.0.jpg" alt="발레공연 ‘호두까기 인형’, 13일 아양아트센터"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg006001000"><div class="category">문화일반</div></a>
+				<a class="link" href="/newsView/idg202111100072">
+					<h4 class="title">발레공연 ‘호두까기 인형’, 13일 아양아트센터</h4>
+					<div class="sub_title"></div>
+					<div class="desc">대구 동구문화재단 아양아트센터가 오는 13일 오후 2시, 5시 아양아트센터 아양홀에서 대구시티발레단의 ‘호두까기 인형(The Nutcracker)’을 개최한다.호</div>
+					<div class="info">
+<span class="writer">구아영</span>						<span class="date">2021-11-11 09:46:32</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202110260079">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/10/26/idg202110260095.88x53.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/10/26/idg202110260095.88x53.0.jpg" alt="2021 경북문화체험 전국수필대전 입선-김춘기 ‘청제는 들판으로 흐르고 싶다’ 수상 소감"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg006001000"><div class="category">문화일반</div></a>
+				<a class="link" href="/newsView/idg202110260079">
+					<h4 class="title">2021 경북문화체험 전국수필대전 입선-김춘기 ‘청제는 들판으로 흐르고 싶다’ 수상 소감</h4>
+					<div class="sub_title"></div>
+					<div class="desc">대구일보에서 주최하는 제12회 경북문화체험 입선 소식을 들었습니다.부족한 글 읽어주신 것 만도 감사한데 수상자 명단에 이름 올려주셔서 고맙습니</div>
+					<div class="info">
+<span class="writer">서충환</span>						<span class="date">2021-11-10 17:00:00</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202110260078">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/10/26/idg202110260095.88x53.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/10/26/idg202110260095.88x53.0.jpg" alt="2021 경북문화체험 전국수필대전 입선-김춘기 ‘청제는 들판으로 흐르고 싶다’"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg006001000"><div class="category">문화일반</div></a>
+				<a class="link" href="/newsView/idg202110260078">
+					<h4 class="title">2021 경북문화체험 전국수필대전 입선-김춘기 ‘청제는 들판으로 흐르고 싶다’</h4>
+					<div class="sub_title"></div>
+					<div class="desc">땅은 하늘이 내리는 빗물을 받는다. 그 물이 벼를 키우고 사람의 양식이 되면서 나라를 융성하게 한다. 나라가 수리를 국가사업으로 삼는 이유이다. 비</div>
+					<div class="info">
+<span class="writer">서충환</span>						<span class="date">2021-11-10 17:00:00</span>
+					</div>
+				</a>
+			</div>
+		</li>
+		<li class="article">
+			<a class="link" href="/newsView/idg202111090065">
+				<div class="thumb "><div class="background zoom" style="background-image:url(&#39;//cdn.idaegu.com/data/image/2021/11/09/idg202111090063.88x53.0.jpg&#39;);"><img src="//cdn.idaegu.com/data/image/2021/11/09/idg202111090063.88x53.0.jpg" alt="2021 대구아트페어, 역대 최고 매출액 98억 원 성과"></div></div>
+			</a>
+			<div class="text_box">
+				<a href="/newsList/idg006001000"><div class="category">문화일반</div></a>
+				<a class="link" href="/newsView/idg202111090065">
+					<h4 class="title">2021 대구아트페어, 역대 최고 매출액 98억 원 성과</h4>
+					<div class="sub_title"></div>
+					<div class="desc">2021 한국국제아트페어(KIAF, 키아프)에 이어 한국미술계 초미의 관심사로 떠오른 2021 대구아트페어가 국내 미술시장의 활성화를 견인하는 큰 손임을 입</div>
+					<div class="info">
+<span class="writer">구아영</span>						<span class="date">2021-11-10 11:24:50</span>
+					</div>
+				</a>
+			</div>
+		</li>
+	</ul>
+</div>
+</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //container -->
+
+<!-- footer -->
+<div id="footer_wrap">
+	<div id="footer">
+		<div class="logo"><a href="/" target="_top"><img src="//cdn.idaegu.com/data/image2/2021/06/20/idg202106200002.png" alt="대구일보"></a></div>
+		<div class="info">
+			<div class="row link">
+				<ul>
+					<li><a href="/eventView/ceo?r=company">회사소개</a></li>
+					<li><a href="/eventView/memberPolicy?r=customer"><b style="color:#fff">개인정보취급방침</b></a></li>
+					<li><a href="/eventView/allianceInquiry?r=customer">콘텐츠/제휴 문의</a></li>
+					<li><a href="/eventView/subscribe?r=customer">구독신청</a></li>
+					<li><a href="/eventView/internetAdvertising?r=customer">광고안내</a></li>
+					<li><a href="/eventView/grievanceRegulation?r=company">고충처리인 운영 규정</a></li>
+					<li><a href="/noticeList">공지사항</a></li>
+					<li><a href="/eventView/newspaperAdvertising?r=customer">지면광고</a></li>
+					<li><a href="/eventView/tellReader?r=customer">독자제보</a></li>
+				</ul>
+			</div>
+			<div class="row">
+				<ul>
+					<li><strong>대구일보</strong></li>
+					<li>대구 수성구 동대구로 330 (범어동) 대구일보빌딩 6층</li>
+					<li>대표전화 : 053-757-5700</li>
+					<li>FAX : </li>
+				</ul>
+			</div>
+			<div class="row">
+				<ul>
+					<li>발행·편집인 : 이후혁</li>
+					<li>정기간행물 등록번호 : 대구,가00004</li>
+					<li>제보메일 : report@idaegu.com</li>
+				</ul>
+			</div>
+			<div class="copyright">Copyright © 2018 www.idaegu.com All rights reserved.</div>
+		</div>
+	</div>
+</div>
+<!-- //footer -->
+
+</div>
+
+
+<script type="text/javascript">
+var isAuth = function(){
+	if(!''){
+		if(confirm('로그인 후 사용해주세요.')){location.href='/login?ru=%2FnewsView%2Fidg202111100069';}
+	}
+};
+
+$('#commentBtn').click(function(){
+	if($('#comment').val() == ''){
+		alert('댓글을 입력하세요.');
+		return;
+	}
+
+	$.ajax({
+        url: '/commentInsertproc',
+        method : 'POST',
+        data : $('#commentform').serialize()
+    }).done(function(data) {
+		$('#comment').val('');
+        if(confirm(data))location.reload();
+
+		//location.reload();
+    });
+});
+
+function commentDelete(cid){
+    if(confirm('해당 댓글을 삭제하시겠습니까?')){
+        $.ajax({
+            url: '/commentDelete',
+            method : 'POST',
+            data : {'aid':'idg202111100069','cid':cid}
+        }).done(function(obj) {
+            $('#comment').val('');
+            if(confirm('댓글이 삭제되었습니다.'))location.reload();
+        });
+    }
+}
+</script>
+</body>
+</html>

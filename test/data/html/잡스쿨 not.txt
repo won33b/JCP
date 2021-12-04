@@ -1,0 +1,422 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>경상국립대학교 잡스쿨</title>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<meta name="author" content="경상국립대학교 잡스쿨">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="classification" content="">
+
+<meta name="viewport" content="user-scalable=yes, initial-scale=0.25, maximum-scale=1.0, minimum-scale=0.25, width=1200">
+
+<script language="javascript" src="/include/xmlhttp.js"></script>
+<script language="javascript" src="/include/jquery.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/img/default.css" />
+
+</head>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--//
+	function getCookie(strName) {
+	  var strArg = new String(strName + "=");	
+	  var nArgLen, nCookieLen, nEnd;
+	  var i = 0, j;
+
+	  nArgLen    = strArg.length;
+	  nCookieLen = document.cookie.length;
+
+	  if(nCookieLen > 0) {
+		while(i < nCookieLen) {
+		  j = i + nArgLen;
+		  if(document.cookie.substring(i, j) == strArg) {
+			nEnd = document.cookie.indexOf (";", j);
+
+			if(nEnd == -1) nEnd = document.cookie.length;
+				return unescape(document.cookie.substring(j, nEnd));
+			} //end if
+
+			i = document.cookie.indexOf(" ", i) + 1;
+			if (i == 0) break; //no end if
+		  } //end if
+	  }
+
+	  return("");
+	}
+	
+	function setCookie( name, value, expiredays ) { 
+	  var todayDate = new Date(); 
+	  todayDate.setDate( todayDate.getDate() + expiredays ); 
+	  document.cookie = name + "=" + escape( value ) + "; path=/; expires=" + todayDate.toGMTString() + ";" 
+	}
+	//-->
+</SCRIPT>
+
+
+<div style="position:absolute;top:150px;left:100px;z-index:1000;" ID="divpop2">
+<form name="notice_form2">
+	<table cellpadding="0" cellspacing="0">
+		<tr>
+			<td>
+			<table cellpadding="0" cellspacing="0" width="470">
+				<tr height="100">
+					<td ><b><font size="3">해당 사이트에서는 강의수강만 진행되며, 강의신청을 받지 않습니다.</font></b><div><b><font size="3">강의신청을 하실 경우, 강의 수강이 불가하니 반드시 경상국립대학교 수강신청사이트에서만 수강신청 해주시기 바랍니다.</font></b></div></td>
+				</tr>
+			</table>
+		  </td>
+		</tr>
+		<tr height="25">
+			<td>
+			<table cellpadding="0" cellspacing="0" width="470">
+				<tr>
+					<td bgcolor="#ffffff" height="25">&nbsp;<input type="checkbox" name="chkbox" value="checkbox" />					  <font color='#000000'>하루동안열지않음</font>
+					&nbsp;<b><span style="color:#000000;cursor:pointer;" onMouseOver="this.style.color='#999999';" onMouseOut="this.style.color='#000000';" onClick="javascript:closeWin2();">닫기</span></td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+	</table>
+</form>
+</div>
+
+<script language="Javascript">
+<!--//
+	cookiedata = document.cookie;
+
+	if ( cookiedata.indexOf("maindiv2=done") < 0 ) {
+	  document.all['divpop2'].style.visibility = "visible";
+	} else {
+	  document.all['divpop2'].style.visibility = "hidden"; 
+	}
+
+	function closeWin2() { 
+	  if ( document.notice_form2.chkbox.checked ){ 
+		setCookie( "maindiv2", "done" , 1 ); 
+	  } 
+	  document.all['divpop2'].style.visibility = "hidden";
+	}
+//-->  
+</script>
+
+
+<script language="javascript">
+function go2Logpg(flg,ul){
+	if(flg){
+		alert("로그인후 서비스 이용이 가능합니다!");
+		location.href="/member/login.asp?str__Page=" + encodeURIComponent(ul);
+	}else{
+		location.href=".." + ul;
+	}
+}
+function go2Logpg1(flg,ul){
+	if(flg){
+		alert("로그인후 서비스 이용이 가능합니다!");
+		location.href="/member/login.asp?str__Page=" + encodeURIComponent(ul);
+	}else{
+		location.href="" + ul;
+	}
+}
+
+function go2Search(sKey,sfm){
+	if(sKey || event) event.returnValue = false;
+	clmn = sfm.searchStr;
+	if(clmn.value==""){
+		alert("검색어를 입력해주세요!");
+		clmn.focus();
+		return;
+	}
+	if(clmn.value.replace(/ /g,"") == ""){
+		alert("검색어를 입력해주세요!");
+		clmn.select();
+		return;
+	}
+	if(clmn.value.length < 2){
+		alert("검색어는 2자 이상 입력하셔야 합니다!");
+		clmn.select();
+		return;
+	}
+sfm.submit();
+}
+
+function bookmarksite() { 
+     bookmark_url  = "https://gnu21.jobschool.co.kr"; 
+     bookmark_name = "경상국립대학교"; 
+     
+     try {
+      window.external.AddFavorite(bookmark_url,bookmark_name);
+     } catch(e) {
+      alert('이 브라우저는 즐겨찾기 추가 기능을 지원하지 않습니다.');
+      return false;
+     }
+ }
+function tmenu_check(){
+
+	if (tdivList1.style.display == "")
+	{
+		tdivList1.style.display = "none";
+	}
+	else
+	{
+		tdivList1.style.display = "";
+	}
+} 
+
+</script>
+
+<link rel="canonical" href="http://gnu21.jobschool.co.kr">
+<meta property="og:title" ConTENT="경상국립대학교 잡스쿨"/>
+<meta property="og:site_name" ConTENT="경상국립대학교 잡스쿨"/>
+<meta property="og:type" ConTENT="website"/>
+<meta property="og:url" ConTENT="http://gnu21.jobschool.co.kr"/>
+<meta property="og:description" ConTENT=""/>
+<meta property="og:image" ConTENT="http://gnu21.jobschool.co.kr/ahdma/logo/logo.gif"/>
+
+<body>
+<div class="m_header">
+    <!--  TOP 메뉴  -->
+    <div class="m_tmenu">
+        <ul>
+            <li class="m_left"><a href="javascript:bookmarksite();" class="m_favor">+ 즐겨찾기 추가</a></li>
+			<li class="m_right"><div class="m_tico_me">
+				
+				</div></li>
+			
+			<li class="m_right"><a href="/member/login.asp" class="m_tmem">로그인</a><!-- <a href="/member/agree.asp" class="m_tmem">회원가입</a> --><a href="javascript:go2Logpg(true,'/my/01_main.asp');" class="m_tmem"><strong>나의강의실</strong></a></li>
+			
+			
+        </ul>
+    </div>
+    <div class="m_tWrap">
+        <!--  LOGO, 검색폼, 이벤트배너   -->
+        <h1><a href="/main/index.asp"><img src="/ahdma/logo/logo_20210422161431.png" /></a></h1>
+		<div class="m_menu">
+			<div class="m_melist">
+				<a href="/page/page.asp" >대학일자리센터 소개 및 강좌 리스트</a><a href="/cumm/list.asp" >청년고용정책</a><a href="/cs/nlist.asp" >고객센터</a>
+			</div>
+			<div class="m_me_ban">
+			
+			</div>
+		</div>
+    </div>
+</div>
+<div class="m_mban_zone">
+
+
+    <div class="m_mban" id="b1" style="display:;">
+        <ul>
+        	<li style="background:#d8e1f0"><img src="/ahdma/banner/ban_20210422161447.png" /></li>
+        </ul>
+        <div class="m_mban_list"><a href="javascript:bview(1);" class='m_on'></a>
+        </div>
+    </div>
+
+
+<script>
+function bview(flag){
+
+	b1.style.display = "none";
+
+
+	switch (flag)
+	{
+
+		case 1: b1.style.display = ""; break;
+
+	}
+} 
+
+function chbanner(ii){
+
+
+	if (ii==1)	{
+	bview(1);
+	
+	setTimeout("chbanner(1);",5000);
+	
+	}
+
+	
+}
+
+chbanner(1);
+
+</script>
+
+</div>
+<div class="m_container">
+    <div class="m_column">
+      
+        <!-- 21.03.12 제거 -->
+		
+		<!--
+		<div class="m_sban_area">
+			<h3>바로가기</h3>
+			<ul class="m_snblist">
+
+				<li>
+					<dl>
+						<dt><a href="/study/dan_list.asp?ca1=39">기본소양교육</a></dt>
+						
+					</dl>
+				</li>
+
+			</ul>
+
+
+
+		</div>
+         -->                 
+		<div class="m_main_quick">
+			<div class="m_quick_cs">
+				<span>온라인 상담</span>
+				<strong>055-772-0566</strong>
+				<a href="/cs/qlist.asp" class="m_quick_btn">상담신청하기</a>
+			</div>
+
+
+      </div>
+	  
+	  
+	  
+      <!-- //21.03.12 제거 -->
+
+
+
+	<ul class="m_mid_ban">
+
+	</ul>
+
+
+
+		<div class="m_guide_box">
+			<div class="m_guide_tit">
+				<span>합격을 위한 정보 공유</span>
+				<strong>경상국립대학교<br>커뮤니티</strong>
+			</div>
+
+			<ul class="m_guide_btn">
+
+			</ul>
+
+			<div class="m_whbox">
+				<div class="m_issu_tit">
+					<span>추천커뮤니티</span>
+					<strong></strong>
+					<a href="/cumm/list.asp?tabnm=" class="m_imore m_mbg">더보기</a>
+				</div>
+				<ul class="m_issu_list">
+
+                </ul>
+			</div>
+
+		</div>
+		<div class="m_lec_ban">
+
+		</div>
+
+		<div class="m_ser_ban">
+			<h3>경상국립대학교 수강생들의 취업/진로지원 서비스가 여러분과 함께 합니다.</h3>
+
+		</div>
+
+		<div class="m_gisik">
+			<div class="m_gi_tit">
+				<strong>수강후기</strong>
+				<span>수강생들의 <br>생생한 수강후기</span>
+				<a href="/study/reply_list.asp" class="m_view_btn">자세히 보기</a>
+			</div>
+			<ul class="m_gi_list">
+
+				<li><span class="m_label">김민성</span><a href="/study/dan_view.asp?idx=140">최근 채용의 트렌드가 3.수시채용의 확대 2.채용규모의 감소 1...</a></li>
+
+				<li><span class="m_label">박민지</span><a href="/study/dan_view.asp?idx=160">유튜브를 자주보기도 했고 유튜버라는 직업에 대해 평소에 관심..</a></li>
+
+				<li><span class="m_label">박민지</span><a href="/study/dan_view.asp?idx=138">일단 진로선택에 있어서 고민이 많았고 대학에 입할할 때 과를 ..</a></li>
+
+				<li><span class="m_label">송명재</span><a href="/study/dan_view.asp?idx=152">매우 도움이 되었습니다.</a></li>
+
+			</ul>
+		</div>
+		<div class="m_csWrap">
+                <div class="m_cs_cen">
+                    <div class="m_cstit">
+                        <h3>문의처</h3>
+                    </div>
+                    <div class="m_cstxt">
+                        <strong><span class="m_ico_cs m_mbg"></span>055-772-0566</strong>
+                        <p>월~금 09:00~18:00<br />
+                            점심시간 12:00~13:00</p>
+                        <a href="/cs/qlist.asp" class="m_csbtn"><span>상담 신청하기</span></a>
+
+                    <p>경상국립대학교/대학일자리센터<br />(담당:운영팀)</p>
+
+                    </div>
+                </div>
+                <div class="m_noWrap">
+                    <div class="m_cstit">
+                        <h3>공지사항</h3>
+                    </div>
+                    <div class="m_mnotice">
+                        <ul>
+
+                            <li><a href="/cs/nneyong.asp?idx=9">크롬 NET::ERR_CERT_DATE_INVALID 접속 오..</a><em>2021.10.01</em></li>
+
+                            <li><a href="/cs/nneyong.asp?idx=2">잡스쿨 이용안내</a><em>2021.04.14</em></li>
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="m_snsWrap">
+                    <ul>
+
+                    </ul>
+                </div>
+            </div>
+	</div>
+	<div class="m_smeWrap">
+        <div class="m_smenu">
+
+            <dl>
+                <dt>대학일자리센터 소개 및 강좌 리스트</dt>
+                <dd><a href="/page/page.asp?idx=19">대학일자리센터 홍보 동영상</a><a href="/page/page.asp?idx=20">비교과프로그램이란</a><a href="/page/page.asp?idx=21">이룸시스템 상담신청프로그램</a><a href="/page/page.asp?idx=22">경상대학교 잡스스시템 이용꿀팁(외부기관 모집정보)</a><a href="/page/page.asp?idx=23">청년취업성공패키지</a><a href="/page/page.asp?idx=24">AI로 Job담하기 모르는 사람</a><a href="/page/page.asp?idx=25">학과별 취뽀하는 자격증 리스트</a><a href="/page/page.asp?idx=26">공무원, 토익</a><a href="/page/page.asp?idx=27">2021 경상국립대학교 잡스쿨 개설강좌 리스트</a></dd>
+            </dl>
+
+            <dl>
+                <dt>청년고용정책</dt>
+                <dd><a href="/cumm/list.asp?tabnm=5">청년고용정책</a></dd>
+            </dl>
+
+            <dl>
+                <dt>고객센터</dt>
+                <dd><a href="/cs/nlist.asp">공지사항</a><a href="/cs/flist.asp">자주묻는질문과답변</a><a href="/cs/qlist.asp">문의게시판</a><a href="/question/ing.asp">진행중인설문</a><a href="/question/end.asp">종료된설문</a></dd>
+            </dl>
+   
+        </div>
+    </div>
+</div>
+
+<div class="m_fWrap">
+	<div class="m_fmenu">
+		<ul>
+			<li class="m_fme"><a href="../cs/page.asp?idx=1">사이트이용약관</a><a href="../cs/page.asp?idx=2">개인정보처리방침</a><a href="../cs/page.asp?idx=3">개인정보수집및이용안내에 대한 동의</a></li>
+			<li class="m_ftop"><a href="#">TOP ↑</a></li>
+		</ul>
+	</div>
+	<div class="m_footer">
+		<div class="m_fcopy">
+			Tel : 055-772-0566<span class="m_slash">|</span>경상국립대학교<br>
+			사업자등록번호 : <span class="m_slash">|</span>통신판매업신고번호 : <span class="m_slash">|</span>개인정보책임자 : 백혜연<br />
+			대표자 : 권순기<span class="m_slash">|</span>주소 : 경상남도 진주시 진주대로 501 경상국립대학교
+			<p>Copyright (C) 경상국립대학교 All rights reserved. E-mail : phy93@gnu.ac.kr</p>
+		</div>
+		<div class="m_ftel">
+			<span>문/의/처</span>
+			<strong>055-772-0566</strong>
+		</div>
+	</div>
+</div>
+</body>
+</html>

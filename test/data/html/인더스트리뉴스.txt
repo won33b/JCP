@@ -1,0 +1,1675 @@
+
+<!doctype html>
+<html class="no-js" lang="ko" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=1360">
+<meta name="apple-mobile-web-app-title" content="인더스트리뉴스" />
+<!-- 메타태그정보 //-->
+<meta name="title" content="이제는 나눔형 모델이 대세!, ‘나눔형 모델’로 진화하고 있는 태양광 사업"/>
+<meta name="description" content="[인더스트리뉴스 권선형 기자] 태양광이 ‘나눔형 모델’로 진화하고 있다. 개인이 운영하던 태양광발전소에서 ‘함께 운영하고 발전수익을 나누는 상생 프로젝트’로의 진화다.지자체는 신안군을 시작으로 대구시, 창원시, 광주시 등이 시민들과 발전수익을 나누는 프로젝트를 시작했다. 한국남동발전은 국내 최대 규모(95㎿급)의 ‘해창만 수상태양광’의 발전수익을 시민과 나누는 프로젝트를 추진 중이다. 산업부도 마을주도 태양광 사업인 햇빛두레 발전소를 추진하고 있는 등 나눔형 모델이 지자체, 발전공기업에 이어 산업부 정책으로까지 확산되고 있다. 지자"/>
+<meta name="keywords" content="태양광발전수익공유,태양광이익공유,신안군,대구시태양광,창원시태양광,해창만수상태양광,산업부,햇빛두레발전소,산업부태양광"/>
+<meta name="news_keywords" content="태양광발전수익공유,태양광이익공유,신안군,대구시태양광,창원시태양광,해창만수상태양광,산업부,햇빛두레발전소,산업부태양광" />
+<meta name="Classification" content="태양광ㆍ신재생에너지 &gt; 이슈ㆍ트렌드"/>
+<meta name="Copyright" content="인더스트리뉴스"/>
+<meta property="og:site_name" content="인더스트리뉴스"/>
+<meta property="og:image" content="http://www.industrynews.co.kr/news/thumbnail/202111/44430_44489_820_v150.jpg" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.industrynews.co.kr/news/articleView.html?idxno=44430" />
+<meta property="og:title" content="이제는 나눔형 모델이 대세!, ‘나눔형 모델’로 진화하고 있는 태양광 사업" />
+<meta property="og:description" content="[인더스트리뉴스 권선형 기자] 태양광이 ‘나눔형 모델’로 진화하고 있다. 개인이 운영하던 태양광발전소에서 ‘함께 운영하고 발전수익을 나누는 상생 프로젝트’로의 진화다.지자체는 신안군을 시작으로 대구시, 창원시, 광주시 등이 시민들과 발전수익을 나누는 프로젝트를 시작했다. 한국남동발전은 국내 최대 규모(95㎿급)의 ‘해창만 수상태양광’의 발전수익을 시민과 나누는 프로젝트를 추진 중이다. 산업부도 마을주도 태양광 사업인 햇빛두레 발전소를 추진하고 있는 등 나눔형 모델이 지자체, 발전공기업에 이어 산업부 정책으로까지 확산되고 있다. 지자" />
+<meta property="og:article:author" content="권선형 기자"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="이제는 나눔형 모델이 대세!, ‘나눔형 모델’로 진화하고 있는 태양광 사업"/>
+<meta name="twitter:description" content="[인더스트리뉴스 권선형 기자] 태양광이 ‘나눔형 모델’로 진화하고 있다. 개인이 운영하던 태양광발전소에서 ‘함께 운영하고 발전수익을 나누는 상생 프로젝트’로의 진화다.지자체는 신안군을 시작으로 대구시, 창원시, 광주시 등이 시민들과 발전수익을 나누는 프로젝트를 시작했다. 한국남동발전은 국내 최대 규모(95㎿급)의 ‘해창만 수상태양광’의 발전수익을 시민과 나누는 프로젝트를 추진 중이다. 산업부도 마을주도 태양광 사업인 햇빛두레 발전소를 추진하고 있는 등 나눔형 모델이 지자체, 발전공기업에 이어 산업부 정책으로까지 확산되고 있다. 지자"/>
+<meta name="twitter:image" content="http://www.industrynews.co.kr/news/thumbnail/202111/44430_44489_820_v150.jpg"/>
+<meta name="twitter:site" content="http://www.industrynews.co.kr/news/articleView.html?idxno=44430"/>
+<meta name="twitter:creator" content="권선형 기자"/>
+<meta property="dable:item_id" content="44430">
+<meta property="dable:author" content="권선형 기자">
+<meta property="article:section" content="태양광ㆍ신재생에너지">
+<meta property="article:section2" content="이슈ㆍ트렌드">
+<meta property="article:published_time" content="2021-11-23T14:00:00+09:00">
+<!--// 메타태그정보 -->
+<title>이제는 나눔형 모델이 대세!, ‘나눔형 모델’로 진화하고 있는 태양광 사업 - 인더스트리뉴스</title>
+<link rel="stylesheet" href="/css/jquery-ui.min.css?ver=11">
+<link rel="stylesheet" href="/css/foundation.min.css?ver=11">
+<link rel="stylesheet" href="/css/custom.foundation.min.css?ver=11">
+<link rel="stylesheet" href="/css/app.css?ver=11">
+<link rel="stylesheet" href="/css/slick.min.css?ver=11">
+<link rel="stylesheet" href="/css/font-awesome.min.css?ver=11">
+<link rel="stylesheet" href="/css/pe.icon7.stroke.min.css?ver=11">
+<link rel="stylesheet" href="/css/style.css?ver=11">
+<link rel="stylesheet" href="/css/design.style.css?ver=11">
+<link rel="stylesheet" href="/css/ndsoft-fonts.css?ver=11">
+<link rel="stylesheet" href="/menuskin/pd_04/menubar.css?ver=11">
+<script src="/script/jquery.min.js?ver=11"></script>
+<script src="/script/jquery-ui.min.js?ver=11"></script>
+<script src="/script/slick.min.js?ver=11"></script>
+<script src="/script/jquery.rwdImageMaps.min.js?ver=11"></script>
+<script src="/script/what-input.js?ver=11"></script>
+<script src="/script/foundation.min.js?ver=11"></script>
+<script src="/script/app.js?ver=11"></script>
+<script src="/menuskin/pd_04/menubar.js?ver=11"></script>
+<script src="/script/user.style.js?ver=11"></script>
+<script src="/script/bannerpop.js?ver=11"></script>
+<script src="/script/resizePhoto.js?ver=11"></script>
+<script src="/script/onScroll.js?ver=11"></script>
+<script src="/script/floating.banner.js?ver=11"></script>
+<script src="/script/clipboard.min.js?ver=11"></script>
+<script src="/script/common.js?ver=11"></script>
+<script src="/script/mosaic.js?ver=11"></script>
+<script src="/script/jquery.tabslet.min.js?ver=11"></script>
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="/css/style.ie9.css?ver=11">
+<script src="/script/html5shiv.min.js?ver=11"></script>
+<![endif]-->
+
+<script type="text/javascript">
+
+	$(document).ready(function(e) {
+		// 이미지맵
+		$('img[usemap]').rwdImageMaps();
+		bannerpop.banner(".banner_event_box");					// 기능성배너 이벤트
+
+		// 기사뷰 이미지관련
+					resizePhoto();
+		
+		// 기사본문 부분 복사하기 저작권 표시
+		$('#article-view-content-div').on('copy', function(e){			
+			var sel = window.getSelection();
+			var copyFooter = "<br/><br/>출처 : <a href='" + document.location.href + "'>" + "인더스트리뉴스(http://www.industrynews.co.kr)" + "</a><br/>";
+			var copyHolder = $('<div>', {html: sel+copyFooter, id:'copy_text', style: {position: 'absolute', left: '-99999px'}});
+			$('body').append(copyHolder);
+			var str = $('#copy_text').html();
+			$('#copy_text').html(str.replace(/(\r\n|\n|\r)/gm, "<br />"));
+			sel.selectAllChildren( copyHolder[0] );
+			window.setTimeout(function() {
+				copyHolder.remove();
+			},0);
+		});
+	});
+
+	// 도메인
+	var SITE_DOMAIN = 'http://www.industrynews.co.kr'
+	,___currentTime	= 1637663572;
+
+	// 즐겨찾기 스크립트
+	function bookmark() {
+		window.external.AddFavorite("http://www.industrynews.co.kr", "인더스트리뉴스")
+	}
+
+</script>
+
+<style type="text/css">
+/* 사이트 기본 색 */
+.user-point,a.user-point,
+.poll-columns .poll-state.going,
+.auto-hr04-2 .auto-nav .slick-slide.slick-current .auto-fontA,.auto-hr05 .auto-nav .slick-slide.slick-current .auto-fontA
+{color:#d0000e !important}
+.user-bg,.user-bg:hover,.user-bg:active,.user-bg:focus,li[id*="slick-"].slick-active button[data-role],.tabs .is-active a,
+.checkbox-group > input[type="radio"]:checked + label, .checkbox-group > input[type="checkbox"]:checked + label,
+.radio-group > input[type="radio"]:checked + label, .radio-group > input[type="checkbox"]:checked + label,
+.article-list .article-list-content.type-tm .list-block .links:hover,
+.poll-view .poll-view-state.going,.poll-view .poll-radio input[type="radio"]:checked + label::before,.poll-view .poll-radio input[type="checkbox"]:checked + label::before,
+.auto-dl04 .auto-column::after,.auto-mr01::before,.auto-hp02 a:hover .photo-titbg,.auto-hr04 .auto-nav .slick-slide.slick-current,.auto-hr04-1 .auto-nav .slick-slide.slick-current
+{background-color:#d0000e !important}
+.user-border,.button.user-bg,
+.poll-view .poll-radio input[type="radio"] + label:hover strong::before,.poll-view .poll-radio input[type="checkbox"] + label:hover strong::before,
+.poll-view .poll-radio input[type="radio"]:checked + label  strong::before,.poll-view .poll-radio input[type="checkbox"]:checked + label  strong::before,
+.auto-pa01 .auto-nav .slick-current .auto-images::before,.auto-hr05-1 .auto-content a:hover .auto-images.line::before
+{border-color:#d0000e !important}
+.user-border-top {border-top-color:#d0000e !important}
+.user-border-bottom {border-bottom-color:#d0000e !important}
+.user-border-left {border-left-color:#d0000e !important}
+.user-border-right {border-right-color:#d0000e !important}
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-33798834-9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-33798834-9');
+</script>
+
+
+<!-- AceCounter Log Gathering Script V.7.5.2017020801 -->
+<script language='javascript'>
+	var _AceGID=(function(){var Inf=['gtp1.acecounter.com','8080','AH3A43394576500','AW','0','NaPm,Ncisy','ALL','0']; var _CI=(!_AceGID)?[]:_AceGID.val;var _N=0;var _T=new Image(0,0);if(_CI.join('.').indexOf(Inf[3])<0){ _T.src =( location.protocol=="https:"?"https://"+Inf[0]:"http://"+Inf[0]+":"+Inf[1]) +'/?cookie'; _CI.push(Inf);  _N=_CI.length; } return {o: _N,val:_CI}; })();
+	var _AceCounter=(function(){var G=_AceGID;var _sc=document.createElement('script');var _sm=document.getElementsByTagName('script')[0];if(G.o!=0){var _A=G.val[G.o-1];var _G=(_A[0]).substr(0,_A[0].indexOf('.'));var _C=(_A[7]!='0')?(_A[2]):_A[3];var _U=(_A[5]).replace(/,/g,'_');_sc.src=(location.protocol.indexOf('http')==0?location.protocol:'http:')+'//cr.acecounter.com/Web/AceCounter_'+_C+'.js?gc='+_A[2]+'&py='+_A[4]+'&gd='+_G+'&gp='+_A[1]+'&up='+_U+'&rd='+(new Date().getTime());_sm.parentNode.insertBefore(_sc,_sm);return _sc.src;}})();
+</script>
+<noscript><img src='http://gtp1.acecounter.com:8080/?uid=AH3A43394576500&je=n&' border='0' width='0' height='0' alt=''></noscript>	
+<!-- AceCounter Log Gathering Script End -->
+</head>
+
+	<body>
+
+<!--[if lt IE 9]>
+<div id="ie9-guide">
+	<div class="ie9-wrapper border-box">
+		<p class="guide-txt">
+		잠깐! 현재 Internet Explorer 8이하 버전을 이용중이십니다. 최신 브라우저(Browser) 사용을 권장드립니다!
+		</p>
+
+		<div class="guide-right">
+			<dl class="ie9-down nobr">
+				<dt><i class="icon ie-logo">ie</i></dt>
+				<dd>
+					<span>인터넷 익스플로러 11</span>
+					<a href="http://windows.microsoft.com/ko-kr/internet-explorer/download-ie" target="_blank">다운로드</a>
+				</dd>
+			</dl>
+
+			<dl class="ie9-down">
+				<dt><i class="icon cr-logo">chrome</i></dt>
+				<dd>
+					<span>구글 크롬</span>
+					<a href="http://www.google.com/chrome/" target="_blank">다운로드</a>
+				</dd>
+			</dl>
+
+			<dl class="ie9-down">
+				<dt><i class="icon ff-logo">firefox</i></dt>
+				<dd>
+					<span>모질라 파이어폭스</span>
+					<a href="http://www.mozilla.or.kr/" target="_blank">다운로드</a>
+				</dd>
+			</dl>
+		</div>
+	</div>
+</div>
+<![endif]-->
+<div class="off-canvas-wrapper">
+	<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+		<div class="off-canvas user-canvas position-left" id="offCanvas" data-off-canvas>
+			<!-- close //-->
+			<button class="close-button" aria-label="Close menu" type="button" data-close>
+				<span aria-hidden="true">&times;</span>
+			</button>
+			<!--// close -->
+
+			<style type="text/css">
+.user-canvas .user-canvas-navs .menu li > a:hover,.user-canvas .user-canvas-navs .menu li.is-accordion-submenu-parent[aria-expanded="true"] > a {background:#d0000e}
+.user-canvas .user-canvas-navs .menu li.is-accordion-submenu-parent > a::after,.user-canvas .user-canvas-navs .menu li.is-accordion-submenu-parent[aria-expanded="true"] > a::after {border-top-color:#d0000e}
+.user-canvas .user-canvas-navs .menu li ul.menu.nested li a:hover {color:#d0000e}
+</style>
+
+<nav class="user-canvas-navs">
+	<!-- 1차 //-->
+	<ul class="vertical menu" data-multi-open="false" data-accordion-menu>
+		<li><a href="/news/articleList.html?view_type=sm">실시간 뉴스</a></li>
+			<li>
+		<a href="/news/articleList.html?sc_section_code=S1N9&view_type=sm" target="_top">경제ㆍ정책</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N17&view_type=sm" target="_top">증권ㆍ금융</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N16&view_type=sm" target="_top">부동산</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N15&view_type=sm" target="_top">중기ㆍ벤처</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N13&view_type=sm" target="_top">전기 · 하이브리드 · 자동차</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N7&view_type=sm" target="_top">테크</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N5&view_type=sm" target="_top">탄소중립ㆍESG</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N2&view_type=sm" target="_top">스마트팩토리ㆍ자동화</a>
+		<ul class="menu vertical nested">
+			<li><a href="/news/articleList.html?sc_section_code=S1N2&view_type=sm" target="_top">전체</a></li>
+			<li><a href="/news/articleList.html?sc_sub_section_code=S2N1&view_type=sm" target="_top">박한구 단장의 SF 칼럼</a></li>
+		</ul>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N3&view_type=sm" target="_top">태양광ㆍ신재생에너지</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N19&view_type=sm" target="_top">사회ㆍ문화</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N10&view_type=sm" target="_top">국제/외신</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N12&view_type=sm" target="_top">PREMIUM</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N18&view_type=sm" target="_top">영상뉴스</a>
+	</li>
+	<li>
+		<a href="/news/articleList.html?sc_section_code=S1N20&view_type=sm" target="_top">배터리 · 충전 인프라</a>
+	</li>
+	</ul>
+</nav>		</div>
+		<div class="off-canvas-content" data-off-canvas-content>
+
+			<!-- wrap //-->
+			<div id="user-wrap">
+
+				<!-- header //-->
+				<header id="user-header" class="posi-re float-center">
+
+					<!-- 상단 HTML //-->	
+												<div class="clearfix text-center">
+													</div>
+										<!--// 상단 HTML -->
+
+					<!-- 메뉴 //-->
+					<script type="text/javascript">
+<!--
+//메뉴 스타일 불러옴 : 메뉴 /script/menubar.js 와 같이 사용되어야 함
+//submenuStyle	: 서브메뉴 펼침 스타일 (horizon : 가로로, vertical : 세로 슬라이딩)
+var exceptIdx = new Array(); //제외할 메뉴 인덱스번호 (0부터 시작:type integer)
+var submenuStyle="horizon";
+//-->
+</script>
+
+<style type="text/css">
+#user-nav::before {background:#d0000e}
+#user-nav .mega-menu li.megaline > a.a-hover::before {border-top-color:#d0000e}
+</style>
+
+<!-- 메뉴 시작 //-->
+<div id="header-wrapper">
+	<!-- 최상단영역 //-->
+	<!-- <div id="user-gnb">
+		<div class="width-full">
+	
+			<ul class="float-left ul-list">
+				<li><a href="http://www.infothe.com/industrynews/mediakit_fa.pdf" title="인더스트리뉴스" target="_self"><img src="/image/site-logo-9.png" alt="FA저널"></a></li>
+				<li><a href="http://www.infothe.com/industrynews/mediakit_st.pdf" title="보안뉴스" target="_blank"><img src="/image/site-logo-10.png" alt="솔라투데이"></a></li>
+		
+			</ul>
+
+
+			<!-- 로그인 
+			<ul class="float-right ul-list">
+				<li><a href="http://www.smartfactorykorea.com" title="스마트팩토리코리아" target="_blank">SMART FACTORY KOREA</a></li>
+				<li><a href="http://www.exposolar.org" title="엑스포솔라" target="_blank">EXPO SOLAR</a></li>				
+				<li><a href="http://www.essexpo.co.kr" title="ESS Expo" target="_blank">ESS EXPO</a></li>
+				
+				<li><a href="http://www.greennewdealexpo.org" title="Green New Deal Expo" target="_blank">GREEN NEW DEAL EXPO</a></li>	
+				<li><a href="http://www.info-con.org" title="INFO-CON" target="_blank">INFO-CON</a></li>	
+					<li><a href="http://www.smartfactoryaward.co.kr" title="스마트팩토리 어워드 코리아" target="_blank">SMART FACTORY AWARDS</a></li>
+				<li><a href="http://www.solaraward.co.kr" title="솔라에너지 어워드" target="_blank">SOLAR ENERGY AWARDS</a></li>
+		
+				
+			</ul>
+
+
+			<span class="float-left menu_btn">
+				<button class="menu-trigger1 width-140"><i class="fa fa-bars auto-maright-5" aria-hidden="true"></i>미디어그룹</button>
+				<ul class="responsive-ul responsive_menu1">
+				<li><a href="http://www.infothe.com" title="미디어그룹인포더" target="_blank"><img src="/image/site-logo-0.png" alt="미디어그룹인포더"></a></li>
+				<li><a href="http://www.industrynews.co.kr" title="인더스트리뉴스" target="_self"><img src="/image/site-logo-1.png" alt="인더스트리뉴스"></a></li>
+				<li><a href="http://www.boannews.com" title="보안뉴스" target="_blank"><img src="/image/site-logo-5.png" alt="보안뉴스"></a></li>
+				
+				</ul>
+             </span>
+
+			<span class="float-right menu_btn">
+				<button class="menu-trigger2 width-140"><i class="fa fa-bars auto-maright-5" aria-hidden="true"></i>관련사이트</button>
+				<ul class="responsive-ul responsive_menu2">
+					<li><a href="http://www.smartfactorykorea.com" title="스마트팩토리코리아" target="_blank">Smart Factory Korea</a></li>
+					<li><a href="http://www.exposolar.org" title="엑스포솔라" target="_blank">Expo Solar</a></li>
+					<li><a href="http://www.seconexpo.com" title="SECON" target="_blank">SECON</a></li>
+					<li><a href=" http://www.egisec.org" title="eGISEC" target="_blank">eGISEC</a></li>
+					<li><a href="http://www.pisfair.org" title="PIS FAIR" target="_blank">PIS FAIR</a></li>
+					<li><a href="http://www.isecconference.org" title="ISEC" target="_blank">ISEC</a></li>
+					<li><a href="http://www.dietexpo.co.kr" title="DIET EXPO" target="_blank">DIET EXPO</a></li>
+					<li><a href="http://www.info-con.org" title="INFO-CON" target="_blank">INFO-CON</a></li>
+				</ul>
+             </span>
+
+
+
+		</div>
+	</div>-->
+	<!--// 최상단영역 -->
+
+	<!-- 로고영역 //-->
+	<header id="nav-header">
+		<div class="posi-re float-center width-1100">
+
+			<div class="right-banner">
+			<fieldset class="user-search">
+						<form name="head-search" method="post" action="/news/articleList.html">
+							<input type="hidden" name="sc_area" value="A">
+							<input type="hidden" name="view_type" value="sm">
+							<label class="show-for-sr" for="search">기사검색</label>
+							<input type="text" name="sc_word" id="search" onkeydown="if(event.keyCode==13){if(this.form.sc_word.value != ''){this.form.submit();}else{alert('검색어를 입력해주세요');return false;}}" placeholder="기사 검색" title="기사검색">
+							<button type="button" title="기사검색" onclick="if(this.form.sc_word.value != ''){this.form.submit();}else{alert('검색어를 입력해주세요');this.form.sc_word.focus();return false;}"><i class="fa fa-search"></i><span class="show-for-sr">검색</span></button>
+						</form>
+					</fieldset>
+
+                      <!-- 로그인 -->
+           			<div class="user-logbox">
+									<li><a href="http://www.industrynews.co.kr/member/login.html" target="_top">로그인</a></li>
+					<li><a href="http://www.industrynews.co.kr/member/index.html" target="_top">회원가입</a></li>
+								<!-- <li><a href="http://www.industrynews.co.kr/news/articleView.html?idxno=44430" onclick="setCookie('view_pc', 'n', 1);" target="_top"><i class="fa fa-mobile fa-fw"></i>모바일웹</a></li> -->
+					<li><a href="http://www.industrynews.co.kr/com/jb.html" target="_top">기사제보</a></li>
+					<li><a href="http://www.industrynews.co.kr/com/com-2.html" target="_top">뉴스레터신청</a></li>
+			</div>
+
+				<!--201020_상단제호우측--<script type="text/javascript">var ___BANNER = "ban_1603183965486";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/157.js?1603183965486" id="ban_1603183965486"></script><!--//201020_상단제호우측-->
+				
+			</div>
+
+			<div class="dis-table">
+				<div class="dis-table-cell user-banner">
+				<!--이노비즈협회_201216--><script type="text/javascript">var ___BANNER = "ban_1608182394285";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/164.js?1608182394285" id="ban_1608182394285"></script><!--//이노비즈협회_201216-->
+				<!--탄소제로엑스포 171207--<script type="text/javascript">var ___BANNER = "ban_1512623250488";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/27.js?1512623250488" id="ban_1512623250488"></script><!--//탄소제로엑스포 171207-->
+				</div>
+				<div class="dis-table-cell">
+					<a href="http://www.industrynews.co.kr" target="_top">
+						<img src="/image/logo/toplogo_20210722024349.png" alt="인더스트리뉴스" />
+						<!-- <img src="/image/logo/toplogo_renew_pd5.png" alt="인더스트리뉴스" /> -->
+					</a>
+				</div>
+				<!-- 검색 //-->
+				<div class="dis-table-cell user-banner">
+				<!--210129_스마트팩토리--><script type="text/javascript">var ___BANNER = "ban_1611909209066";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/171.js?1611909209066" id="ban_1611909209066"></script><!--//210129_스마트팩토리-->
+					<!--<span class="main-cont"><img src="/image/main_comment_pd4.png" border="0"></span>-->
+					
+
+				</div>
+				<!--// 검색 -->
+
+
+			</div>
+		</div>
+
+
+	</header>
+	<!--// 로고영역 -->
+
+	<!-- 메뉴바 //-->
+	<nav id="user-nav">
+		<div id="user-nav-wrapper" class="float-center width-1420">
+			<!-- 전체
+			<button type="button" class="all-section" data-toggle="offCanvas"><i class="fa fa-bars fa-fw"></i></button> -->
+			<div class="total-section"><a href="/news/articleList.html?view_type=sm">전체</a></div>
+
+			<!-- 섹션 //-->
+			<ul id="mega-menu" class="mega-menu">
+									<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N9&view_type=sm" target="_top">경제ㆍ정책</a>
+						<ul class="width-1100">
+													</ul>
+					</li>
+									<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N17&view_type=sm" target="_top">증권ㆍ금융</a>
+						<ul class="width-1100">
+													</ul>
+					</li>
+									<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N16&view_type=sm" target="_top">부동산</a>
+						<ul class="width-1100">
+													</ul>
+					</li>
+									<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N15&view_type=sm" target="_top">중기ㆍ벤처</a>
+						<ul class="width-1100">
+													</ul>
+					</li>
+									<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N13&view_type=sm" target="_top">전기 · 하이브리드 · 자동차</a>
+						<ul class="width-1100">
+													</ul>
+					</li>
+									<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N7&view_type=sm" target="_top">테크</a>
+						<ul class="width-1100">
+													</ul>
+					</li>
+									<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N5&view_type=sm" target="_top">탄소중립ㆍESG</a>
+						<ul class="width-1100">
+													</ul>
+					</li>
+									<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N2&view_type=sm" target="_top">스마트팩토리ㆍ자동화</a>
+						<ul class="width-1100">
+													</ul>
+					</li>
+									<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N3&view_type=sm" target="_top">태양광ㆍ신재생에너지</a>
+						<ul class="width-1100">
+													</ul>
+					</li>
+									<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N20&view_type=sm" target="_top">배터리 · 충전 인프라</a>
+						<ul class="width-1100">
+													</ul>
+					</li>
+									<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N19&view_type=sm" target="_top">사회ㆍ문화</a>
+						<ul class="width-1100">
+													</ul>
+					</li>
+									<li class="megaline"><a href="/bbs/list.html?table=bbs_10&more=1&choice=1" target="_top">영상뉴스 · 웨비나</a>
+						<ul class="width-1100">
+													</ul>
+					</li>
+							</ul>
+			<!--// 섹션 -->
+
+<ul class="banner" style="background-color:#ffffff">
+
+<!--상단배너--><script type="text/javascript">var ___BANNER = "ban_1525928228523";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/31.js?1525928228523" id="ban_1525928228523"></script><!--//상단배너-->
+
+
+</ul>
+
+<!--제호 우측 광고
+<div class="right-banner02">
+<script type="text/javascript">var ___BANNER = "ban_1553479897231";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/91.js?1553479897231" id="ban_1553479897231"></script>
+</div>-->
+
+
+		</div>
+
+	</nav>
+	<!--// 메뉴바 -->
+</div>
+<!--// 메뉴 끝 -->
+					<!--// 메뉴 -->
+
+				</header>
+				<!--// header -->
+
+								<!-- container //-->
+				<section id="user-container" class="posi-re text-left auto-pady-25 float-center width-1100">
+					<!-- 플로팅 좌우 HTML //-->
+					<div class="posi-re float-center width-1100"><div id="floating_banner_left" class="view-aside left-wing" data-scroll="n" data-top-margin="5" data-duration="300">
+<!--엑스포솔라--><script type="text/javascript">var ___BANNER = "ban_1535692439657";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/50.js?1535692439657" id="ban_1535692439657"></script><!--//엑스포솔라-->
+
+<!--171108_smatrfactory--><script type="text/javascript">var ___BANNER = "ban_1510131330955";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/13.js?1510131330955" id="ban_1510131330955"></script><!--//171108_smatrfactory-->
+
+<!--슈나이더_180524--><script type="text/javascript">var ___BANNER = "ban_1527120213109";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/42.js?1527120213109" id="ban_1527120213109"></script><!--//슈나이더_180524-->
+
+<!--한국페트라이트_180524--><script type="text/javascript">var ___BANNER = "ban_1527120216098";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/43.js?1527120216098" id="ban_1527120216098"></script><!--//한국페트라이트_180524-->
+
+<!--171108_netIOT--<script type="text/javascript">var ___BANNER = "ban_1510131338709";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/14.js?1510131338709" id="ban_1510131338709"></script><!--//171108_netIOT-->
+
+<!--엑스포솔라left_190225--<script type="text/javascript">var ___BANNER = "ban_1551077220125";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/83.js?1551077220125" id="ban_1551077220125"></script><!--//엑스포솔라left_190225-->
+
+<!--sfk_201204--><script type="text/javascript">var ___BANNER = "ban_1607054965581";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/159.js?1607054965581" id="ban_1607054965581"></script><!--//sfk_201204-->
+<!--엑스포솔라_210118--><script type="text/javascript">var ___BANNER = "ban_1610945362434";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/165.js?1610945362434" id="ban_1610945362434"></script><!--//엑스포솔라_210118--></div>
+<div id="floating_banner_right" class="view-aside right-wing" data-scroll="n" data-top-margin="5" data-duration="300">
+<div class="width-120 flow-hidden">
+<!--오른쪽날개배너_180829--><script type="text/javascript">var ___BANNER = "ban_1535590435298";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js_activity/2.js?1535590435298" id="ban_1535590435298"></script><!--//오른쪽날개배너_180829-->
+</div>
+
+<!--171108_eFactory(날개)--<script type="text/javascript">var ___BANNER = "ban_1510131343848";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/15.js?1510131343848" id="ban_1510131343848"></script><!--//171108_eFactory(날개)-->
+
+<!--171108_어드벤텍--><script type="text/javascript">var ___BANNER = "ban_1510131348355";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/16.js?1510131348355" id="ban_1510131348355"></script><!--//171108_어드벤텍-->
+
+<!--한화큐셀_180524--><script type="text/javascript">var ___BANNER = "ban_1527120328771";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/44.js?1527120328771" id="ban_1527120328771"></script><!--//한화큐셀_180524-->
+
+<!--스마트팩토리right_190225--<script type="text/javascript">var ___BANNER = "ban_1551077249007";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/84.js?1551077249007" id="ban_1551077249007"></script><!--//스마트팩토리right_190225-->
+
+<!--essexpo_201204--><script type="text/javascript">var ___BANNER = "ban_1607055004470";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/160.js?1607055004470" id="ban_1607055004470"></script><!--//essexpo_201204-->
+<!--엘모_210118--><script type="text/javascript">var ___BANNER = "ban_1610945376531";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/166.js?1610945376531" id="ban_1610945376531"></script><!--//엘모_210118-->
+<!--엑스포_210303--><script type="text/javascript">var ___BANNER = "ban_1614741023138";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/182.js?1614741023138" id="ban_1614741023138"></script><!--//엑스포_210303--></div>
+</div>					<!--// 플로팅 좌우 HTML -->
+
+					
+<div class="float-center max-width-1100">
+	
+	<!-- 편집패널 //-->
+	<div class="clearfix">
+
+	</div>
+	<!--// 편집패널 -->
+
+	<script type="text/javascript">
+	// 기사면 상단 네비게이션 호출
+	//articleHeader.setScroll();
+	articleHeaderMenu.MenuScroll();
+</script>
+
+<!-- 기사면 상단 네비게이션 //-->
+<div id="article-header-menu" class="show-for-large">
+
+	<!-- 상단 컨텐츠 //-->
+	<div class="aht-wrapper width-1100">
+		<div class="aht-columns aht-logo"><a href="http://www.industrynews.co.kr" alt="로고"><img src="/image/logo/printlogo_20210524010141.png" alt="인더스트리뉴스" /></a></div>
+
+		<div class="aht-columns aht-title">
+			<!-- 섹션 //-->
+			<div id="article-nav">
+				<ul id="mega-menu" class="mega-menu">
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N9&view_type=sm" target="_top">경제ㆍ정책</a>	
+						</li>
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N17&view_type=sm" target="_top">증권ㆍ금융</a>	
+						</li>
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N16&view_type=sm" target="_top">부동산</a>	
+						</li>
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N15&view_type=sm" target="_top">중기ㆍ벤처</a>	
+						</li>
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N13&view_type=sm" target="_top">전기 · 하이브리드 · 자동차</a>	
+						</li>
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N7&view_type=sm" target="_top">테크</a>	
+						</li>
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N5&view_type=sm" target="_top">탄소중립ㆍESG</a>	
+						</li>
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N2&view_type=sm" target="_top">스마트팩토리ㆍ자동화</a>	
+						</li>
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N3&view_type=sm" target="_top">태양광ㆍ신재생에너지</a>	
+						</li>
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N20&view_type=sm" target="_top">배터리 · 충전 인프라</a>	
+						</li>
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N19&view_type=sm" target="_top">사회ㆍ문화</a>	
+						</li>
+											<li class="megaline"><a href="/bbs/list.html?table=bbs_10&more=1&choice=1" target="_top">영상뉴스 · 웨비나</a>	
+						</li>
+									</ul>
+			</div>
+
+		</div>
+		
+		<!--		<div class="aht-columns aht-options">
+			<ul class="info-options no-bullet">
+				<li><button type="button" class="options-btn has-tip" title="기사공유하기" data-open="article-sns" data-disable-hover="false" data-tooltip><i class="icon-share"></i><span class="show-for-sr">기사공유하기</span></button></li>
+				<li><button type="button" onclick="articlePrint('44430')" class="options-btn has-tip" title="프린트" data-disable-hover="false" data-tooltip><i class="icon-printer"></i><span class="show-for-sr">프린트</span></button></li>
+				<li><button type="button" onclick="articleMail('44430')" class="options-btn has-tip" title="메일보내기" data-disable-hover="false" data-tooltip><i class="icon-email-b"></i><span class="show-for-sr">메일보내기</span></button></li>
+				<li class="fonts-option">
+					<button type="button" class="fonts-btn options-btn"><i class="icon-plus"></i><span class="show-for-sr">글씨키우기</span></button>
+					<ul class="fonts-option-panel no-bullet">
+						<li>
+							<input type="radio" name="fontsize1" class="fontsize-radio" id="font-size15_1" value="font-size15" title="15px"> 
+							<label for="font-size15_1">가나다라마바사</label>
+						</li>
+						<li>
+							<input type="radio" name="fontsize1" class="fontsize-radio" id="font-size16_1" value="font-size16" title="16px"> 
+							<label for="font-size16_1">가나다라마바사</label>
+						</li>
+						<li>
+							<input type="radio" name="fontsize1" class="fontsize-radio" id="font-size17_1" value="font-size17" title="17px"> 
+							<label for="font-size17_1">가나다라마바사</label>
+						</li>
+						<li>
+							<input type="radio" name="fontsize1" class="fontsize-radio" id="font-size18_1" value="font-size18" title="18px"> 
+							<label for="font-size18_1">가나다라마바사</label>
+						</li>
+						<li>
+							<input type="radio" name="fontsize1" class="fontsize-radio" id="font-size19_1" value="font-size19" title="19px"> 
+							<label for="font-size19_1">가나다라마바사</label>
+						</li>
+						<li>
+							<input type="radio" name="fontsize1" class="fontsize-radio" id="font-size20_1" value="font-size20" title="20px"> 
+							<label for="font-size20_1">가나다라마바사</label>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+		-->
+	</div>
+	<!--// 상단 컨텐츠 -->
+	<!--// 섹션 -->
+	<div id="article-headline-box" class="" style="display:none;">
+		<div class="article-headline-autobox width-1100">
+			<div class="auto-article tiles-4x">
+<ul><li class="auto-columns"><a href="/news/articleView.html?idxno=44430" target="_top" class="float-left auto-images cover line width-100 height-67 auto-maright-12" style="background-image:url(/news/thumbnail/202111/44430_44489_820_v150.jpg)">
+				   <img src="/news/thumbnail/202111/44430_44489_820_v150.jpg" alt="이제는 나눔형 모델이 대세!, ‘나눔형 모델’로 진화하고 있는 태양광 사업">
+			   </a><div class="size-14 auto-martop-10"><a href="/news/articleView.html?idxno=44430" target="_top" class="line-height-3-2x auto-fontA onload">이제는 나눔형 모델이 대세!, ‘나눔형 모델’로 진화하고 있는 태양광 사업</a></div>
+		</li>
+<li class="auto-columns"><a href="/news/articleView.html?idxno=44428" target="_top" class="float-left auto-images cover line width-100 height-67 auto-maright-12" style="background-image:url(/news/thumbnail/202111/44428_44483_97_v150.jpg)">
+				   <img src="/news/thumbnail/202111/44428_44483_97_v150.jpg" alt="광주광역시 ‘인공지능 집적단지’ 착공… 인공지능 생태계 핵심거점 조성 본격화">
+			   </a><div class="size-14 auto-martop-10"><a href="/news/articleView.html?idxno=44428" target="_top" class="line-height-3-2x auto-fontA onload">광주광역시 ‘인공지능 집적단지’ 착공… 인공지능 생태계 핵심거점 조성 본격화</a></div>
+		</li>
+<li class="auto-columns"><a href="/news/articleView.html?idxno=44416" target="_top" class="float-left auto-images cover line width-100 height-67 auto-maright-12" style="background-image:url(/news/thumbnail/202111/44416_44465_4831_v150.jpg)">
+				   <img src="/news/thumbnail/202111/44416_44465_4831_v150.jpg" alt="영림원소프트랩, “2022년 온오프라인 기업활동 통합하는 ERP가 대세”">
+			   </a><div class="size-14 auto-martop-10"><a href="/news/articleView.html?idxno=44416" target="_top" class="line-height-3-2x auto-fontA onload">영림원소프트랩, “2022년 온오프라인 기업활동 통합하는 ERP가 대세”</a></div>
+		</li>
+<li class="auto-columns"><a href="/news/articleView.html?idxno=44325" target="_top" class="float-left auto-images cover line width-100 height-67 auto-maright-12" style="background-image:url(/news/thumbnail/202111/44325_44349_5510_v150.jpg)">
+				   <img src="/news/thumbnail/202111/44325_44349_5510_v150.jpg" alt="인플레이션 쓰나미 태양광도 덮쳤다…미국‧중국 가파른 생산자물가 상승, 국내 태양광도 비상">
+			   </a><div class="size-14 auto-martop-10"><a href="/news/articleView.html?idxno=44325" target="_top" class="line-height-3-2x auto-fontA onload">인플레이션 쓰나미 태양광도 덮쳤다…미국‧중국 가파른 생산자물가 상승, 국내 태양광도 비상</a></div>
+		</li>
+</ul>
+</div>		</div>
+	</div>
+</div>
+<!--// 기사면 상단 네비게이션 -->
+
+<!-- 기사본문 상단 //-->
+<header class="article-view-header">
+	<!-- root //-->	
+	<nav class="article-head-nav auto-marbtm-10">
+		<a href="/">HOME</a>
+		<i class="fa fa-angle-right fa-fw"></i> <a href="/news/articleList.html?sc_section_code=S1N3">태양광ㆍ신재생에너지</a>
+								<i class="fa fa-angle-right fa-fw"></i> <a href="/news/articleList.html?sc_serial_code=SRN1">이슈ㆍ트렌드</a>
+			</nav>
+	<!--// root -->
+	
+	<!-- 본문제목 //-->
+	<header class="article-header-wrap">
+		<div class="article-head-title">이제는 나눔형 모델이 대세!, ‘나눔형 모델’로 진화하고 있는 태양광 사업</div>
+	</header>
+	<!--// 본문제목 -->
+
+	<!-- head info //-->
+	<section class="article-head-info">
+
+		
+		<!-- info //-->
+		<div class="info-text">
+			<ul class="no-bullet auto-marbtm-0 line-height-6">
+				<li><i class="fa fa-user-o fa-fw"></i> 권선형 기자</li>
+				<li><i class="fa fa-clock-o fa-fw"></i> 승인 2021.11.23 14:00</li>
+												<li>
+					<i class="fa fa-commenting-o fa-fw"></i> 댓글 
+						0					</li>
+			</ul>
+		</div>
+		<!--// info -->
+
+		<ul class="info-options no-bullet">
+			<li><button type="button" class="options-btn has-tip" title="기사공유하기" data-open="article-sns" data-disable-hover="false" data-tooltip><i class="icon-share"></i><span class="show-for-sr">기사공유하기</span></button></li>
+			<li><button type="button" onclick="articlePrint('44430')" class="options-btn has-tip" title="프린트" data-disable-hover="false" data-tooltip><i class="icon-printer"></i><span class="show-for-sr">프린트</span></button></li>
+			<li><button type="button" onclick="articleMail('44430')" class="options-btn has-tip" title="메일보내기" data-disable-hover="false" data-tooltip><i class="icon-email-b"></i><span class="show-for-sr">메일보내기</span></button></li>
+			<li class="fonts-option">
+				<button type="button" class="fonts-btn options-btn"><i class="icon-plus"></i><span class="show-for-sr">글씨키우기</span></button>
+				<ul class="fonts-option-panel no-bullet">
+					<li>
+						<input type="radio" name="fontsize2" class="fontsize-radio" id="font-size15_2" value="font-size15" title="15px"> 
+						<label for="font-size15_2">가나다라마바사</label>
+					</li>
+					<li>
+						<input type="radio" name="fontsize2" class="fontsize-radio" id="font-size16_2" value="font-size16" title="16px"> 
+						<label for="font-size16_2">가나다라마바사</label>
+					</li>
+					<li>
+						<input type="radio" name="fontsize2" class="fontsize-radio" id="font-size17_2" value="font-size17" title="17px"> 
+						<label for="font-size17_2">가나다라마바사</label>
+					</li>
+					<li>
+						<input type="radio" name="fontsize2" class="fontsize-radio" id="font-size18_2" value="font-size18" title="18px"> 
+						<label for="font-size18_2">가나다라마바사</label>
+					</li>
+					<li>
+						<input type="radio" name="fontsize2" class="fontsize-radio" id="font-size19_2" value="font-size19" title="19px"> 
+						<label for="font-size19_2">가나다라마바사</label>
+					</li>
+					<li>
+						<input type="radio" name="fontsize2" class="fontsize-radio" id="font-size20_2" value="font-size20" title="20px"> 
+						<label for="font-size20_2">가나다라마바사</label>
+					</li>
+				</ul>
+			</li>
+			<!-- li><button type="button" class="options-btn has-tip" title="번역" data-open="article-lang" data-disable-hover="false" data-tooltip><i class="fa fa-language"></i></button></li -->
+		</ul>
+
+		<div class="reveal gray" id="article-sns" data-reveal>
+			<header class="reveal-header">
+				<div class="reveal-title">이 기사를 공유합니다</div>
+			</header>
+			<section class="reveal-container">
+				<div class="article-sns-group">
+								<button type="button" class="sns-btns" 				data-sharesns="facebook" 
+				data-title="%EC%9D%B4%EC%A0%9C%EB%8A%94%20%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EB%8C%80%EC%84%B8%21%2C%20%E2%80%98%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%E2%80%99%EB%A1%9C%20%EC%A7%84%ED%99%94%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%82%AC%EC%97%85" 
+				data-url="http%3A%2F%2Fwww.industrynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D44430" 
+				data-desc="%5B%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%89%B4%EC%8A%A4%20%EA%B6%8C%EC%84%A0%ED%98%95%20%EA%B8%B0%EC%9E%90%5D%20%ED%83%9C%EC%96%91%EA%B4%91%EC%9D%B4%20%E2%80%98%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%E2%80%99%EB%A1%9C%20%EC%A7%84%ED%99%94%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EA%B0%9C%EC%9D%B8%EC%9D%B4%20%EC%9A%B4%EC%98%81%ED%95%98%EB%8D%98%20%ED%83%9C%EC%96%91%EA%B4%91%EB%B0%9C%EC%A0%84%EC%86%8C%EC%97%90%EC%84%9C%20%E2%80%98%ED%95%A8%EA%BB%98%20%EC%9A%B4%EC%98%81%ED%95%98%EA%B3%A0%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%EC%83%81%EC%83%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%E2%80%99%EB%A1%9C%EC%9D%98%20%EC%A7%84%ED%99%94%EB%8B%A4.%EC%A7%80%EC%9E%90%EC%B2%B4%EB%8A%94%20%EC%8B%A0%EC%95%88%EA%B5%B0%EC%9D%84%20%EC%8B%9C%EC%9E%91%EC%9C%BC%EB%A1%9C%20%EB%8C%80%EA%B5%AC%EC%8B%9C%2C%20%EC%B0%BD%EC%9B%90%EC%8B%9C%2C%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EB%93%B1%EC%9D%B4%20%EC%8B%9C%EB%AF%BC%EB%93%A4%EA%B3%BC%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4.%20%ED%95%9C%EA%B5%AD%EB%82%A8%EB%8F%99%EB%B0%9C%EC%A0%84%EC%9D%80%20%EA%B5%AD%EB%82%B4%20%EC%B5%9C%EB%8C%80%20%EA%B7%9C%EB%AA%A8%2895%E3%8E%BF%EA%B8%89%29%EC%9D%98%20%E2%80%98%ED%95%B4%EC%B0%BD%EB%A7%8C%20%EC%88%98%EC%83%81%ED%83%9C%EC%96%91%EA%B4%91%E2%80%99%EC%9D%98%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EC%8B%9C%EB%AF%BC%EA%B3%BC%20%EB%82%98%EB%88%84%EB%8A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%B6%94%EC%A7%84%20%EC%A4%91%EC%9D%B4%EB%8B%A4.%20%EC%82%B0%EC%97%85%EB%B6%80%EB%8F%84%20%EB%A7%88%EC%9D%84%EC%A3%BC%EB%8F%84%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%82%AC%EC%97%85%EC%9D%B8%20%ED%96%87%EB%B9%9B%EB%91%90%EB%A0%88%20%EB%B0%9C%EC%A0%84%EC%86%8C%EB%A5%BC%20%EC%B6%94%EC%A7%84%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%93%B1%20%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EC%A7%80%EC%9E%90%EC%B2%B4%2C%20%EB%B0%9C%EC%A0%84%EA%B3%B5%EA%B8%B0%EC%97%85%EC%97%90%20%EC%9D%B4%EC%96%B4%20%EC%82%B0%EC%97%85%EB%B6%80%20%EC%A0%95%EC%B1%85%EC%9C%BC%EB%A1%9C%EA%B9%8C%EC%A7%80%20%ED%99%95%EC%82%B0%EB%90%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EC%A7%80%EC%9E%90" 
+				data-image="http://www.industrynews.co.kr/news/photo/202111/44430_44489_820.jpg">
+				<div class="sns-btn-icons facebook"><i class="icon-facebook"></i></div>페이스북			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="twitter" 
+				data-title="%EC%9D%B4%EC%A0%9C%EB%8A%94%20%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EB%8C%80%EC%84%B8%21%2C%20%E2%80%98%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%E2%80%99%EB%A1%9C%20%EC%A7%84%ED%99%94%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%82%AC%EC%97%85" 
+				data-url="http%3A%2F%2Fwww.industrynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D44430" 
+				data-desc="%5B%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%89%B4%EC%8A%A4%20%EA%B6%8C%EC%84%A0%ED%98%95%20%EA%B8%B0%EC%9E%90%5D%20%ED%83%9C%EC%96%91%EA%B4%91%EC%9D%B4%20%E2%80%98%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%E2%80%99%EB%A1%9C%20%EC%A7%84%ED%99%94%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EA%B0%9C%EC%9D%B8%EC%9D%B4%20%EC%9A%B4%EC%98%81%ED%95%98%EB%8D%98%20%ED%83%9C%EC%96%91%EA%B4%91%EB%B0%9C%EC%A0%84%EC%86%8C%EC%97%90%EC%84%9C%20%E2%80%98%ED%95%A8%EA%BB%98%20%EC%9A%B4%EC%98%81%ED%95%98%EA%B3%A0%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%EC%83%81%EC%83%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%E2%80%99%EB%A1%9C%EC%9D%98%20%EC%A7%84%ED%99%94%EB%8B%A4.%EC%A7%80%EC%9E%90%EC%B2%B4%EB%8A%94%20%EC%8B%A0%EC%95%88%EA%B5%B0%EC%9D%84%20%EC%8B%9C%EC%9E%91%EC%9C%BC%EB%A1%9C%20%EB%8C%80%EA%B5%AC%EC%8B%9C%2C%20%EC%B0%BD%EC%9B%90%EC%8B%9C%2C%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EB%93%B1%EC%9D%B4%20%EC%8B%9C%EB%AF%BC%EB%93%A4%EA%B3%BC%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4.%20%ED%95%9C%EA%B5%AD%EB%82%A8%EB%8F%99%EB%B0%9C%EC%A0%84%EC%9D%80%20%EA%B5%AD%EB%82%B4%20%EC%B5%9C%EB%8C%80%20%EA%B7%9C%EB%AA%A8%2895%E3%8E%BF%EA%B8%89%29%EC%9D%98%20%E2%80%98%ED%95%B4%EC%B0%BD%EB%A7%8C%20%EC%88%98%EC%83%81%ED%83%9C%EC%96%91%EA%B4%91%E2%80%99%EC%9D%98%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EC%8B%9C%EB%AF%BC%EA%B3%BC%20%EB%82%98%EB%88%84%EB%8A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%B6%94%EC%A7%84%20%EC%A4%91%EC%9D%B4%EB%8B%A4.%20%EC%82%B0%EC%97%85%EB%B6%80%EB%8F%84%20%EB%A7%88%EC%9D%84%EC%A3%BC%EB%8F%84%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%82%AC%EC%97%85%EC%9D%B8%20%ED%96%87%EB%B9%9B%EB%91%90%EB%A0%88%20%EB%B0%9C%EC%A0%84%EC%86%8C%EB%A5%BC%20%EC%B6%94%EC%A7%84%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%93%B1%20%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EC%A7%80%EC%9E%90%EC%B2%B4%2C%20%EB%B0%9C%EC%A0%84%EA%B3%B5%EA%B8%B0%EC%97%85%EC%97%90%20%EC%9D%B4%EC%96%B4%20%EC%82%B0%EC%97%85%EB%B6%80%20%EC%A0%95%EC%B1%85%EC%9C%BC%EB%A1%9C%EA%B9%8C%EC%A7%80%20%ED%99%95%EC%82%B0%EB%90%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EC%A7%80%EC%9E%90" 
+				data-image="http://www.industrynews.co.kr/news/photo/202111/44430_44489_820.jpg">
+				<div class="sns-btn-icons twitter"><i class="icon-twitter"></i></div>트위터			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="story" 
+				data-title="%EC%9D%B4%EC%A0%9C%EB%8A%94%20%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EB%8C%80%EC%84%B8%21%2C%20%E2%80%98%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%E2%80%99%EB%A1%9C%20%EC%A7%84%ED%99%94%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%82%AC%EC%97%85" 
+				data-url="http%3A%2F%2Fwww.industrynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D44430" 
+				data-desc="%5B%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%89%B4%EC%8A%A4%20%EA%B6%8C%EC%84%A0%ED%98%95%20%EA%B8%B0%EC%9E%90%5D%20%ED%83%9C%EC%96%91%EA%B4%91%EC%9D%B4%20%E2%80%98%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%E2%80%99%EB%A1%9C%20%EC%A7%84%ED%99%94%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EA%B0%9C%EC%9D%B8%EC%9D%B4%20%EC%9A%B4%EC%98%81%ED%95%98%EB%8D%98%20%ED%83%9C%EC%96%91%EA%B4%91%EB%B0%9C%EC%A0%84%EC%86%8C%EC%97%90%EC%84%9C%20%E2%80%98%ED%95%A8%EA%BB%98%20%EC%9A%B4%EC%98%81%ED%95%98%EA%B3%A0%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%EC%83%81%EC%83%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%E2%80%99%EB%A1%9C%EC%9D%98%20%EC%A7%84%ED%99%94%EB%8B%A4.%EC%A7%80%EC%9E%90%EC%B2%B4%EB%8A%94%20%EC%8B%A0%EC%95%88%EA%B5%B0%EC%9D%84%20%EC%8B%9C%EC%9E%91%EC%9C%BC%EB%A1%9C%20%EB%8C%80%EA%B5%AC%EC%8B%9C%2C%20%EC%B0%BD%EC%9B%90%EC%8B%9C%2C%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EB%93%B1%EC%9D%B4%20%EC%8B%9C%EB%AF%BC%EB%93%A4%EA%B3%BC%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4.%20%ED%95%9C%EA%B5%AD%EB%82%A8%EB%8F%99%EB%B0%9C%EC%A0%84%EC%9D%80%20%EA%B5%AD%EB%82%B4%20%EC%B5%9C%EB%8C%80%20%EA%B7%9C%EB%AA%A8%2895%E3%8E%BF%EA%B8%89%29%EC%9D%98%20%E2%80%98%ED%95%B4%EC%B0%BD%EB%A7%8C%20%EC%88%98%EC%83%81%ED%83%9C%EC%96%91%EA%B4%91%E2%80%99%EC%9D%98%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EC%8B%9C%EB%AF%BC%EA%B3%BC%20%EB%82%98%EB%88%84%EB%8A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%B6%94%EC%A7%84%20%EC%A4%91%EC%9D%B4%EB%8B%A4.%20%EC%82%B0%EC%97%85%EB%B6%80%EB%8F%84%20%EB%A7%88%EC%9D%84%EC%A3%BC%EB%8F%84%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%82%AC%EC%97%85%EC%9D%B8%20%ED%96%87%EB%B9%9B%EB%91%90%EB%A0%88%20%EB%B0%9C%EC%A0%84%EC%86%8C%EB%A5%BC%20%EC%B6%94%EC%A7%84%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%93%B1%20%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EC%A7%80%EC%9E%90%EC%B2%B4%2C%20%EB%B0%9C%EC%A0%84%EA%B3%B5%EA%B8%B0%EC%97%85%EC%97%90%20%EC%9D%B4%EC%96%B4%20%EC%82%B0%EC%97%85%EB%B6%80%20%EC%A0%95%EC%B1%85%EC%9C%BC%EB%A1%9C%EA%B9%8C%EC%A7%80%20%ED%99%95%EC%82%B0%EB%90%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EC%A7%80%EC%9E%90" 
+				data-image="http://www.industrynews.co.kr/news/photo/202111/44430_44489_820.jpg">
+				<div class="sns-btn-icons story"><i class="icon-story"></i></div>카카오스토리			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="google" 
+				data-title="%EC%9D%B4%EC%A0%9C%EB%8A%94%20%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EB%8C%80%EC%84%B8%21%2C%20%E2%80%98%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%E2%80%99%EB%A1%9C%20%EC%A7%84%ED%99%94%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%82%AC%EC%97%85" 
+				data-url="http%3A%2F%2Fwww.industrynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D44430" 
+				data-desc="%5B%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%89%B4%EC%8A%A4%20%EA%B6%8C%EC%84%A0%ED%98%95%20%EA%B8%B0%EC%9E%90%5D%20%ED%83%9C%EC%96%91%EA%B4%91%EC%9D%B4%20%E2%80%98%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%E2%80%99%EB%A1%9C%20%EC%A7%84%ED%99%94%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EA%B0%9C%EC%9D%B8%EC%9D%B4%20%EC%9A%B4%EC%98%81%ED%95%98%EB%8D%98%20%ED%83%9C%EC%96%91%EA%B4%91%EB%B0%9C%EC%A0%84%EC%86%8C%EC%97%90%EC%84%9C%20%E2%80%98%ED%95%A8%EA%BB%98%20%EC%9A%B4%EC%98%81%ED%95%98%EA%B3%A0%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%EC%83%81%EC%83%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%E2%80%99%EB%A1%9C%EC%9D%98%20%EC%A7%84%ED%99%94%EB%8B%A4.%EC%A7%80%EC%9E%90%EC%B2%B4%EB%8A%94%20%EC%8B%A0%EC%95%88%EA%B5%B0%EC%9D%84%20%EC%8B%9C%EC%9E%91%EC%9C%BC%EB%A1%9C%20%EB%8C%80%EA%B5%AC%EC%8B%9C%2C%20%EC%B0%BD%EC%9B%90%EC%8B%9C%2C%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EB%93%B1%EC%9D%B4%20%EC%8B%9C%EB%AF%BC%EB%93%A4%EA%B3%BC%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4.%20%ED%95%9C%EA%B5%AD%EB%82%A8%EB%8F%99%EB%B0%9C%EC%A0%84%EC%9D%80%20%EA%B5%AD%EB%82%B4%20%EC%B5%9C%EB%8C%80%20%EA%B7%9C%EB%AA%A8%2895%E3%8E%BF%EA%B8%89%29%EC%9D%98%20%E2%80%98%ED%95%B4%EC%B0%BD%EB%A7%8C%20%EC%88%98%EC%83%81%ED%83%9C%EC%96%91%EA%B4%91%E2%80%99%EC%9D%98%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EC%8B%9C%EB%AF%BC%EA%B3%BC%20%EB%82%98%EB%88%84%EB%8A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%B6%94%EC%A7%84%20%EC%A4%91%EC%9D%B4%EB%8B%A4.%20%EC%82%B0%EC%97%85%EB%B6%80%EB%8F%84%20%EB%A7%88%EC%9D%84%EC%A3%BC%EB%8F%84%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%82%AC%EC%97%85%EC%9D%B8%20%ED%96%87%EB%B9%9B%EB%91%90%EB%A0%88%20%EB%B0%9C%EC%A0%84%EC%86%8C%EB%A5%BC%20%EC%B6%94%EC%A7%84%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%93%B1%20%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EC%A7%80%EC%9E%90%EC%B2%B4%2C%20%EB%B0%9C%EC%A0%84%EA%B3%B5%EA%B8%B0%EC%97%85%EC%97%90%20%EC%9D%B4%EC%96%B4%20%EC%82%B0%EC%97%85%EB%B6%80%20%EC%A0%95%EC%B1%85%EC%9C%BC%EB%A1%9C%EA%B9%8C%EC%A7%80%20%ED%99%95%EC%82%B0%EB%90%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EC%A7%80%EC%9E%90" 
+				data-image="http://www.industrynews.co.kr/news/photo/202111/44430_44489_820.jpg">
+				<div class="sns-btn-icons google"><i class="icon-google"></i></div>구글+			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="band" 
+				data-title="%EC%9D%B4%EC%A0%9C%EB%8A%94%20%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EB%8C%80%EC%84%B8%21%2C%20%E2%80%98%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%E2%80%99%EB%A1%9C%20%EC%A7%84%ED%99%94%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%82%AC%EC%97%85" 
+				data-url="http%3A%2F%2Fwww.industrynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D44430" 
+				data-desc="%5B%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%89%B4%EC%8A%A4%20%EA%B6%8C%EC%84%A0%ED%98%95%20%EA%B8%B0%EC%9E%90%5D%20%ED%83%9C%EC%96%91%EA%B4%91%EC%9D%B4%20%E2%80%98%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%E2%80%99%EB%A1%9C%20%EC%A7%84%ED%99%94%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EA%B0%9C%EC%9D%B8%EC%9D%B4%20%EC%9A%B4%EC%98%81%ED%95%98%EB%8D%98%20%ED%83%9C%EC%96%91%EA%B4%91%EB%B0%9C%EC%A0%84%EC%86%8C%EC%97%90%EC%84%9C%20%E2%80%98%ED%95%A8%EA%BB%98%20%EC%9A%B4%EC%98%81%ED%95%98%EA%B3%A0%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%EC%83%81%EC%83%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%E2%80%99%EB%A1%9C%EC%9D%98%20%EC%A7%84%ED%99%94%EB%8B%A4.%EC%A7%80%EC%9E%90%EC%B2%B4%EB%8A%94%20%EC%8B%A0%EC%95%88%EA%B5%B0%EC%9D%84%20%EC%8B%9C%EC%9E%91%EC%9C%BC%EB%A1%9C%20%EB%8C%80%EA%B5%AC%EC%8B%9C%2C%20%EC%B0%BD%EC%9B%90%EC%8B%9C%2C%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EB%93%B1%EC%9D%B4%20%EC%8B%9C%EB%AF%BC%EB%93%A4%EA%B3%BC%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4.%20%ED%95%9C%EA%B5%AD%EB%82%A8%EB%8F%99%EB%B0%9C%EC%A0%84%EC%9D%80%20%EA%B5%AD%EB%82%B4%20%EC%B5%9C%EB%8C%80%20%EA%B7%9C%EB%AA%A8%2895%E3%8E%BF%EA%B8%89%29%EC%9D%98%20%E2%80%98%ED%95%B4%EC%B0%BD%EB%A7%8C%20%EC%88%98%EC%83%81%ED%83%9C%EC%96%91%EA%B4%91%E2%80%99%EC%9D%98%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EC%8B%9C%EB%AF%BC%EA%B3%BC%20%EB%82%98%EB%88%84%EB%8A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%B6%94%EC%A7%84%20%EC%A4%91%EC%9D%B4%EB%8B%A4.%20%EC%82%B0%EC%97%85%EB%B6%80%EB%8F%84%20%EB%A7%88%EC%9D%84%EC%A3%BC%EB%8F%84%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%82%AC%EC%97%85%EC%9D%B8%20%ED%96%87%EB%B9%9B%EB%91%90%EB%A0%88%20%EB%B0%9C%EC%A0%84%EC%86%8C%EB%A5%BC%20%EC%B6%94%EC%A7%84%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%93%B1%20%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EC%A7%80%EC%9E%90%EC%B2%B4%2C%20%EB%B0%9C%EC%A0%84%EA%B3%B5%EA%B8%B0%EC%97%85%EC%97%90%20%EC%9D%B4%EC%96%B4%20%EC%82%B0%EC%97%85%EB%B6%80%20%EC%A0%95%EC%B1%85%EC%9C%BC%EB%A1%9C%EA%B9%8C%EC%A7%80%20%ED%99%95%EC%82%B0%EB%90%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EC%A7%80%EC%9E%90" 
+				data-image="http://www.industrynews.co.kr/news/photo/202111/44430_44489_820.jpg">
+				<div class="sns-btn-icons band"><i class="icon-band"></i></div>네이버밴드			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="blog" 
+				data-title="%EC%9D%B4%EC%A0%9C%EB%8A%94%20%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EB%8C%80%EC%84%B8%21%2C%20%E2%80%98%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%E2%80%99%EB%A1%9C%20%EC%A7%84%ED%99%94%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%82%AC%EC%97%85" 
+				data-url="http%3A%2F%2Fwww.industrynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D44430" 
+				data-desc="%5B%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%89%B4%EC%8A%A4%20%EA%B6%8C%EC%84%A0%ED%98%95%20%EA%B8%B0%EC%9E%90%5D%20%ED%83%9C%EC%96%91%EA%B4%91%EC%9D%B4%20%E2%80%98%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%E2%80%99%EB%A1%9C%20%EC%A7%84%ED%99%94%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EA%B0%9C%EC%9D%B8%EC%9D%B4%20%EC%9A%B4%EC%98%81%ED%95%98%EB%8D%98%20%ED%83%9C%EC%96%91%EA%B4%91%EB%B0%9C%EC%A0%84%EC%86%8C%EC%97%90%EC%84%9C%20%E2%80%98%ED%95%A8%EA%BB%98%20%EC%9A%B4%EC%98%81%ED%95%98%EA%B3%A0%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%EC%83%81%EC%83%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%E2%80%99%EB%A1%9C%EC%9D%98%20%EC%A7%84%ED%99%94%EB%8B%A4.%EC%A7%80%EC%9E%90%EC%B2%B4%EB%8A%94%20%EC%8B%A0%EC%95%88%EA%B5%B0%EC%9D%84%20%EC%8B%9C%EC%9E%91%EC%9C%BC%EB%A1%9C%20%EB%8C%80%EA%B5%AC%EC%8B%9C%2C%20%EC%B0%BD%EC%9B%90%EC%8B%9C%2C%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EB%93%B1%EC%9D%B4%20%EC%8B%9C%EB%AF%BC%EB%93%A4%EA%B3%BC%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4.%20%ED%95%9C%EA%B5%AD%EB%82%A8%EB%8F%99%EB%B0%9C%EC%A0%84%EC%9D%80%20%EA%B5%AD%EB%82%B4%20%EC%B5%9C%EB%8C%80%20%EA%B7%9C%EB%AA%A8%2895%E3%8E%BF%EA%B8%89%29%EC%9D%98%20%E2%80%98%ED%95%B4%EC%B0%BD%EB%A7%8C%20%EC%88%98%EC%83%81%ED%83%9C%EC%96%91%EA%B4%91%E2%80%99%EC%9D%98%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EC%8B%9C%EB%AF%BC%EA%B3%BC%20%EB%82%98%EB%88%84%EB%8A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%B6%94%EC%A7%84%20%EC%A4%91%EC%9D%B4%EB%8B%A4.%20%EC%82%B0%EC%97%85%EB%B6%80%EB%8F%84%20%EB%A7%88%EC%9D%84%EC%A3%BC%EB%8F%84%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%82%AC%EC%97%85%EC%9D%B8%20%ED%96%87%EB%B9%9B%EB%91%90%EB%A0%88%20%EB%B0%9C%EC%A0%84%EC%86%8C%EB%A5%BC%20%EC%B6%94%EC%A7%84%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%93%B1%20%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EC%A7%80%EC%9E%90%EC%B2%B4%2C%20%EB%B0%9C%EC%A0%84%EA%B3%B5%EA%B8%B0%EC%97%85%EC%97%90%20%EC%9D%B4%EC%96%B4%20%EC%82%B0%EC%97%85%EB%B6%80%20%EC%A0%95%EC%B1%85%EC%9C%BC%EB%A1%9C%EA%B9%8C%EC%A7%80%20%ED%99%95%EC%82%B0%EB%90%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EC%A7%80%EC%9E%90" 
+				data-image="http://www.industrynews.co.kr/news/photo/202111/44430_44489_820.jpg">
+				<div class="sns-btn-icons blog"><i class="icon-blog"></i></div>네이버블로그			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="pholar" 
+				data-title="%EC%9D%B4%EC%A0%9C%EB%8A%94%20%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EB%8C%80%EC%84%B8%21%2C%20%E2%80%98%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%E2%80%99%EB%A1%9C%20%EC%A7%84%ED%99%94%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%82%AC%EC%97%85" 
+				data-url="http%3A%2F%2Fwww.industrynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D44430" 
+				data-desc="%5B%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%89%B4%EC%8A%A4%20%EA%B6%8C%EC%84%A0%ED%98%95%20%EA%B8%B0%EC%9E%90%5D%20%ED%83%9C%EC%96%91%EA%B4%91%EC%9D%B4%20%E2%80%98%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%E2%80%99%EB%A1%9C%20%EC%A7%84%ED%99%94%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EA%B0%9C%EC%9D%B8%EC%9D%B4%20%EC%9A%B4%EC%98%81%ED%95%98%EB%8D%98%20%ED%83%9C%EC%96%91%EA%B4%91%EB%B0%9C%EC%A0%84%EC%86%8C%EC%97%90%EC%84%9C%20%E2%80%98%ED%95%A8%EA%BB%98%20%EC%9A%B4%EC%98%81%ED%95%98%EA%B3%A0%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%EC%83%81%EC%83%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%E2%80%99%EB%A1%9C%EC%9D%98%20%EC%A7%84%ED%99%94%EB%8B%A4.%EC%A7%80%EC%9E%90%EC%B2%B4%EB%8A%94%20%EC%8B%A0%EC%95%88%EA%B5%B0%EC%9D%84%20%EC%8B%9C%EC%9E%91%EC%9C%BC%EB%A1%9C%20%EB%8C%80%EA%B5%AC%EC%8B%9C%2C%20%EC%B0%BD%EC%9B%90%EC%8B%9C%2C%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EB%93%B1%EC%9D%B4%20%EC%8B%9C%EB%AF%BC%EB%93%A4%EA%B3%BC%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4.%20%ED%95%9C%EA%B5%AD%EB%82%A8%EB%8F%99%EB%B0%9C%EC%A0%84%EC%9D%80%20%EA%B5%AD%EB%82%B4%20%EC%B5%9C%EB%8C%80%20%EA%B7%9C%EB%AA%A8%2895%E3%8E%BF%EA%B8%89%29%EC%9D%98%20%E2%80%98%ED%95%B4%EC%B0%BD%EB%A7%8C%20%EC%88%98%EC%83%81%ED%83%9C%EC%96%91%EA%B4%91%E2%80%99%EC%9D%98%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EC%8B%9C%EB%AF%BC%EA%B3%BC%20%EB%82%98%EB%88%84%EB%8A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%B6%94%EC%A7%84%20%EC%A4%91%EC%9D%B4%EB%8B%A4.%20%EC%82%B0%EC%97%85%EB%B6%80%EB%8F%84%20%EB%A7%88%EC%9D%84%EC%A3%BC%EB%8F%84%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%82%AC%EC%97%85%EC%9D%B8%20%ED%96%87%EB%B9%9B%EB%91%90%EB%A0%88%20%EB%B0%9C%EC%A0%84%EC%86%8C%EB%A5%BC%20%EC%B6%94%EC%A7%84%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%93%B1%20%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EC%A7%80%EC%9E%90%EC%B2%B4%2C%20%EB%B0%9C%EC%A0%84%EA%B3%B5%EA%B8%B0%EC%97%85%EC%97%90%20%EC%9D%B4%EC%96%B4%20%EC%82%B0%EC%97%85%EB%B6%80%20%EC%A0%95%EC%B1%85%EC%9C%BC%EB%A1%9C%EA%B9%8C%EC%A7%80%20%ED%99%95%EC%82%B0%EB%90%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EC%A7%80%EC%9E%90" 
+				data-image="http://www.industrynews.co.kr/news/photo/202111/44430_44489_820.jpg">
+				<div class="sns-btn-icons pholar"><i class="icon-pholar"></i></div>네이버폴라			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="pinterest" 
+				data-title="%EC%9D%B4%EC%A0%9C%EB%8A%94%20%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EB%8C%80%EC%84%B8%21%2C%20%E2%80%98%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%E2%80%99%EB%A1%9C%20%EC%A7%84%ED%99%94%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%82%AC%EC%97%85" 
+				data-url="http%3A%2F%2Fwww.industrynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D44430" 
+				data-desc="%5B%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%89%B4%EC%8A%A4%20%EA%B6%8C%EC%84%A0%ED%98%95%20%EA%B8%B0%EC%9E%90%5D%20%ED%83%9C%EC%96%91%EA%B4%91%EC%9D%B4%20%E2%80%98%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%E2%80%99%EB%A1%9C%20%EC%A7%84%ED%99%94%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EA%B0%9C%EC%9D%B8%EC%9D%B4%20%EC%9A%B4%EC%98%81%ED%95%98%EB%8D%98%20%ED%83%9C%EC%96%91%EA%B4%91%EB%B0%9C%EC%A0%84%EC%86%8C%EC%97%90%EC%84%9C%20%E2%80%98%ED%95%A8%EA%BB%98%20%EC%9A%B4%EC%98%81%ED%95%98%EA%B3%A0%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%EC%83%81%EC%83%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%E2%80%99%EB%A1%9C%EC%9D%98%20%EC%A7%84%ED%99%94%EB%8B%A4.%EC%A7%80%EC%9E%90%EC%B2%B4%EB%8A%94%20%EC%8B%A0%EC%95%88%EA%B5%B0%EC%9D%84%20%EC%8B%9C%EC%9E%91%EC%9C%BC%EB%A1%9C%20%EB%8C%80%EA%B5%AC%EC%8B%9C%2C%20%EC%B0%BD%EC%9B%90%EC%8B%9C%2C%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EB%93%B1%EC%9D%B4%20%EC%8B%9C%EB%AF%BC%EB%93%A4%EA%B3%BC%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4.%20%ED%95%9C%EA%B5%AD%EB%82%A8%EB%8F%99%EB%B0%9C%EC%A0%84%EC%9D%80%20%EA%B5%AD%EB%82%B4%20%EC%B5%9C%EB%8C%80%20%EA%B7%9C%EB%AA%A8%2895%E3%8E%BF%EA%B8%89%29%EC%9D%98%20%E2%80%98%ED%95%B4%EC%B0%BD%EB%A7%8C%20%EC%88%98%EC%83%81%ED%83%9C%EC%96%91%EA%B4%91%E2%80%99%EC%9D%98%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EC%8B%9C%EB%AF%BC%EA%B3%BC%20%EB%82%98%EB%88%84%EB%8A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%B6%94%EC%A7%84%20%EC%A4%91%EC%9D%B4%EB%8B%A4.%20%EC%82%B0%EC%97%85%EB%B6%80%EB%8F%84%20%EB%A7%88%EC%9D%84%EC%A3%BC%EB%8F%84%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%82%AC%EC%97%85%EC%9D%B8%20%ED%96%87%EB%B9%9B%EB%91%90%EB%A0%88%20%EB%B0%9C%EC%A0%84%EC%86%8C%EB%A5%BC%20%EC%B6%94%EC%A7%84%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%93%B1%20%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EC%A7%80%EC%9E%90%EC%B2%B4%2C%20%EB%B0%9C%EC%A0%84%EA%B3%B5%EA%B8%B0%EC%97%85%EC%97%90%20%EC%9D%B4%EC%96%B4%20%EC%82%B0%EC%97%85%EB%B6%80%20%EC%A0%95%EC%B1%85%EC%9C%BC%EB%A1%9C%EA%B9%8C%EC%A7%80%20%ED%99%95%EC%82%B0%EB%90%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EC%A7%80%EC%9E%90" 
+				data-image="http://www.industrynews.co.kr/news/photo/202111/44430_44489_820.jpg">
+				<div class="sns-btn-icons pinterest"><i class="icon-pinterest"></i></div>핀터레스트			</button>
+			<button type="button" class="sns-btns" id='sns-url-copy-button'				data-sharesns="http" 
+				data-title="%EC%9D%B4%EC%A0%9C%EB%8A%94%20%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EB%8C%80%EC%84%B8%21%2C%20%E2%80%98%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%E2%80%99%EB%A1%9C%20%EC%A7%84%ED%99%94%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%82%AC%EC%97%85" 
+				data-url="http%3A%2F%2Fwww.industrynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D44430" 
+				data-desc="%5B%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%89%B4%EC%8A%A4%20%EA%B6%8C%EC%84%A0%ED%98%95%20%EA%B8%B0%EC%9E%90%5D%20%ED%83%9C%EC%96%91%EA%B4%91%EC%9D%B4%20%E2%80%98%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%E2%80%99%EB%A1%9C%20%EC%A7%84%ED%99%94%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EA%B0%9C%EC%9D%B8%EC%9D%B4%20%EC%9A%B4%EC%98%81%ED%95%98%EB%8D%98%20%ED%83%9C%EC%96%91%EA%B4%91%EB%B0%9C%EC%A0%84%EC%86%8C%EC%97%90%EC%84%9C%20%E2%80%98%ED%95%A8%EA%BB%98%20%EC%9A%B4%EC%98%81%ED%95%98%EA%B3%A0%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%EC%83%81%EC%83%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%E2%80%99%EB%A1%9C%EC%9D%98%20%EC%A7%84%ED%99%94%EB%8B%A4.%EC%A7%80%EC%9E%90%EC%B2%B4%EB%8A%94%20%EC%8B%A0%EC%95%88%EA%B5%B0%EC%9D%84%20%EC%8B%9C%EC%9E%91%EC%9C%BC%EB%A1%9C%20%EB%8C%80%EA%B5%AC%EC%8B%9C%2C%20%EC%B0%BD%EC%9B%90%EC%8B%9C%2C%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EB%93%B1%EC%9D%B4%20%EC%8B%9C%EB%AF%BC%EB%93%A4%EA%B3%BC%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4.%20%ED%95%9C%EA%B5%AD%EB%82%A8%EB%8F%99%EB%B0%9C%EC%A0%84%EC%9D%80%20%EA%B5%AD%EB%82%B4%20%EC%B5%9C%EB%8C%80%20%EA%B7%9C%EB%AA%A8%2895%E3%8E%BF%EA%B8%89%29%EC%9D%98%20%E2%80%98%ED%95%B4%EC%B0%BD%EB%A7%8C%20%EC%88%98%EC%83%81%ED%83%9C%EC%96%91%EA%B4%91%E2%80%99%EC%9D%98%20%EB%B0%9C%EC%A0%84%EC%88%98%EC%9D%B5%EC%9D%84%20%EC%8B%9C%EB%AF%BC%EA%B3%BC%20%EB%82%98%EB%88%84%EB%8A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%B6%94%EC%A7%84%20%EC%A4%91%EC%9D%B4%EB%8B%A4.%20%EC%82%B0%EC%97%85%EB%B6%80%EB%8F%84%20%EB%A7%88%EC%9D%84%EC%A3%BC%EB%8F%84%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%82%AC%EC%97%85%EC%9D%B8%20%ED%96%87%EB%B9%9B%EB%91%90%EB%A0%88%20%EB%B0%9C%EC%A0%84%EC%86%8C%EB%A5%BC%20%EC%B6%94%EC%A7%84%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%93%B1%20%EB%82%98%EB%88%94%ED%98%95%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EC%A7%80%EC%9E%90%EC%B2%B4%2C%20%EB%B0%9C%EC%A0%84%EA%B3%B5%EA%B8%B0%EC%97%85%EC%97%90%20%EC%9D%B4%EC%96%B4%20%EC%82%B0%EC%97%85%EB%B6%80%20%EC%A0%95%EC%B1%85%EC%9C%BC%EB%A1%9C%EA%B9%8C%EC%A7%80%20%ED%99%95%EC%82%B0%EB%90%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EC%A7%80%EC%9E%90" 
+				data-image="http://www.industrynews.co.kr/news/photo/202111/44430_44489_820.jpg">
+				<div class="sns-btn-icons user-bg"><i class="icon-http"></i></div>URL복사			</button>
+<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+<script src="/script/share.sns.js"></script>
+<script>
+	var site_ismobile		= '';			// 현재 모바일접속 여부
+	var kakaojavascriptkey	= '';	// 카카오앱 자바스크립트키
+
+	$(document).ready(function(e) {
+
+		if(kakaojavascriptkey) kakaoinit(kakaojavascriptkey);
+
+		$('#article-sns').on('click', '.sns-btns', function(e) {
+			
+			var sns		= $(this).data('sharesns');
+			var title	= $(this).data('title');
+			var desc	= $(this).data('desc');
+			var url		= $(this).data('url');
+			var img		= $(this).data('image');
+
+			if(sns == "talk") {
+				if(!site_ismobile) {
+					alert("PC 웹에서 지원하지 않습니다.");
+					return false;
+				}
+				sendKakaoTalk(url, title, desc, img);
+			}else if(sns == "story") {
+				shareStory(url, title, desc, img);
+			}else if(sns == "http") {
+				new Clipboard('#sns-url-copy-button', {
+					text: function(trigger) {
+						return decodeURIComponent($(trigger).data('url'));
+					}
+				});
+				alert("클립보드에 복사되었습니다. \nCtrl+v해서 원하는 곳에 붙여넣으세요.");
+			}else if(sns == "band") {
+				shareBand(url, title);
+			}else{
+				shareOtherSNS(sns, title, url, img);
+			}
+		});
+	});
+</script>				</div>
+			</section>
+			
+			<!-- close //-->
+			<button class="close-button" data-close aria-label="Close modal" type="button">
+				<span aria-hidden="true">&times;</span>
+			</button>
+			<!--// close -->
+		</div>
+
+	</section>
+
+	</header>
+<!--// 기사본문 상단 -->
+
+
+	<hr>
+
+	
+
+	<div id="article-control-view">
+
+
+
+	<!-- article view wrapper //-->
+	<div class="user-content">
+
+		<!-- 기사본문 내용 //-->
+		<section class="user-snb">	
+			<div class="user-snb-wrapper">
+				<!-- contents //-->
+				<article class="article-veiw-body view-page">
+					<!-- 편집패널 //-->
+					<div class="clearfix">
+
+					</div>
+					<!--// 편집패널 -->
+
+					<div id="article-view-content-div" class="" itemprop="articleBody">
+		<div class="article-head-sub">신안군 시작으로 대구시, 창원시, 광주시, 한국남동발전, 산업부까지 나눔형 모델 속속 도입 중</div>
+	
+		
+		
+	<p>[인더스트리뉴스 권선형 기자] 태양광이&nbsp;&lsquo;나눔형 모델&rsquo;로 진화하고 있다. 개인이 운영하던 태양광발전소에서 &lsquo;함께 운영하고 발전수익을 나누는 상생 프로젝트&rsquo;로의 진화다.</p>
+
+<p>지자체는 신안군을 시작으로 대구시, 창원시, 광주시 등이 시민들과 발전수익을 나누는 프로젝트를 시작했다.&nbsp;한국남동발전은 국내 최대 규모(95㎿급)의 &lsquo;해창만 수상태양광&rsquo;의 발전수익을 시민과 나누는&nbsp;프로젝트를&nbsp;추진 중이다. 산업부도&nbsp;마을주도 태양광 사업인 햇빛두레 발전소를&nbsp;추진하고 있는 등 나눔형 모델이 지자체, 발전공기업에 이어&nbsp;산업부 정책으로까지 확산되고 있다.&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="photo-layout image photo_44485 max-width-600 float-center" data-idxno="44485" data-type="photo" style="display:inline-block"><img alt="대구시는 지난 11월 18일 대구시민햇빛발전소 7, 8호기 준공식을 갖고 본격 가동에 들어갔다. 대구시의 시민참여형 햇빛발전소 전경" src="/news/photo/202111/44430_44485_5819.jpg" />
+<figcaption>대구시는 지난 11월 18일 대구시민햇빛발전소 7, 8호기 준공식을 갖고 본격 가동에 들어갔다. 대구시의 시민참여형 햇빛발전소 전경 [사진=대구시]</figcaption>
+</figure>
+</div>
+
+<p><strong>지자체 나눔형 모델, 신안군을 시작으로 대구시, 광주시, 창원시 등 확산</strong></p>
+
+<p>지자체 &lsquo;나눔형 모델&rsquo;의 시작은 신안군이다. 신안군은 2018년 10월 전국에서 최초로 &lsquo;신재생에너지 개발이익 공유 등에 관한 조례&rsquo;를 제정했다. 조례는 특수목적법인(SPC)의 자기자본 30% 또는 사업비의 4% 이상으로 주민이 협동조합을 설립해 신재생에너지 발전 사업에 참여하면 개발 이익을 공유하도록 했다. 나이와 상관없이 매년 4차례 분기별로 지급되는 배당금은 1분기에 1인 기준 12만원~51만원이 배당됐다. 태양광발전 수익을 나누자 인구 고령화와 지방소멸위기 고위험군이었던 신안군의 인구는 7년 만에 늘었다.&nbsp;</p>
+
+<p>대구시도 시민햇빛발전소협동조합을 통해 발전수익을 시민과 나누고 있다. 대구시는 지난 11월 18일 대구시민햇빛발전소 7, 8호기 준공식을 갖고 본격 가동에 들어갔다. 96명의 시민 조합원으로 구성된 대구시민햇빛발전협동조합이 3억원을 출자해 대구시 상수도사업본부 달성사업소 구지정수장과 구지(공업)배수지 상부에 198kW(99kW&times;2기) 규모로 건립해 연간 250MWh의 전력을 생산할 계획이다.</p>
+
+<p>협동조합에 출자한 시민들은 출자금으로 공공기관 유휴 부지를 빌려 임대료를 지불하고 태양광발전소에서 생산한 전력을 판매해 수익을 얻는다. 출자금액에 따라 연 4% 정도가 배당될 전망이다.</p>
+
+<p>대구시는 지난 3월 대구형 시민햇빛발전소의 2050년 장기계획을 수립했다. 주민참여형, 청년주도형, 실버솔라형 등 다양한 유형의 사업모델을 발굴해 2050년까지 500개소에 총 발전용량 50MW를&nbsp;확보할 계획이다.</p>
+
+<p>창원시도 창원시민에너지협동조합준비위원회와 손잡고 &lsquo;시민이익 나눔형 태양광발전&rsquo; 사업에&nbsp;나섰다. 창원시는&nbsp;창원시민에너지협동조합의 협약에 따라 추진하고 있는 시민이익 나눔형 태양광발전소 설치 설명회를 11월 22일 창원시청 시민홀에서 협동조합 주관으로 개최했다.</p>
+
+<p>창원시 산하 건물옥상과 주차장을 활용해 태양광발전을 하고, 수익을 시민과 나누는 것이 골자다. 발전사업허가, 조합원 모집 및 펀드조성 등의 절차를 거쳐 1단계 10개소 2MW 내년 상반기 준공, 2단계 7개소 3MW 내년 하반기 준공을 목표로 추진한다. 시민이익 나눔형 태양광은 총 설치비 5억6,000만원 중 35%에 해당하는 2억원은 시민의 출자금으로 조성하고 나머지는 저리 은행대출로 충당한다. 발전 수익 중 5%를 조합원에게 돌려주는 방식이다. 창원시 허성무 시장이 제1호 조합원이 됐다.&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="photo-layout image photo_44486 max-width-600 float-center" data-idxno="44486" data-type="photo" style="display:inline-block"><img alt="창원시는 지난 9월 창원시민에너지협동조합의 협약에 따라 추진하고 있는 시민이익 나눔형 태양광발전소 설치 설명회를 11월 22일 창원시청 시민홀에서 협동조합(이사장 안명선) 주관으로 개최했다. [사진=창원시]" src="/news/photo/202111/44430_44486_25.jpg" />
+<figcaption>창원시는 지난 9월 창원시민에너지협동조합의 협약에 따라 추진하고 있는 시민이익 나눔형 태양광발전소 설치 설명회를 11월 22일 창원시청 시민홀에서 협동조합(이사장 안명선) 주관으로 개최했다. [사진=창원시]</figcaption>
+</figure>
+</div>
+
+<p>광주시도 시민참여형 &lsquo;에너지 전환마을&rsquo;을 추진하고 있다. 광주시는 동구 지원마을, 서구 풍암마을, 남구 양림마을, 북구 일곡마을, 광산구 첨단마을 등 5곳을 &lsquo;에너지전환 시범마을&rsquo;로 선정하고 본격적인 운영에 들어갔다.</p>
+
+<p>에너지 전환마을 거점센터 1호점으로 광산구에 처음 개소한 &lsquo;첨단전환마을 에너지카페&rsquo;는 지난 6월 마을 주민들이 참여해 &lsquo;반짝반짝햇빛발전협동조합&rsquo;을 설립하고 시민햇빛발전소 조성을 준비하고 있다.</p>
+
+<p>동구 &lsquo;지원마을 에너지전환센터&rsquo;를 주도한 &lsquo;지원마을 에너지전환연대&rsquo;는 골목길 주택들이 많은 지역 특성에 맞게 주민들이 직접 참여하는 &lsquo;우리집 에너지 사용량 기록단 리빙랩&rsquo;을 통해 에너지 절약 캠페인을 벌이고 있다.</p><center class="auto-martop-15 auto-marbtm-15;"></center>
+
+<div style="text-align:center">
+<figure class="photo-layout image photo_44487 max-width-600 float-center" data-idxno="44487" data-type="photo" style="display:inline-block"><img alt="에너지 전환마을 1호점으로 광산구에 문을 연 ‘첨단전환마을 에너지카페’에서 주민들이 태양광 발전과 에너지 절전소의 원리 및 시스템에 대한 설명을 듣고 있다. [사진=광주시]" src="/news/photo/202111/44430_44487_228.png" />
+<figcaption>에너지 전환마을 1호점으로 광산구에 문을 연 &lsquo;첨단전환마을 에너지카페&rsquo;에서 주민들이 태양광 발전과 에너지 절전소의 원리 및 시스템에 대한 설명을 듣고 있다. [사진=광주시]</figcaption>
+</figure>
+</div>
+
+<p><strong>한국남동발전, 산업부도 나눔형 모델 추진</strong></p>
+
+<p>수상태양광으로는 국내 최대 규모로 추진되고 있는 한국남동발전 &lsquo;해창만 수상태양광&rsquo;도 지역사회 참여를 적극 이끌어내며 신재생에너지 모범 지역상생 사업으로 주목받고 있다.</p>
+
+<p>&lsquo;해창만 수상태양광&rsquo;은 해창만에 95㎿급 용량으로 건설되는 국내 최대 규모의 수상태양광 사업이다. 국내 최초 지자체 주도형 재생에너지 사업이자 지역민과 이익을 공유하는 주민참여형 수상태양광 사례다.</p>
+
+<p>전남 고흥군은 재생에너지 사업을 통한 지역경제 활성화를 위해 직접 부지를 발굴하고, 사업자를 공모해 이번 사업을 추진하고 있다. 올해 4월말 착공해 건설 진행 중이며 2022년 10월 준공 후 상업운전에 들어갈 예정이다.</p>
+
+<div style="text-align:center">
+<figure class="photo-layout image photo_44488 max-width-600 float-center" data-idxno="44488" data-type="photo" style="display:inline-block"><img alt="‘해창만 수상태양광’은 해창만에 95㎿급 용량으로 건설되는 국내 최대 규모의 수상태양광 사업이다. 국내 최초 지자체 주도형 재생에너지 사업이자 지역민과 이익을 공유하는 주민참여형 수상태양광 사례다. 해창만 수상태양광 조감도 [사진=한국남동발전]" src="/news/photo/202111/44430_44488_457.jpg" />
+<figcaption>&lsquo;해창만 수상태양광&rsquo;은 해창만에 95㎿급 용량으로 건설되는 국내 최대 규모의 수상태양광 사업이다. 국내 최초 지자체 주도형 재생에너지 사업이자 지역민과 이익을 공유하는 주민참여형 수상태양광 사례다. 해창만 수상태양광 조감도 [사진=한국남동발전]</figcaption>
+</figure>
+</div>
+
+<p>산업부도 국내 최초의 마을주도 태양광 사업인 햇빛두레 발전소&nbsp;추진에 나섰다. 산업부는 본격적인 제도 신설에 앞서 2022년 상반기에 10개 참여마을을 선정해 시범사업을 실시한 후 햇빛두레 발전소 사업을 추진한다는 계획이다.</p>
+
+<p>먼저 산업부는 햇빛두레 발전사업자를 한국형 FIT 대상에 포함해 안정적인 수익을 확보할 수 있도록 지원에 나선다.</p>
+
+<p>공급인증서(REC) 우대 가중치도 부여한다. 공급인증서(REC) 추가 가중치 0.2를 부여해, 해당 가중치로 발생한 수익은 참여주민에게 모두 제공한다. 총사업비의 4% 및 자기자본금액의 20%를 지역주민(발전소 1km 내 읍면동에 1년 이상 주민등록)이 투자할 경우에 한해서다.</p>
+
+<p>장기‧저리 금융지원도 나선다. 햇빛두레 발전사업자로 지정된 마을은 발전시설 구입&middot;설치자금, 설계&middot;감리비 등 최대 15억원의 장기&middot;저리 융자를 지원받는다. 총사업비의 90% 한도, 1.75% 금리, 5년 거치 10년 분할상환이다.</p><div class="float-right auto-padtop-10 auto-padleft-15 auto-padbtm-15"><script type="text/javascript">var ___BANNER = "ban_1579570746045";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/135.js?1579570746045" id="ban_1579570746045"></script></div>
+
+<p>산업부는 이 같은 혜택으로 2020년 발전단가를 적용할 시, 주민 1인당 연간 최대 60% 수익이 발생할 것으로 전망하고 있다.</p>
+
+<p>산업부 관계자는 &ldquo;2050 탄소중립을 위해 태양광 보급의 확대가 필요한 상황에서 사업 참여 주민과 수익을 공유하며 수용성을 확보해 추진하는 사업모델에 대한 요구가 증가하고 있다&rdquo;며, &ldquo;정부는 태양광 사업추진 시 발전소 인근 지역주민이 일정부분 투자한 사업에 대한 인센티브 부여 등으로 주민참여형 사업으로 전환을 유도하고 있다&rdquo;고 밝혔다.</p>
+
+<p>&nbsp;</p></p>	<div class="tag-group">
+		<div class="tag-group-title">Tag</div>
+						<a href="/news/articleList.html?sc_area=A&sc_word=태양광발전수익공유" class="tag-button">#태양광발전수익공유</a>
+						<a href="/news/articleList.html?sc_area=A&sc_word=태양광이익공유" class="tag-button">#태양광이익공유</a>
+						<a href="/news/articleList.html?sc_area=A&sc_word=신안군" class="tag-button">#신안군</a>
+						<a href="/news/articleList.html?sc_area=A&sc_word=대구시태양광" class="tag-button">#대구시태양광</a>
+						<a href="/news/articleList.html?sc_area=A&sc_word=창원시태양광" class="tag-button">#창원시태양광</a>
+						<a href="/news/articleList.html?sc_area=A&sc_word=해창만수상태양광" class="tag-button">#해창만수상태양광</a>
+						<a href="/news/articleList.html?sc_area=A&sc_word=산업부" class="tag-button">#산업부</a>
+						<a href="/news/articleList.html?sc_area=A&sc_word=햇빛두레발전소" class="tag-button">#햇빛두레발전소</a>
+						<a href="/news/articleList.html?sc_area=A&sc_word=산업부태양광" class="tag-button">#산업부태양광</a>
+			</div>
+
+		
+		<div class="view-copyright">저작권자 &copy; 인더스트리뉴스 무단전재 및 재배포 금지</div>
+
+		<div class="view-editors">
+			<div class="float-right">
+				<div class="profile-images">
+											<img src="/image/newsroom/default-user.png" alt="권선형 기자" />
+									</div>
+				<a href="mailto:news@industrynews.co.kr" class="names"><strong>권선형 기자</strong></a>
+				<a href="articleList.html?sc_area=I&sc_word=kwonddol09" class="articles">다른기사 보기</a>			</div>
+		</div>
+
+	
+
+	
+</div>
+					<!-- 편집패널 //-->
+					<div class="clearfix">
+
+					</div>
+					<!--// 편집패널 -->
+				</article>
+				<!--// contents -->
+
+				<hr>
+
+<!-- 관련기사 //-->
+<article class="article-relation user-view">
+	<header class="title"><strong>관련기사</strong></header>
+	<section class="container">
+					<article class="contents">
+				<a href="/news/articleView.html?idxno=44159" target="_self" class="list-title">[칼럼] 신재생에너지 계통연계 확대를 위한 배전조류계산의 필요성</a>
+			</article>
+					<article class="contents">
+				<a href="/news/articleView.html?idxno=43868" target="_self" class="list-title">[칼럼] 태양광발전사업의 성공적인 투자절차와 비법</a>
+			</article>
+					<article class="contents">
+				<a href="/news/articleView.html?idxno=43509" target="_self" class="list-title">[칼럼] 태양광발전 화재의 90%를 차지하는 접속함의 안전설계 방안</a>
+			</article>
+					<article class="contents">
+				<a href="/news/articleView.html?idxno=43212" target="_self" class="list-title">[칼럼] 태양광발전 O&M과 모니터링 산업</a>
+			</article>
+					<article class="contents">
+				<a href="/news/articleView.html?idxno=42859" target="_self" class="list-title">[칼럼] 철저한 설계 및 시공감리가 태양광발전사업 성패를 좌우한다</a>
+			</article>
+			</section>
+</article>
+<!--// 관련기사 -->
+<hr>
+
+				<!-- 편집패널 //-->
+				<div class="clearfix">
+
+				</div>
+				<!--// 편집패널 -->
+
+				
+<div class = "vote-container"></div>
+<script type="text/javascript" src="http://www.industrynews.co.kr/vote/vote.js"></script>
+<script>
+	jQuery( document ).ready(function() {
+		vote.voteCheck(
+			jQuery('#reply-write-btn, .reply-container'),			// 폐쇄시 제거할 영역
+			'S',													// 실명제 구분값
+			'/news/articleView.html'						// 리턴URL
+		);
+	});
+</script>
+
+
+
+<!-- 댓글삭제 //-->
+<div class="reveal gray" id="reply-delete-modal" data-reveal>
+	<header class="reveal-header">
+		<div class="reveal-title">댓글삭제</div>
+	</header>
+	
+	<section class="reveal-container">
+		<!-- msg //-->
+		<div class="reveal-msg">
+			삭제한 댓글은 다시 <span class="user-point">복구할 수 없습니다.</span><br>
+			그래도 삭제하시겠습니까?
+		</div>
+		<!--// msg -->
+		
+		<form id="reply-delete-form" name="replyForm" method="post" action="articleReplyDelete.php">
+		
+		<input id="reply-delete-mode"					name="mode"					type="hidden" placeholder="삭제모드"	 value = "" />
+		<input id="reply-delete-idxno"					name="idxno"				type="hidden" placeholder="삭제번호"	 value = "" />	
+		<input id="reply-delete-reply-parent-idxno"		name="reply_parent_idxno"	type="hidden" placeholder="삭제부모번호" value = "" />
+		<input id="reply-delete-parent-idxno"			name="parent_idxno"			type="hidden" placeholder="기사번호"	 value="44430" />		
+		<input id="reply-delete-reply-page"				name="reply_page"			type="hidden" placeholder="페이징"		 value="1" />
+		<input id="reply-delete-reply-all"				name="replyAll"				type="hidden" placeholder="전체보기"	 value="" />
+		<input id="reply-delete-reply-sc-order-by"		name="reply_sc_order_by"	type="hidden" placeholder="댓글정렬" 	 value="I" />
+
+		
+				<!-- 비밀번호 //-->
+		<fieldset id="delete-password-field" class="row expanded small-collapse medium-uncollapse">
+			<div class="small-12 medium-3 columns">
+				<label for="password" class="text-left medium-text-right medium-middle"><strong class="key-point">비밀번호</strong></label>
+			</div>
+			<div class="small-12 medium-9 columns">		
+				<input type="password" name="password" id="password" title="비밀번호" maxlength="20" placeholder="비밀번호 입력" class = "required" title = "비밀번호">
+			</div>
+		</fieldset>
+		
+		<!--// 비밀번호 -->
+		<footer class="clearfix">
+			<div class="float-right small-float-center">
+				<button class="button user-bg small-expanded"><i class="fa fa-trash-o fa-fw"></i>&nbsp;<strong>삭제</strong></button>
+			</div>
+		</footer>
+
+		</form>
+	</section>
+		
+	<!-- 닫기 //-->
+	<button class="close-button" data-close aria-label="Close modal" type="button">
+		<span aria-hidden="true">&times;</span>
+	</button>
+	<!--// 닫기 -->
+</div>
+<!--// 댓글삭제 -->
+
+
+
+<!-- 댓글 //-->
+<article id="reply" class="article-reply">
+	<header class="reply-header">
+		<strong>댓글</strong>
+		<span class="text-muted">0</span>	</header>
+	
+	
+	<!-- 댓글쓰기 //-->
+	<button type="button" class="reply-trick">댓글입력 권한이 없습니다.</button>
+
+	<section id="reply-container" class="reply-container" style="display:none">
+		<div class="reply-comment">
+			<form id="reply-form" name="replyForm" method="post" action="articleReply.php">
+
+			<input id="reply-insert-article-idxno"	name="parent_idxno"			type="hidden" value="44430" />
+			<input id="reply-insert-user-id"		name="user_id"				type="hidden" value="" />
+			<input id="reply-insert-mode"			name="mode"					type="hidden" value="input" />				
+			<input id="g-recaptcha-response"		name="g-recaptcha-response"	type="hidden" value="" />
+			<input id="reply-page"					name="reply_page"			type="hidden" placeholder="페이징"		value="1" />
+			<input id="reply-all"					name="replyAll"				type="hidden" placeholder="전체보기"	value="" />
+			<input id="reply-sc-order-by"			name="reply_sc_order_by"	type="hidden" placeholder="댓글정렬"	value="I" />
+
+			<header class="cmt-header">
+				<!-- 로그인버튼 //-->
+				<div class="logbox">
+					<a href="/member/login.html?backUrl=/news/articleView.html?idxno=44430#reply" class="logbox-btn active"><i class="login-logo"></i><span class="show-for-sr">로그인</span></a>
+					<!--<button type="button" class="logbox-btn"><i class="icon-facebook fa-fw"></i><span class="show-for-sr">페이스북</span></button>
+					<button type="button" class="logbox-btn"><i class="icon-twitter fa-fw"></i><span class="show-for-sr">트위터</span></button>
+					<button type="button" class="logbox-btn"><i class="icon-naver fa-fw"></i><span class="show-for-sr">네이버</span></button>
+					<button type="button" class="logbox-btn"><i class="icon-talk fa-fw"></i><span class="show-for-sr">카카오</span></button>-->
+				</div>
+				<!--// 로그인버튼 -->
+				
+				<!-- 로그인 이름 //-->
+				<div id="login-member" class="login-member"></div>
+				<!--// 로그인 이름 -->
+				
+
+				<div class="float-right reply-name" style = "display:none">
+					<span class="dis-inblock reply-write-name">
+						<label for="name" class="sr-only">이름</label>
+						<input id="reply-insert-name" type="text" name="name" title="이름" size="10" placeholder="이름" value = "">
+					</span>
+					<span class="dis-inblock reply-write-password">
+						<label for="password" class="sr-only">비밀번호</label>
+						<input id="reply-insert-password" type="password" name="password" title="비밀번호" size="10"  placeholder="비밀번호" value = "">
+					</span>
+				</div>
+			</header>
+
+
+			<!-- 댓글입력 //-->
+			<section class="cmt-container">
+				<label for="content" class="sr-only">내용</label>
+				<textarea name="content" id="content" title="내용" class="min-height-80 reply-content required" placeholder="권리침해, 욕설 및 특정 대상을 비하하는 내용을 게시할 경우 이용약관 및 관련법률에 의해 제해될 수 있습니다. 공공기기에서는 사용 후 로그아웃 해주세요." rows="3"></textarea>
+			</section>
+			<!--// 댓글입력 -->
+
+			<!-- 댓글등록버튼 //-->
+			<footer class="cmt-footer">
+				<span class="reply-textnum text-muted"><strong id ="reply-cur-text">0</strong> / 400</span>
+				<button type="submit" class="button user-bg"><i class="fa fa-comments-o fa-fw"></i>&nbsp;등록</button>
+			</footer>
+			<!--// 댓글등록버튼 -->
+			</form>
+		</div>
+	</section>
+	<!--// 댓글쓰기 -->
+
+
+	<!-- 댓글쓰기인증 //-->
+		<div class="reveal gray" id="reply-modal" data-reveal>		
+			<header class="reveal-header">
+				<div class="reveal-title">댓글쓰기</div>
+			</header>
+
+			<section class="reveal-container">
+
+				<!-- msg //-->
+				<div class="reveal-msg">
+					계정을 선택하시면 <span class="user-point">로그인·계정인증</span>을 통해<br> 댓글을 남기실 수 있습니다.
+				</div>
+				<!--// msg -->
+
+				<div class="reply-login">
+					<div class="button-group nd-white large">
+						<a href = "/member/login.html?backUrl=/news/articleView.html?idxno=44430#reply" id = "btn-login" type="button" class="button expanded"><i class="login-logo"></i>회원 로그인</a>
+						<!--<button type="button" class="button expanded"><i class="icon-facebook fa-fw"></i>페이스북</button>
+						<button type="button" class="button expanded"><i class="icon-twitter fa-fw"></i>트위터</button>
+						<button type="button" class="button expanded"><i class="icon-naver fa-fw"></i>네이버</button>
+						<button type="button" class="button expanded"><i class="icon-talk fa-fw"></i>카카오</button>-->
+											</div>
+
+					<div id="nomember-info" class="clearfix" style = "display:none">
+						<hr />
+						<!-- 이름 //-->
+						<fieldset class="row expanded small-collapse medium-uncollapse">
+							<div class="small-12 medium-3 columns">
+								<label for="name" class="text-left medium-text-right medium-middle"><strong class="key-point">이름</strong></label>
+							</div>
+							<div class="small-12 medium-9 columns">		
+								<input type="text" name="name" id="nomember-name" title="이름" maxlength="20" placeholder="이름" class = "required auto-marbtm-5" title = "이름">
+							</div>
+						</fieldset>
+						<!--// 이름 -->
+
+						<!-- 비밀번호 //-->
+						<fieldset class="row expanded small-collapse medium-uncollapse">
+							<div class="small-12 medium-3 columns">
+								<label for="password" class="text-left medium-text-right medium-middle"><strong class="key-point">비밀번호</strong></label>
+							</div>
+							<div class="small-12 medium-9 columns">		
+								<input type="password" name="password" id="nomember-password" title="비밀번호" maxlength="20" placeholder="비밀번호" class = "required auto-marbtm-5" title = "비밀번호">
+							</div>
+						</fieldset>
+						<!--// 비밀번호 -->
+
+						<!-- 캡챠 //-->
+						<fieldset class="row expanded small-collapse medium-uncollapse">
+							<div class="small-12 medium-3 columns">
+								<label for="kcaptcha" class="text-left medium-text-right medium-middle"><strong class="key-point">자동등록방지</strong></label>
+							</div>
+							<div class="small-12 medium-9 columns">		
+								<div class="input-group auto-marbtm-5">							
+									<script type='text/javascript'>
+									var captchaContainer = null;
+									var reCapVal;
+									var loadCaptcha = function() {
+										grecaptcha.render('captcha_container', {
+											'sitekey' : '6LeY3jQUAAAAAKAkhp4b1aJsqjn7YstxDTGydo8U',
+											'callback' : function(response) {												
+												reCapVal = response;	
+												$("#nomember-captcha").val( reCapVal );
+											}
+										});
+									};
+									</script>
+									<!-- Google reCAPTCHA HEAD script S -->
+
+									<div id="captcha_container"></div><!-- Google reCAPTCHA weiget -->
+									<input type="hidden" name="captcha" id="nomember-captcha" title="구글캡차">
+
+
+									<!-- Google reCAPTCHA FOOTER script S -->
+									<script src="https://www.google.com/recaptcha/api.js?onload=loadCaptcha&render=explicit" async defer></script>				
+								</div>
+							</div>
+						</fieldset>
+						<!--// 캡챠 -->
+
+						<hr>
+
+						<footer class="clearfix">
+							<div class="float-right small-float-center">
+								<button id="no-member-write" class="button user-bg small-expanded"><i class="fa fa-plus-circle fa-fw"></i>&nbsp;<strong>확인</strong></button>
+							</div>
+						</footer>
+
+					</div>
+				</div>
+			</section>
+			
+			<!-- 닫기 //-->
+			<button id="login-close-button" class="close-button" data-close aria-label="Close modal" type="button">
+				<span aria-hidden="true">&times;</span>
+			</button>
+			<!--// 닫기 -->
+		</div>
+	<!--// 댓글쓰기인증 -->
+
+
+
+	<!-- 댓글 리스트 //-->
+	<section class="reply-list">
+		<!-- header //-->
+		<header class="header">
+			<div class="list-category">
+				<a href="/news/articleView.html?idxno=44430&replyAll=&reply_sc_order_by=I#reply" class="active"><i class="s7-check"></i> 최신순</a>
+				<a href="/news/articleView.html?idxno=44430&replyAll=&reply_sc_order_by=C#reply"><i class="s7-check"></i> 추천순</a>				
+			</div>			
+		</header>
+		<!--// header -->	
+		
+		<section class="container">
+				</section>
+	</section>
+	<!--// 댓글 리스트 -->
+
+	<hr>
+	
+	<!-- page //-->
+		<!--// page -->
+
+	
+</article>
+<!--// 댓글 -->
+
+<script src = "http://www.industrynews.co.kr/script/reply.js"></script>
+<script>		
+	reply.parent_idxno = "44430";										// 게시글 번호
+	reply.captchaEnable = "Y";								// 캡차사용여부 		
+
+	reply.replyAll = "";											// 전체보기 		
+	reply.reply_sc_order_by = "I";						// 정렬
+	reply.reply_page = "1";										// 페이지
+	
+	$("#reply-write-btn").on('click', {reply_parent_idxno:''}, reply.replyWrite);		// 댓글쓰기 이벤트 
+	$("#no-member-write").on('click',reply. noMemberCheck);								// 비회원 글쓰기 이벤트
+	$("#btn-nomember-write").on('click', function(){$("#nomember-info").show()});		// 비회원 글쓰기 SHOW 
+	$(".comments-more-btn").on('click', reply.viewOption);								// 댓글옵션보이기 이벤트
+	$(".reply-delete-btn").on('click', reply.setDeleteOption);							// 댓글삭제 이벤트
+	$(".vote-btn").on('click', reply.setVote);											// 추천반대 이벤트
+	$(".comments-reply").on('click', reply.getSubReplyView);							// 답글보기 이벤트		
+	$("#content").on("keyup", {reply_parent_idxno:''}, reply.getTextLength);			// 글자계산
+	$(document).on('closed.zf.reveal', '[data-reveal]', reply.modalCloser);				// 모달 CLOSE	이벤트 핸들러	
+</script>
+				<!-- 편집패널 //-->
+				<div class="clearfix">
+
+				</div>
+				<!--// 편집패널 -->
+
+			</div>
+		</section>
+		<!--// 기사본문 내용 -->
+
+		<!-- 기사본문 우측 //-->
+
+		<aside class="user-aside">
+			<div id="side-scroll-start-view">
+				<div id="side-scroll-in-view">
+				<div class="clearfix">
+<article class="box-skin design-7">
+<header class="header"><strong>가장 <span class="user-point">많이 본</span> 뉴스</strong></header>
+<section class="content"><div class="auto-article auto-db01">
+<ul><li class="clearfix"><div class="number count1 user-bg">1</div><a href="/news/articleView.html?idxno=44297" target="_top" class="size-14 line-height-4-x auto-fontB onload">OCI파워, ESS 활용도 넓힌다… 국내외 실증 통한 신사업 개척</a></li>
+<li class="clearfix auto-martop-4"><div class="number count2 user-bg">2</div><a href="/news/articleView.html?idxno=44345" target="_top" class="size-14 line-height-4-x auto-fontB onload">[영상뉴스] 비엠티, IIoT 기반 스마트한 에너지 관리로 제조업 생산성 보장</a></li>
+<li class="clearfix auto-martop-4"><div class="number count3 user-bg">3</div><a href="/news/articleView.html?idxno=44325" target="_top" class="size-14 line-height-4-x auto-fontB onload">인플레이션 쓰나미 태양광도 덮쳤다…미국‧중국 가파른 생산자물가 상승, 국내 태양광도 비상</a></li>
+<li class="clearfix auto-martop-4"><div class="number count4 user-bg">4</div><a href="/news/articleView.html?idxno=44385" target="_top" class="size-14 line-height-4-x auto-fontB onload">일강케이스판, ‘BIXPO 2021 국제발명특허대전’에서 ‘건물 외벽용 BIPV 트래커’ 은상 수상</a></li>
+<li class="clearfix auto-martop-4"><div class="number count5 user-bg">5</div><a href="/news/articleView.html?idxno=44378" target="_top" class="size-14 line-height-4-x auto-fontB onload">아세안서 개화하는 수상태양광… 2030년 16GW 규모로 나홀로 성장가도</a></li>
+<li class="clearfix auto-martop-4"><div class="number count6 default-bg">6</div><a href="/news/articleView.html?idxno=44409" target="_top" class="size-14 line-height-4-x auto-fontB onload">배전 및 전력 리테일 기업 디지털화 속도전, 글로벌 에너지산업 변화 온다</a></li>
+<li class="clearfix auto-martop-4"><div class="number count7 default-bg">7</div><a href="/news/articleView.html?idxno=44389" target="_top" class="size-14 line-height-4-x auto-fontB onload">유니버설로봇, 2022년 한결같은 정확성으로 협동로봇 시장 입지 굳힌다</a></li>
+<li class="clearfix auto-martop-4"><div class="number count8 default-bg">8</div><a href="/news/articleView.html?idxno=44360" target="_top" class="size-14 line-height-4-x auto-fontB onload">KAIST, 전해액 첨가제로 리튬금속전지 수명 늘린다</a></li>
+<li class="clearfix auto-martop-4"><div class="number count9 default-bg">9</div><a href="/news/articleView.html?idxno=44390" target="_top" class="size-14 line-height-4-x auto-fontB onload">국민 81.9%, “재생에너지 비중확대 찬성”…한국에너지정보문화재단 ‘탄소중립 국민인식조사’</a></li>
+<li class="clearfix auto-martop-4"><div class="number count10 default-bg">10</div><a href="/news/articleView.html?idxno=44388" target="_top" class="size-14 line-height-4-x auto-fontB onload">산업부, 블루수소 연계 국내 최초 상용 규모 CCS 사업 추진… 2025년부터 연 40만톤 저장</a></li>
+</ul>
+</div></section>
+</article><div class="box-margins height-15"></div>
+	<!-- 태양광/ESS/신재생/에너지 -->
+	<!--태양광/ESS/신재생/에너지-b1--><script type="text/javascript">var ___BANNER = "ban_1603170619770";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/149.js?1603170619770" id="ban_1603170619770"></script><!--//태양광/ESS/신재생/에너지-b1-->
+
+	<!--태양광/ESS/신재생/에너지-b2--><script type="text/javascript">var ___BANNER = "ban_1603170612782";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/150.js?1603170612782" id="ban_1603170612782"></script><!--//태양광/ESS/신재생/에너지-b2-->
+
+	<!--태양광/ESS/신재생/에너지-b3--><script type="text/javascript">var ___BANNER = "ban_1603170608850";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/151.js?1603170608850" id="ban_1603170608850"></script><!--//태양광/ESS/신재생/에너지-b3-->
+
+	<!--태양광/ESS/신재생/에너지-b4--><script type="text/javascript">var ___BANNER = "ban_1603170604378";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/152.js?1603170604378" id="ban_1603170604378"></script><!--//태양광/ESS/신재생/에너지-b4-->
+
+	<!--태양광/ESS/신재생/에너지-b5--><script type="text/javascript">var ___BANNER = "ban_1603170597673";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/153.js?1603170597673" id="ban_1603170597673"></script><!--//태양광/ESS/신재생/에너지-b5-->
+
+
+
+
+<div class="box-margins height-10"></div><article class="box-skin header-bg">
+<header class="header"><a href="/news/articleList.html?sc_section_code=S1N18&view_type=sm" class="btm-Kor"><span class="user-point">영상</span>ㆍ뉴스</a></header>
+<section class="content"></section>
+</article><div class="auto-marbtm-10 clearfix">
+	<div class="float-left" style="width:49%">
+		<!--부울경_인터뷰_웨다_인더스트리뉴스메인--><script type="text/javascript">var ___BANNER = "ban_1637139471252";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/260.js?1637139471252" id="ban_1637139471252"></script><!--//부울경_인터뷰_웨다_인더스트리뉴스메인-->
+      <strong class="auto-fontA size-14 text-center line-height-2-2x" style="margin: 5px 0 0 0;">웨다 최치민 대표</strong>
+  </div>
+	<div class="float-right" style="width:49%">
+   	    <!--부울경_영림원_인더스트리 메인--><script type="text/javascript">var ___BANNER = "ban_1637139576661";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/250.js?1637139576661" id="ban_1637139576661"></script><!--//부울경_영림원_인더스트리 메인-->
+  		<strong class="auto-fontA size-14 text-center line-height-2-2x" style="margin: 5px 0 0 0;">영림원소프트랩<br>산업별 맞춤형 ERP</strong>	
+  </div>
+</div>
+<div class="clearfix">
+	<div class="float-left" style="width:49%">
+		<!--비에이에너지_메인화면 배너--><script type="text/javascript">var ___BANNER = "ban_1627632341144";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/236.js?1627632341144" id="ban_1627632341144"></script><!--//비에이에너지_메인화면 배너-->
+      <strong class="auto-fontA size-14 text-center line-height-2-2x" style="margin: 5px 0 0 0;">비에이에너지<br>강태영 대표</strong>
+  </div>
+	<div class="float-right" style="width:49%">
+   		<!--솔리스_메인화면 배너--><script type="text/javascript">var ___BANNER = "ban_1627632448833";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/234.js?1627632448833" id="ban_1627632448833"></script><!--//솔리스_메인화면 배너-->
+                          <strong class="auto-fontA size-14 text-center line-height-2-2x" style="margin: 5px 0 0 0;">솔리스파워코리아<br>유병수 대표</strong>	
+  </div>
+</div><div class="box-margins height-15"></div><article class="box-skin line header-bg">
+<header class="header"><a href="/news/articleList.html?sc_serial_code=SRN6&view_type=sm" class="btm-Kor"><span class="user-point">포토·카드</span>뉴스</a></header>
+<section class="content"><div class="auto-article auto-pa03">
+<div id="roll_40" class="auto-container">
+<div class="dis-none">
+<a href="/news/articleView.html?idxno=44089" target="_top" class="auto-images cover line height-240" style="background-image:url(/news/thumbnail/202110/44089_43936_370_v150.jpg)">
+				<img src="/news/thumbnail/202110/44089_43936_370_v150.jpg" alt="[2021부울경스마트팩토리] 스마트제조혁신추진단, ‘스마트제조 2.0’ 정책 홍보">
+			</a>
+</div>
+<div class="dis-none">
+<a href="/news/articleView.html?idxno=42091" target="_top" class="auto-images cover line height-240" style="background-image:url(/news/thumbnail/202104/42091_40602_1711_v150.jpg)">
+				<img src="/news/thumbnail/202104/42091_40602_1711_v150.jpg" alt="제노코, 한화시스템과 KF-21 AESA 레이다 야전점검장비 18억원 규모 계약 체결">
+			</a>
+</div>
+<div class="dis-none">
+<a href="/news/articleView.html?idxno=41436" target="_top" class="auto-images cover line height-240" style="background-image:url(/news/thumbnail/202102/41436_39468_3530_v150.jpg)">
+				<img src="/news/thumbnail/202102/41436_39468_3530_v150.jpg" alt="WalleniusWilhelmsen, ‘풍력으로 항해하는 선박’ 2년 후 발주 5년 내 운항시킨다">
+			</a>
+</div>
+</div>
+<div id="nav_40" class="auto-nav">
+<div class="dis-none auto-cursor">
+<div class="auto-images cover line width-77 height-77" style="background-image:url(/news/thumbnail/202110/44089_43936_370_v150.jpg)">
+				<img src="/news/thumbnail/202110/44089_43936_370_v150.jpg" alt="[2021부울경스마트팩토리] 스마트제조혁신추진단, ‘스마트제조 2.0’ 정책 홍보">
+			</div>
+</div>
+<div class="dis-none auto-cursor">
+<div class="auto-images cover line width-77 height-77" style="background-image:url(/news/thumbnail/202104/42091_40602_1711_v150.jpg)">
+				<img src="/news/thumbnail/202104/42091_40602_1711_v150.jpg" alt="제노코, 한화시스템과 KF-21 AESA 레이다 야전점검장비 18억원 규모 계약 체결">
+			</div>
+</div>
+<div class="dis-none auto-cursor">
+<div class="auto-images cover line width-77 height-77" style="background-image:url(/news/thumbnail/202102/41436_39468_3530_v150.jpg)">
+				<img src="/news/thumbnail/202102/41436_39468_3530_v150.jpg" alt="WalleniusWilhelmsen, ‘풍력으로 항해하는 선박’ 2년 후 발주 5년 내 운항시킨다">
+			</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+<!--
+$(document).ready(function(){
+
+	 $('#roll_40').slick({
+		arrows: false,
+		dots: false,
+		draggable: false,
+		fade: true,
+		autoplay: true,
+		autoplaySpeed: 4000,
+		asNavFor: '#nav_40'
+	});
+	$('#nav_40').slick({
+		asNavFor: '#roll_40',
+		slidesToShow: 3,
+		dots: false,
+		arrows: false,
+		draggable: false,
+		focusOnSelect: true
+	});
+});
+//-->
+</script>
+</section>
+</article><div class="box-margins height-20"></div><article class="box-skin design-7">
+<header class="header"><a href="/news/articleList.html?sc_serial_code=SRN3&view_type=sm" class="btm-Kor"><span class="user-point">테크놀로지</span></a></header>
+<section class="content"><div class="auto-article tiles-2x auto-dp04">
+<ul><li class="posi-re auto-columns"><a href="/news/articleView.html?idxno=44361" target="_top" class="auto-images cover line height-115" style="background-image:url(/news/thumbnail/202111/44361_44407_255_v150.jpg)">
+				<img src="/news/thumbnail/202111/44361_44407_255_v150.jpg" alt="JA솔라(JA SOLAR), 중국 태양광 기업 중 처음으로 한국 친환경 인증 획득">
+			</a><div class="photo-titbg">
+			<div class="size-13"><a href="/news/articleView.html?idxno=44361" target="_top" class="line-height-3-2x auto-fontF onload">JA솔라(JA SOLAR), 중국 태양광 기업 중 처음으로 한국 친환경 인증 획득</a></div>
+		</div>
+		
+		</li>
+<li class="posi-re auto-columns"><a href="/news/articleView.html?idxno=44329" target="_top" class="auto-images cover line height-115" style="background-image:url(/news/thumbnail/202111/44329_44353_2627_v150.jpg)">
+				<img src="/news/thumbnail/202111/44329_44353_2627_v150.jpg" alt="도선사 자리도 넘보는 무인선박… 자동 접이안 실증 성공">
+			</a><div class="photo-titbg">
+			<div class="size-13"><a href="/news/articleView.html?idxno=44329" target="_top" class="line-height-3-2x auto-fontF onload">도선사 자리도 넘보는 무인선박… 자동 접이안 실증 성공</a></div>
+		</div>
+		
+		</li>
+<li class="posi-re auto-columns"><a href="/news/articleView.html?idxno=44242" target="_top" class="auto-images cover line height-115" style="background-image:url(/news/thumbnail/202111/44242_44209_2255_v150.jpg)">
+				<img src="/news/thumbnail/202111/44242_44209_2255_v150.jpg" alt="론지솔라(LONGi), HJT 셀 전환효율 25.82%로 세계 신기록 수립">
+			</a><div class="photo-titbg">
+			<div class="size-13"><a href="/news/articleView.html?idxno=44242" target="_top" class="line-height-3-2x auto-fontF onload">론지솔라(LONGi), HJT 셀 전환효율 25.82%로 세계 신기록 수립</a></div>
+		</div>
+		
+		</li>
+<li class="posi-re auto-columns"><a href="/news/articleView.html?idxno=43915" target="_top" class="auto-images cover line height-115" style="background-image:url(/news/thumbnail/202110/43915_43680_4634_v150.jpg)">
+				<img src="/news/thumbnail/202110/43915_43680_4634_v150.jpg" alt="국내 연구진, 탄소배출 없는 친환경 ‘K-배터리’에 도전장">
+			</a><div class="photo-titbg">
+			<div class="size-13"><a href="/news/articleView.html?idxno=43915" target="_top" class="line-height-3-2x auto-fontF onload">국내 연구진, 탄소배출 없는 친환경 ‘K-배터리’에 도전장</a></div>
+		</div>
+		
+		</li>
+</ul>
+</div></section>
+</article><div class="box-margins height-20"></div><article class="box-skin design-7">
+<header class="header"><a href="/news/articleList.html?sc_serial_code=SRN4&view_type=sm" class="btm-Kor"><span class="user-point">칼럼</span>ㆍ오피니언</a></header>
+<section class="content"><div class="auto-article auto-boll">
+<ul><li class="clearfix"><a href="/news/articleView.html?idxno=44338" target="_top" class="size-14 line-height-4-x auto-fontB onload">[칼럼] 제조사의 필수요소 ‘비전검사’ 어디까지 발전 했나</a></li>
+<li class="clearfix auto-martop-3"><a href="/news/articleView.html?idxno=44318" target="_top" class="size-14 line-height-4-x auto-fontB onload">[칼럼] 지속가능한 설비자산을 위한 수명 관리 접근법</a></li>
+<li class="clearfix auto-martop-3"><a href="/news/articleView.html?idxno=44180" target="_top" class="size-14 line-height-4-x auto-fontB onload">[칼럼] 앞으로 50년, 공급기업 Alliance 육성사업 펼쳐야...</a></li>
+<li class="clearfix auto-martop-3"><a href="/news/articleView.html?idxno=44159" target="_top" class="size-14 line-height-4-x auto-fontB onload">[칼럼] 신재생에너지 계통연계 확대를 위한 배전조류계산의 필요성</a></li>
+<li class="clearfix auto-martop-3"><a href="/news/articleView.html?idxno=43902" target="_top" class="size-14 line-height-4-x auto-fontB onload">[칼럼] 앞으로 50년, 가치사슬 기업군별 보급·확산 사업 패러다임 전환</a></li>
+</ul>
+</div></section>
+</article><div class="box-margins height-20"></div><article class="box-skin design-7">
+<header class="header"><a href="/news/articleList.html?sc_serial_code=SRN5&view_type=sm" class="btm-Kor"><span class="user-point">기업</span>ㆍ피플</a></header>
+<section class="content"><div class="auto-article auto-ma02">
+<ul><li class="auto-content"><a href="/news/articleView.html?idxno=44345" target="_top" class="float-left auto-images cover line width-115 height-77 auto-maright-12" style="background-image:url(/news/thumbnail/202111/44345_44375_4621_v150.jpg)">
+				<img src="/news/thumbnail/202111/44345_44375_4621_v150.jpg" alt="[영상뉴스] 비엠티, IIoT 기반 스마트한 에너지 관리로 제조업 생산성 보장">
+			</a><div class="size-16 auto-martop-7"><a href="/news/articleView.html?idxno=44345" target="_top" class="line-height-2-x auto-fontA onload"><strong>[영상뉴스] 비엠티, IIoT 기반 스마트한 에너지 관리로 제조업 생산성 보장</strong></a></div><div class="dis-block size-14 auto-martop-4"><a href="/news/articleView.html?idxno=44345" target="_top" class="line-height-3-2x auto-fontB onload">전기통신공사부터 서브프로그램까지 토탈시스템 제공</a></div>
+		</li><li class="auto-content auto-martop-13"><a href="/news/articleView.html?idxno=44419" target="_top" class="float-left auto-images cover line width-115 height-77 auto-maright-12" style="background-image:url(/news/thumbnail/202111/44419_44470_2445_v150.jpg)">
+				<img src="/news/thumbnail/202111/44419_44470_2445_v150.jpg" alt="국내 유일 국제 표준 산업용 네트워크 ‘라피넷(RAPIEnet)’, 해외 시장 출사표">
+			</a><div class="size-16 auto-martop-7"><a href="/news/articleView.html?idxno=44419" target="_top" class="line-height-2-x auto-fontA onload"><strong>국내 유일 국제 표준 산업용 네트워크 ‘라피넷(RAPIEnet)’, 해외 시장 출사표</strong></a></div><div class="dis-block size-14 auto-martop-4"><a href="/news/articleView.html?idxno=44419" target="_top" class="line-height-3-2x auto-fontB onload">LS ELECTRIC-국표원, 아세안 시장 화력 집중</a></div>
+		</li><li class="auto-content auto-martop-13"><a href="/news/articleView.html?idxno=44412" target="_top" class="float-left auto-images cover line width-115 height-77 auto-maright-12" style="background-image:url(/news/thumbnail/202111/44412_44460_5551_v150.jpg)">
+				<img src="/news/thumbnail/202111/44412_44460_5551_v150.jpg" alt="슈나이더일렉트릭코리아, ‘대한민국 소통어워드’ 2관왕 달성">
+			</a><div class="size-16 auto-martop-7"><a href="/news/articleView.html?idxno=44412" target="_top" class="line-height-2-x auto-fontA onload"><strong>슈나이더일렉트릭코리아, ‘대한민국 소통어워드’ 2관왕 달성</strong></a></div>
+		</li><li class="auto-content auto-martop-13"><a href="/news/articleView.html?idxno=44417" target="_top" class="float-left auto-images cover line width-115 height-77 auto-maright-12" style="background-image:url(/news/thumbnail/202111/44417_44468_5753_v150.jpg)">
+				<img src="/news/thumbnail/202111/44417_44468_5753_v150.jpg" alt="“거침없는 도전 성공”… 인공지능 검사 설비 전문회사 ‘트윔’, 코스닥 상장">
+			</a><div class="size-16 auto-martop-7"><a href="/news/articleView.html?idxno=44417" target="_top" class="line-height-2-x auto-fontA onload"><strong>“거침없는 도전 성공”… 인공지능 검사 설비 전문회사 ‘트윔’, 코스닥 상장</strong></a></div>
+		</li></ul>
+</div></section>
+</article><div class="box-margins height-20"></div>
+			</div>
+			</div>
+			</div>
+		</aside>
+		<!--// 기사본문 우측 -->
+	</div>
+	<!--// article view wrapper -->
+
+
+	
+	</div>
+
+
+
+	<!-- 편집패널 //-->
+	<div class="auto-martop-20 clearfix">
+<!--프리미엄 하단 1100--><script type="text/javascript">var ___BANNER = "ban_1562803186";</script><script type="text/javascript" charset="utf-8" src="http://www.industrynews.co.kr/bannerpop/uploads/js/82.js?1562803186" id="ban_1562803186"></script><!--//프리미엄 하단 1100--><article class="box-skin background-white">
+<header class="header"></header>
+<section class="content"><div class="auto-article tiles-4x auto-pa02">
+<ul><li class="auto-columns">
+		<a href="/news/articleView.html?idxno=44430" target="_top"><div class="auto-images cover height-145" style="background-image:url(/news/thumbnail/202111/44430_44489_820_v150.jpg)">
+				<img src="/news/thumbnail/202111/44430_44489_820_v150.jpg" alt="이제는 나눔형 모델이 대세!, ‘나눔형 모델’로 진화하고 있는 태양광 사업">
+			</div><div class="auto-content">
+			
+			<div class="size-16 line-height-3-2x auto-fontA onload">이제는 나눔형 모델이 대세!, ‘나눔형 모델’로 진화하고 있는 태양광 사업</div>
+			
+		</div>
+</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=44433" target="_top"><div class="auto-images cover height-145" style="background-image:url(/news/thumbnail/202111/44433_44491_2641_v150.jpg)">
+				<img src="/news/thumbnail/202111/44433_44491_2641_v150.jpg" alt="조선해양기자재 적층제조 가속화… 해저파이프 제작용 3D프린팅 등판">
+			</div><div class="auto-content">
+			
+			<div class="size-16 line-height-3-2x auto-fontA onload">조선해양기자재 적층제조 가속화… 해저파이프 제작용 3D프린팅 등판</div>
+			
+		</div>
+</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=44432" target="_top"><div class="auto-images cover height-145" style="background-image:url(/news/thumbnail/202111/44432_44490_1531_v150.jpg)">
+				<img src="/news/thumbnail/202111/44432_44490_1531_v150.jpg" alt="LS전선, 네덜란드 해상풍력단지 해저케이블 구축사업 순항">
+			</div><div class="auto-content">
+			
+			<div class="size-16 line-height-3-2x auto-fontA onload">LS전선, 네덜란드 해상풍력단지 해저케이블 구축사업 순항</div>
+			
+		</div>
+</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=44429" target="_top"><div class="auto-images cover height-145" style="background-image:url(/news/thumbnail/202111/44429_44484_1822_v150.jpg)">
+				<img src="/news/thumbnail/202111/44429_44484_1822_v150.jpg" alt="BAT, 사천공장 지붕에 태양광발전소 준공… 연간 최대 1,435kW 전력 생산">
+			</div><div class="auto-content">
+			
+			<div class="size-16 line-height-3-2x auto-fontA onload">BAT, 사천공장 지붕에 태양광발전소 준공… 연간 최대 1,435kW 전력 생산</div>
+			
+		</div>
+</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=44428" target="_top"><div class="auto-images cover height-145" style="background-image:url(/news/thumbnail/202111/44428_44483_97_v150.jpg)">
+				<img src="/news/thumbnail/202111/44428_44483_97_v150.jpg" alt="광주광역시 ‘인공지능 집적단지’ 착공… 인공지능 생태계 핵심거점 조성 본격화">
+			</div><div class="auto-content">
+			
+			<div class="size-16 line-height-3-2x auto-fontA onload">광주광역시 ‘인공지능 집적단지’ 착공… 인공지능 생태계 핵심거점 조성 본격화</div>
+			
+		</div>
+</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=44427" target="_top"><div class="auto-images cover height-145" style="background-image:url(/news/thumbnail/202111/44427_44479_2625_v150.jpg)">
+				<img src="/news/thumbnail/202111/44427_44479_2625_v150.jpg" alt="부산항 컨테이너 트럭에서 전력생산하는 기술 개발 돌입">
+			</div><div class="auto-content">
+			
+			<div class="size-16 line-height-3-2x auto-fontA onload">부산항 컨테이너 트럭에서 전력생산하는 기술 개발 돌입</div>
+			
+		</div>
+</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=44416" target="_top"><div class="auto-images cover height-145" style="background-image:url(/news/thumbnail/202111/44416_44465_4831_v150.jpg)">
+				<img src="/news/thumbnail/202111/44416_44465_4831_v150.jpg" alt="영림원소프트랩, “2022년 온오프라인 기업활동 통합하는 ERP가 대세”">
+			</div><div class="auto-content">
+			
+			<div class="size-16 line-height-3-2x auto-fontA onload">영림원소프트랩, “2022년 온오프라인 기업활동 통합하는 ERP가 대세”</div>
+			
+		</div>
+</a>
+		</li>
+<li class="auto-columns">
+		<a href="/news/articleView.html?idxno=44426" target="_top"><div class="auto-images cover height-145" style="background-image:url(/news/thumbnail/202111/44426_44478_2152_v150.jpg)">
+				<img src="/news/thumbnail/202111/44426_44478_2152_v150.jpg" alt="LG유플러스, 라이다 센서 통한 교차로 실시간 모니터링 실증나서">
+			</div><div class="auto-content">
+			
+			<div class="size-16 line-height-3-2x auto-fontA onload">LG유플러스, 라이다 센서 통한 교차로 실시간 모니터링 실증나서</div>
+			
+		</div>
+</a>
+		</li>
+</ul>
+</div></section>
+</article>
+	</div>
+	<!--// 편집패널 -->
+</div>
+
+<script type="text/javascript">
+	jQuery(document).ready
+	(
+		function()
+		{
+			onScrollDirection();
+		 	onScrollAdjustEndLine("#side-scroll-start-view", "#article-control-view", "#side-scroll-in-view");
+		}
+	);
+</script>
+				</section>
+				<!--// container -->
+
+				
+			
+				<!-- footer //-->
+				<footer id="user-footer" class="user-style-default footer_repair ">	
+					<div class="posi-re float-center width-1100">
+							<!-- 최종편집 -->
+			<div class="user-intro">UPDATED. 2021-11-23 17:42 (화) </div>
+						
+						<div class="footer-menu">
+							<!-- logo //-->
+							<div class="footer-columns user-logo"><img src="/image/logo/downlogo_20210524010141.png" alt="인더스트리뉴스" /></div>
+							<!--// logo -->
+							<!-- nav //-->
+							<nav class="footer-columns user-nav">
+								<a href="http://www.infothe.com" class="deco-none" target="_blank"><strong>회사소개</strong></a>
+								<a href="http://www.industrynews.co.kr/com/jb.html" class="deco-none"><strong>기사제보</strong></a>
+								<a href="http://www.industrynews.co.kr/com/ad.html" class="deco-none"><strong>광고문의</strong></a>
+								<a href="http://www.industrynews.co.kr/com/bp.html" class="deco-none"><strong>불편신고</strong></a>
+								<a href="/com/privacy.html" class="deco-none"><strong><!-- 개인정보취급방침 -->개인정보처리방침</strong></a>
+								<a href="/com/youthpolicy.html" class="deco-none"><strong>청소년보호정책</strong></a>
+								<a href="/com/emailno.html" class="deco-none"><strong>이메일무단수집거부</strong></a>
+								<!--<a href="http://www.industrynews.co.kr/com/kd.html" class="deco-none"><strong>정기구독신청</strong></a>-->
+								<a href="http://www.industrynews.co.kr/com/com-2.html" class="deco-none"><strong>뉴스레터 신청</strong></a>
+								<a href="/rss/" class="deco-none"><strong>RSS</strong></a>
+							</nav>
+							<!--// nav  -->
+						</div>
+						<div class="footer-banner-img"><img src="/image/footer-banner02.jpg" class="auto-padright-10"><img src="/image/footer-banner.png"></div>
+						<address class="user-address">
+							<ul class="no-bullet">
+								<li class="bars">서울시 마포구 마포대로 25 신한디엠빌딩 13층</li>
+								<li class="bars">대표전화 : 02-719-6933</li>
+								<li class="bars">팩스 : 02-715-8245</li>
+								<li>청소년보호책임자 : 이상열</li>
+								<li class="bars clear">(주)인포더</li>
+								<!--<li class="bars">제호 : 인더스트리뉴스</li>-->
+								<li class="bars">등록번호 : 서울 아 02478</li>
+								<li class="bars">등록일 : 2013-02-18</li>
+								<li class="bars">발행일 : 2013-02-18</li>
+								<li class="bars">발행인 : 최정식</li>
+								<li>편집인 : 이상열</li>
+								<li class="clear">인더스트리뉴스 모든 콘텐츠(영상,기사, 사진)는 저작권법의 보호를 받은바, 무단 전재와 복사, 배포 등을 금합니다.</li>
+								<li class="clear">C<a href="http://www.industrynews.co.kr/admin/adminLoginForm.html" class="deco-none">o</a>pyright <a href="http://www.industrynews.co.kr/news/articleView.html?idxno=44430" onclick="setCookie('view_pc', 'n', 1);" target="_top">©</a> 2021 인더스트리뉴스. <a href="http://www.industrynews.co.kr/news/articleView.html?idxno=44430" onclick="setCookie('view_pc', 'n', 1);">All</a> rights reserved. mail to <a href="mailto:info@industrynews.co.kr" class="deco-none">info@industrynews.co.kr</a></li>
+							</ul>
+
+							<a href="http://www.ndsoft.co.kr/" target="_blank" class="ndsoft"><img src="/image/ndsoft.gif" alt="ND소프트"></a>						</address>		
+					</div>
+				</footer>
+				<!--// footer -->
+
+
+
+
+				<!-- 하단 HTML //-->	
+										<div class="clearfix text-center">
+											</div>
+								<!--// 하단 HTML -->
+
+				<!-- back to the top //-->
+				<button type="button" id="back-to-top" class="back-to-top" title="위로"><i class="s7-angle-up"></i><span class="show-for-sr">위로</span></button>
+				<!--// back to the top -->
+
+				
+			</div>
+			<!--// wrap -->
+
+		</div>
+	</div>
+</div>
+
+<script>
+// Popup Json
+var ___popup = [{"idxno":"116","title":"%EA%B4%91%EA%B3%A0%20%EA%B0%80%EC%9D%B4%EB%93%9C","start":"1562805780","end":1878735600,"status":"0","position":"auto","layer_move":"","popup_size":"auto","popup_type":"layer","x_position":"1515","y_position":"0","layer_close":"","popup_width":"320","bottom_close":"","layer_border":"","layer_scroll":"","popup_height":"0","layer_close_icon":"","bottom_close_expire":"1","layer_close_position":"","bottom_close_expire_ck":"none","content":"%3Cdiv%20class%3D%22popup-wrap%20layers%22%3E%3Csection%20class%3D%22popup-container%20auto-pady-0%22%3E%0A%3CIFRAME%20width%3D%22320%22%20height%3D%223500%22%20SRC%3D%22http%3A%2F%2Fwww.infothe.com%2Findustrynews%2Fad_pop.html%22%20marginheight%3D%220%22%20marginwidth%3D%220%22%20frameborder%3D%220%22%20scrolling%3D%22no%22%20style%3D%22margin%3A0%3Bpadding%3A0%3Bbackground-color%3A%23F3F4F7%3Boverflow%3Ahidden%3B%22%3E%3C%2FIFRAME%3E%0A%0A%3C%2Fsection%3E%0A%3C%2Fdiv%3E%0A"}];
+bannerpop.popup();
+</script>
+<script type="text/javascript">
+<!--
+// back to the top		
+$(document).scroll(function(){
+	var sDocumentHeight = $(document).height() - $(window).height();
+	if($(document).scrollTop() > 0){	
+		$('#back-to-top').fadeIn();
+	}else{
+		$('#back-to-top').fadeOut();
+	}
+});
+
+$('#back-to-top').click(function(){
+	$('html, body').animate( {scrollTop:0}, 100);
+});
+//-->
+</script>
+
+</body>
+</html>
