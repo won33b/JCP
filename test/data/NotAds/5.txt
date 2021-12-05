@@ -5,8 +5,7 @@
 		<title>경상국립대학교</title>
 		<meta name="keywords" content="경상국립대학교">
 		<meta name="description" content="경상국립대학교 홈페이지에 오신 것을 환영합니다. ">
-	
-		<!-- favicon -->
+		
 		<link rel="apple-touch-icon" sizes="57x57" href="/common/favicon/apple-icon-57x57.png">
 		<link rel="apple-touch-icon" sizes="60x60" href="/common/favicon/apple-icon-60x60.png">
 		<link rel="apple-touch-icon" sizes="72x72" href="/common/favicon/apple-icon-72x72.png">
@@ -23,21 +22,15 @@
 		<meta name="msapplication-TileImage" content="/common/favicon/ms-icon-144x144.png">
 		<link rel="shortcut icon" href="/common/favicon/favicon.ico" type="image/x-icon">
 		<link rel="icon" href="/common/favicon/favicon.ico" type="image/x-icon">
-		<!-- //favicon -->
 	
-		<!-- common css -->
 		<link rel="stylesheet" href="/common/js/mCustomScrollbar/jquery.mCustomScrollbar.css" media="all">
 		<link rel="stylesheet" href="/common/css/animate.css" media="all">
-		<!-- //common css -->
-	
-		<!-- main css -->
+		
 		<link rel="stylesheet" href="/css/web/main/main.css?v=211020" media="all">
 		<link rel="stylesheet" href="/css/web/main/dark_mode.css?v=210902" media="all">
-		<!-- //main css -->
 		
 		<link rel="stylesheet" href="/css/com/jquery/jquery-ui.min.css">
 		    	
-		<!-- common js -->
 		<script type="text/javascript" src="/common/js/jquery-1.11.2.min.js"></script>
 		<script type="text/javascript" src="/common/js/jquery-ui.min.js"></script>
 		<script type="text/javascript" src="/common/js/modernizr-2.6.2.min.js"></script>
@@ -49,22 +42,16 @@
 		<script type="text/javascript" src="/common/js/ScrollMagic.min.js"></script>
 		<script type="text/javascript" src="/common/js/debug.addIndicators.min.js"></script>
 		<script type="text/javascript" src="/common/js/T1_layout.js"></script>
-		<!-- //common js -->
 	
-		<!-- main js -->
 		<script type="text/javascript" src="/js/web/main/main.js?v=210430_2"></script>
-		<!-- //main js -->
-		
-		<!-- 추가된 js -->
+
 		<script type="text/javascript" src="/js/html5shiv.js"></script>
 		<script type="text/javascript" src="/js/jquery-ui.min.js"></script>
 		<script type="text/javascript" src="/js/jquery.form.min.js"></script>
 		<script type="text/javascript" src="/js/jquery.easing.1.3.js"></script>
 		<script type="text/javascript" src="/js/jquery.bpopup.min.js"></script>
 		<script type="text/javascript" src="/js/jquery.cookie.js"></script>
-		<!-- //추가된 js -->
 		
-		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-E09LJ0PYXH"></script>
 		<script>
 		  window.dataLayer = window.dataLayer || [];
@@ -76,21 +63,11 @@
 		
 	</head>
     <body class="scroll_top header_fixed">
-     <!-- 리스트 팝업 헤더 -->
-    
 
-
-			<!-- 리스트 팝업  -->
-			 
-			<!-- /리스트 팝업  --> 
-    <!-- //리스트 팝업 헤더 -->
-    
-    	<!-- 바로가기 -->
         <div id="skipArea">
             <a href="#gnb">메인메뉴 바로가기</a> 
             <a href="#container">본문으로 바로가기</a>
         </div>
-        <!-- //바로가기 -->
         <div id="wrap" class="uppopOpen"><div id="mobNav"><div class="box"><div class="mobNavScroll"><ul class="tside_m"><li class="office_lnk"><a href="javascript:void(0);">International Office</a>
 							<ul>
 								<li><a href="http://public.gnu.ac.kr/" target="_blank" title="새창으로 열림"><span>Korean</span></a></li>
@@ -99,9 +76,7 @@
 							</ul>
 						</li></ul><div class="binds"><div class="gnb_wrap mCustomScrollbar _mCS_1 mCS_no_scrollbar"><div id="mCSB_1" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" style="max-height: 0px;"><div id="mCSB_1_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
 							<div class="d01">
-								<ul>
-								<!--START-->
-								
+								<ul>						
 								<li class="num1 dep"><a href="javascript:void(0);"><span>교육</span></a>
 									<div class="d02_wrap">
 										<div class="d02">
@@ -363,8 +338,6 @@
 										</div>
 									</div>
 								</li>
-								
-								<!--END-->
 								</ul>
 							</div>
 						</div><div id="mCSB_1_scrollbar_vertical" class="mCSB_scrollTools mCSB_1_scrollbar mCS-light mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_1_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div></div><div class="b_side_wrap"><ul class="drt_lnk">
@@ -400,12 +373,6 @@
 							</a>
 						</li>
 					</ul></div><a href="#" class="close"><span class="sr-only">전체메뉴 닫기</span></a></div></div></div>
-			<!-- 상단 팝업 -->
-			
-
-
-
-
 	
 			<div class="tpopup_wrap">
 				<div class="top_popup">
@@ -524,36 +491,19 @@
 					</div>
 				</div>
 			</div>
-	
-			<!-- //상단 팝업 -->
         	<div class="js_mobile_check"></div>
-        	
-        	<!-- header -->
-			
-
-
-
-
-
 
 		<header id="header">
-			<!-- 메뉴 -->
 			<div class="headerWrap">
 
 				<div class="left_menu">
-					<!-- logo -->
 					<h1 class="logo" id="logo">
 						<a href="/main/main.do" target="_self"><span class="sr-only">홈으로 이동</span></a>
 					</h1>
-					<!-- //logo -->
-
-					<!-- Main Navigation -->
 					<div id="gnb" class="gnb">
 						<div class="gnb_wrap">
 							<div class="d01">
-								<ul>
-								<!--START-->
-								
+								<ul>								
 								<li class="num1"><a href="javascript:void(0);"><span>교육</span></a>
 									<div class="d02_wrap">
 										<div class="d02">
@@ -833,15 +783,10 @@
 										</div>
 									</div>
 								</li>
-								
-								<!--END-->
 								</ul>
 							</div>
 						</div>
 					</div>
-					<!-- //Main Navigation -->
-
-					<!-- 사이트 바로가기 -->
 					<ul class="drt_lnk">
 						<li class="lnk1">
 							<a href="https://www.gnu.ac.kr/main/" target="_blank" title="새창으로 열림">
@@ -854,9 +799,6 @@
 							</a>
 						</li>
 					</ul>
-					<!-- //사이트 바로가기 -->
-
-					<!-- sns 바로가기 -->
 					<ul class="sns_lnk">
 						<li class="blog">
 							<a href="https://blog.naver.com/gnujinju/" target="_blank" title="새창으로 열림">
@@ -879,14 +821,8 @@
 							</a>
 						</li>
 					</ul>
-					<!-- //sns 바로가기 -->
-
-					<!-- copyright -->
 					<p class="copy">© 2021 GNU. All rights reserved.</p>
-					<!-- //copyright -->
 				</div>
-
-				<!-- 상단 링크 -->
 				<div class="toputil">
 					<ul class="topLink">
 						
@@ -898,7 +834,6 @@
 							</ul>
 						</li>
 						<li class="topLinksearch">
-							<!-- 검색 -->
 							<div class="search_wrapper">
 								<div class="search_btn">
 									<button type="button" title="검색">
@@ -925,15 +860,10 @@
 									</div>
 								</div>
 							</div>
-							<!-- //검색 -->
 						</li>						
-						
-							<!-- 상단 팝업 활성화 -->
 							<li class="popBtn">
 								<a href="#none" id="uppopBtn" class="on"><i class="xi-volume-off"></i><em>Close</em><span class="sr-only">상단 팝업 비활성화</span></a>
-							</li>
-							<!-- //상단 팝업 활성화 -->
-							
+							</li>							
 						<li class="sitemap">
 							<a href="/main/sitemap.do?mi=1265" class="sitemap_btn">
 								<em class="sr-only">사이트맵</em>
@@ -942,34 +872,10 @@
 						</li>
 					</ul>
 				</div>
-				<!-- //상단 링크 -->
-				
-				<!-- 모바일 메뉴 버튼 -->
 				<a href="#none" class="mob_btn"><em class="sr-only">모바일 메뉴</em><i class="xi-bars"></i></a>
-				<!-- //모바일 메뉴 버튼 -->
 			</div>
 		</header>
-   
-            <!-- //header  -->
-            
-	            <!-- container -->
 	            <div id="container"> 
-	            	<!-- main_wrap -->
-					
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
 	
 <script>
 $(function () {
@@ -1068,46 +974,10 @@ $(document).ready(function(){
 			<div class="main_wrap">
 				<div class="section_wrap">
 					<section class="section section01 active">
-						
-							
-							
-						
-
-
-
-
-
-
-
 
 <div id="widgDiv1" class="widgDiv T1_A01" data-id="1" data-seq="17442" data-widgsn="1021">
 	
-		
-			
-		
 
-
-
-
-
-
-
-<!-- 다건 -->
-
-
-<!-- 단건 -->
-
-
-<!-- 팝업 -->
-
-
-<!-- 단건 게시판 게시물 -->
-
-
-
-
-
-<!-- visual -->
 <div class="main_visual">
 	<div class="vislst slick-initialized slick-slider" id="vislst">
 	
@@ -1138,25 +1008,7 @@ $(document).ready(function(){
 			</div>
 		
 		</article></div></div>
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-		
+				
 	</div>
 	<div class="control">
 		<div>
@@ -1171,123 +1023,19 @@ $(document).ready(function(){
 		<a href="#none" id="visualStop" class="slick_act slick_stop"><em class="sr-only">정지</em></a>
 		<a href="#none" id="visualPlay" class="slick_act slick_play"><em class="sr-only">재생</em></a>
 	</div>
-</div>
-<!-- //visual-->			
+</div>		
 	
 </div>
 					</section>
 
 					<section class="section section02 active">
 						<div class="container">
-							
-								
-								
-							
-
-
-
-
-
-
-
 
 <div id="widgDiv2" class="widgDiv T1_A02" data-id="2" data-seq="17443" data-widgsn="1022">
-	
-		
-			
-		
 
-
-
-
-
-
-
-<!-- 다건 -->
-
-
-<!-- 단건 -->
-
-
-<!-- 팝업 -->
-
-
-<!-- 단건 게시판 게시물 -->
-
-
-				
-
-				
-<!-- QUICK LINK -->
 <div class="quickLst_wrap">
 	<div class="quickLst slick-initialized slick-slider">
-		
 			
-			
-				
-			
-			
-		
-			
-			
-				
-			
-			
-		
-			
-			
-				
-			
-			
-		
-			
-			
-				
-			
-			
-		
-			
-			
-				
-			
-			
-		
-			
-			
-				
-			
-			
-		
-			
-			
-				
-			
-			
-		
-			
-			
-				
-			
-			
-		
-			
-			
-				
-			
-			
-		
-			
-			
-				
-			
-			
-		
-			
-			
-				
-			
-			
-		
 		
 	<div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 4806px; transform: translate3d(-890px, 0px, 0px);"><article class="slider_wrap slick-slide slick-cloned" style="width: 178px;" tabindex="-1" data-slick-index="-5" aria-hidden="true">
 				<a href="https://ptl.gntech.ac.kr/user/login.face" target="_blank" title="새창으로 열림" tabindex="-1">
@@ -1430,119 +1178,43 @@ $(document).ready(function(){
 		<a href="#none" id="quickLstNext" class="slick_arr slickNext slick-arrow" style="display: block;"><em class="sr-only">다음으로</em></a>
 	</div>
 </div>
-<!-- //QUICK LINK -->				
-	
 </div>
 						</div>
 					</section>
 				</div>
 
 				<section class="section section03 active">
-					
-						
-						
-					
-
-
-
-
-
-
-
 
 <div id="widgDiv3" class="widgDiv T1_A03" data-id="3" data-seq="17444" data-widgsn="1023">
 	
-		
-			
-		
-
-
-
-
-
-
-
-<!-- 다건 -->
-
-
-<!-- 단건 -->
-
-
-<!-- 팝업 -->
-
-
-<!-- 단건 게시판 게시물 -->
-
-
-
-
-
 <div class="container">
 	<h3 class="heading1"><strong class="point1">GNU</strong>NOTICE</h3>
 	<div class="list_wrap">
 		<div class="slickDot"><ul class="slick-dots" role="tablist" style="display: block;"><li class="" role="presentation"><a href="#none" class="pager__item" title="비활성화"> 코로나19 </a></li><li role="presentation" class=""><a href="#none" class="pager__item" title="비활성화"> 기관 </a></li><li role="presentation" class=""><a href="#none" class="pager__item" title="비활성화"> 학사 </a></li><li role="presentation" class=""><a href="#none" class="pager__item" title="비활성화"> 장학 </a></li><li role="presentation" class="slick-active"><a href="#none" class="pager__item" title="활성화"> 학술행사 </a></li><li role="presentation"><a href="#none" class="pager__item" title="비활성화"> 채용 </a></li></ul></div>
 		<div class="ntcList_wrap slick-initialized slick-slider slick-dotted">
-		
-			
-			
-			
-				
-			
-			
-					
-			<div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 5910px;"><div class="list_box on slick-slide" data-slick-index="0" aria-hidden="true" style="width: 985px; position: relative; left: 0px; top: 0px; z-index: 998; opacity: 0; transition: opacity 100ms ease 0s;" tabindex="-1" role="tabpanel" id="slick-slide40" aria-describedby="slick-slide-control40">
+	
+	<div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 5910px;"><div class="list_box on slick-slide" data-slick-index="0" aria-hidden="true" style="width: 985px; position: relative; left: 0px; top: 0px; z-index: 998; opacity: 0; transition: opacity 100ms ease 0s;" tabindex="-1" role="tabpanel" id="slick-slide40" aria-describedby="slick-slide-control40">
 				<ul id="ntcList1" class="newLst">
-					
-					
-					
-						
-						
-						
-						
-					
-					
-					
-					
-										
-						
-						
-							
-							
 											
 					<li data-title="코로나19">
 						<a href="/main/na/ntt/selectNttInfo.do?nttSn=2013080&amp;mi=1210" tabindex="-1">
 							<strong class="tit">
-								
-								
 								코로나19 확진자 발생 현황(2021. 10. 30.)
 							</strong>
 							<span class="txt">10월 30일 학내 구성원 중 확진자 1명이 발생하여 구성원 여러분께 안내드립니다.■ 확진자 교내 출입: 가좌캠퍼스 시설 이용(학생생활관, 공학2호관, 학생생활관식당(아람관)&nbsp;, 중앙식당)※교내문의처: 행정지원과 055-772-4502&nbsp;&nbsp;</span>
 							<em class="date">2021.10.31</em>
 						</a>
-					</li>
-										
-						
-						
-							
-							
-											
+					</li>									
 					<li data-title="코로나19">
 						<a href="/main/na/ntt/selectNttInfo.do?nttSn=2012683&amp;mi=1210" tabindex="-1">
 							<strong class="tit">
-								
-								
-								교내 코로나19 대응 세부사항 안내
+						교내 코로나19 대응 세부사항 안내
 							</strong>
 							<span class="txt">교내 코로나19 확진자 발생 시 대응 세부사항을 안내드리니 전 구성원들은 적극 이행하여 주시기 바랍니다.&nbsp;</span>
 							<em class="date">2021.10.26</em>
 						</a>
 					</li>
-										
-						
-						
-							
-							
-											
+																				
 					<li data-title="코로나19">
 						<a href="/main/na/ntt/selectNttInfo.do?nttSn=2012679&amp;mi=1210" tabindex="-1">
 							<strong class="tit">
@@ -1553,17 +1225,11 @@ $(document).ready(function(){
 							<span class="txt">보건당국으로부터 확진자 및 밀접접촉자 통보 시 행동요령에 대해 안내드리니 전 구성원들은 적극 이행하여 주시기 바랍니다.&nbsp;</span>
 							<em class="date">2021.10.26</em>
 						</a>
-					</li>
-										
-						
-						
-							
-							
+					</li>				
 											
 					<li data-title="코로나19">
 						<a href="/main/na/ntt/selectNttInfo.do?nttSn=2010710&amp;mi=1210" tabindex="-1">
-							<strong class="tit">
-								
+							<strong class="tit">		
 								
 								코로나19 확진자 발생 현황(2021. 10. 10.)
 							</strong>
@@ -1577,14 +1243,6 @@ $(document).ready(function(){
 			</div><div class="list_box slick-slide" data-slick-index="1" aria-hidden="true" style="width: 985px; position: relative; left: -985px; top: 0px; z-index: 998; opacity: 0; transition: opacity 100ms ease 0s;" tabindex="-1" role="tabpanel" id="slick-slide41" aria-describedby="slick-slide-control41">
 				<ul id="ntcList2" class="newLst">
 					
-					
-					
-					
-					
-					
-										
-						
-											
 					<li data-title="기관">
 						<a href="/main/na/ntt/selectNttInfo.do?nttSn=2013523&amp;mi=1126" tabindex="-1">
 							<strong class="tit">
@@ -1601,8 +1259,7 @@ $(document).ready(function(){
 											
 					<li data-title="기관">
 						<a href="/main/na/ntt/selectNttInfo.do?nttSn=2013502&amp;mi=1126" tabindex="-1">
-							<strong class="tit">
-								
+							<strong class="tit">	
 								
 								[빅데이터혁신공유대학사업단] 서울대학교-빅데이터 선도기업들과 학생들이 직접 제안하는 비교과 프로그램 설문조사 안내
 							</strong>
@@ -1643,15 +1300,7 @@ $(document).ready(function(){
 				<a href="/main/na/ntt/selectNttList.do?mi=1126&amp;bbsId=1028" class="more_btn4" tabindex="-1"><i class="xi-plus-min"></i><span class="sr-only">기관 더보기</span></a>
 			</div><div class="list_box slick-slide" data-slick-index="2" aria-hidden="true" style="width: 985px; position: relative; left: -1970px; top: 0px; z-index: 998; opacity: 0; transition: opacity 100ms ease 0s;" tabindex="-1" role="tabpanel" id="slick-slide42" aria-describedby="slick-slide-control42">
 				<ul id="ntcList3" class="newLst">
-					
-					
-					
-					
-					
-					
-										
-						
-											
+																	
 					<li data-title="학사">
 						<a href="/main/na/ntt/selectNttInfo.do?nttSn=2013211&amp;mi=1127" tabindex="-1">
 							<strong class="tit">
@@ -1710,15 +1359,7 @@ $(document).ready(function(){
 				<a href="/main/na/ntt/selectNttList.do?mi=1127&amp;bbsId=1029" class="more_btn4" tabindex="-1"><i class="xi-plus-min"></i><span class="sr-only">학사 더보기</span></a>
 			</div><div class="list_box slick-slide" data-slick-index="3" aria-hidden="true" style="width: 985px; position: relative; left: -2955px; top: 0px; z-index: 998; opacity: 0; transition: opacity 100ms ease 0s;" tabindex="-1" role="tabpanel" id="slick-slide43" aria-describedby="slick-slide-control43">
 				<ul id="ntcList4" class="newLst">
-					
-					
-					
-					
-					
-					
-										
-						
-											
+															
 					<li data-title="장학">
 						<a href="/main/na/ntt/selectNttInfo.do?nttSn=2005711&amp;mi=1376" tabindex="-1">
 							<strong class="tit">
@@ -1730,9 +1371,7 @@ $(document).ready(function(){
 							<em class="date">2021.09.02</em>
 						</a>
 					</li>
-										
-						
-											
+								
 					<li data-title="장학">
 						<a href="/main/na/ntt/selectNttInfo.do?nttSn=2013153&amp;mi=1376" tabindex="-1">
 							<strong class="tit">
@@ -1745,8 +1384,6 @@ $(document).ready(function(){
 						</a>
 					</li>
 										
-						
-											
 					<li data-title="장학">
 						<a href="/main/na/ntt/selectNttInfo.do?nttSn=2012921&amp;mi=1376" tabindex="-1">
 							<strong class="tit">
@@ -1777,15 +1414,7 @@ $(document).ready(function(){
 				<a href="/main/na/ntt/selectNttList.do?mi=1376&amp;bbsId=1075" class="more_btn4" tabindex="-1"><i class="xi-plus-min"></i><span class="sr-only">장학 더보기</span></a>
 			</div><div class="list_box slick-slide slick-current slick-active" data-slick-index="4" aria-hidden="false" style="width: 985px; position: relative; left: -3940px; top: 0px; z-index: 999; opacity: 1;" tabindex="-1" role="tabpanel" id="slick-slide44" aria-describedby="slick-slide-control44">
 				<ul id="ntcList5" class="newLst">
-					
-					
-					
-					
-					
-					
-										
-						
-											
+																
 					<li data-title="학술행사">
 						<a href="/main/na/ntt/selectNttInfo.do?nttSn=2013079&amp;mi=1131" tabindex="0">
 							<strong class="tit">
@@ -1798,8 +1427,6 @@ $(document).ready(function(){
 						</a>
 					</li>
 										
-						
-											
 					<li data-title="학술행사">
 						<a href="/main/na/ntt/selectNttInfo.do?nttSn=2012723&amp;mi=1131" tabindex="0">
 							<strong class="tit">
@@ -1844,15 +1471,7 @@ $(document).ready(function(){
 				<a href="/main/na/ntt/selectNttList.do?mi=1131&amp;bbsId=1032" class="more_btn4" tabindex="0"><i class="xi-plus-min"></i><span class="sr-only">학술행사 더보기</span></a>
 			</div><div class="list_box slick-slide" data-slick-index="5" aria-hidden="true" style="width: 985px; position: relative; left: -4925px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" role="tabpanel" id="slick-slide45" aria-describedby="slick-slide-control45">
 				<ul id="ntcList6" class="newLst">
-					
-					
-					
-					
-					
-					
-										
-						
-											
+																
 					<li data-title="채용">
 						<a href="/main/na/ntt/selectNttInfo.do?nttSn=2013479&amp;mi=1129" tabindex="-1">
 							<strong class="tit">
@@ -1865,8 +1484,6 @@ $(document).ready(function(){
 						</a>
 					</li>
 										
-						
-											
 					<li data-title="채용">
 						<a href="/main/na/ntt/selectNttInfo.do?nttSn=2013442&amp;mi=1129" tabindex="-1">
 							<strong class="tit">
@@ -1912,50 +1529,7 @@ $(document).ready(function(){
 			</div></div></div>		
 		
 			
-			
-			
-			
-				
-			
-					
-					
-		
-			
-			
-			
-			
-				
-			
-					
-					
-		
-			
-			
-			
-			
-				
-			
-					
-					
-		
-			
-			
-			
-			
-				
-			
-					
-					
-		
-			
-			
-			
-			
-				
-			
-					
-					
-		
+
 		</div>
 		<div class="control control2">
 			<a href="#none" id="ntcPrev" class="slick_arr slickPrev slick-arrow" style="display: inline-block;"><em class="sr-only">이전으로</em></a>
@@ -1972,52 +1546,12 @@ $(document).ready(function(){
 
 				<section class="section section04 active">
 					
-						
-						
-					
-
-
-
-
-
-
-
-
 <div id="widgDiv4" class="widgDiv T1_A04" data-id="4" data-seq="17445" data-widgsn="1024">
 	
-		
-			
-		
-
-
-
-
-
-
-
-<!-- 다건 -->
-
-
-<!-- 단건 -->
-
-
-<!-- 팝업 -->
-
-
-<!-- 단건 게시판 게시물 -->
-
-
-				
-
 <div class="container">	
-	<!-- GNU 소식 -->
 	<div class="wordLst_wrap">
 		<div class="wordLst slick-initialized slick-slider">
 			
-				
-				
-				
-				
 				<div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 11308px; transform: translate3d(-4112px, 0px, 0px);"><article class="slider_wrap slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" style="width: 1028px;" tabindex="-1">
 					<a href="/main/na/ntt/selectNttInfo.do?nttSn=2012951&amp;mi=1289" tabindex="-1">
 						<span class="txt_wrap">
@@ -2185,32 +1719,7 @@ $(document).ready(function(){
 					</a>
 				</article></div></div>
 			
-				
-				
-				
-				
-				
-			
-				
-				
-				
-				
-				
-			
-				
-				
-				
-				
-				
-			
-				
-				
-				
-				
-				
-			
-			
-		</div>
+			</div>
 		<div class="control control2">
 			<div>
 				<a href="#none" id="wordLstPrev" class="slick_arr slickPrev slick-arrow" style="display: inline-block;"><em class="sr-only">이전으로</em></a>
@@ -2221,7 +1730,6 @@ $(document).ready(function(){
 			<a href="#none" id="wordLstPlay" class="slick_act slick_play"><em class="sr-only">재생</em></a>
 		</div>
 	</div>
-	<!-- //GNU 소식 -->
 </div>
 	
 </div>				
@@ -2230,8 +1738,6 @@ $(document).ready(function(){
 				<section class="section section05 active">
 					<div class="container">
 						<div class="section_wrap">
-							
-							<!-- GNU 뉴스 -->
 							<div class="T1_A05">
 								<div class="newsLst_wrapper">
 									<h3 class="heading1"><strong class="point1">GNU</strong>뉴스</h3>
@@ -2278,48 +1784,9 @@ $(document).ready(function(){
 									<a href="http://www.gnunews.kr/" class="more_btn2" target="_blank" title="새창으로 열림"><span>MORE</span></a>
 								</div>
 							</div>
-							<!-- //GNU 뉴스 -->			
-		
-							
-								
-								
-							
-
-
-
-
-
-
-
 
 <div id="widgDiv6" class="widgDiv T1_A06" data-id="6" data-seq="17447" data-widgsn="1026">
 	
-		
-			
-		
-
-
-
-
-
-
-
-<!-- 다건 -->
-
-
-<!-- 단건 -->
-
-
-<!-- 팝업 -->
-
-
-<!-- 단건 게시판 게시물 -->
-
-
-				
-
-
-<!-- GNU PEOPLE -->
 <div class="newsLst_wrapper">
 	
 	<h3 class="heading1"><strong class="point1">GNU</strong>PEOPLE</h3>
@@ -2352,9 +1819,7 @@ $(document).ready(function(){
 	</div>
 	<a href="/main/na/ntt/selectNttList.do?mi=1290&amp;bbsId=1046" class="more_btn2"><span>MORE</span></a>
 </div>
-<!-- //GNU PEOPLE -->
 
-	
 </div>
 							
 							
@@ -2371,32 +1836,6 @@ $(document).ready(function(){
 
 <div id="widgDiv13" class="widgDiv T1_A12" data-id="13" data-seq="17454" data-widgsn="1033">
 	
-		
-			
-		
-
-
-
-
-
-
-
-<!-- 다건 -->
-
-
-<!-- 단건 -->
-
-
-<!-- 팝업 -->
-
-
-<!-- 단건 게시판 게시물 -->
-
-
-				
-
-
-<!-- GNU 행사 -->
 <div class="newsLst_wrapper">
 	
 	<h3 class="heading1"><strong class="point1">GNU</strong>행사</h3>
@@ -2429,8 +1868,6 @@ $(document).ready(function(){
 	</div>
 	<a href="/main/na/ntt/selectNttList.do?mi=1291&amp;bbsId=1047" class="more_btn2"><span>MORE</span></a>
 </div>
-<!-- //GNU 행사 -->
-	
 </div>						
 						</div>
 					</div>
@@ -2438,46 +1875,9 @@ $(document).ready(function(){
 
 				<section class="section section06 active">
 					<div class="container">
-						
-							
-							
-						
-
-
-
-
-
-
-
 
 <div id="widgDiv7" class="widgDiv T1_A07" data-id="7" data-seq="17448" data-widgsn="1027">
-	
-		
-			
-		
 
-
-
-
-
-
-
-<!-- 다건 -->
-
-
-<!-- 단건 -->
-
-
-<!-- 팝업 -->
-
-
-<!-- 단건 게시판 게시물 -->
-
-
-
-
-							
-<!-- PR VIDEO -->
 <div class="pr_video_wrap">
 	
 	<h3 class="heading1"><strong class="point1">PR </strong>VIDEO</h3>
@@ -2489,57 +1889,14 @@ $(document).ready(function(){
 		<div class="pr_video">
 			<iframe src="https://www.youtube.com/embed/ufZnoM9bPlE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 			<span class="sr-only">인문대학 학과 홍보를 위한 「학생 UCC 공모」에서 선발된&amp;nbsp;러시아학과 홍보동영상 "세계로 전진: 러시아학과"입니다.&amp;nbsp;10대는 10km, 20대는 20km해를 거듭할수록 시간이 더욱 빠르게 느껴지지 않으신가요?당신은 빠르게 흘러가는 이 시간을 어떻게 보내고 계십니까?저 언니들은 좋겠다                                                나는 어디로 취업해야 되지?&amp;nbsp;아니 그보다 대학은 어디로 가야되지?안녕하세요, 저는 유진. 혜인입니다.&amp;nbsp;우리는 경상국립대학교에 대해 이야기하겠습니다.&amp;nbsp;안녕하세요. 저희는 경상국립대학교 러시아학과를 소개해드릴 유진&amp;혜인입니다.&amp;nbsp;언어에 관심이 많았던 친구들! 러시아어하면 블루오션이라는 말을 많이 들어보셨을텐데요.&amp;nbsp;러시아는 세계 면적 1위 국가이기도 하고, 러시아어를 쓰는 주변 인접국들까지 포함시키면 그 입지는 무한히 넓다고 할 수 있겠습니다.자, 그럼! 러시아어의 강점은 저희 학과를 차차 소개해드리면서 자연스럽게 알려드리도록 할게요.&amp;nbsp;그러면 러시아학과에 대해서 알아보러 가실까요? 러시아학과하면 정확히 무엇을 어떻게 배우는지 아리송 하셨던 분들! 지금부터 두 눈 딱! 뜨고 집중해주세요!!&amp;nbsp;우선 경상국립대학교 러시아학과의 교육과정에 대해 설명해 드리겠습니다.&amp;nbsp;저희 학과는 1학년 때 기초를 탄탄하게 잡아준다는 장점이 있습니다.&amp;nbsp;러시아어를 몰라도 1학년 때 발음, 문법, 필기체 등 러시아어에 대한 기본적인 지식들을 학습하기 때문에 큰 부담없이 수업에 참여 할 수 있습니다.&amp;nbsp;저희 학과는 1학년 때 80% 이상의 전공필수 과목으로 기초를 탄탄히 잡은 후에 2학년 때부터 전공선택 과목으로 본인의 관심분야를 더욱 세부적으로 깊이있게 학습할 수 있습니다.&amp;nbsp;언어, 역사, 문학, 경제, 정치 등 다양한 분야를 더 세부적으로 깊이 있게 학습할 수 있습니다.문법과 회화수업을 통해 보다 실용적인 언어 학습은 물론, 러시아 역사, 정치와 경제, 문화, 문학 등 러시아 전반에 대한 이해를 돕는 수업들이 다양하게 진행되고 있습니다.&amp;nbsp;실제로 저는 '포스트소비에트 공간 문화 원형 발국과 문화콘텐츠화"라는 수업을 들으면서 러시아를 비롯한 CIS국가들의 민족적 특성과 역사적 관계, 문화형성 배경 등에 대해서 알게 된 이후로 러시아에 대한 이해도가 높아졌습니다.&amp;nbsp;이뿐만 아니라, 러시아학을 전공하는 학도로써 러시아와 CIS국가의 문화 원형을 찾고 이것을 어떻게 시대흐름에 맞게 콘텐츠화 시킬지에 대해 생각해볼 수 있어서 흥미롭게 들었던 수업 중 하나입니다.&amp;nbsp;경상국립대학교 러시아학과는 재학생들에게 최상의 지원을 해주고 있습니다.&amp;nbsp;저희는 매년 학술제를 진행하는데, 우수한 성적을 거둔 학생들을 대상으로 소정의 상금과 러시아 견학권을 수여하고 있습니다.&amp;nbsp;그럼 학술제는 어떻게 준비하느냐! 바로 노보스찌라는 학술 동아리를 통해 준비할  수 있습니다.&amp;nbsp;노보스찌는 학교생활에 대한 정보 공유뿐만 아니라, 예습과 복습, 토론을 통해 선후배 간의 원활한 소통과 면학 분위기 조성에 있어서 큰 도움이 되는 활동 중 하나입니다.&amp;nbsp;저희가 전해 드린 정보가 도움이 되셨나요? 아직도 궁금증이 해소되지 않은 분들을 위해 저희가 졸업생 그리고 교수님과의 면답 시간을 준비해봤습니다.&amp;nbsp;[ 교수님 Q&amp;A ]Q. 교수님이 생각하시는 우리 학과의 장점은?&amp;nbsp;A. 아, 저희 경상국립대학교 러시아학과는 대한민국 내 국립대 중에서 유일한 지역학과로서 러시아어 뿐만 아니라 러시아 경제, 지리, 역사 등 다방면의 분야들을 폭넓게 배울 수 있는 과이구요. 이게 가장 큰 장점입니다.Q. 러시아학과를 5글자로 표현한다면?A. 오.면.알.게.돼&amp;nbsp; &amp;nbsp; 삐.야.네.에.르(개척자)친애하는 여러분 안녕하세요! 안녕하십니까. 러시아학회장 김정오입니다.&amp;nbsp;경상대 러시아학과는 러시아 전반에 대해서 포괄적으로 배울 수 있는 학과입니다.&amp;nbsp;러시아에 대해 관심있는 학생들에게는 좋은 교육 환경이라고 자부할 수 있습니다.&amp;nbsp;저희 러시아학과는 매년 러시아와 카자흐스탄에 대한 교환학생 제도를 운영하고 있으며 토르플, 플렉스에 등과 같은 언어 자격 시험에 대한 지원을 통해 학우님들이 실무에서 러시아어를 사용하시고 실력을 인정받으실 수 있는 환경을 제공하고 있습니다.&amp;nbsp;러시아학과에 오셔서 러시아의 매력적인 언어와 흥미로운 역사, 즐거운 문화 등등에 대해서 배워보시길 바랍니다.&amp;nbsp;다음에 다시 만날 때를 기다릴게요! 행운을 빕니다!안녕하세요. 정상우입니다. 저는 러시아학과 4학년 학생입니다.&amp;nbsp;저희 학과의 가장 큰 장점은 러시아에 대해 다방면으로 배울 수 있다는 점입니다.&amp;nbsp;현대의 국제사회에서 빼놓을 수 없는 러시아에 대해 다방면으로 배웁니다. 저는 그 중 러시아의 정치와 근대 역사를 좋아합니다.&amp;nbsp;이렇듯 저희 러시아학과는 저와 같은 학생에게 매우 유용한 학과입니다. 감사합니다.러시아학과에서는 일반 노어노문학과와는 다르게 배우는 점이 참 좋았습니다.&amp;nbsp;러시아어를 배울 뿐만 아니라 러시아의 모든 것을 배우는 점이 참 좋았습니다.&amp;nbsp;예를들어 문화, 정치, 지리, CIS 등등.&amp;nbsp;이러한 학문을 배우면서 더욱 흥미를 가지고 공부를 할 수 있었습니다.&amp;nbsp;러시아와주변국의 문화를 접하게 되어서요.&amp;nbsp;지금 상트페테르부르크 국립대학교에서 공부 중입니다.&amp;nbsp;열심히 공부한 덕에 이 학과에서 이곳에서 보다 편한 유학생활을 즐기고 있는 것 같습니다.&amp;nbsp;또한 더 쉽게 러시아 친구들과 소통하고 만날 수 있게 되었습니다.&amp;nbsp;여러분들이 경상대학교 러시아학과에 와서 같이 공부하며 캠퍼스 생활을 즐겼으면 좋겠습니다.&amp;nbsp;들어주셔서 감사합니다.</span>
-		</div>
-	
-	
+		</div>	
 	
 	<a href="/main/na/ntt/selectNttList.do?mi=7082&amp;bbsId=2448" class="more_btn2"><span>MORE</span></a>
 </div>
-<!-- //PR VIDEO -->
-	
 </div>
-					
-						
-							
-							
-						
-
-
-
-
-
-
-
 
 <div id="widgDiv8" class="widgDiv T1_A08" data-id="8" data-seq="17449" data-widgsn="1028">
 	
-		
-			
-		
-
-
-
-
-
-
-
-<!-- 다건 -->
-
-
-<!-- 단건 -->
-
-
-<!-- 팝업 -->
-
-
-<!-- 단건 게시판 게시물 -->
-
-
-
-
-
-<!-- GNU POPUP -->
-
 <h3 class="heading1"><strong class="point1">GNU</strong>POPUP</h3>
 <div class="popLst_wrap">
 	<div class="popLst slick-initialized slick-slider">
@@ -2657,18 +2014,6 @@ $(document).ready(function(){
 				</span>
 			</a>
 		</article></div></div>
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-	
 	</div>
 	<div class="control control2 control3">
 		<div>
@@ -2680,54 +2025,15 @@ $(document).ready(function(){
 		<a href="#none" id="popLstPlay" class="slick_act slick_play"><em class="sr-only">재생</em></a>
 	</div>
 </div>
-<!-- //GNU POPUP -->
-	
 </div>
 					</div>
 				</section>
 
 				<section class="section section07 active">
 					<div class="container">
-						
-							
-							
-						
-
-
-
-
-
-
-
 
 <div id="widgDiv9" class="widgDiv T1_A09" data-id="9" data-seq="17450" data-widgsn="1029">
 	
-		
-			
-		
-
-
-
-
-
-
-
-<!-- 다건 -->
-
-
-<!-- 단건 -->
-
-
-<!-- 팝업 -->
-
-
-<!-- 단건 게시판 게시물 -->
-
-
-				
-
-
-<!-- GNU 소개1-->
 <h3 class="heading3">
 	<strong>Neo Frontier</strong>
 	<span><em>대한민국</em>을 <em>대표</em>하는 경남의 <em>국가거점국립대학</em></span>
@@ -2750,88 +2056,20 @@ $(document).ready(function(){
 		<strong>교류국가 <em data-count="44">44</em>개국 <br>교류대학 <em data-count="331">331</em></strong>
 	</li>
 </ul>	
-<!-- //GNU 소개1-->		
 
-
-	
 </div>	
 						
-						
-							
-							
-						
-
-
-
-
-
-
-
 
 <div id="widgDiv10" class="widgDiv T1_A10" data-id="10" data-seq="17451" data-widgsn="1030">
-	
-		
-			
-		
-
-
-
-
-
-
-
-<!-- 다건 -->
-
-
-<!-- 단건 -->
-
-
-<!-- 팝업 -->
-
-
-<!-- 단건 게시판 게시물 -->
-
-
-
-
-
-<!-- GNU 소개2-->
-<ul class="campus_lst">
-	
-		
-		
-			
-		
-		<li><a href="/main/cm/cntnts/cntntsView.do?mi=1213&amp;cntntsId=1081" target="_self"><span>가좌캠퍼스</span></a></li>		
-	
-		
-		
-			
-		
+<ul class="campus_lst">	
+		<li><a href="/main/cm/cntnts/cntntsView.do?mi=1213&amp;cntntsId=1081" target="_self"><span>가좌캠퍼스</span></a></li>			
 		<li><a href="/main/cm/cntnts/cntntsView.do?mi=1214&amp;cntntsId=1082" target="_self"><span>칠암캠퍼스</span></a></li>		
-	
-		
-		
-			
-		
 		<li><a href="/main/cm/cntnts/cntntsView.do?mi=1215&amp;cntntsId=1083" target="_self"><span>통영캠퍼스</span></a></li>		
-	
-		
-		
-			
-		
-		<li><a href="/main/cm/cntnts/cntntsView.do?mi=1274&amp;cntntsId=1144" target="_self"><span>내동캠퍼스</span></a></li>		
-	
-		
-		
-			
-		
+		<li><a href="/main/cm/cntnts/cntntsView.do?mi=1274&amp;cntntsId=1144" target="_self"><span>내동캠퍼스</span></a></li>			
 		<li><a href="/main/cm/cntnts/cntntsView.do?mi=1216&amp;cntntsId=1084" target="_self"><span>창원산학캠퍼스</span></a></li>		
 	
 	
 </ul>
-<!-- //GNU 소개2-->
-	
 </div>
 					</div>
 				</section>
@@ -2839,50 +2077,9 @@ $(document).ready(function(){
 				<section class="section section08">
 					<div class="container">
 						
-							
-							
-						
-
-
-
-
-
-
-
-
 <div id="widgDiv11" class="widgDiv T1_A11" data-id="11" data-seq="17452" data-widgsn="1031">
-	
-		
-			
-		
 
-
-
-
-
-
-
-<!-- 다건 -->
-
-
-<!-- 단건 -->
-
-
-<!-- 팝업 -->
-
-
-<!-- 단건 게시판 게시물 -->
-
-
-
-
-
-<!-- 사용자 서비스메뉴-->
 <div class="user_srv">
-	
-		<!-- css고정 x -->
-		
-		<!-- css고정 -->
 		<h3 class="tit tit1"><a href="#none" title="상태 : 축소"><span>대학/대학원</span></a></h3>
 		<div class="list_box">
 			<ul class="all_list">
@@ -3239,16 +2436,7 @@ $(document).ready(function(){
 								
 							</ul>
 						</li>
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
+								
 			</ul>
 		</div>
 		
@@ -3256,15 +2444,6 @@ $(document).ready(function(){
 		<div class="list_box">
 			<ul class="all_list">
 				
-					
-				
-					
-				
-					
-				
-					
-				
-					
 						<li><strong>교내기관</strong>
 							<ul class="dep2">
 								
@@ -3365,48 +2544,11 @@ $(document).ready(function(){
 	
 	
 </div>
-<!-- //사용자 서비스메뉴-->	
-	
 </div>
 					</div>
 				</section>
 			</div>				
             
-
-
-
-
-
-
-
-
-
-
-            
-
-	
-	
-	
-		
-		
-		<!-- 팝업 리스트 -->
-		
-		
-		
-		
-		<!-- /팝업리스트 -->
-	
-
-
-  
-					<!-- // main_wrap -->
-					<!-- footer -->
-		            
-
-
-
-
-
 			<footer id="footer" class="container">
 				<div class="ft_wrap">
 				
@@ -3441,66 +2583,23 @@ $(document).ready(function(){
 							<li><a href="https://newgh.gnu.ac.kr/main/cm/cntnts/cntntsView.do?cntntsId=1134&amp;mi=1269">네티즌윤리강령</a></li>
 							
 							<li><a href="https://newgh.gnu.ac.kr/main/cm/cntnts/cntntsView.do?cntntsId=1135&amp;mi=1270">이메일집단수집거부</a></li>
-							<!-- <li><a href="http://search.gnu.ac.kr/search/emp_page.jsp?" target="_blank" title="새창으로 열림">교직원검색</a></li> -->
-							<!-- <li><a href="http://rule.gnu.ac.krhttps://newgh.gnu.ac.kr/main/" target="_blank" title="새창으로 열림">규정집</a></li> -->
+
 							<li><a href="https://www.academyinfo.go.kr/pubinfo/pubinfo1600/doInit.do?schlId=0000007" target="_blank" title="새창으로 열림">대학정보공시</a></li>
-							<!-- <li><a href="http://cheongryum.gnu.ac.kr/cheongryum/main.do" target="_blank" title="새창으로 열림">청렴센터</a></li> -->
-							<!-- <li><a href="https://newgh.gnu.ac.kr/main/ba/banner/selectBannerColl.do?mi=1271">배너모음</a></li> -->
-							<!-- <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfaFmoEYQcydjJA85arQrcYhFf97yzuZSpgIpF9WxS5QUgpzA/viewform?usp=sf_link" target="_blank" title="새창으로 열림">홈페이지 오류보고</a></li> -->
+
 							<li><a href="https://cheongryum.gnu.ac.kr" target="_blank" title="새창으로 열림">청렴센터</a></li>
 						</ul>
 						<p class="copyright">Copyright 2021 <strong>Gyeongsang National University</strong>. All rights reserved.</p>
-						
-						<!-- 접근성 마크 -->
+					
 						<p class="mark_WA"><img src="/images/web/main/main/img_WA.png" alt="과학기술정보통신부(WEB ACCESSIBILITY)"></p>
-						<!-- 접근성 마크 -->
 					</div>	
 				</div>
 			</footer>
    
-		            <!-- // footer --> 
 				</div>
-	            <!-- //container -->
-
-				
-					
-					
-				
-
-
-
-
-
-
 
 
 <div id="widgDiv12" class="widgDiv T1_A13" data-id="12" data-seq="17453" data-widgsn="1032">
-	
 		
-			
-		
-
-
-
-
-
-
-
-<!-- 다건 -->
-
-
-<!-- 단건 -->
-
-
-<!-- 팝업 -->
-
-
-<!-- 단건 게시판 게시물 -->
-
-
-  
-
-<!-- quick links -->
 <ul class="quick_links">
 	<li class="m_quick_active">
 		<a href="javascript:void(0);" title="사용자 메뉴 펼치기">
@@ -3650,7 +2749,6 @@ $(document).ready(function(){
 								<span>현장실습</span>
 							</a>
 						</li>
-						<!-- <li class="quick_menu quick_menu6">
 							<a href="">
 								<span>도서관</span>
 							</a>
@@ -3819,7 +2917,6 @@ $(document).ready(function(){
 							</a>
 						</li>
 						<li class="quick_menu quick_menu22">
-							<!-- 대표홈페이지 발전기금 : /main/cm/cntnts/cntntsView.do?mi=1295&cntntsId=1162 -->
 							<a href="/main/cm/cntnts/cntntsView.do?mi=1295&amp;cntntsId=1162">
 								<span>발전기금</span>
 							</a>
@@ -3859,22 +2956,13 @@ $(document).ready(function(){
 		</div>
 	</li>
 </ul>
-<!-- //quick links -->
 
-
-	
 </div>	
-				
-				<!-- dark mode control -->
 				<div class="dark_mode_ctrl">
 				   <a href="#none" class="toggle__ctrl"><span class="toggle__feature"><i class="xi-night"></i>다크 <br>모드</span></a>
-				</div>
-				<!-- //dark mode control -->			
-		
-				<!-- 상단이동 버튼 -->
-				<div class="btn_top" id="moveTop" style="display: block;"><a href="#none"><span class="sr-only">최상단으로 이동</span></a></div>
-				<!-- //상단이동 버튼 -->	            
-	     
+				</div>			
+
+				<div class="btn_top" id="moveTop" style="display: block;"><a href="#none"><span class="sr-only">최상단으로 이동</span></a></div>                 
         </div>
         <script type="text/javascript" src="/js/common-scroll.js"></script>
         <script type="text/javascript" src="/js/common.js"></script>

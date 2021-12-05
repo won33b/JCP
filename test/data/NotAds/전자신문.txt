@@ -1,31 +1,3 @@
-
-
-
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>전자신문</title>
-   <meta name="viewport" content="width=device-width">
-  <meta http-equiv="Expires" content="-1" />
-    <meta http-equiv="Pragma" content="no-cache" />
-    <meta http-equiv="Cache-Control" content="no-cache" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <meta name="robots" content="all" />
-    <meta name="author" content="www.etnews.com" />
-    <meta name="copyright" content="Copyright &copy; Electronic Times Internet. All Right Reserved." />
-    <meta name="keywords" content="전자신문,전자신문인터넷,Etnews,Etnews.com,뉴스,News,속보,방송,연예,통신,SW,바이오,소재,부품,과학,전자,자동차,경제,금융,산업,정책,글로벌,리포트,동영상," />
-    <meta name="description" content="대한민국을 대표하는 IT 전문 뉴스포털 전자신문" />
-    <meta property="fb:app_id" content="1425291491111655" />
-
-	<meta name="format-detection" content="telephone=no" />
-	<meta property="og:title" content="전자신문" />
-	<meta property="og:image" content="https://img.etnews.com/2017/img/facebookblank.png" />
-	<meta property="og:site_name" content="IT 전문 뉴스포털 전자신문" />
-	<meta property="og:url" content="https://www.etnews.com" />
-    <meta property="og:description" content="대한민국을 대표하는 IT 전문 뉴스포털 전자신문" />
-
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
