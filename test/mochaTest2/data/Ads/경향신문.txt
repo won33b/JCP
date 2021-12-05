@@ -1,0 +1,7 @@
+<script>createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@Left1', '160', '600', '좌측 날개 배너', 'ads1', '3000', '');</script>
+var ad2_src = "//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@Right1?p_pageUrl3="+document.location.href;				
+<div id="dablewidget_QXepDBle" data-widget_id="QXepDBle">
+<div id="dablewidget_klrzDelm" data-widget_id="klrzDelm">
+createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@x51', '300', '250', '본문 하단 박스 광고_좌', 'ads13_1', '10000', '');
+createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@x54', '300', '250', '본문 하단 박스 광고_우', 'ads13_2', '10000', '');
+createIframe('//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/news@x91', '300', '380', '우측 콘텐츠 광고', 'ads20', '10000', '')
