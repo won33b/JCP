@@ -23,73 +23,7 @@
 			JEagleEyeClient.attachOnError();
 		}
 	} catch (e) {
-		console.log(e);
-	}
-</script>
 
-    
-    <script type='text/javascript' src='https://ssl.pstatic.net/static.sports/resources/pc/2021/11/11/122215/js/generated/sectionHomeJs.js' charset='UTF-8'></script>
-
-    <script type="text/javascript" src="https://ssl.pstatic.net/tveta/libs/assets/js/pc/main/min/pc.veta.core.min.js?201704051200"></script>
-
-    <script>
-    document.domain = "naver.com";
-    var nsc = "sports.home";
-    </script>
-</head>
-
-<body
-		
-			
-				class="sports_home"
-			
-			
-		
->
-<!-- 사이드 광고 -->
-<div id="veta_skin_left" data-veta-preview="p_sports_dpl"></div>
-<div id="veta_skin_right" data-veta-preview="p_sports_dpl"></div>
-
-<div id="u_skip">
-	<a href="#lnb_main_sub" onclick="document.getElementById('lnb_main_sub').tabIndex=-1;document.getElementById('lnb_main_sub').focus();"><span>메인 메뉴로 바로가기</span></a>
-	<div id="lnb_menu_link"></div>
-	<div id="container_link"></div>
-</div>
-
-<div id="wrap">
-	
-
-	
-	
-		<div id="header" class="header">
-			<div class="sports_header" role="banner">
-				
-
-				<!-- GNB -->
-				<div class="gnb_area">
-					<div class="gnb_one" id="gnb"></div>
-				</div>
-				<!-- GNB -->
-			</div>
-			
-
-
-
-            
-
-
-
-<script>
-	naver = window.naver || {};
-	naver.sports = naver.sports || {};
-	naver.sports.top = naver.sports.top || {};
-	naver.sports.top.Lnb = eg.Class({
-
-		construct: function (htOption) {
-			this._initVars(htOption);
-			this._initHandlebarsTemplate();
-			this._init();
-			this._setEventHandler();
 		},
 		_initVars: function (htOption) {
 			this._lnbMenus = htOption.lnbMenus || {};
@@ -142,288 +76,7 @@
 			}, this));
 
 			if ($("a.link_main_menu[aria-current='page']").siblings("ul").children().length > 0) {
-				$("#_sports_lnb_menu").addClass("type_submenu");
-			}
-		},
-
-		_updateSelectedMenu: function (menu, upperSection) {
-			var urlListToActivate = this._getUrlListToActivate(menu);
-
-			for (var j = 0; j < urlListToActivate.length; j++) {
-				var urlToActivate = urlListToActivate[j];
-
-				if (_.isEqual(urlToActivate, this._pathname) && ( _.isEqual(this._pathname, "/news") || _.isEqual(this._pathname, "/news.nhn")) && _.isEqual(upperSection, this._targetUpperSection)) {
-					menu.selected = true;
-				} else if (_.isEqual(urlToActivate, this._pathname) && !_.isEqual(this._pathname, "/news") && !_.isEqual(this._pathname, "/news.nhn") ) {
-					menu.selected = true;
-				} else if (urlToActivate.indexOf(this._pathname) > -1 && this._hasQueryParameterToActivate(urlToActivate, this._search)) {
-					menu.selected = true;
-				}
-			}
-		},
-
-		_getUrlListToActivate: function (lnbMenuInfo) {
-			var result = [];
-
-			result.push(lnbMenuInfo.url);
-			result.push(lnbMenuInfo.url.replace(/.nhn/gi,''));
-
-			var urlListToActivate = [];
-			var onUrl = $.trim(lnbMenuInfo.onUrl);
-
-			if (onUrl.length > 0) {
-				urlListToActivate = onUrl.replace(/.nhn/gi,'').split(";");
-				result = result.concat(onUrl.split(";"));
-				result = result.concat(urlListToActivate);
-			}
-
-			var subMenuList = lnbMenuInfo.subMenuList;
-
-			if (subMenuList) {
-				for (var i = 0; i < subMenuList.length; i++) {
-					var subMenu = lnbMenuInfo.subMenuList[i];
-					result.push(subMenu.url);
-					result.push(subMenu.url.replace(/.nhn/gi,''));
-					var onSubUrl = $.trim(subMenu.onUrl);
-					if (onSubUrl.length > 0) {
-						result = result.concat(onSubUrl.split(";"));
-						result = result.concat(onSubUrl.replace(/.nhn/gi,'').split(";"));
-					}
-				}
-			}
-
-			return result;
-		},
-		_hasQueryParameterToActivate: function (urlToActivate, currentQueryParameter) {
-			var queryParameterToActivate = getURLParameter(urlToActivate);
-			var currentQueryParameter = getURLParameter(currentQueryParameter);
-
-			if (!queryParameterToActivate || !currentQueryParameter) {
-				return;
-			}
-
-			var queryParameterToActivateMap = changeQueryStringToObject(queryParameterToActivate);
-			var currentQueryParameterMap = changeQueryStringToObject(currentQueryParameter);
-
-			for (var i in queryParameterToActivateMap) {
-				for (var j in currentQueryParameterMap) {
-					if (i == j && queryParameterToActivateMap[i] == currentQueryParameterMap[j]) {
-						return true;
-					}
-				}
-			}
-
-			return false;
-		}
-	});
-
-	new naver.sports.top.Lnb({
-		"lnbMenus": lnbMenuInfoList,
-		'targetUpperSection': ''
-	});
-</script>
-
-		</div>
-		<script type="text/javascript" charset="utf-8" src="https://ssl.pstatic.net/static.gn/templates/gnb_utf8.nhn?20211123"></script>
-		<script type="text/javascript">
-			//NOTE : GNB init
-			var gnb_option = {
-				gnb_one_naver: 1,
-				gnb_brightness: 1,
-				gnb_login: encodeURIComponent(window.location.href),
-				gnb_logout: encodeURIComponent(window.location.href)
-			};
-
-			(function () {
-				function loadGNB() {
-
-					if (typeof getGNB === "function") {
-						getGNB();
-					}
-				}
-
-				window.attachEvent ? window.attachEvent('onload', loadGNB) : window.addEventListener('load', loadGNB, false);
-			})();
-		</script>
 	
-
-	<div id="container" role="main">
-	
-<div id="spot">
-    <div class="home_spot">
-        
-
-
-
-
-	<script id="_section_home_livebox_score_card_template" type="text/x-handlebars-template">
-		<div class="live_box_card {{#if thumbnailImage}}type_live{{/if}}">
-			<div class="category">{{categoryName}}</div>
-			{{#if thumbnailImage}}
-			<div class="image_area">
-				<span class="image"><img src="{{thumbnailImage}}" alt="" width="246" height="132"></span>
-				<span class="common_live_tag"><span class="blind">LIVE</span></span>
-				{{#if liveTotalView}}<span class="live_viewer"><span class="number">{{numberFormat liveTotalView}}</span> 시청</span>{{/if}}
-			</div>
-			{{/if}}
-			<div class="match_info">
-				<div class="match_status">
-					{{#if liveSchedule}}
-						{{#if thumbnailImage}}
-							<span class="status">{{statusInfo}}</span>
-							<span class="league">{{categoryName}}</span>
-						{{else}}
-							<span class="common_live_tag"><span class="blind">LIVE</span></span>
-							<span class="status">{{statusInfo}}</span>
-						{{/if}}
-					{{else}}
-					<span class="versus">VS</span>
-					<span class="status">{{gameTimeHHmm}} 예정</span>
-					{{/if}}
-				</div>
-				<div class="away_team">
-					{{#if liveSchedule}}
-					<span class="score"><span class="point">{{teamScore1}}</span>
-					{{#ifCond homeTeamPenaltyScore '>=' 0 }}
-						<i class="pso"><span class="blind">승부차기</span>{{homeTeamPenaltyScore}}</i>
-					{{/ifCond}}
-				</span>
-					{{/if}}
-					<span class="team">
-						{{#if teamLogo1}}
-					<img src="{{teamLogo1}}" width="30" height="30" alt="{{teamName}}" onerror="this.src='https://sports-phinf.pstatic.net/team/no_emblem_s_square.png'" >
-						{{/if}}
-					<span class="name">{{teamName1}}</span>
-				</span>
-				</div>
-				<div class="home_team">
-					{{#if liveSchedule}}
-					<span class="score"><span class="point">{{teamScore2}}</span>
-					{{#ifCond awayTeamPenaltyScore '>=' 0 }}
-						<i class="pso"><span class="blind"></span>{{awayTeamPenaltyScore}}</i>
-					{{/ifCond}}
-				</span>
-					{{/if}}
-					<span class="team">
-						{{#if teamLogo2}}
-					<img src="{{teamLogo2}}" width="30" height="30" alt="{{teamName2}}" onerror="this.src='https://sports-phinf.pstatic.net/team/no_emblem_s_square.png'">
-						{{/if}}
-					<span class="name">{{teamName2}}</span>
-				</span>
-				</div>
-			</div>
-			<a href="{{pcUrl}}" class="link_live" aria-label=""
-			   onclick="clickcr(this, 'lbx.match', '', '', event);"><span class="blind"> </span></a>
-		</div>
-	</script>
-
-	<script id="_section_home_livebox_radio_card_template" type="text/x-handlebars-template">
-		<div class="live_box_card type_live">
-			<div class="category">온에어</div>
-			<div class="image_area">
-				<span class="image"><img src="{{thumbnailImage}}" alt="" width="246" height="132"></span>
-				<span class="common_live_tag"><span class="blind">LIVE</span></span>
-			</div>
-			<div class="onair_info">
-				<div class="onair_title">{{radioTitle}}</div>
-				<div class="onair_press">
-					<span class="channel">{{programTitle}}</span>
-					<span class="cast">{{casters}}</span>
-				</div>
-			</div>
-			<a href="{{pcUrl}}" class="link_live" aria-label="새창"
-			   onclick="clickcr(this, 'lbx.match', '', '', event);" {{#ifCond visibleUrlEnable '==' 'Y'}} target="_blank" {{/ifCond}} ><span class="blind">영상 보기</span></a>
-		</div>
-	</script>
-
-	<script id="_section_home_livebox_text_card_template" type="text/x-handlebars-template">
-		<div class="live_box_card {{#if thumbnailImage}}type_live{{/if}}">
-			
-			{{#ifCond categoryId '==' 'tokyo2020'}}
-				<div class="category"><span class="tokyo2020">TOKYO 2020</span></div>
-				{{#if thumbnailImage}}
-					<div class="image_area">
-						<span class="image"><img src="{{thumbnailImage}}" alt="" width="246" height="132"></span>
-						<span class="common_live_tag"><span class="blind">LIVE</span></span>
-						{{#if liveTotalView}}<span class="live_viewer"><span class="number">{{numberFormat liveTotalView}}</span> 시청</span>{{/if}}
-					</div>
-				{{/if}}
-				<div class="general_info">
-					{{#unless thumbnailImage}}
-						<div class="match_status">
-							<span class="common_live_tag"><span class="blind">LIVE</span></span>
-						</div>
-					{{/unless}}
-					{{#if thumbnailImage}}
-						
-						{{#if matchTitle}}
-							<div class="main_title">{{matchTitle}}</div>
-							<div class="sub_title">{{title}}</div>
-						{{else}}
-							<div class="main_title">{{title}}</div>
-						{{/if}}
-						<div class="match_press">
-							<span class="tokyo2020">{{categoryName}}</span>
-						</div>
-					{{else}}
-						{{#if matchTitle}}
-							<div class="main_title">{{title}}</div>
-							<div class="sub_title">{{matchTitle}}</div>
-						{{else}}
-							<div class="main_title">{{title}}</div>
-						{{/if}}
-					{{/if}}
-				</div>
-				<a href="{{pcUrl}}" class="link_live" aria-label="새창"
-				   onclick="clickcr(this, 'lbx.match', '', '', event);"><span class="blind">영상 보기</span></a>
-			{{else}}
-				<div class="category">{{categoryName}}</div>
-					{{#if thumbnailImage}}
-						<div class="image_area">
-							<span class="image"><img src="{{thumbnailImage}}" alt="" width="246" height="132"></span>
-							<span class="common_live_tag"><span class="blind">LIVE</span></span>
-							{{#if liveTotalView}}<span class="live_viewer"><span class="number">{{numberFormat liveTotalView}}</span> 시청</span>{{/if}}
-						</div>
-					{{/if}}
-				<div class="general_info">
-					{{#unless thumbnailImage}}
-						<div class="match_status">
-							<span class="common_live_tag"><span class="blind">LIVE</span></span>
-						</div>
-					{{/unless}}
-					<div class="match_title">{{title}}</div>
-					{{#if thumbnailImage}}
-						<div class="match_press">
-							<span class="league">{{categoryName}}</span>
-
-	</script>
-
-	<script id="_section_home_livebox_scroll_pagination_template" type="text/x-handlebars-template">
-		<li class="page_item" {{#ifCond pageIndex
-		'==' 1}} aria-current="location" {{/ifCond}} data-pageNum="{{pageIndex}}" ><span
-			class="blind">{{pageIndex}}</span></li>
-	</script>
-
-
-	<div class="home_live_box" style="display:block" id="_section_home_livebox_root">
-		<div class="live_slider">
-			<h2 class="blind">오늘의 경기</h2>
-			<div class="live_card_list new_scroll" id="_section_home_live_scroll_holder">
-				<div class="scroller" id="_section_home_live_scroll">
-				</div>
-			</div>
-		</div>
-		<button type="button" class="button_prev"
-				style="display:none; left:-52px; transition: all 300ms cubic-bezier(0.215, 0.61, 0.355, 1)">
-			<span class="blind">이전</span>
-			<span class="page">1</span>
-		</button>
-		<button type="button" class="button_next"
-				style="display:none; right:-52px; transition: all 300ms cubic-bezier(0.215, 0.61, 0.355, 1)">
-			<span class="blind">다음</span>
-			<span class="page">2</span>
-		</button>
-	</div>
 
 
 	<script>
@@ -445,14 +98,7 @@
 				this._liveBoxList = htOption.liveBoxList || {};
 				this._liveBoxBeforeList = htOption.liveBoxBeforeList || {};
 				this._totalCardCnt = 0;
-			},
-			_initHandlebarsTemplate: function () {
-				this._sectionHomeLiveBoxTopScoreTemplate = Handlebars.compile($("#_section_home_livebox_score_card_template").html());
-				this._sectionHomeLiveBoxTopRadioTemplate = Handlebars.compile($("#_section_home_livebox_radio_card_template").html());
-				this._sectionHomeLiveBoxTopTextTemplate = Handlebars.compile($("#_section_home_livebox_text_card_template").html());
-				this._sectionHomeLiveBoxTopTextBeforeTemplate = Handlebars.compile($("#_section_home_livebox_text_before_card_template").html());
-				this._sectionHomeLiveBoxFlickingPaginationTemplate = Handlebars.compile($("#_section_home_livebox_scroll_pagination_template").html());
-			},
+		
 			_init: function () {
 				(naver.sports.team && naver.sports.team.MyTeam) ?
 					new naver.sports.team.MyTeam({
@@ -461,54 +107,7 @@
 							this._draw();
 						}, this)
 					}) : this._draw();
-			},
-
-			_sort: function (subscribeList) {
-
-				this._liveBoxList = _.sortBy(this._liveBoxList, function (data) {
-					var isSubscribeTeam = _.some(subscribeList, function (subscribeTeam) {
-						return data.fixTopPosition == 'Y' || (
-							subscribeTeam.categoryId == data.categoryId
-							&& (subscribeTeam.teamCode == data.teamCode1 || subscribeTeam.teamCode == data.teamCode2));
-					});
-
-					return isSubscribeTeam ? 0 : 1;
-				});
-
-				this._liveBoxBeforeList = _.sortBy(this._liveBoxBeforeList, function (data) {
-					var isSubscribeTeam = _.some(subscribeList, function (subscribeTeam) {
-						return subscribeTeam.categoryId == data.categoryId
-							&& (subscribeTeam.teamCode == data.teamCode1 || subscribeTeam.teamCode == data.teamCode2);
-					});
-
-					return isSubscribeTeam ? 0 : 1;
-				});
-
-			},
-
-			_draw: function () {
-				if (this._liveBoxList.length < 1) {
-					$("#_section_home_livebox_root").hide();
-					return;
-				}
-
-				$("#_section_home_live_scroll").html("");
-
-				var cards = _.map(this._liveBoxList.concat(this._liveBoxBeforeList), $.proxy(function (item) {
-					if (item.contentsId.indexOf("radio") > -1) {
-						return this._sectionHomeLiveBoxTopRadioTemplate(item);
-					} else if (item.contentsId.indexOf("schedule") > -1 && item.teamName1.length > 0) {
-						return this._sectionHomeLiveBoxTopScoreTemplate(item);
-					} else if (!item.liveSchedule) {
-						return this._sectionHomeLiveBoxTopTextBeforeTemplate(item);
-					} else {
-						return this._sectionHomeLiveBoxTopTextTemplate(item);
-					}
-				}, this));
-
-				this._totalCardCnt = cards.length;
-
-				var emptyCardSize = this._SCROLL_PANNEL_SIZE - this._totalCardCnt;
+	
 				for (var i = 0; i < emptyCardSize; ++i) {
 					cards.push(this._EMPTY_LIVEBOX_CARD);
 				}
@@ -557,33 +156,12 @@
 					this._prevButton.find("span.page").fadeOut(200).delay(200).fadeIn();
 				}, this);
 
-				var fnRearrange = $.proxy(function () {
-				
-					var lastCardIndex = Math.min(Math.floor((-this._scroll.currentPage.x + this._scroll.wrapperOffset.left + $(window).width()) / cardPadding), this._totalCardCnt);
-					var prevCnt = Math.ceil((-this._scroll.currentPage.x + this._scroll.wrapperOffset.left) / cardPadding);
-					var nextCnt = this._totalCardCnt - lastCardIndex;
-					prevCnt > 0 ? this._prevButton.show() : this._prevButton.hide();
-					nextCnt > 0 ? this._nextButton.show() : this._nextButton.hide();
-					this._prevButton.find("span.page").html(prevCnt);
-					this._nextButton.find("span.page").html(nextCnt);
-					this._prevButton.find("span.page").fadeIn();
-					this._nextButton.find("span.page").fadeIn();
-				}, this);
 
 				this._scroll.on('scrollEnd', fnRearrange);
 				this._scroll.on('scrollCancel', fnRearrange);
 				this._scroll.on('scrollStart', fnFadeOut);
 
-				// 현재 창 비활성화시 발생하는 커서 버그 방어 코드
-				$("#_section_home_livebox_root").hover(
-					$.proxy(function () {
-						this._nextButton.css({right: buttonShowCss});
-						this._prevButton.css({left: buttonShowCss});
-					}, this),
-					$.proxy(function () {
-						this._nextButton.css({right: buttonHideCss});
-						this._prevButton.css({left: buttonHideCss});
-					}, this));
+			
 				$(window).on("resize", fnRearrange);
 				fnRearrange();
 
@@ -602,62 +180,6 @@
 
 			}
 
-
-        </div>
-        <div class="aside_section">
-            <!-- aside template -->
-            
-
-<div class="aside_inner aside_creator">
-	<div class="aside_head"></div>
-	<ul class="creator_list"></ul>
-</div>
-
-<script id="_video_item_template" type="text/x-handlebars-template">
-	{{#each this}}
-	<li class="creator_item" data-group="{{group}}">
-		<a href="/video?id={{videoMasterId}}" class="link_creator" onClick="clickcr(this, 'crv.list', '', '', event);">
-			<div class="image_area">
-				<span class="image"><img src="https://dthumb-phinf.pstatic.net/?type=nf246_146&opts=12&qlt=70&sharpen=true&src={{thumbnail}}" width="110" height="68" alt=""></span>
-				<span class="common_video_length"><span class="blind">재생시간</span>{{playTime}}</span>
-			</div>
-			<div class="text_area">
-				<strong class="title">{{{title}}}</strong>
-				<div class="information">
-					<span>조회 {{numberFormat hit}}</span><span>{{channelName}}</span>
-				</div>
-			</div>
-		</a>
-	</li>
-	{{/each}}
-</script>
-
-<script id="_video_head_config_template" type="text/x-handlebars-template">
-	<h3 class="title">{{title}}</h3>
-	<div class="pagination">
-		<span class="page" data-current="1"><em class="current">1</em> / {{pageNum}}</span>
-		<button type="button" class="button_prev" disabled data-first="1"  onClick="clickcr(this, 'crv.paging', '', '', event);"><span class="blind">이전</span></button>
-		<button type="button" class="button_next" data-last="{{pageNum}}"  onClick="clickcr(this, 'crv.paging', '', '', event);"><span class="blind">다음</span></button>
-	</div>
-</script>
-
-<script>
-	naver = window.naver || {};
-	naver.sports = naver.sports || {};
-	naver.sports.home = naver.sports.home || {};
-	naver.sports.home.SelectedCategoryVideo = eg.Class({
-
-		PAGING_VIDEO_COUNT: 7,
-
-		construct: function (htOption) {
-			this._initVars(htOption);
-			this._initHandlebarsTemplate();
-			this._draw(htOption);
-			this._setEventHandlers();
-		},
-		_initVars: function (htOption) {
-			this._config = htOption.config;
-			this._videoResult = htOption.videoResult;
 
 			var reality = Math.floor(this._videoResult.length / this.PAGING_VIDEO_COUNT) || 1;
 			var expected = Math.floor(this._config.extractedVideoCount / this.PAGING_VIDEO_COUNT);
@@ -734,6 +256,3 @@
 			var lastPageNumber = $(".aside_creator").find(".pagination .button_next").data("last");
 			$(".aside_creator").find(".pagination .button_prev").attr("disabled", currentPageNumber === 1);
 			$(".aside_creator").find(".pagination .button_next").attr("disabled", currentPageNumber === lastPageNumber);
-		}
-	});
-
