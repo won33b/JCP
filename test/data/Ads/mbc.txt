@@ -1,0 +1,132 @@
+  </script>
+    <!---액션 태그 매핑:end-->
+</head>
+<body>
+<div id="wrap" class="sub ">
+    <!-- 스킵 내비게이션 -->
+    <div id="u_skip">
+        <a href="#content">본문 바로가기</a>
+        <a href="#navi">메뉴 바로가기</a>
+    </div>
+    <!-- //스킵 내비게이션 -->
+    <!-- 헤더 -->
+    <header id="header">
+        <div class="pc_header">
+            <!-- 특별 프로모션 이미지 -->
+            <div class="link_special"></div>
+            <!-- pc헤더 pc_gnb.js-->
+        </div>
+        <div class="m_header">
+            <!-- 모바일 m_gnb -->
+        </div>
+    </header>
+    <!-- //헤더 -->
+    <nav id="navi">
+        <div class="wrap_pc_nav">
+            <div class="pc_nav">
+                <!-- PC 네비게이션 -->
+            </div>
+            <div class="nav_d2" tabindex="-1">
+                <!-- PC 네이게이션 더보기 -->
+            </div>
+            <div class="progress_container">
+                <div class="progress_bar" id="progressBar"></div>
+            </div>
+        </div>
+        <!-- 모바일 m_navi -->
+    </nav>
+    <!-- 모바일 m_gnb.js -->
+    <script type="text/javascript" src="https://imnews.imbc.com/page/include/js/m/m_gnb.js"></script>
+    <!-- // 모바일 m_gnb.js -->
+    <!-- container -->
+    <div id="container">
+        <!-- content -->
+        <div id="content">
+            <div class="wrap_view">
+                <div class="bg_dim"></div>
+                <section class="wrap_article">
+                    <article class="cont_left">
+                        <div class="wrap_title">
+                            <div class="info_art">
+                                <!---액션 태그 매핑:start-->
+                                
+                                
+                                <span class="sort">12MBC 뉴스</span>
+                                <div class="reporter">
+                                    
+                                    <span class="writer_img"><img src="//image.imnews.imbc.com/page/include/images/writer_default.png"  alt="기자이미지" ></span>
+                                    <span class="writer">정혜인</span>
+                                     
+                                </div>
+                            </div>
+                            <h2 class="art_title">전두환 씨 향년 90세 사망‥"국립묘지 대상 아냐"</h2>
+                            <!-- 모바일 상단 fix 흘러가는 제목 -->
+                            <div class="m_top_title"><span class="ellipsis">전두환 씨 향년 90세 사망‥"국립묘지 대상 아냐"</span></div>
+                            <!---액션 태그 매핑:end-->
+                            <div class="ui_article">
+                                <!---액션 태그 매핑:start-->
+                                <div class="date">
+                                    <span class="input">입력 
+										2021-11-23 12:09
+										</span> |
+                                    <span class="input">수정 2021-11-23 13:36</span>
+                                </div>
+                                <!---액션 태그 매핑:end-->
+                                <div class="ui_link">
+                                    <video id="audio" style="display:none"></video>
+                                    <a href="#commentBox" title="댓글" class="comment"></a>
+                                    <button type="button" title="글자 크기" class="font"></button>
+                                    <button type="button" title="북마크" class="bookmark"></button>
+                                    <button type="button" title="공유" class="share"></button>
+                                    <button type="button" title="음성" class="voice"></button>
+                                    <button type="button" title="인쇄" class="print"></button>
+                                    <!-- 폰트사이즈 레이어-->
+                                    <div class="mini_layer layer_fontsize">
+                                        <ul>
+                                            <li class="font1">가</li>
+                                            <li class="font2 on">가</li>
+                                            <li class="font3">가</li>
+                                        </ul>
+                                    </div>
+                                    <!-- 북마크 레이어-->
+                                    <div class="mini_layer layer_bookmark">
+                                        <div class="text">해당 기사를 북마크했습니다.</div>
+                                        <div class="link_bm">
+                                            <button type="button" class="btn_confirm">확인</button>
+                                            <a href="#">내 북마크 보기</a>
+                                        </div>
+                                    </div>
+                                    <!-- 공유 레이어-->
+                                    <div class="layer_share">
+                                        <ul>
+                                            <li><button class="share_fb" id="facebook"></button><span>페이스북</span></li>
+                                            <li><button class="share_tw" id="twitter"></button><span>트위터</span></li>
+                                            <li><button class="share_story" id="ks"></button><span>카카오 스토리</span></li>
+                                            <li><button class="share_kko" id="kt"></button><span>카카오톡</span></li>
+                                            <li><button class="share_band" id="nb"></button><span>밴드</span></li>
+                                            <li><button class="share_url" id="url"></button><span>링크 복사</span></li>
+                                            <li><button class="share_copy" id="copy"></button><span>본문 복사</span></li>
+                                        </ul>
+                                        <button type="button" class="btn_close_layer">레이어 닫기</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news_cont">
+                                            
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <div class="news_img">
+                                  	<div id="article_video_6316842_01"  class="video-wrapper"></div>
+								  	<div id="article_video_6316842_01_dummy" style="height:450px;display:none"></div>
+								 	<div id="article_video_6316842_01_floating" style="height:1px;"></div>
+								</div>
+                                <script>

@@ -1,0 +1,38 @@
+    <meta name="viewport" content="width=1146">
+     <meta http-equiv="Cache-Control" content="no-cache">
+            <meta http-equiv="Pragma" content="no-cache">
+            <meta http-equiv="Expires" content="-1">
+            <meta http-equiv="Expires" content="Mon, 06 Jan 1990 00:00:01 GMT">
+  			var wheight = $(window).height();
+			$(".ico-search").click(function(){
+				//$(".srh-dim").show();
+				$(".srh-dim").css('display','block');
+				$("body,html").css("overflow-y","hidden");
+				$(".allmenu").css("height",wheight);
+				$(".srh-dim").css("height",wheight);
+			});
+			$(".srh-area .srh-close").click(function(){
+				$(".srh-dim").hide();
+				$("body,html").css("overflow-y","auto");
+			});
+		})
+        var agent = navigator.userAgent.toLowerCase();
+        var cookiedata = document.cookie;
+	</script>
+	<div class="allmenu" style="height: 969px;">
+        <div class="allmenu-area">
+            <div class="allmenu-top">
+                <p class="kiib-logo"><a href="http://www.kyeongin.com/main/"></a></p>
+                <span class="ico-img ico-close"></span>
+            </div>
+
+            <div class="allmenuarea" style="height: 859px;">
+                <div class="allmenu-box">
+                    <ul class="depth01">
+                            <div class="depth02" style="display: none; height: 969px;">
+			.ad_2568 { position: relative; width:600px; height:65px; overflow: hidden; }
+			.ad_2568 .slideAdList { position:absolute; display: block; width: auto; top:0; left:0;  }
+    		.ad_2568 .slideAdList li{ display: block; float: left; width:600px; height:65px; overflow: hidden; }
+		</style>
+		<script>
+			<div class="ico-top" style="display: block;"></div>
