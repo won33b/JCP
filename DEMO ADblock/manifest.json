@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  
+  "name": "DEMO ADblock",
+  "description": "DEMO1",
+  "version": "1.0",
+  
+  "browser_action": {
+  "default_icon": "icon.png",
+  "default_popup": "popup.html"
+  },
+
+  "content_scripts": [
+    {
+    "matches": [
+        "http://*/*",
+        "https://*/*"
+        ],
+    "js": ["contentScript.js"],
+    "run_at": "document_end"  
+    }
+  ],
+  
+  "permissions": [
+  "tabs",
+  "storage",
+  "<all_urls>"
+  ]
+  }
