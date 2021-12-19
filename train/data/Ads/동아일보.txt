@@ -1,0 +1,34 @@
+<div class="view_ads02">
+<div id='ad_con02'><script type='text/javascript' src='https://image.donga.com/dac/NEWS/PC/news_view_bottom_dable.js'></script></div>
+<div class="view_ads04"><div id='ad_con04'><script type='text/javascript' src='https://image.donga.com/dac/NEWS/PC/news_view_bottom_ebay_01.js'></script></div>
+<div class='aside_adzone02'><script type='text/javascript' src='https://image.donga.com/dac/NEWS/PC/news_view_east_top_250box.js'></script><style>.aside_hotnews {margin-top:10px;}</style></div>
+<div class='aside_adzone07'><script type='text/javascript' src='https://image.donga.com/dac/NEWS/PC/news_view_east10_01.js'></script></div>
+<div class='aside_adzone06'><script type='text/javascript' src='https://yellow.contentsfeed.com/RealMedia/ads/adstream_jx.ads/www.donga.com/news@x57'></script><script type='text/javascript' src='https://yellow.contentsfeed.com/RealMedia/ads/adstream_jx.ads/www.donga.com/news@x58'></script></div>
+<div class='aside_adzone08'><script type='text/javascript' src='https://image.donga.com/dac/NEWS/PC/news_view_east11_01.js'></script></div>
+<div class='aside_adzone06'><script type='text/javascript' src='https://yellow.contentsfeed.com/RealMedia/ads/adstream_jx.ads/www.donga.com/news@x59'></script><script type='text/javascript' src='https://yellow.contentsfeed.com/RealMedia/ads/adstream_jx.ads/www.donga.com/news@x60'></script></div>
+<div class='aside_adzone06'>
+<!-- /106061858/donga_news_bigbanner -->
+<div id='div-gpt-ad-1635320402500-0' style='min-width: 300px; min-height: 250px;'>
+<div id="left_wingad">
+<script type='text/javascript' src='https://image.donga.com/dac/NEWS/PC/news_wingLeft1_02.js'></script>
+<script type='text/javascript' src='https://image.donga.com/dac/NEWS/PC/news_wingLeft2_01.js'></script>
+<div id="left_wingad01">
+<script type='text/javascript' src='https://yellow.contentsfeed.com/RealMedia/ads/adstream_jx.ads/www.donga.com/news@x56'></script>
+<script type='text/javascript' src='https://image.donga.com/dac/NEWS/PC/news_common_wingRight1_01.js'></script>
+<script type='text/javascript' src='https://image.donga.com/dac/NEWS/PC/news_common_wingRight2_01.js'></script>
+        if (  $(document).scrollTop() < stopRPosition  )
+        {
+
+            if ( $(document).scrollTop() < right_ad_top )
+            {
+                $("#right_wingad").stop().animate({"top": right_ad_top + "px"}, right_ad_h) ;
+            }
+            else
+            {
+                $("#right_wingad").stop().animate({"top": ad_R_top + "px"}, right_ad_h) ;
+            }
+        }
+        else
+        {
+
+            $("#right_wingad").stop().animate({"top": stopRPosition + "px"}, right_ad_h) ;
