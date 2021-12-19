@@ -1,0 +1,728 @@
+
+	<!DOCTYPE html>
+	<!--
+	  ,ad8888ba,   88888888ba         ,ad8888ba,    ,ad8888ba,
+	 d8"'    `"8b  88      "8b       d8"'    `"8b  d8"'    `"8b
+	d8'        `8b 88      ,8P      d8'           d8'
+	88          88 88aaaaaa8P'      88            88
+	88          88 88""""""'        88      88888 88      88888
+	Y8,        ,8P 88               Y8,        88 Y8,        88
+	 Y8a.    .a8P  88                Y8a.    .a88  Y8a.    .a88
+	  `"Y8888Y"'   88     dev@op.gg   `"Y88888P"    `"Y88888P"
+
+		 Copyright © 2013-2021 OP.GG. All rights reserved.
+-->
+<html lang="ko_KR">
+<head>
+	<script>
+		(function(t, l) {
+			try {
+				let w = window,
+						d = document,
+						s = d.createElement("script"),
+						f = d.getElementsByTagName("script")[0];
+				w[t] =
+						w[t] ||
+						function() {
+							(w["_rgea"] = w["_rgea"] || [["uts", new Date()]]).push(
+									Array.prototype.slice.call(arguments)
+							);
+							w.RGEA && w.RGEA.p();
+						};
+				s.type = "text/javascript";
+				s.async = true;
+				s.defer = true;
+				s.src = l;
+				f.parentNode.insertBefore(s, f);
+
+				// 되는 파라미터
+				rgea("propertyId", "RGEA0002-32de3446-a2a6-4f9a-a387-f40138212b2b");
+				rgea("lolpid", 'kr');
+				rgea("anonymous", false);
+			} catch (error) {
+				console.error(error);
+			}
+		})("rgea", "https://static.developer.riotgames.com/js/rgea.min.js");
+	</script>
+
+			<script src="https://www.datadoghq-browser-agent.com/datadog-rum.js" type="text/javascript"></script>
+		<script>
+			window.DD_RUM && window.DD_RUM.init({
+				applicationId: '07e75210-4f7c-4074-b5b5-dbdaa1b02285',
+				clientToken: 'pub419b92861cd5aaa7dd6ca4f406320fea',
+				site: 'datadoghq.com',
+				service: 'OP.GG-KR',
+				sampleRate: 0.05,
+				trackInteractions: true,
+				env: 'KR',
+				allowedTracingOrigins: [/https:\/\/.*\.op\.gg/]
+			});
+		</script>
+	
+	<!-- Venatus Market v3 -->
+	<script>
+		(function(){
+			document.write('<div id="vmv3-ad-manager" style="display:none"></div>');
+			document
+					.getElementById("vmv3-ad-manager")
+					.innerHTML = '<iframe id="vmv3-frm" src="javascript:\'\<html\>\<body\>\</body\>\</html\>\'" width="0" height="0" data-mode="scan" data-site-id="5a8460b346e0fb0001fc3bac" data-content-width="1120" data-top-space="495"></iframe>';
+			var loaderFrame = document.getElementById("vmv3-frm");
+			var loaderFrameWindow = loaderFrame.contentWindow ? loaderFrame.contentWindow : loaderFrame.contentDocument;
+			loaderFrameWindow.document.open();
+			loaderFrameWindow.document.write('<scr' + 'ipt src="//hb.vntsm.com/v3/live/ad-manager.min.js" type="text/javascript" async onerror="window.parent.lifeOnwer();">' + '</scr' + 'ipt>');
+			loaderFrameWindow.document.close();
+		})();
+	</script>
+	<!-- / Venatus Market v3 -->
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+					new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-WXXJDMH');</script>
+	<!-- End Google Tag Manager -->
+	<meta name="title" content="롤 전적 검색 OP.GG - 전적 검색, 관전, 리플레이, 챔피언 공략, 카운터, 랭킹"/>
+	<meta property="og:title" content="롤 전적 검색 OP.GG - 전적 검색, 관전, 리플레이, 챔피언 공략, 카운터, 랭킹"/>
+	<meta name="description" content="롤 전적, 모든 게임의 전적, 챔프 평점, KDA, 승률을 볼 수 있고 리플을 보거나 자신의 게임을 녹화를 할 수 있습니다. 지금 바로 당신의 소환사명을 검색해보세요!"/>
+	<meta property="og:description" content="롤 전적, 모든 게임의 전적, 챔프 평점, KDA, 승률을 볼 수 있고 리플을 보거나 자신의 게임을 녹화를 할 수 있습니다. 지금 바로 당신의 소환사명을 검색해보세요!"/>
+	<meta name="keywords" content="롤 전적 검색, LOL 승률, 리플 녹화, 챔피언 가이드, 통계, 프로게이머 관전, 실시간 랭킹, 롤챔스, LOLKing, LOLNexus"/>
+	<meta name="theme-color" content="#4285f4">
+	<title>롤 전적 검색 OP.GG - 전적 검색, 관전, 리플레이, 챔피언 공략, 카운터, 랭킹</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+			<meta name="google-play-app" content="app-id=gg.op.lol.android"/>
+				<meta property="fb:app_id" content="677811765617932"/>
+			<meta property="og:site_name" content="OP.GG Korea"/>
+			<meta property="og:type" content="website"/>
+			<meta property="og:image" content="//opgg-static.akamaized.net/icon/reverse.rectangle.png"/>
+		<link rel="canonical" href="http://www.op.gg/">
+			<link rel="alternate" hreflang="x-default" href="http://www.op.gg/">
+			<link rel="alternate" hreflang="en-us" href="http://www.op.gg/?l=en_US">
+			<link rel="alternate" hreflang="ko-kr" href="http://www.op.gg/?l=ko_KR">
+			<link rel="alternate" hreflang="ja" href="http://www.op.gg/?l=ja">
+			<link rel="alternate" hreflang="pl" href="http://www.op.gg/?l=pl">
+			<link rel="alternate" hreflang="fr" href="http://www.op.gg/?l=fr">
+			<link rel="alternate" hreflang="de" href="http://www.op.gg/?l=de">
+			<link rel="alternate" hreflang="es" href="http://www.op.gg/?l=es">
+			<link rel="alternate" hreflang="nl" href="http://www.op.gg/?l=nl">
+			<link rel="alternate" hreflang="da" href="http://www.op.gg/?l=da">
+			<link rel="alternate" hreflang="sv" href="http://www.op.gg/?l=sv">
+			<link rel="alternate" hreflang="no" href="http://www.op.gg/?l=no">
+			<link rel="alternate" hreflang="ru" href="http://www.op.gg/?l=ru">
+			<link rel="alternate" hreflang="hu" href="http://www.op.gg/?l=hu">
+			<link rel="alternate" hreflang="fi" href="http://www.op.gg/?l=fi">
+			<link rel="alternate" hreflang="tr" href="http://www.op.gg/?l=tr">
+			<link rel="alternate" hreflang="ro" href="http://www.op.gg/?l=ro">
+			<link rel="alternate" hreflang="pt" href="http://www.op.gg/?l=pt">
+			<link rel="alternate" hreflang="zh-cn" href="http://www.op.gg/?l=zh_CN">
+			<link rel="alternate" hreflang="zh-tw" href="http://www.op.gg/?l=zh_TW">
+			<link rel="alternate" hreflang="sr" href="http://www.op.gg/?l=sr">
+			<link rel="alternate" hreflang="it" href="http://www.op.gg/?l=it">
+			<link rel="alternate" hreflang="th-th" href="http://www.op.gg/?l=th_TH">
+			<link rel="alternate" hreflang="vi-vn" href="http://www.op.gg/?l=vi_VN">
+		<link rel="icon" type="image/x-icon" href="/favicon.ico?5"/>
+	<link rel="apple-touch-icon-precomposed" href="//opgg-static.akamaized.net/icon/Icon-72.png?v3"/>
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//opgg-static.akamaized.net/icon/Icon-72.png?v3"/>
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//opgg-static.akamaized.net/icon/Icon@2x.png?v3"/>
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//opgg-static.akamaized.net/icon/Icon-144.png?v3"/>
+	<meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+	<meta name="format-detection" content="telephone=no">
+	<meta name="autocomplete" content="off">
+	<meta name="adshield-analytics-verification" content="d5eb103a-80bd-43fe-ac0a-3c7e96ef8d61"/>
+	
+			<link href="//opgg-static.akamaized.net/css3/common.css?t=1637554397" rel="stylesheet" type="text/css">
+			<link href="//opgg-static.akamaized.net/css3/sprite.css?t=1637554397" rel="stylesheet" type="text/css">
+			<link href="//opgg-static.akamaized.net/css3/forum.css?t=1637554397" rel="stylesheet" type="text/css">
+			<link href="//opgg-static.akamaized.net/css3/new.css?t=1637554397" rel="stylesheet" type="text/css">
+		<!--[if gt IE 9]><!-->
+			<link rel="stylesheet" type="text/css" href="//opgg-cdn.akamaized.net/nanumgothic/font_nanumgothic.css">
+		<!--<![endif]-->
+	<script src="//opgg-static.akamaized.net/js3/head.js?2"></script>
+	<script type="text/javascript" src="//opgg-cdn.akamaized.net/moment-2.5.0/moment.js"></script>
+			<script type="text/javascript" src="//opgg-cdn.akamaized.net/moment-2.5.0/lang/ko.js"></script>
+		<script>
+		_i18n.stringList = {"SUMMONER_FAVORITE_LIMIT_EXCEED_IELOW":"Internet Explorer\ub294 {{limit}}\uba85\uae4c\uc9c0\ub9cc \uc800\uc7a5\uc774 \uac00\ub2a5\ud569\ub2c8\ub2e4. \ub354 \ub9ce\uc740 \uc218\ub97c \uc990\uaca8\ucc3e\uae30 \ud558\ub824\uba74 \uad6c\uae00\ud06c\ub86c\uc774\ub098 \ub354 \ub192\uc740 \ubc84\uc804\uc758 Internet Explorer \ub97c \uc774\uc6a9\ud558\uc138\uc694.","NOTICE_WONDERINGABOUTMMR":"\uc758\ubb38\uc810\uc774 \uc788\uc73c\uba74 <a href=\"\/help\/mmr\/\">\ub3c4\uc6c0\ub9d0<\/a>\uc744 \uba3c\uc800 \ud655\uc778\ud574\uc8fc\uc138\uc694.","MMR_SUBTITLE":"\uc774 \uc11c\ube44\uc2a4\ub294 \uc18c\ud658\uc0ac\ub2d8\ub4e4\uacfc \ub9e4\uce6d\ub418\ub294 \ub2e4\ub978 \uc18c\ud658\uc0ac\ub2d8\ub4e4\uc758 \ud2f0\uc5b4 \uc815\ubcf4\ub97c \ube44\uad50\/\ubd84\uc11d \ud558\uc5ec \uc77c\uc815\ud55c \uc54c\uace0\ub9ac\uc998\uc73c\ub85c \ub77c\uc774\uc5c7 \ub0b4\ubd80\uc5d0\uc11c \uc9c0\uc815\ud55c MMR\uc744 \ucd94\uce21\ud558\ub294 \uc11c\ube44\uc2a4\uc785\ub2c8\ub2e4.","MMR \uc815\ud655\ub3c4":"MMR \uc815\ud655\ub3c4","\uc11c\ubc84\uc5d0 \ubd80\ud558\uac00 \uc2ec\ud574 \ub370\uc774\ud130\ub97c \uac00\uc838\uc62c \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \ub2e4\uc2dc \uc2dc\ub3c4\ud574\uc8fc\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4.":"\uc11c\ubc84\uc5d0 \ubd80\ud558\uac00 \uc2ec\ud574 \ub370\uc774\ud130\ub97c \uac00\uc838\uc62c \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \ub2e4\uc2dc \uc2dc\ub3c4\ud574\uc8fc\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4.","\uc5bc\ub9c8\ub098 \ubbff\uc744\ub9cc\ud55c\uc9c0\uc758 \uc218\uce58\uc785\ub2c8\ub2e4.":"\uc5bc\ub9c8\ub098 \ubbff\uc744\ub9cc\ud55c\uc9c0\uc758 \uc218\uce58\uc785\ub2c8\ub2e4.","SPECTATE_SETLOLDIRECTORY_PROMPT":"\ub9ac\uadf8\uc624\ube0c\ub808\uc804\ub4dc\uac00 \uc124\uce58\ub41c \uacbd\ub85c\ub97c \uc785\ub825\ud574\uc8fc\uc138\uc694. RADS \ud3f4\ub354\uac00 \uc788\ub294 \ub514\ub809\ud1a0\ub9ac\ub97c \uc785\ub825\ud558\uc2dc\uba74 \ub429\ub2c8\ub2e4. \uc608: D:\\Game\\Riot Games\\League of Legends KR","SPECTATE_SETLOLDIRECTORY_REMOVED":"\uacbd\ub85c \uc124\uc815\uc774 \uc9c0\uc6cc\uc84c\uc2b5\ub2c8\ub2e4.","SPECTATE_SETLOLDIRECTORY_SETTED":"\uacbd\ub85c\uac00 [{{directoryPath}}] \uc73c\ub85c \uc124\uc815\ub418\uc5c8\uc2b5\ub2c8\ub2e4.","FAVORITE_SUMMONERS_TITLE":"\uc990\uaca8\ucc3e\uae30","CHART_NOTICE_ABOVE_BRONZE":"\ubaa8\ub4e0 \ube0c\ub860\uc988 \uc774\uc0c1 \uc18c\ud658\uc0ac \uae30\uc900","CHART_NOTICE_ABOVE_IRON":"\ubaa8\ub4e0 \uc544\uc774\uc5b8 \uc774\uc0c1 \uc18c\ud658\uc0ac \uae30\uc900","CHART_TITLE_PICK_RATE_PER_GAME":"\uac8c\uc784\ub2f9 \ud53d\ub960","CHART_TITLE_BAN_RATE_PER_GAME":"\uac8c\uc784\ub2f9 \ubc34\ub960","CHART_TITLE_KDA_PER_GAME":"\uac8c\uc784\ub2f9 KDA","CHART_TITLE_CS_PER_GAME":"\uac8c\uc784\ub2f9 CS","CHART_TITLE_AVG_EA_PER_GAME":"\uac8c\uc784\ub2f9 \ud3c9\uade0 {{count}}\uac1c","CHART_TITLE_AVG_GOLD_PER_GAME":"\uac8c\uc784\ub2f9 \ud3c9\uade0 {{gold}}\uace8\ub4dc","CHART_TITLE_GOLD_OBTAIN_PER_GAME":"1 \uac8c\uc784\ub2f9 \ud68d\ub4dd \uace8\ub4dc","CHART_TITLE_WARDS_OBTAIN_PER_GAME":"1 \uac8c\uc784\ub2f9 \uad6c\ub9e4\ud55c \uc640\ub4dc","CHART_TITLE_LEAVE_PER_10K_GAMES":"1\ub9cc \uac8c\uc784\ub2f9 \ud0c8\uc8fc \ud68c\uc218","CHART_NOTICE_NO_DATA_THIS_OPTION":"\uc774 \uc124\uc815\uc740 \ub370\uc774\ud130\uac00 \uc5c6\uc2b5\ub2c8\ub2e4. \ub2e4\ub978 \uc124\uc815\uc744 \uc120\ud0dd\ud574\uc8fc\uc138\uc694.","CHART_TITLE_ACCUM_PLAY_COUNT":"\ud50c\ub808\uc774\uc218 \ub204\uacc4","CHART_NOTICE_ORDER_BY_WINRATE_MOUSE_HOVER_TO_SEE_CHAMP_PLAYCOUNT":"\uc2b9\ub960 \uc21c\uc11c\ub85c \uc815\ub82c \ub418\uc5c8\uc73c\uba70, \ub9c8\uc6b0\uc2a4\ub97c \uc62c\ub9ac\uba74 \uac01 \ucc54\ud504 \ud50c\ub808\uc774 \uc218\ub97c \ubcfc \uc218 \uc788\uc2b5\ub2c8\ub2e4.","CHART_TITLE_PLAY_COUNT":"\ud50c\ub808\uc774\uc218","CHART_TIERSHARE_LABEL":"\uc810\uc720\uc728","CHART_TIERSHARE_TOOLTIP":"\uc774 \ud2f0\uc5b4\uc5d0\uc11c\uc758 \ub7ad\ud06c \uc810\uc720\uc728","COMMON_AVERAGE":"\ud3c9\uade0","STATISTICS_FILTER_CHART_WINRATIO":"\uc2b9\ub960","TIER_RANK_DISTRIBUTION_CHART_TITLE":"\ud2f0\uc5b4 \ub7ad\ud06c \ubd84\ud3ec\ub3c4","RANK":"\ub7ad\ud06c","CHART_TITLE_CHAMPION_AVERAGE":"\ucc54\ud53c\uc5b8 \ud3c9\uade0","ROLE-TOP":"\ud0d1","ROLE-JUNGLE":"\uc815\uae00","ROLE-MID":"\ubbf8\ub4dc","ROLE-ADC":"\uc6d0\ub51c","ROLE-BOTTOM":"\ubc14\ud140","ROLE-SUPPORT":"\uc11c\ud3ec\ud130","PATCH":"\ud328\uce58","CHAMPION_SKILLVIDEO_ERROR_MESSAGE":"\ud604\uc7ac \ub77c\uc774\uc5c7\uc5d0\uc11c \uc81c\uacf5\ud558\uc9c0 \uc54a\ub294 \uc601\uc0c1\uc785\ub2c8\ub2e4.","CHAMPION_GUIDE_RECOMMEND_LOGIN_EXCEPTION":"\ub85c\uadf8\uc778 \uc774\ud6c4 \ucd94\ucc9c\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \ub85c\uadf8\uc778 \ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?","CHAMPION_GUIDE_WRITE_YOUTUBE_LINK_VERIFY_EXCEPTION":"\uc720\ud29c\ube0c \ub9c1\ud06c\uc5d0\uc11c \uc801\uc6a9\ubc84\ud2bc\uc744 \ud074\ub9ad\ud574\uc8fc\uc138\uc694.","CHAMPION_GUIDE_WRITE_SKILL_COUNT_EXCEPTION":"\uc2a4\ud0ac\uc744 18\uac1c \ubaa8\ub450 \ucc0d\uc5b4\uc8fc\uc138\uc694.","CHAMPION_GUIDE_DELETE_CONFIRM":"\uc815\ub9d0\ub85c \uc0ad\uc81c\ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?","EDITOR_STYLE_BUTTON_H2":"\ub300\uc81c\ubaa9","EDITOR_STYLE_BUTTON_H3":"\uc18c\uc81c\ubaa9","EDITOR_CONTENT_PLACEHOLDER":"\ub0b4\uc6a9\uc744 \uc785\ub825\ud574\uc8fc\uc138\uc694."};
+		moment.diffLocal = Math.round(new Date().getTime() / 1000) - 1637664525 -1;
+		_isMobile = false;
+	</script>
+	<!--[if lt IE 9]>
+	<script src="//opgg-cdn.akamaized.net/jquery-1.11.2/jquery-1.11.2.min.js"></script>
+	<script src="//opgg-cdn.akamaized.net/jquery-migrate-1.2.1/jquery-migrate-1.2.1.min.js"></script>    <![endif]-->
+
+	<!--[if gte IE 9]><!-->
+	<script src="//opgg-cdn.akamaized.net/jquery-2.1.3/jquery-2.1.3.min.js"></script>
+	<!--<![endif]-->
+
+	<!--[if lte IE 9]>
+	<script src="//opgg-cdn.akamaized.net/jquery.placeholder-2.1.2/jquery.placeholder.min.js"></script>
+	<script>
+		$(function(){
+			$("input, textarea").placeholder();
+		});
+	</script>    <![endif]-->
+			<script src="//opgg-cdn.akamaized.net/modernizr-2.7.1/modernizr.js"></script>
+			<script src="//opgg-static.akamaized.net/lib/browserdetect.js?1637554397"></script>
+			<script src="//opgg-static.akamaized.net/lib/jquery.scrolltofixed-1.0.8-custom.js?1637554397"></script>
+			<script src="//opgg-cdn.akamaized.net/jquery.cookie-1.3.1/jquery.cookie.js"></script>
+			<script src="//opgg-cdn.akamaized.net/jquery.tablesorter-2.23.3/jquery.tablesorter.min.js"></script>
+			<script src="//opgg-cdn.akamaized.net/jquery.tablesorter-2.23.3/jquery.tablesorter.widgets.js"></script>
+			<script src="//opgg-cdn.akamaized.net/jquery.jcf-1.1.3/js/jcf.js"></script>
+			<script src="//opgg-cdn.akamaized.net/jquery.jcf-1.1.3/js/jcf.select.js"></script>
+			<script src="//opgg-cdn.akamaized.net/jquery.jcf-1.1.3/js/jcf.radio.js"></script>
+			<script src="//opgg-cdn.akamaized.net/jquery.jcf-1.1.3/js/jcf.checkbox.js"></script>
+			<script src="//opgg-cdn.akamaized.net/jquery.autocomplete-1.3.0/jquery.autocomplete-1.3.0.min.js"></script>
+			<script src="//opgg-cdn.akamaized.net/tipped-4.6.1/js/tipped/tipped.js"></script>
+			<script src="//opgg-static.akamaized.net/js3/common.js?1637554397"></script>
+			<script src="//opgg-static.akamaized.net/js3/layout.js?1637554397"></script>
+			<script src="//opgg-static.akamaized.net/js3/sidebar.js?1637554397"></script>
+			<script src="//opgg-static.akamaized.net/js3/lab.js?1637554397"></script>
+			<script src="//opgg-static.akamaized.net/js3/mobile.js?1637554397"></script>
+			<script src="//opgg-static.akamaized.net/js3/detectAds.js?1637554397"></script>
+			<script src="//opgg-static.akamaized.net/js3/jquery.bxslider.min.js?1637554397"></script>
+			<script src="//opgg-static.akamaized.net/js3/gnb.js?1637554397"></script>
+			<script src="//opgg-static.akamaized.net/js3/uuid_v1.js?1637554397"></script>
+			<script src="//opgg-static.akamaized.net/js3/suggest.js?1637554397"></script>
+			<script src="//opgg-static.akamaized.net/js3/index.js?1637554397"></script>
+			<script src="//opgg-static.akamaized.net/js3/forum.js?1637554397"></script>
+			<script src="//opgg-cdn.akamaized.net/swiper-3.3.1/swiper.jquery.min.js"></script>
+			        	
+    <script>
+        $(function () {
+            $.OP.GG.common.GNBAutoComplete.init();
+
+            $('.gnb-btn-dropdown').click(function () {
+                var dropdownButton = $(this),
+                    dropdownItem = dropdownButton.closest('.gnb-list-item-dropdown');
+
+                dropdownItem.toggleClass('gnb-list-item-dropdown--acitve');
+
+                $(document).on('click', function (event) {
+                    var target = event.target || event.srcElement;
+                    var $target = $(target);
+
+                    if (!$target.closest('.gnb-list-item-dropdown').length) {
+                        dropdownItem.removeClass('gnb-list-item-dropdown--acitve');
+                    }
+                });
+            });
+
+            $('.gnb-btn-setting').on('click', function () {
+                if (typeof fbq == 'function') {
+                    $.OP.GG.tracker.combine.sendEvent([
+                        'FB', 'Pixel'
+                    ], 'Index', 'ShowChangeRegion', {Referral: 'GNB'});
+                }
+            });
+            $('.site a').on('click', function (evt) {
+                var $site = $(evt.target).closest('.site');
+                $.OP.GG.tracker.combine.sendEvent([
+                    'FB', 'Pixel'
+                ], 'Index', 'ClickGlobalMenu', {MenuType: $site.data('site')});
+            });
+        })
+    </script>
+
+    <script>
+                $(document).ready(function () {
+            $('#summoner-search-form').on('submit', function(e) {
+                e.preventDefault();
+                var $this = $(this);
+                var username = $this.find('#searchUserName').val();
+
+                window.location.href = $this.attr('action') + 'userName=' + username;
+            });
+        });
+
+        $(function () {
+            $.OP.GG.common.IndexAutoComplete.init();
+
+            $('.summoner-search-form__setting').on('click', function () {
+                $.OP.GG.tracker.combine.sendEvent([
+                    'FB', 'Pixel'
+                ], 'Index', 'ShowChangeRegion', {Referral: 'SearchBar'});
+            });
+        });
+    </script>
+					<script>
+		var _hmt = _hmt || [];
+		(function(){
+			var hm = document.createElement("script");
+			hm.src = "https://hm.baidu.com/hm.js?29884b6641f1b5709cc89a8ce5a99366";
+			var s = document.getElementsByTagName("script")[0];
+			s.parentNode.insertBefore(hm, s);
+		})();
+	</script>
+	<!-- Facebook Pixel Code -->
+	<script>
+		!function(f, b, e, v, n, t, s){
+			if (f.fbq) return;
+			n = f.fbq = function(){
+				n.callMethod ?
+						n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+			};
+			if (!f._fbq) f._fbq = n;
+			n.push = n;
+			n.loaded = !0;
+			n.version = '2.0';
+			n.queue = [];
+			t = b.createElement(e);
+			t.async = !0;
+			t.src = v;
+			s = b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t, s)
+		}(window,
+				document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '1366379470122349');
+		fbq('track', 'PageView', null);
+	</script>
+	<script>
+		if (Facebook) {
+			Facebook.init(function(FB){
+								FB.AppEvents.logPageView();
+			});
+		}
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+				   src="https://www.facebook.com/tr?id=1366379470122349&ev=PageView&noscript=1"
+		/></noscript>
+	<!-- DO NOT MODIFY -->
+	<!-- End Facebook Pixel Code -->
+
+	<!-- Firebase -->
+	<script src="https://www.gstatic.com/firebasejs/5.7.0/firebase.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/5.5.2/firebase-app.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/5.5.2/firebase-messaging.js"></script>
+	<script>
+		var fcmRegion = "KR";
+	</script>
+	<script src="//opgg-static.akamaized.net/js3/fcm.js"></script>
+
+	<!-- AD Block Analytics -->
+	<script src="https://cdn.jsdelivr.net/npm/@adshield/web-script@latest/dist/script.min.js"></script>
+
+	<!-- Clarity Microsoft -->
+	<script type="text/javascript">
+		(function(c,l,a,r,i,t,y){
+			c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+			t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+			y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+		})(window, document, "clarity", "script", "6mymrxv5o6");
+	</script>
+</head>
+<!--[if IE 7]>
+<body class="ie7 "><![endif]--><!--[if IE 8]>
+<body class="ie8 "><![endif]--><!--[if IE 9]>
+<body class="ie9 "><![endif]--><!--[if gt IE 9]><!-->
+<body class=""><!--<![endif]-->
+    <div class="l-wrap l-wrap--index"><header class="gnb" data-lang="ko_KR" data-region="KR" data-ismobile="false"><div class="image-banner"><div class="image-banner__img"></div><button class="image-banner__close"></button></div><div class="opgg-header opgg-header--gamg-fn"><div class="opgg-header__gnb"><h1 class="opgg-header__logo"><a class="opgg-header__logo-anchor" href="/"><img alt="OP.GG" height="16" src="//opgg-static.akamaized.net/images/gnb/svg/00-opgglogo.svg" width="65"></a></h1><nav class="opgg-header__navi"></nav><div class="opgg-header__util"><div class="opgg-header__util-box"><span class="opgg-header__info" href="#"><img src="//opgg-static.akamaized.net/images/gnb/svg/00-opgglogo.svg" alt="OP.GG" width="65" height="16"></span><!-- <div class="opgg-header__util-item  opgg-header__util-item--type-login"><div class="opgg-login" ></div></div> --><div class="opgg-header__util-item opgg-header__util-item--type-language"><div class="opgg-language"><img src="//opgg-static.akamaized.net/images/icon-language@2x.png" class="opgg-header__navi-noti-icon"><button class="opgg-language__open" type="button" onclick="$.OP.GG.layout.regionLanguage.open();"><span class="opgg-language__open-title">Language</span><span class="opgg-language__open-short"></span></button><div class="opgg-language__box"><strong class="opgg-language__box-title">Language</strong><div class="opgg-language__list"><a class="opgg-language__item opgg-language__item--is-active" href="#" data-locale="ko_KR" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'ko_KR' })"><span>한국어</span></a><a class="opgg-language__item " href="#" data-locale="en_US" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'en_US' })"><span>English</span></a><a class="opgg-language__item " href="#" data-locale="ja" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'ja' })"><span>日本語</span></a><a class="opgg-language__item " href="#" data-locale="pl" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'pl' })"><span>język polski</span></a><a class="opgg-language__item " href="#" data-locale="fr" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'fr' })"><span>français</span></a><a class="opgg-language__item " href="#" data-locale="de" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'de' })"><span>Deutsch</span></a><a class="opgg-language__item " href="#" data-locale="es" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'es' })"><span>español</span></a><a class="opgg-language__item " href="#" data-locale="nl" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'nl' })"><span>Nederlands</span></a><a class="opgg-language__item " href="#" data-locale="da" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'da' })"><span>dansk</span></a><a class="opgg-language__item " href="#" data-locale="sv" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'sv' })"><span>Svenska</span></a><a class="opgg-language__item " href="#" data-locale="no" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'no' })"><span>Norsk</span></a><a class="opgg-language__item " href="#" data-locale="ru" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'ru' })"><span>русский язык</span></a><a class="opgg-language__item " href="#" data-locale="hu" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'hu' })"><span>magyar</span></a><a class="opgg-language__item " href="#" data-locale="fi" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'fi' })"><span>suomi</span></a><a class="opgg-language__item " href="#" data-locale="tr" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'tr' })"><span>Türkçe</span></a><a class="opgg-language__item " href="#" data-locale="ro" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'ro' })"><span>limba română</span></a><a class="opgg-language__item " href="#" data-locale="pt" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'pt' })"><span>português</span></a><a class="opgg-language__item " href="#" data-locale="zh_CN" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'zh_CN' })"><span>简体中文</span></a><a class="opgg-language__item " href="#" data-locale="zh_TW" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'zh_TW' })"><span>繁體中文</span></a><a class="opgg-language__item " href="#" data-locale="sr" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'sr' })"><span>српски језик</span></a><a class="opgg-language__item " href="#" data-locale="it" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'it' })"><span>italiano</span></a><a class="opgg-language__item " href="#" data-locale="th_TH" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'th_TH' })"><span>ไทย</span></a><a class="opgg-language__item " href="#" data-locale="vi_VN" onclick="$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Index', 'changeLanguage', { Referral: 'Top', TargetLanguage: 'vi_VN' })"><span>Tiếng Việt</span></a></div><button class="opgg-language__close" type="button"><img src="//opgg-static.akamaized.net/images/gnb/svg/icon-close-off.svg" alt="닫기" width="11" height="11"></button></div><div class="layer-dim"></div></div></div></div></div><ul class="gnb-list"><li class="gnb-list-item gnb-list-item__login"><a class="gnb-btn-login" href="https://member.op.gg?redirect_url=">
+                                로그인                            </a></li></ul></div></div></header><script>
+    	;$(document).ready( function(){
+			(function(){
+				//tab test
+				$tab = $('[class^="c-tab__"]'),
+					$tabItem = $tab.find('[class*="item"]');
+				$tabItem.on('click', function(){
+					var _this = $(this);
+					className = _this[0].classList[0],
+						activeClass = className+'--is-active';
+					_this.addClass(activeClass).siblings().removeClass(activeClass);
+				});
+			})();
+
+		(function () {
+			var $opggUtil = $('.opgg-header__util-box'),
+				$btnUtilOpen = $('.opgg-header__util-open'),
+				openClass = 'opgg-header__util-box--is-open';
+
+			$btnUtilOpen.on('click', function () {
+				$opggUtil.toggleClass(openClass);
+			})
+		})();
+
+			(function(){
+				var $search = $('.c-playersearch'),
+					$input = $search.find('.c-playersearch__input-text'),
+					$result = $search.find('.c-playerresult'),
+					expendClass = 'c-playerresult--is-expend';
+				$input.on('focus', function (e) {
+					var _this = $(this),
+						$thisResult = _this.closest('.c-playersearch').find('.c-playerresult');
+					$thisResult.addClass(expendClass);
+				});
+				$search.on('click', function(e){
+					e.stopPropagation();
+				});
+				$(document).on('click', function(e){
+					$result.removeClass(expendClass);
+				});
+
+
+			})();
+	});
+
+        $(function(){
+		var init = function(){
+            $('.opgg-language__list').on('click', function(event){
+                setLocale(event);
+                var defaultServer = 'KR';
+
+                $(event.target).startLoading({
+                    maxHeight: 15
+                });
+
+                $.OP.GG.layout.regionLanguage.cookie.seti18n(getCurrentLocale());
+
+                window.location.reload();
+            });
+
+            $(".opgg-language__open-short").html(searchLocaleElement(getCurrentLocale()).find('span').html());
+
+            $("html body").on("click", function(e) {
+                var $games = $(e.target).closest(".opgg-header__navi-open");
+                var $language = $(e.target).closest(".opgg-language__open");
+                $(".opgg-header__navi-box")[$games.length ? "toggle" : "hide"]();
+                // $(".opgg-language__box")[$language.length ? "toggle" : "hide"]();
+            });
+        },
+        getCurrentLocale = function(){
+            return $('.opgg-language__item--is-active').data('locale');
+        },
+        searchLocaleElement = function(locale){
+            if (locale === undefined) {
+                locale = getCurrentLocale();
+            }
+
+            return $('.opgg-language__list').find('.opgg-language__item[data-locale=' + locale + ']');
+        },
+        setLocale = function(event){
+            var locale = undefined;
+            if (event) {
+                var $item = $(event.target).closest('.opgg-language__item');
+                locale = $item.data('locale');
+                $('.opgg-language__item').removeClass('opgg-language__item--is-active');
+                $item.addClass('opgg-language__item--is-active');
+            }
+            $('.opgg-language__open-short')
+                .html(
+                    searchLocaleElement(locale)
+                        .find('span')
+                        .html()
+                );
+        };
+        init();
+	});
+
+    $(function() {
+        var $expandBtn = $('.navi-expand__button');
+        var $naviExpand = $('.navi-expand');
+
+        $expandBtn.on('click', function(e) {
+            if($naviExpand.hasClass('navi-expand--hide')) {
+                $naviExpand.removeClass('navi-expand--hide');
+                $naviExpand.addClass('navi-expand--show');
+            } else {
+                $naviExpand.removeClass('navi-expand--show');
+                $naviExpand.addClass('navi-expand--hide');
+            }
+        });
+
+        $('html body').on('click', function(e) {
+             var $navi = $(e.target).closest(".navi-expand__wrapper");
+             if(!$navi.length) {
+                $naviExpand.removeClass('navi-expand--show');
+                $naviExpand.addClass('navi-expand--hide');
+             }
+        });
+    })
+</script><div class="l-menu"><ul class="menu"><li class="menu__item menu__item--active"><a href="/" class= target=>
+            #집에있자
+                                  </a></li><li class="menu__item "><a href="/champion/statistics" class= target=>
+            챔피언 분석
+                                  </a></li><li class="menu__item "><a href="/aram" class=urf target=>
+            칼바람
+                                  </a></li><li class="menu__item "><a href="/urf" class=urf target=>
+            우르프
+                                  </a></li><li class="menu__item "><a href="/statistics/" class= target=>
+            통계
+                                  </a></li><li class="menu__item "><a href="/ranking/" class= target=>
+            랭킹
+                                  </a></li><li class="menu__item "><a href="/spectate/" class= target=>
+            프로관전
+                                  </a></li><li class="menu__item "><a href="/multi/" class= target=>
+            멀티서치
+                                  </a></li><li class="menu__item "><a href="https://news.op.gg" class= target=>
+            OP셜
+                                  </a></li><li class="menu__item "><a href="http://talk.op.gg/s/lol" class= target=_blank>
+            커뮤니티
+                                  </a></li></ul></div><script>
+            $(function () {
+              var init = function () {
+									$("html body").on("click", function(e) {
+										var $dom = $(e.target).closest(".gnb-list-item__select");
+										$(".gnb-list-item__list")[$dom.length ? "toggle" : "hide"]();
+									})
+									$(".gnb-list-item__list").on("click" ,function(e) {
+										window.location.href = $(e.target.closest(".gnb-list-item__option")).data("url");
+																			});
+
+									$(".gnb-list-item__select").click(function() {
+									});
+
+									
+                },
+                getCurrentServer = function () {
+                  return $('.gnb-list-item__option--active').data('server');
+                };
+              init();
+            });
+
+                        $(document).ready(function () {
+              $('#summoner-search-form').on('submit', function(e) {
+                e.preventDefault();
+                var $this = $(this);
+                var username = $this.find('#searchUserName').val();
+
+                window.location.href = $this.attr('action') + 'userName=' + username;
+              });
+            });
+          </script><div class="l-container">                <div class="index-logo ">
+        <div id="logo">
+                            <img src="https://opgg-static.akamaized.net/logo/20211120143345.e9976696f8fd4bbe945323c472087ab5.png" title="세라핀" alt="OP.GG Logo (세라핀)" class="Image">
+                    </div>
+    </div>
+    
+            <form class="summoner-search-form" action="/summoner/" autocomplete="off" id="summoner-search-form">
+            <input type="text" class="summoner-search-form__text" placeholder="소환사명, 소환사명, ..." name="searchUserName" id="searchUserName" autocomplete="off">
+            <button type="submit" class="summoner-search-form__button">
+                <i class='__spSite __spSite-42'></i>
+            </button>
+            <button type="button" class="summoner-search-form__setting" onclick="$.OP.GG.layout.regionLanguage.open();">
+                <span>KR</span>
+                <i class='__spSite __spSite-138'></i>
+            </button>
+            <div class="summoner-search-extra summoner-search-extra--hide">
+                <div class="summoner-search-history">
+                    <div class="tabWrap">
+                        <ul class="summoner-search-history__title tabHeaders">
+                            <li class="tabHeader active" data-tab-show-class="summoner-search-history--recent">
+                                <a href="#">최근검색</a>
+                            </li>
+                            <li class="tabHeader" data-tab-show-class="summoner-search-history--favorite">
+                                <a href="#">즐겨찾기</a>
+                            </li>
+                        </ul>
+                        <div class="tabItems">
+                            <div class="tabItem summoner-search-history--recent">
+                                <div class="RecentSummonerListWrap">
+                                    <div class="summoner-search-history__list RecentSummonerList"></div>
+                                    <div class="summoner-search-history__message NotFound">
+                                        <span><img src="//opgg-static.akamaized.net/images/site/icon-history-info.png" class="Image">최근에 본 소환사가 없습니다.</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tabItem summoner-search-history--favorite" style="display: none;">
+                                <div class="FavoriteSummonerListWrap">
+                                    <div class="summoner-search-history__list FavoriteSummonerList"></div>
+                                    <div class="summoner-search-history__message NotFound">
+                                        <span><img src="//opgg-static.akamaized.net/images/site/icon-history-info.png" class="Image">관심있는 소환사에 <i class='__spSite __spSite-100'></i> 즐겨찾기를 하여 편리하게 정보를 받아보세요.</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                            </div>
+        </form>
+    
+	        <div class="life-owner LifeOwnerOtherMenuMiddleCenter">
+            <!-- NEW OP.GG HP - 970x250 Dynamic (5d516f65434cc43cb684fc8a) - 970x250, 1080x250 - Place in <BODY> of page where ad should appear -->
+				<div class="vm-placement" data-id="5d516f65434cc43cb684fc8a"></div>
+				<!-- / NEW OP.GG HP - 970x250 Dynamic (5d516f65434cc43cb684fc8a) -->
+        </div>
+	    <div class="opgg__notice--index"></div>
+            <div class="community-best"></div>
+        <script>
+            $(function () {
+                var $communityBest = $(".community-best");
+                $communityBest.startLoading({className: 'black', minHeight: 404});
+                $.OP.GG.ajax.getHTML({
+                    url: '/ajax/popularTalkArticles/',
+                    callback: {
+                        onHTML: function (html) {
+                            $communityBest.replaceWith(html);
+                        },
+                        onError: function (error) {
+                            $communityBest.remove();
+                        }
+                    }
+                });
+            });
+        </script>
+                </div><div class="l-footer"><div class="footer"><ul class="footer__links"><li class="footer__links__item"><a href="/about/">About OP.GG</a></li><li class="footer__links__item"><a href="/about/logos">로고 히스토리</a></li><li class="footer__links__item"><b><a href="/about/privacy/">개인정보처리방침</a></b></li><li class="footer__links__item"><a target="_blank" href="https://opggkr.helpscoutdocs.com/collection/121-opgg">도움말</a></li><li class="footer__links__item"><a href="mailto:contact@op.gg">제휴</a></li><li class="footer__links__item"><a href="mailto:ads@op.gg">광고</a></li><li class="footer__links__item"><a href="mailto:service@op.gg">문의/피드백</a></li><li class="footer__links__item"><a href="https://www.opgg.team/" target="_blank">채용</a></li></ul><div class="footer__copyright">
+                        &copy; 2012-2021
+                        OP.GG.
+                                                    OP.GG isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games or anyone officially involved in producing or managing
+                            League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
+                                            </div><ul class="footer__sns"><li class="footer__sns__item footer__sns__item--twitter"><a href="http://twitter.com/globalopgg/" target="_blank"><i>Twitter</i></a></li><li class="footer__sns__item footer__sns__item--instagram"><a href="https://www.instagram.com/opgginc/" target="_blank"><i>Instagram</i></a></li><li class="footer__sns__item footer__sns__item--facebook"><a href="https://www.facebook.com/lolopgg/" target="_blank"><i>Facebook</i></a></li></ul></div></div></div><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXXJDMH"
+				  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-37377845-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-37377845-1');
+		gtag('config', 'UA-140073778-1');
+	</script>
+
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+	if (!wcs_add) var wcs_add = {};
+	wcs_add["wa"] = "55c48ac9e22bec";
+	wcs_do();
+</script>
+
+
+
+					
+	
+	<script>
+		window.lifeOnwer = function(){
+			this.randAdIdx = '1764744969';
+			this.showAd = function(element, size){
+				if (size === "skyscraper") {
+					this.showAdSkyscraper();
+					return;
+				}
+				element.innerHTML = this.getAdHTML(size);
+				element.classList.remove('vm-placement');
+			};
+
+			this.showAdSkyscraper = function(){
+				if (this.getMobileOS() !== "unknown") {
+					return;
+				}
+
+				var elementLeft = document.createElement("div");
+				elementLeft.innerHTML = this.getAdHTML("skyscraper");
+				elementLeft.setAttribute('style', 'position: absolute; left: 50%; top: 106px; margin-left: -725px;');
+				document.body.appendChild(elementLeft);
+
+				var elementRight = document.createElement("div");
+				elementRight.innerHTML = this.getAdHTML("skyscraper");
+				elementRight.setAttribute('style', 'position: absolute; right: 50%; top: 106px; margin-right: -725px;');
+				document.body.appendChild(elementRight);
+
+				$(elementRight).scrollToFixed({
+					marginTop: 60
+				});
+			};
+
+			this.getAdHTML = function(size){
+				var lang = (this.getLang() === 'ko_KR' ? 'ko' : 'en');
+				return "<a href=\"" + this.getAdLink(this.adIndex) + "\" target=\"_blank\" class=\"lifeOnwer-" + randAdIdx + "\">" +
+						"<img src='//opgg-static.akamaized.net/images/lifeowner/opgg/" + lang + "/" + adIndex + "-" + size + ".png'>" +
+						"</a>";
+			};
+			this.getAdLink = function(adIndex){
+				var linkKey = this.getMobileOS() + '-' + adIndex;
+				switch (linkKey) {
+					case "Android-1":
+						return "market://details?id=gg.op.lol.android&referrer=utm_source%3Dopgg%26utm_medium%3Dbanner01%26utm_content%3Dapp";
+					case "Android-2":
+						return "market://details?id=gg.op.lol.android&referrer=utm_source%3Dopgg%26utm_medium%3Dbanner02%26utm_content%3Dlol";
+					case "Android-3":
+						return "market://details?id=gg.op.lol.android&referrer=utm_source%3Dopgg%26utm_medium%3banner03%26utm_content%3Dpubg";
+					case "unknown-1":
+						return "https://play.google.com/store/apps/details?id=gg.op.lol.android&referrer=utm_source%3Dopgg%26utm_medium%3Dbanner01%26utm_content%3Dapp";
+					case "unknown-2":
+						return "https://play.google.com/store/apps/details?id=gg.op.lol.android&referrer=utm_source%3Dopgg%26utm_medium%3Dbanner02%26utm_content%3Dlol";
+					case "unknown-3":
+						return "https://play.google.com/store/apps/details?id=gg.op.lol.android&referrer=utm_source%3Dopgg%26utm_medium%3Dbanner03%26utm_content%3Dpubg";
+					default:
+						return "itms-apps://itunes.apple.com/kr/app/apple-store/id605722237";
+				}
+			};
+			this.getMobileOS = function(){
+				var userAgent = navigator.userAgent || navigator.vendor;
+
+				if (/android/i.test(userAgent)) {
+					return "Android";
+				}
+
+				if (/iPad|iPhone|iPod/.test(userAgent)) {
+					return "iOS";
+				}
+
+				return "unknown";
+			};
+			this.getLang = function(){
+				return document.documentElement.lang || "en";
+			};
+
+			this.slots = [
+				{
+					'id': '6076ad1ba1ede816581526af',
+					'size': '970x90'
+				},
+				{
+					'id': '5a84640c46e0fb0001fc3bb0',
+					'size': '300x250'
+				},
+				{
+					'id': '6076ad3d9ada6778be32cb33',
+					'size': 'skyscraper'
+				},
+			];
+			this.getCookie = function(name){
+				var match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
+				if (match) return match[2];
+			};
+			this.bindClickEvent = function(){
+				$(".lifeOnwer-" + randAdIdx).click(function(evt){
+					$.OP.GG.tracker.combine.sendEvent(['FB', 'Pixel'], 'Opgg', 'ClickAd', {
+						Location: location_,
+						subLocation: subLocation,
+						BannerType: adIndex
+					});
+				});
+			};
+
+			this.adIndex = Math.floor(Math.random() * (this.getMobileOS() === "iOS" ? 2 : 3)) + 1;
+			this.location_ = "index";
+			this.subLocation = "";
+
+
+			slots.forEach(function(slot){
+				if (self.getMobileOS() === "unknown" && slot.size === "300x250") {
+					return;
+				}
+				var element = document.querySelector('.vm-placement[data-id="' + slot.id + '"]');
+				if (element) {
+					self.showAd(element, slot.size);
+				}
+			});
+			this.bindClickEvent();
+		};
+	</script>
+	
+	<script type="text/javascript">
+		!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});
+	</script>
+	<script type="text/javascript">window.Beacon('init', 'e9981fa0-02c1-4ffd-9d6a-67760bc76391');</script>
+
+<script type='text/javascript'>
+	$(document).ready(function(){
+		$('a[href="#"]').click(function(e) {
+			e.preventDefault();
+		});
+	});
+</script>
+</body>
+</html>
+

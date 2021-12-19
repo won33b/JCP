@@ -1,0 +1,605 @@
+
+ 
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <!---액션 태그 매핑:start-->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta  http-equiv="Expires" content="-1">
+    <meta  http-equiv="Pragma" content="no-cache">
+    <meta  http-equiv="Cache-Control" content="no-cache">  
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <meta name="depth" content="3">
+    <title>문 대통령 "탄소중립에 北 참여 기대‥동북아 산림협력 촉구"</title>
+    <meta name="title" content="문 대통령 &quot;탄소중립에 北 참여 기대‥동북아 산림협력 촉구&quot;">
+    <meta name="url" content="https://imnews.imbc.com/news/2021/politics/article/6313913_34866.html">
+    <meta name="author" content="배주환">
+    <meta name="description" content="문재인 대통령은 오늘 &quot;에너지 전환과 탄소중립을 위한 모두의 실천 의지와 협력이 더 굳건해지길 바란다&quot; 며 &quot;그 협력에 북한도 참여하길 기대한다&quot; 고 밝혔습니다. 문 대통령은 아시...">
+    <meta name="keywords" content="문재인 대통령, 탄소중립, 북한">
+
+    <meta property="og:url" content="https://imnews.imbc.com/news/2021/politics/article/6313913_34866.html">
+    <meta property="og:title" content="문 대통령 &quot;탄소중립에 北 참여 기대‥동북아 산림협력 촉구&quot;">
+    <meta property="og:description" content="문재인 대통령은 오늘 &quot;에너지 전환과 탄소중립을 위한 모두의 실천 의지와 협력이 더 굳건해지길 바란다&quot; 며 &quot;그 협력에 북한도 참여하길 기대한다&quot; 고 밝혔습니다. 문 대통령은 아시...">
+    <meta property="og:site_name" content="MBC NEWS">
+  	<meta property="og:image" content="https://image.imnews.imbc.com/news/2021/politics/article/__icsFiles/afieldfile/2021/11/11/k211111-27.jpg">
+    <meta property="article:publisher" content="https://www.facebook.com/MBCnews">
+    <meta property="og:type" content="article">
+    <meta property="og:locale" content="ko_KR">
+    <meta property="fb:app_id" content="692275414241491">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:domain" content="imnews.imbc.com">
+    <meta name="twitter:site" content="@mbcnews">
+    <meta name="twitter:title" content="문 대통령 &quot;탄소중립에 北 참여 기대‥동북아 산림협력 촉구&quot;">
+    <meta name="twitter:creator" content="배주환">
+    <meta name="twitter:image" content="https://image.imnews.imbc.com/news/2021/politics/article/__icsFiles/afieldfile/2021/11/11/k211111-27.jpg">
+    <meta name="twitter:image:alt" content="문 대통령 &quot;탄소중립에 北 참여 기대‥동북아 산림협력 촉구&quot;" />
+    <meta name="twitter:description" content="문재인 대통령은 오늘 &quot;에너지 전환과 탄소중립을 위한 모두의 실천 의지와 협력이 더 굳건해지길 바란다&quot; 며 &quot;그 협력에 북한도 참여하길 기대한다&quot; 고 밝혔습니다. 문 대통령은 아시...">
+
+    <meta itemprop="name" content="문 대통령 &quot;탄소중립에 北 참여 기대‥동북아 산림협력 촉구&quot;">
+    <meta itemprop="description" content="문재인 대통령은 오늘 &quot;에너지 전환과 탄소중립을 위한 모두의 실천 의지와 협력이 더 굳건해지길 바란다&quot; 며 &quot;그 협력에 북한도 참여하길 기대한다&quot; 고 밝혔습니다. 문 대통령은 아시...">
+    <meta itemprop="image" content="https://image.imnews.imbc.com/news/2021/politics/article/__icsFiles/afieldfile/2021/11/11/k211111-27.jpg">
+
+    <meta name="referrer" content="no-referrer-when-downgrade">                                         
+                                                             
+    <meta name="nextweb:catId" id="catId" content="mbcnews_n21_01">
+    <meta name="nextweb:artId" id="artId" content="6313913">
+    <meta name="nextweb:artUrl" id="artUrl" content="https://imnews.imbc.com/news/2021/politics/article/6313913_34866.html">
+    <meta name="nextweb:imgUrl" id="imgUrl" content="https://image.imnews.imbc.com/news/2021/politics/article/__icsFiles/afieldfile/2021/11/11/k211111-27.jpg">
+    <meta name="nextweb:artSubject" id="artSubject" content="문 대통령 &quot;탄소중립에 北 참여 기대‥동북아 산림협력 촉구&quot;">
+    <meta name="nextweb:keyword" id="keyword" content="문재인 대통령, 탄소중립, 북한">
+    <meta name="nextweb:location" id="location" content=" 분야별 뉴스 > 정치">
+    <meta name="nextweb:email" id="email" content="jhbae@mbc.co.kr">
+    <meta name="nextweb:reporter" id="reporter" content="배주환">
+    <meta name="nextweb:createDate" id="createDate" content="2021-11-11 13:44">
+    <meta name="nextweb:modDate" id="modDate" content="2021-11-11 13:44">
+    <meta name="nextweb:sysModDate" id="sysModDate" content="2021-11-11 13:44">
+    
+  <meta name="nextweb:vodYN" id="vodYN" content="N">
+    
+
+	<meta name="nextweb:description" id="description" content="문재인 대통령은 오늘 &quot;에너지 전환과 탄소중립을 위한 모두의 실천 의지와 협력이 더 굳건해지길 바란다&quot; 며 &quot;그 협력에 북한도 참여하길 기대한다&quot; 고 밝혔습니다. 문 대통령은 아시...">
+    <meta name="nextweb:section" id="section" content="정치">
+    <meta name="nextweb:pname" id="pname" content="">
+    <meta name="nextweb:runno" id="runno" content="1">
+    <meta name="nextweb:vsequen" id="vsequen" content="2">
+    <meta name="nextweb:corner" id="corner" content="">
+
+    <meta property="dable:item_id" content="6313913">
+    <meta property="dable:author" content="배주환">
+    <meta property="article:section" content="정치">
+    <meta property="article:section2" content="분야별 뉴스">
+    <meta property="article:published_time" content="2021-11-11T13:44:25+09:00">
+
+    
+    
+    
+    
+  	<link rel="canonical" href="https://imnews.imbc.com/news/2021/politics/article/6313913_34866.html"/>   <!-- 현재 HTML -->
+    <!-- 구글 amp -->
+    <link rel="amphtml" href="https://imnews.imbc.com/news/2021/politics/article/6313913_34867.html">
+
+    <link rel="alternate" href="https://imnews.imbc.com/news/2021/politics/article/6313913_34866.html"> <!-- 현재 HTML -->
+    <!---액션 태그 매핑:end-->
+    <link rel="shortcut icon" type="image/x-icon" href="//image.imnews.imbc.com/page/include/images/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="https://imnews.imbc.com/page/include/css/common.css">
+    <link type="text/css" rel="stylesheet" href="https://imnews.imbc.com/page/include/css/m/m_common.css">
+    <link rel="stylesheet" type="text/css" href="https://imnews.imbc.com/page/include/css/slick.css">
+    <link rel="stylesheet" type="text/css" href="https://imnews.imbc.com/page/include/css/font.css">
+    <link rel="stylesheet" type="text/css" href="https://imnews.imbc.com/page/include/css/pc/pc_gnb.css">
+    <link rel="stylesheet" type="text/css" href="https://imnews.imbc.com/page/include/css/sub_common.css">
+    <link rel="stylesheet" type="text/css" href="https://imnews.imbc.com/page/include/css/view.css?v20210621">
+    <script src="https://imnews.imbc.com/page/include/js/lib/jquery-1.12.3.min.js" type="text/javascript"></script>
+    <script src="https://imnews.imbc.com/page/include/js/lib/slick.min.js" type="text/javascript"></script>
+    <script src="https://imnews.imbc.com/page/include/js/pc/pc_gnb.js" type="text/javascript"></script>
+    <script src="https://imnews.imbc.com/page/include/js/common.js" type="text/javascript"></script>
+    <script src="https://imnews.imbc.com/page/include/js/view.js" type="text/javascript"></script>
+    <!--[if lt IE 9]>
+    <script src="https://imnews.imbc.com/page/include/js/lib/html5shiv.min.js" type="text/javascript"></script>
+    <![endif]-->
+    <script src="https://developers.kakao.com/sdk/js/kakao.min.js"></script>
+    <script src="https://imnews.imbc.com/page/include/js/common/bundle.min.js?v20210624" type="text/javascript"></script> 
+    <script src="https://imnews.imbc.com/page/include/js/view_util.js?v20200415" type="text/javascript"></script> 
+    <script type="text/javascript" src="/page/player/dist/mbcplayer.min.js?v20200106"></script>
+    <script type="text/javascript" src="/page/player/lib/news_util.js"></script>
+
+    <script data-ad-client="ca-pub-2961722781524256" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<!---액션 태그 매핑:start-->
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage" : {
+            "@type": "WebPage",
+            "@id": "https://imnews.imbc.com/news/2021/politics/article/6313913_34866.html"
+        },
+        "headline": "문 대통령 &quot;탄소중립에 北 참여 기대‥동북아 산림협력 촉구&quot;",
+        "description": " 문재인 대통령은 오늘 &quot;에너지 전환과 탄소중립을 위한 모두의 실천 의지와 협력이 더 굳건해지길 바란다&quot; 며 &quot;그 협력에 북한도 참여하길 기대한다&quot; 고 밝혔습니다. 문 대통령은 아시...",
+        "datePublished": "2021-11-11T13:44:25+09:00",	// pubdate 를 yyyy-mm-ddTHH:MM:SS 형식으로
+        "dateModified":"2021-11-11T13:44:25+09:00",	// 수정일자 를 yyyy-mm-ddTHH:MM:SS 형식으로
+        "author": {
+            "@type": "Person",
+            "name": "배주환"
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "//image.imnews.imbc.com/news/2021/politics/article/__icsFiles/afieldfile/2021/11/11/k211111-27.jpg",
+            "width": "640",
+            "height": "360"
+        },
+        "keywords":"문재인 대통령,탄소중립,북한",
+    "publisher": {
+    "@type": "Organization",
+    "name": "MBC 뉴스",
+    "alternateName": "MBC NEWS",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "http://image.imnews.imbc.com/page/include/images/amp_mbc_logo.png",
+    "width": 600,
+    "height": 60
+    }
+    },
+        "sameAs":[
+        "https://www.facebook.com/MBCnews",
+        "https://twitter.com/mbcnews",
+        "https://www.youtube.com/mbcnews11",
+        "https://www.instagram.com/mbcnews_official/",
+        "https://band.us/@mbcnewsofficial",
+        "https://post.naver.com/mbcnews_official"
+
+        ]
+    }
+</script>
+    
+    
+    
+    
+    
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "MBC 뉴스",
+                "item": "http://imnews.imbc.com"  //고정
+            },
+            {
+                "@type": "ListItem",    //view의 list내용
+                "position": 2,
+                "name": "정치",
+                "item": "https://imnews.imbc.com/news/2021/politics/6313744_34861.html"
+            }
+        ]
+    }
+</script>
+<!---액션 태그 매핑:end-->
+</head>
+<body>
+<div id="wrap" class="sub ">
+    <!-- 스킵 내비게이션 -->
+    <div id="u_skip">
+        <a href="#content">본문 바로가기</a>
+        <a href="#navi">메뉴 바로가기</a>
+    </div>
+    <!-- //스킵 내비게이션 -->
+    <!-- 헤더 -->
+    <header id="header">
+        <div class="pc_header">
+            <!-- 특별 프로모션 이미지 -->
+            <div class="link_special"></div>
+            <!-- pc헤더 pc_gnb.js-->
+        </div>
+        <div class="m_header">
+            <!-- 모바일 m_gnb -->
+        </div>
+    </header>
+    <!-- //헤더 -->
+    <nav id="navi">
+        <div class="wrap_pc_nav">
+            <div class="pc_nav">
+                <!-- PC 네비게이션 -->
+            </div>
+            <div class="nav_d2" tabindex="-1">
+                <!-- PC 네이게이션 더보기 -->
+            </div>
+            <div class="progress_container">
+                <div class="progress_bar" id="progressBar"></div>
+            </div>
+        </div>
+        <!-- 모바일 m_navi -->
+    </nav>
+    <!-- 모바일 m_gnb.js -->
+    <script type="text/javascript" src="https://imnews.imbc.com/page/include/js/m/m_gnb.js"></script>
+    <!-- // 모바일 m_gnb.js -->
+    <!-- container -->
+    <div id="container">
+        <!-- content -->
+        <div id="content">
+            <div class="wrap_view">
+                <div class="bg_dim"></div>
+                <section class="wrap_article">
+                    <article class="cont_left">
+                        <div class="wrap_title">
+                            <div class="info_art">
+                                <!---액션 태그 매핑:start-->
+                                
+                                
+                                <span class="sort">정치</span>
+                                <div class="reporter">
+                                    
+                                    <span class="writer_img"><img src="//image.imnews.imbc.com//page/include/images/writer_default.png"  alt="기자이미지" ></span>
+                                    <span class="writer">배주환</span>
+                                     
+                                </div>
+                            </div>
+                            <h2 class="art_title">문 대통령 "탄소중립에 北 참여 기대‥동북아 산림협력 촉구"</h2>
+                            <!-- 모바일 상단 fix 흘러가는 제목 -->
+                            <div class="m_top_title"><span class="ellipsis">문 대통령 "탄소중립에 北 참여 기대‥동북아 산림협력 촉구"</span></div>
+                            <!---액션 태그 매핑:end-->
+                            <div class="ui_article">
+                                <!---액션 태그 매핑:start-->
+                                <div class="date">
+                                     <span class="input">입력 2021-11-11 13:44</span> |
+                                    <span class="input">수정 2021-11-11 13:44</span>
+                                </div>
+                                <!---액션 태그 매핑:end-->
+                                <div class="ui_link">
+                                    <video id="audio" style="display:none"></video>
+                                    <a href="#commentBox" title="댓글" class="comment"></a>
+                                    <button type="button" title="글자 크기" class="font"></button>
+                                    <button type="button" title="북마크" class="bookmark"></button>
+                                    <button type="button" title="공유" class="share"></button>
+                                    <button type="button" title="음성" class="voice"></button>
+                                    <button type="button" title="인쇄" class="print"></button>
+                                    <!-- 폰트사이즈 레이어-->
+                                    <div class="mini_layer layer_fontsize">
+                                        <ul>
+                                            <li class="font1">가</li>
+                                            <li class="font2 on">가</li>
+                                            <li class="font3">가</li>
+                                        </ul>
+                                    </div>
+                                    <!-- 북마크 레이어-->
+                                    <div class="mini_layer layer_bookmark">
+                                        <div class="text">해당 기사를 북마크했습니다.</div>
+                                        <div class="link_bm">
+                                            <button type="button" class="btn_confirm">확인</button>
+                                            <a href="#">내 북마크 보기</a>
+                                        </div>
+                                    </div>
+                                    <!-- 공유 레이어-->
+                                    <div class="layer_share">
+                                        <ul>
+                                            <li><button class="share_fb" id="facebook"></button><span>페이스북</span></li>
+                                            <li><button class="share_tw" id="twitter"></button><span>트위터</span></li>
+                                            <li><button class="share_story" id="ks"></button><span>카카오 스토리</span></li>
+                                            <li><button class="share_kko" id="kt"></button><span>카카오톡</span></li>
+                                            <li><button class="share_band" id="nb"></button><span>밴드</span></li>
+                                            <li><button class="share_url" id="url"></button><span>링크 복사</span></li>
+                                            <li><button class="share_copy" id="copy"></button><span>본문 복사</span></li>
+                                        </ul>
+                                        <button type="button" class="btn_close_layer">레이어 닫기</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news_cont">
+
+                                        
+                                
+								
+								
+                                
+                                
+                           
+                            <!---액션 태그 매핑:end-->
+                            <!-- 다음 뉴스 슬라이드 -->
+                            <div class="wrap_next_news">
+                                <div class="s_slider">
+                                    <div class="news_slide">
+                                    </div>
+                                    <button class="slick-arrow slick-prev" aria-label="Previous" type="button">Previous</button>
+                                    <button class="slick-arrow slick-next" aria-label="Next" type="button">Next</button>
+                                </div>
+                            </div>
+                            <!-- // 다음 뉴스 슬라이드 -->
+                            <!-- 전체재생  -->
+                            <div class="wrap_playall">
+                                <button type="button" class="open_layer">전체재생</button>
+                            </div>
+                            <!-- // 전체재생  -->
+                            <!-- 전체재생 레이어 -->
+                            <div class="layer_popup">
+                                <div class="vod_left">
+                                    <div class="vod_info">
+                                        <span class="program"></span>
+                                        <span class="news_date"></span>
+                                    </div>
+                                    <div class="player"></div>
+                                    <div class="vod_title"></div>
+                                    <a href="#" class="ico_comment"></a>
+                                    <a href="#" class="link_detail">상세 기사보기</a>
+                                </div>
+                                <div class="vod_right">
+                                    <div class="tit"><span>재생목록</span><span class="number"></span></div>
+                                    <button type="button" class="btn_repeat">연속재생</button>
+                                    <div class="vod_list">
+                                        <div class="s_slider">
+                                            <ul></ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <button type="button" class="btn_vod_close">닫기</button>
+                            </div>
+                            <!-- // 전체재생 레이어 -->
+                                 <div class="news_txt" itemprop="articleBody">
+                                   <div class="news_img"><img src="//image.imnews.imbc.com/news/2021/politics/article/__icsFiles/afieldfile/2021/11/11/k211111-27.jpg" alt="문 대통령 &quot;탄소중립에 北 참여 기대‥동북아 산림협력 촉구&quot;" onerror="ImUtil.SetErrorImage(this);"><p class="caption">[사진 제공:연합뉴스]</p></div>문재인 대통령은 오늘 "에너지 전환과 탄소중립을 위한 모두의 실천 의지와 협력이 더 굳건해지길 바란다" 며 "그 협력에 북한도 참여하길 기대한다" 고 밝혔습니다.
+<br>
+<br> 문 대통령은 아시아태평양 경제협력체, APEC 정상회의를 계기로 열린 CEO 행사에서 화상 연설을 통해 "탄소배출을 늘리지 않으면서 발전할 수 있는 길을 찾는 것은 전 인류의 과제" 라며 이같이 말했습니다.
+<br>
+<br> 문 대통령은 "북한은 특히 산림회복에 중점을 두고 있다" 면서 "동북아 산림협력에 북한이 참여하는 것은 한반도 온실가스 감축은 물론, 동북아의 평화와 번영에도 기여하게 될 것" 이라고 설명했습니다.
+<br>
+<br> 또 "산림협력으로 평화를 이룬 다른 나라 사례가 많다" 며 "한반도에서도 숲을 공유하고 함께 가꾸며 항구적 평화가 이뤄지길 바란다" 고 강조했습니다.
+<br>
+<br> 문 대통령은 '탄소중립' 사회를 위해 "지금 우리의 실천이 인류의 생존과 미래를 결정한다는 비상한 각오와 결의를 가져야 한다" 며 "이제 에너지원으로써 석탄과 석유의 역할은 지속될 수 없다" 고 단언했습니다.
+<br>
+<br> 수소경제 생태계 구축을 위한 협력을 강조한 문 대통령은 "탄소중립을 위해 특히 선진국들이 개도국들을 적극 지원하고 협력하는 것이 무엇보다 중요하다" 고 덧붙였습니다.
+                      </div>
+                        </div>
+                      <script>
+                        $(document).ready(function(){
+                          var filter = "win16|win32|win64|mac|macintel";
+
+                          if(navigator.platform){
+                            if(0 > filter.indexOf(navigator.platform.toLowerCase())){
+                              // alert("Mobile");
+                            }else{
+                              var corona19img = '<img src="https://image.imnews.imbc.com/newszoomin/groupnews/groupnews_9/corona19_inthum.png" style="display:block; margin:30px auto;" alt="코로나19 예방법">';
+                              $('.news_txt').append(corona19img);
+                              // alert("PC");
+                            }
+                          }
+                        });
+                      </script>
+                        <div class="section_mid">
+                            <div class="hashtag">
+                                <!---액션 태그 매핑:start-->
+                                
+                                
+                                
+                                
+                                <a href="#">#문재인 대통령</a>
+                                
+                                
+                                
+                                
+                                <a href="#">#탄소중립</a>
+                                
+                                
+                                
+                                
+                                <a href="#">#북한</a>
+                                
+                                
+                            </div>
+
+                            <!---액션 태그 매핑:end-->
+                            <div class="ui_link">
+                                <a href="#commentBox" title="댓글" class="comment"></a>
+                                <button type="button" title="글자 크기" class="font"></button>
+                                <button type="button" title="북마크" class="bookmark"></button>
+                                <button type="button" title="공유" class="share"></button>
+                                <button type="button" title="음성" class="voice"></button>
+                                <button type="button" title="인쇄" class="print"></button>
+                                <!-- 폰트사이즈 레이어-->
+                                <div class="mini_layer layer_fontsize">
+                                    <ul>
+                                        <li class="font1">가</li>
+                                        <li class="font2 on">가</li>
+                                        <li class="font3">가</li>
+                                    </ul>
+                                </div>
+                                <!-- 북마크 레이어-->
+                                <div class="mini_layer layer_bookmark">
+                                    <div class="text">해당 기사를 북마크했습니다.</div>
+                                    <div class="link_bm">
+                                        <button type="button" class="btn_confirm">확인</button>
+                                        <a href="#">내 북마크 보기</a>
+                                    </div>
+                                </div>
+                                <!-- 공유 레이어-->
+                                <div class="layer_share">
+                                    <ul>
+                                        <li><button class="share_fb"></button><span>페이스북</span></li>
+                                        <li><button class="share_tw"></button><span>트위터</span></li>
+                                        <li><button class="share_story"></button><span>카카오 스토리</span></li>
+                                        <li><button class="share_kko"></button><span>카카오톡</span></li>
+                                        <li><button class="share_band"></button><span>밴드</span></li>
+                                        <li><button class="share_url"></button><span>링크 복사</span></li>
+                                        <li><button class="share_copy"></button><span>본문 복사</span></li>
+                                    </ul>
+                                    <button type="button" class="btn_close_layer">레이어 닫기</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="imoji">
+                            <h3 class="sub_tit">이 기사 어땠나요?</h3>
+                            <ul>
+                                <li class="good"><a href="#none"><span class="btn_feel">좋아요</span><span class="count"></span></a></li>
+                                <li class="great"><a href="#none"><span class="btn_feel">훌륭해요</span><span class="count"></span></a></li>
+                                <li class="sad"><a href="#none"><span class="btn_feel">슬퍼요</span><span class="count"></span></a></li>
+                                <li class="angry"><a href="#none"><span class="btn_feel">화나요</span><span class="count"></span></a></li>
+                                <li class="news"><a href="#none"><span class="btn_feel">후속요청</span><span class="count"></span></a></li>
+                            </ul>
+                        </div>
+						<!-- enliple_m ad --> 
+                  		<div class="ad_enliple_m"> 
+                  		</div> 
+                  		<!-- // enliple_m ad -->
+                        <div class="wrap_comment" id="commentBox">
+                            <h3 class="sub_tit">당신의 의견을 남겨주세요</h3>
+                            <div class="comment_numb"></div>
+                            <div class="write_comment">
+                                <div class="wrap_input">
+                                    <div class="login_id">
+                                        <span class="id"></span>
+                                        <span class="string"><em>0</em>/300</span>
+                                    </div>
+                                    <textarea id="cmt_cont" placeholder="의견을 작성하려면 로그인해주세요" title="댓글 작성란"></textarea>
+                                    <button type="submit" class="btn_submit"><span>등록</span></button>
+                                </div>
+                                <span class="login_alert" style="display:none;background-color:red"></span>
+                            </div>
+                            <div class="sort_comment">
+                                <div class="sort_comment_btn">
+                                    <a href="#none" class="on">최신순</a>
+                                    <a href="#none">공감순</a>
+                                    <a href="#none">반대순</a>
+                                </div>
+                            </div>
+                            <div class="list_comment">
+                                <ul></ul>
+                                <div class="wrap_more">
+                                    <button type="button" class="ui_button btn_more"><span>더보기</span></button>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                    <aside class="wrap_aside cont_right">
+                      	<!-- 우측 패널 데이블 광고 영역 -->
+                        <div class="s_dable"></div>
+                      	<!-- //우측 패널 데이블 광고 영역 -->
+                        <!-- PC광고 네이버배너 -->
+                        <div class="ad_banner"></div>
+                        <!-- 모바일 광고 영역 -->
+                        <div class="section s_ad"></div>
+                        <div class="news_list">
+                            <h3>이시각 주요뉴스</h3>
+                            <ul class="thumb_type list_thumb_r"></ul>
+                            <ul class="thumb_type list_thumb_r"></ul>
+                        </div>
+                        <!-- 우측 패널 데이블 광고 영역 -->
+                        <div class="s_dable2"></div>
+                      	<!-- //우측 패널 데이블 광고 영역 -->
+                        <!-- //광고 영역 -->
+                        <div class="s_hits">
+                            <h3>많이 본 뉴스</h3>
+                            <div class="tabs">
+                                <ul>
+                                    <li id="im"><span>MBC</span></li>
+                                    <li id="pt"><span>포털</span></li>
+                                    <li id="sns"><span>SNS</span></li>
+                                    <li id="vod"><span>유튜브</span></li>
+                                </ul>
+                            </div>
+                            <div class="hits_list">
+                                <ul class="list_text wrapper"></ul>
+                            </div>
+                        </div>
+                        <div class="n_banner">
+
+                        </div>
+                      	<!-- google adsense 영역 -->
+                        <div class="ad_banner"></div>
+                      	<!-- // google adsense 영역 -->
+                        <div class="recom">
+                            <h3>분야별 추천 뉴스</h3>
+                            <ul></ul>
+                            <ul></ul>
+                            <ul></ul>
+                        </div>
+                    </aside>
+                </section>
+                <!-- PC 취재플러스 하단 데이블 광고 영역 -->  
+                <div class="section_bottom_dable"></div>
+                <!-- PC 취재플러스 하단 데이블 광고 영역 -->  
+                <section class="section_bottom">
+                    <div class="wrap_pan bottom_roll">
+                        <div class="roll_pan">
+                            <div class="cont_left news_related">
+                                <h3> <strong></strong>관련 뉴스</h3>
+                                <div class="s_slider">
+                                    <ul class="thumb_type"></ul>
+                                </div>
+                            </div>
+                            <div class="cont_right">
+                                <h3>인기 키워드</h3>
+                                <div class="keyword">
+                                    <ul></ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="roll_pan">
+                            <div class="news_plus">
+                                <h3>취재플러스</h3>
+                                <div class="wrap_plus">
+                                    <ul class="thumbnail"></ul>
+                                </div>
+                                <div class="list_hori">
+                                    <ul></ul>
+                                    <ul></ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="roll_pan">
+                            <div class="cont_left 14f">
+                                <h3>14F</h3>
+                                <div class="s_slider">
+                                    <ul class="thumb_type"></ul>
+                                </div>
+                            </div>
+                            <div class="cont_right">
+                                <div class="wrap_mbig">
+                                    <h3>엠빅뉴스</h3>
+                                    <ul class="thumb_type list_thumb_r"></ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <ul class="slick-dots"></ul>
+                </section>
+                <!-- PC 취재플러스 하단 데이블 광고 2 영역 -->  
+                <div class="section_bottom_dable2"></div>
+                <!-- //PC 취재플러스 하단 데이블 광고 2 영역 --> 
+                <!-- mobile 최하단 엠빅뉴스 아래, 네이버 위 데이블 광고 -->  
+                <div class="section_bottom_dable3"></div>
+                <!-- //mobile 최하단 엠빅뉴스 아래, 네이버 위 데이블 광고 -->  
+                <!-- 광고 영역 -->
+                <div class="section s_ad"></div>
+                <!-- //광고 영역 -->
+            </div>
+        </div>
+        <!-- //content -->
+    </div>
+    <!-- //container -->
+    <footer id="footer">
+        <!-- PC footer -->
+        <div class="pc_footer">
+            <div class="program_list">
+            </div>
+            <div class="wrap_corp">
+            </div>
+        </div>
+        <!-- // PC footer -->
+        <!-- 모바일 m_footer.js -->
+        <div class="m_footer">
+            <script type="text/javascript" src="https://imnews.imbc.com/page/include/js/m/m_footer.js"></script>
+        </div>
+        <!-- // 모바일 m_footer.js -->
+    </footer>
+</div>
+</body>
+</html>

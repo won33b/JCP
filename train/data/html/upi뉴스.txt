@@ -1,0 +1,787 @@
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>[류순열 칼럼] 용서받을 기회 영영 사라진 '멘탈갑' 전두환</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Script-Type" content="text/javascript"> 
+<meta http-equiv="Content-Style-Type" content="text/css"> 
+<meta name="keywords" content="UPI,통신사">
+<meta name="location" content="Korea">
+<meta name="author" content="UPI뉴스"> 
+<meta name="description" content="곧은 정신, 당찬 뉴스 / 세상의 수다, 일상의 뉴스 UPI뉴스 / UPI뉴스는 당신의 뉴스입니다.">
+
+<meta property="fb:app_id" content="944031592469420">
+<meta property="og:locale" content="ko_KR" />
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://www.upinews.kr/newsView/upi202111230042" />
+<meta property="og:description" content="전직 대통령 전두환 씨가 23일 아침 90년 삶을 마감했다. 아쉬움은 없을 것이다. 그 긴 세월을 전 씨는 '멘탈갑'으로 살다 갔다. 늘 화려한 건 아니었다. 1" />
+<meta property="og:site_name" content="UPI뉴스">
+<meta property="og:type" content="article" />
+<meta property="og:title" content="[류순열 칼럼] 용서받을 기회 영영 사라진 '멘탈갑' 전두환" />
+<meta property="og:image" content="https://img.upinews.kr/data/upi/image/20190610/p1065579335284467_180_thum.jpg" />
+
+<link rel="canonical" href="https://www.upinews.kr//newsView/upi202111230042">
+<link rel="shortcut icon" href="//img.upinews.kr/favicon.ico">
+<link rel="alternate" type="application/rss+xml" href="https://www.upinews.kr/newsRss" title="UPI뉴스">
+
+<meta property="article:publisher" content="" />
+<meta property="article:tag" content="" />
+<meta property="article:modified_time" content="2021-11-23 16:39:27" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://img.upinews.kr/data/upi/image/20190610/p1065579335284467_180_thum.jpg" />
+<meta name="twitter:title"  content="[류순열 칼럼] 용서받을 기회 영영 사라진 '멘탈갑' 전두환" />
+<meta name="twitter:description" content="전직 대통령 전두환 씨가 23일 아침 90년 삶을 마감했다. 아쉬움은 없을 것이다. 그 긴 세월을 전 씨는 '멘탈갑'으로 살다 갔다. 늘 화려한 건 아니었다. 1" />
+
+
+<!-- Dable 스크립트 시작 --> 
+<meta property="dable:item_id" content="upi202111230042"> 
+<meta property="dable:image" content='https://img.upinews.kr/data/upi/image/20190610/p1065579335284467_180_thum.320x.0.jpg' > 
+<meta property="dable:author" content="류순열"> 
+<meta property="dable:url" content="http://www.upinews.kr/newsView/upi202111230042">
+<meta property="article:section" content="정치" /> 
+<meta property="article:published_time" content="2021-11-23T16:39:27+09:00" />
+<!-- Dable 스크립트 종료 --> 
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-146668390-1', 'auto');
+try{
+	ga('set', 'dimension1', 'upi202111230042');
+	ga('set', 'dimension2', '정치');
+	ga('set', 'dimension3', 'upi001000000');
+	ga('set', 'dimension4', '류순열');
+	ga('set', 'dimension5', 'ryoosy');
+	ga('set', 'dimension6', '');
+	ga('set', 'dimension7', '3209');
+	ga('set', 'dimension8', '3');
+	ga('set', 'dimension9', '1');
+	ga('set', 'dimension10', 'http://www.upinews.kr//newsView/upi202111230042');
+}catch(e){
+}
+ga('send', 'pageview');
+</script>
+
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//analytics.kode.co.kr/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '2']);
+    _paq.push(['setCustomDimension', 1, 'upi202111230042']);
+    _paq.push(['setCustomDimension', 2, '정치']);
+    _paq.push(['setCustomDimension', 3, '류순열']);
+    _paq.push(['setCustomDimension', 4, 'PC']);
+    _paq.push(['setCustomDimension', 5, '']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+<link rel="stylesheet" href="//img.upinews.kr/css/pc/basic2.css" type="text/css">
+<link rel="stylesheet" href="/css/pc/style2.css?v=2021108001" type="text/css">
+<link rel="stylesheet" href="//img.upinews.kr/css/pc/screen.css?v=2021102501" type="text/css">
+<link rel="stylesheet" href="//img.upinews.kr/css/pc/support-style.css" type="text/css">
+<link rel="stylesheet" href="//img.upinews.kr/css/pc/skin.css" type="text/css">
+<!--link rel="stylesheet" href="/css/fonts/fontawesome.min.css" type="text/css"-->
+
+<script src="https://kit.fontawesome.com/7568904f02.js" crossorigin="anonymous"></script>
+
+<script type="text/javascript" async="" src="//img.upinews.kr/js/analytics.js"></script>
+<script type="text/javascript" src="//img.upinews.kr/js/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="//img.upinews.kr/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="//img.upinews.kr/js/jquery.sticky.js"></script>
+<script type="text/javascript" src="//img.upinews.kr/js/easySlider1.7.js"></script>
+<script type="text/javascript" src="//img.upinews.kr/js/zebra_pin.min.js"></script>
+<script type="text/javascript" src="//img.upinews.kr/js/slick/slick.min.js"></script>
+
+<script type="text/javascript" src="//img.upinews.kr/js/jquery.featureList-1.0.0.js"></script>
+<script type="text/javascript" src="//img.upinews.kr/js/jquery.scrollbox.min.js"></script>
+
+<script type="text/javascript" src="//img.upinews.kr/js/pcommon.js"></script>
+<script type="text/javascript" src="//img.upinews.kr/js/mojaik.js"></script>
+<script async="" src="//img.upinews.kr/js/ad/pad8.js"></script>
+<script type="text/javascript">
+function runPrint(){
+	var prtWin = window.open("/newsPrint/upi202111230042","printWindow","width=800, height=800");
+}
+
+var chFont = new Array('16px','17px','18px','19px','20px','22px','24px');
+var dfFont = 1;
+
+function changeFsize(fs) {
+	var obj = document.getElementById('article');
+	var fsize = dfFont;
+
+	if(fs == 'flarge')
+		fsize += 1;
+	else 
+		fsize -= 1;
+ 
+	if(fsize < 0) {
+		alert('더이상 작아지지 않습니다.');
+		fsize = 0;
+	}
+	if(fsize > 6) {
+		alert('더이상 커지지 않습니다.');
+		fsize = 6;
+	}
+
+	dfFont = fsize;
+	obj.style.fontSize = chFont[fsize];
+}
+</script>
+</head>
+<body>
+<div id="wrap">
+<script type="text/javascript">
+var d = new Date();
+var weekname=['일','월','화','수','목','금','토'];
+var today=d.getFullYear()+'년 '+(d.getMonth() + 1)+'월 '+d.getDate()+'일 ('+weekname[d.getDay()]+')';
+$(document).ready(function(){
+    $('.day').append(today);
+
+    if(''){
+        $('#login').hide();
+        $('#logout').show();
+    }
+
+	$('#search_wrap').mouseleave( function() {
+		//$('#search_wrap').hide();
+	});
+	$('#search_wrap_ico').mouseenter( function() {
+		$('#search_wrap').toggle();
+	});
+});
+
+function goMobile(){
+	document.cookie='device=';
+	window.location.href = 'https://m.upinews.kr';
+}
+</script>
+
+<div id="header" class="header">
+	<!-- top menu -->
+	<div id="main_group" style="padding:0;background:#045c8e;">
+		<div id="hd_wrap">		
+			<div class="Hlogo"><a href="/" target="_top"><img src="/img/pc/logo.png" alt="UPI뉴스"></a></div>
+			<div id="HLeft">
+				<div class="adlink"><a href='http://tx.theline13.com/click?ad=77587' target="_blank" style="curosr:pointer"><img src="/data/upi/banner/kb_250X60_20211006.jpg" width="250" height="60" alt="KB국민은행" border="0"></a>
+			</div>
+		</div>
+		<div id="">
+			
+		<div id="HRight"  class="scroll-img100" style="top: 20px;">
+		<ul style="height:60px;">
+			<li><div class="adlink"><a href="http://www.hanafn.com/" target="_blank"><img src="/data/upi/banner/hana_20200107_250x60.jpg" width="250" height="60" alt="하나은행" border="0"></a></div></li>
+			<!--  li><div class="adlink"><a href="https://www.lh.or.kr" target="_blank"><img src="/data/upi/banner/lh_pc_20191220_250_60.jpg" width="120" alt="LH공사" border="0"></a></div></li -->
+		</ul>
+	</div>
+	<script>// $(function () {$('#HRight').scrollbox({direction: 'h'});});</script>
+		</div>
+		</div>
+	</div>
+
+	<div id="main_group" style="padding:0;background:#0a2655;">
+		<div id="hd_top" style="height:30px;">
+			<div id="HLeft">
+				<div id="logbox" style="float: left;">
+					<ul>
+						<li class="day"></li>
+						<li><a href="javascript:window.external.AddFavorite('https://www.upinews.kr', 'UPI뉴스');">즐겨찾기추가</a></li>
+						<li><a onclick="javascript:goMobile()" target="_blank" style="cursor:pointer;">모바일버전</a></li>
+						<li class="bg_none"><a href="/newsList/upi000000000">전체기사</a></li>
+					</ul>
+				</div>
+			</div>			
+			<div id="HRight">
+				<div class="snsbox">
+					<ul>
+						<li><a href="https://www.facebook.com/upikorea/" target="_blank"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
+						<li><a href='https://www.youtube.com/channel/UC4w64pzgHMbu_0XidKxIs_Q' target='_blank' title='UPI뉴스 Youtube'><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
+						<li><a href="https://post.naver.com/upinews_korea" target="_blank" title="네이버포스트" style="font-size:0;padding:0;margin:0;height:30px;" class="rollover"><img src="/img/pc/npost3.png"><img src="/img/pc/npost3_ov.png" class="over"></a></li>
+						<li><a href="/newsRss" target="_blank"><i class="fa fa-rss" aria-hidden="true"></i> </a></li>
+					</ul>
+				</div>
+				<div id="logbox">
+					<ul>
+						<li><a href="/memberLogin">로그인</a></li>
+						<li><a href="/memberJoin">회원가입</a></li>
+							
+					</ul>
+				</div>
+			</div>
+			<p class="HCenter"></p>
+		</div>
+	</div><!-- main_group end -->
+	<div class="clear"></div>
+
+	<div class="Topmenu_wrap">		
+		<div id="Topmenu">
+			 <ul id="Tmenu">
+				<li>
+					<a href="/newsList/upi001000000">정치</a>
+				</li>
+				<li>
+					<a href="/newsList/upi002000000">경제</a>
+				</li>
+				<li>
+					<a href="/newsList/upi003000000">산업</a>
+				</li>
+				<li>
+					<a href="/newsList/upi004000000">사회</a>
+				</li>
+				<li>
+					<a href="/newsList/upi012000000">전국</a>
+					<ul class="sub-menu">
+<li><a href="/newsList/upi012001000">수도권</a></li><li><a href="/newsList/upi012002000">영남</a></li><li><a href="/newsList/upi012003000">강원</a></li><li><a href="/newsList/upi012004000">호남</a></li>					</ul>
+				</li>
+				<li>
+					<a href="/newsList/upi005000000">국제</a>
+				</li>
+				<li>
+					<a href="/newsList/upi006000000">문화</a>
+				</li>
+				<li>
+					<a href="/newsList/upi007000000">연예</a>
+				</li>
+				<li>
+					<a href="/newsList/upi008000000">스포츠</a>
+				</li>
+				<li>
+					<a href="/newsList/upi011000000">포토</a>
+					<ul class="sub-menu">
+<li><a href="/newsList/upi011001000">정치</a></li><li><a href="/newsList/upi011002000">사회</a></li><li><a href="/newsList/upi011003000">경제</a></li><li><a href="/newsList/upi011004000">문화</a></li><li><a href="/newsList/upi011005000">연예</a></li><li><a href="/newsList/upi011006000">스포츠</a></li>					</ul>
+				</li>
+				<li>
+					<a href="/newsList/upi009000000">인물</a>
+				</li>
+				<li>
+					<a href="/newsList/upi010000000">U펫</a>
+				</li>
+				<li>
+					<a href="/newsList/upi017000000">오피니언</a>
+				</li>
+			</ul>
+			
+			<div id="search_wrap_ico" class="search_wrap_ico"><img src="/img/pc/btn_w_search.png" class="sbtn"></div>
+
+			<div id="search_wrap" class="search_wrap" style="">
+				<div class="search">
+				<form action="/newsSearch" method="get">
+				<input placeholder="통합검색" class="keyword" value="" name="keyword" type="text" autocomplete="off">
+				<input src="/img/pc/btn_b_search.png" class="sbtn" alt="search" type="image">
+				</form>
+				</div>
+			</div>
+ 
+ 		</div>
+	</div>
+</div>
+<!--header e -->
+
+	<div id="main">
+		<div class="viewTitle">
+			<div class="naviLink"><a href="/"><span>HOME</span></a>  <span>&nbsp;&gt;&nbsp;</span><a href="/newsList/upi001000000"><span>정치</span></a></div>
+			<dl>
+				<dt><h1>[류순열 칼럼] 용서받을 기회 영영 사라진 '멘탈갑' 전두환</h1></dt>
+				<dd>류순열 <a href="mailto:ryoosy@upinews.kr"><i class="fa fa-envelope" aria-hidden="true"></i></a> / 기사승인 : 2021-11-23 11:33:34</dd>
+			</dl>
+		</div>
+
+		<div class="viewSns">
+<script type="text/javascript">
+var shareTitle =encodeURI('[류순열 칼럼] 용서받을 기회 영영 사라진 \'멘탈갑\' 전두환');
+var sharUrl = encodeURIComponent('http://www.upinews.kr/newsView/upi202111230042');
+
+$(".td-social-twitter").attr("href", "https://twitter.com/intent/tweet?text="+shareTitle+";url="+sharUrl);
+
+function shareFacebook(){
+	window.open('http://www.facebook.com/sharer.php?u='+sharUrl, 'mywin','left=50,top=50,width=560,height=450,toolbar=0')
+}
+
+function shareTwitter(){
+	window.open("https://twitter.com/intent/tweet?text="+shareTitle+";url="+sharUrl, 'mywin','left=50,top=50,width=560,height=450,toolbar=0')
+}
+
+function shareKakao(){
+	var url = 'https://story.kakao.com/s/share?url='+sharUrl;
+	window.open(url, 'mywin','left=50,top=50,width=600,height=600,toolbar=0');
+}
+
+function shareGoogle(){
+	var url = 'http://plus.google.com/share?url='+sharUrl;
+	window.open(url, 'mywin','left=50,top=50,width=600,height=6000,toolbar=0');
+}
+
+function sharePinterest(){
+	var url = 'http://pinterest.com/pin/create/button/?url='+sharUrl+';media=&amp;description=';
+	window.open(url, 'mywin','left=50,top=50,width=560,height=450,toolbar=0');
+}
+
+function shareNaver(){
+	var url = 'http://share.naver.com/web/shareView.nhn?url='+sharUrl+'&ncode=upi202111230042&title='+shareTitle;
+	window.open(url, 'mywin','left=50,top=50,width=560,height=450,toolbar=0');
+}
+
+function shareBand(){
+	var url = 'http://band.us/plugin/share?body='+shareTitle+'&amp;route=www.upinews.kr';
+	window.open(url, 'mywin','left=50,top=50,width=560,height=450,toolbar=0');
+}
+</script>
+<ul>
+	<li><a href="javascript://" onclick="javascript:shareFacebook();" class="rollover"><img src="//img.upinews.kr/img/sns/fb20.png" alt="UPI뉴스 페이스북 공유하기"><img src="//img.upinews.kr/img/sns/fb20_g_ov.png" class="over" alt="UPI뉴스 페이스북 공유하기"></a></li>
+	<li><a href="javascript://" onclick="javascript:shareTwitter();" class="rollover"><img src="//img.upinews.kr/img/sns/tw20.png" alt="UPI뉴스 트위터 공유하기"><img src="//img.upinews.kr/img/sns/tw20_g_ov.png" class="over" alt="UPI뉴스 트위터 공유하기"></a></li>
+	<li><a href="javascript://" onclick="javascript:shareKakao()" class="rollover"><img src="//img.upinews.kr/img/sns/ks20.png"><img src="//img.upinews.kr/img/sns/ks20_g_ov.png" class="over"></a></li>
+	<!--li><a href="javascript://" onclick="javascript:shareGoogle();" class="rollover"><img src="//img.upinews.kr/img/sns/gp20.png"><img src="//img.upinews.kr/img/sns/gp20_g_ov.png" class="over"></a></li-->
+	<li><a href="javascript://" onclick="javascript:sharePinterest();" class="rollover"><img src="//img.upinews.kr/img/sns/pe20.png" alt="UPI뉴스 Pinterest 공유하기"><img src="//img.upinews.kr/img/sns/pe20_g_ov.png" class="over" alt="UPI뉴스 Pinterest 공유하기"></a></li>
+	<li><a href="javascript://" onclick="javascript:shareNaver();" class="rollover"><img src="//img.upinews.kr/img/sns/nv20.png" alt="UPI뉴스 네이버밴드 공유하기"><img src="//img.upinews.kr/img/sns/nv20_g_ov.png" class="over" alt="UPI뉴스 네이버 공유하기"></a></li>
+	<li><a href="javascript://" onclick="javascript:shareBand();" class="rollover"><img src="//img.upinews.kr/img/sns/bn20.png" alt="UPI뉴스 네이버 공유하기"><img src="//img.upinews.kr/img/sns/bn20_g_ov.png" class="over" alt="UPI뉴스 네이버밴드 공유하기"></a></li>
+</ul>
+
+			<ul class="font">
+				<li><a href="javascript:;" id="decfont" onclick="javascript:changeFsize('fsmall');"><img src="//img.upinews.kr/img/pc/font_02.png" alt="-" title="-"></a></li>
+				<li><a href="javascript:;" id="incfont" onclick="javascript:changeFsize('flarge');"><img src="//img.upinews.kr/img/pc/font_03.png" alt="+" title="+"></a></li>
+				<li style="padding-left:3px;"><a href="javascript:;" onclick="javascript:runPrint(); return false;"><img src="//img.upinews.kr/img/pc/font_04.png" alt="인쇄"></a></li>
+			</ul>
+		</div>
+	<div class="clear h20"></div>
+			
+	<!-- subCtsMain e -->
+	<div id="subCtsMain">
+		<div id="viewWrap">
+
+			<div class="viewConts" id="viewConts" itemprop="articleBody">
+		
+			<!-- 내용 s -->
+			<div id="article">전직 대통령 전두환 씨가 23일 아침 90년 삶을 마감했다. 아쉬움은 없을 것이다. 그 긴 세월을 전 씨는 '멘탈갑'으로 살다 갔다. <br /><br />늘 화려한 건 아니었다. 1990년대 중반의 전 씨는 잠깐 동안 초라했다. 친구이자 쿠데타 동지 노태우 전 대통령과 수의를 입고 법정에 나란히 선 모습은 권력무상을 실감케 했다. <br /><br />검찰은 당시 내란수괴죄로 전 씨에게 사형, 노 전 대통령에게 무기징역을 구형했다. 그만큼 중대 범죄자였다. 천문학적 규모의 뇌물수수죄도 추가됐다. 최종심에서 무기징역, 징역 17년으로 각각 감형되었지만 의미 없는 선고였다. 1997년 12월 대선 직후 특별사면으로 풀려났기 때문이다. 사면권자는 김영삼(YS) 당시 대통령인데, 김대중(DJ) 대통령 당선인과 교감했을 것이다. <br /><br />그렇게 한국 현대사를 질식케 한 12·12, 5·18사건은 법적으로 단죄되었지만 그들은 죗값을 다 치르지 않고 자유의 몸이 됐다. 이후 그들은, 특히 전 씨는 결코 초라하지 않았다. 옛 권세의 연장선에서 떵떵거리며 멘탈갑의 삶을 살았다. <br /><br />"통장에 29만 원밖에 없다"면서 돈만 잘 쓰고 다녔다. 추징당하지 않게 숨겨놓은 돈이 많았다는 얘기일 것이다. 전 씨가 재벌기업에서 거둬들인 뇌물은 1조 원에 육박한다. 법원은 추징금 2205억 원을 선고했는데 절반 가량은 끝내 납부하지 않았다.<br /><br />대권을 마구 휘둘러봐서인지 전 씨의 멘탈은 흔들리는 법이 없었다. 그 단단한 단면은 종종 대중에 노출됐다. 2019년 11월 강원도 홍천의 골프장에서도 유감없이 보여줬다. <br /><br />"5·18민주화운동 당시 발포 명령을 내린 것 아니냐"는 질문에 "내가 왜 책임이 있어?"라며 정색했는데, 백미는 "네가 좀 내줘라"는 답변이었다. "1000억 원이 넘는 추징금과 세금은 언제 납부할 거냐"는 임한솔 정의당 부대표의 물음에 그렇게 뻔뻔함과 여유, 비아냥으로 응수한 것이다. 알츠하이머를 앓는다는 이유로 재판 출석을 거부하던 때였다. 그날 그의 드라이버샷은 "호쾌했다"(임 부대표)고 한다.<br /><br />멘탈갑의 삶은 화려하고 당당했을지 모른다. 그러나 죽어서는 아니다. 그 당당함이 거꾸로 영원히 풀리지 않을 역사의 멍에가 되고 말았다. 전 씨는 이제 용서받을 길이 없다. 사죄의 기회를 영영 잃어버렸다.병상에 누워서도 아들 재헌 씨를 통해 여러차례 사죄의 뜻을 밝힌 노 전 대통령과 극명하게 갈리는 대목이다. 역사는 쿠데타 동지인 두 전직 대통령을 다르게 기억할 것이다.<br /><br />1997년 말 전 씨의 사면이 잘못된 결정이었음도 최종 확인됐다. 당시 사면의 명분은 '국민대화합'이었다. 그러나 전 씨는 내내 국민화합만 깨뜨리다 사과 한마디 없이 세상을 떴다. 저승에서 기다리던 YS와 DJ는 전 씨에게 무슨 얘길 할지 참으로 궁금하다.<br /><br />
+<figure class="image align-center"><img contenteditable="true" src="../data/upi/image/2021/11/23/upi202111230039.680x.0.jpg" width="257" height="171" />
+<figcaption>▲ 류순열 편집국장</figcaption>
+</figure>
+<br />UPI뉴스 / 류순열 편집국장 ryoosy@upinews.kr</div>
+			<!-- 내용 e -->
+		
+			<div class="clear h20"></div>
+			<p style="color:#494949; font-size:14px;">[저작권자ⓒ UPI뉴스. 무단전재-재배포 금지]</p>
+
+
+			<div class="clear h20"></div>
+		</div>
+		<!-- Begin Dable 하A_텍스트4_EMPTY / For inquiries, visit http://dable.io -->
+		<div id="dablewidget_1XDZzg7e" data-widget_id="1XDZzg7e">
+		<script>
+		(function(d,a,b,l,e,_) {
+		if(d[b]&&d[b].q)return;d[b]=function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+		e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+		_=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+		})(window,document,'dable','script');
+		dable('setService', 'upinews.kr/codes');
+		dable('sendLogOnce');
+		dable('renderWidget', 'dablewidget_1XDZzg7e');
+		</script>
+		</div>
+		<!-- End 하A_텍스트4_EMPTY / For inquiries, visit http://dable.io -->
+	<div class="clear h20"></div>
+
+</div><!-- viewWrap e  -->
+
+<div class="clear"></div>
+
+
+
+<div class="jnlistbox">
+	<div class="wtimg">
+			<img src="//img.upinews.kr//data/upi/image/2021/03/27/upi202103270015.75x75.0.jpg">
+	</div>
+	<div class="wtinfo">
+		<ul>
+			<li>
+				<span style="font-size:14px;"><strong>류순열</strong></span>&nbsp;기자
+				<a href="mailto:ryoosy@upinews.kr" class="mail"><i class="far fa-envelope" aria-hidden="true"></i></a>
+			</li>
+			<li>
+				<a href="/newsList/@ryoosy" style="margin-left:5px;font-size: 15px;">기사 더 보러가기</a>
+			</li>
+		</ul>
+	</div>
+</div>
+
+<div style="position:relative;margin:10px 0;height:25px;border-top: 1px solid #DDD;">
+	<div style="right:0px;bottom:0px;position:absolute;">
+		<ul class="ulli0">
+			<li style="height:18px;"><img src="/img/pc/vico_01.gif" alt="글자크기"></li>
+			<li style="height:18px;"><a href="javascript:;" id="incfont_f" onclick="javascript:changeFsize('flarge');"><img src="//img.upinews.kr/img/pc/vico_02.gif" alt="+"></a></li>
+			<li style="height:18px;"><a href="javascript:;" id="decfont_f" onclick="javascript:changeFsize('fsmall');"><img src="//img.upinews.kr/img/pc/vico_03.gif" alt="-"></a></li>
+			<li style="height:18px;"><a href="javascript:;" onclick="javascript:runPrint(); return false;"><img src="//img.upinews.kr/img/pc/vico_04.gif" alt="인쇄"></a></li>
+		</ul>
+	</div>
+</div>
+          
+<div class="clear h10"></div>
+<!-- Begin Dable 하A_그리드6_EMPTY / For inquiries, visit http://dable.io -->
+<div id="dablewidget_klrae17m" data-widget_id="klrae17m">
+<script>
+(function(d,a,b,l,e,_) {
+if(d[b]&&d[b].q)return;d[b]=function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+_=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+})(window,document,'dable','script');
+dable('setService', 'upinews.kr/codes');
+dable('sendLogOnce');
+dable('renderWidget', 'dablewidget_klrae17m');
+</script>
+</div>
+<!-- End 하A_그리드6_EMPTY / For inquiries, visit http://dable.io -->
+<div class="clear" style="height:10px;"></div>
+
+<!-- div id="reply_wrap_btn" class="reply_wrap_btn">
+	<i class="fa fa-comments" aria-hidden="true"></i> 뉴스댓글 &gt;
+</div -->
+
+<div id="reply_wrap" class="reply_wrap">		
+	<!-- 라이브리 시티 설치 코드 -->
+	<div id="lv-container" data-id="city" data-uid="MTAyMC80MDIwNS8xNjczMg==">
+	<script type="text/javascript">
+	window.livereOptions = {
+		refer: 'upinews.kr/newsView/upi202111230042'
+	};
+	   (function(d, s) {
+		   var j, e = d.getElementsByTagName(s)[0];
+
+		   if (typeof LivereTower === 'function') { return; }
+
+		   j = d.createElement(s);
+		   j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+		   j.async = true;
+
+		   e.parentNode.insertBefore(j, e);
+	   })(document, 'script');
+	</script>
+	<noscript>라이브리 댓글 작성을 위해 JavaScript를 활성화 해주세요</noscript>
+	</div>
+	<!-- 시티 설치 코드 끝 -->
+	</div>
+	<script>
+	$(function() {
+		$("#reply_wrap_btn").click(function() {$('#reply_wrap').toggle();return false;});
+	});
+	</script>
+<div class="clear h0"></div>
+
+			<div class="clear"></div>
+		</div>
+		<!-- subCtsMain e -->
+
+			
+		<div id="subCtsRight">
+<div class="din din1 " data-objid="upiDIN_1634270722075"><div class="col-md-12 objEnable ui-sortable" data-dinnum="1"><div class="banner">
+	<ul data-bannerKind="slideRight" data-objId="upiBC_1634287226065" data-slidetime="" alt="">
+			<li><ins class="adsbygoogle" style="display: block; width: 300px; height: 250px;" data-ad-client="ca-pub-4997341567990376"></ins>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script></li>
+	</ul>
+</div><div class="banner">
+	<ul data-bannerKind="slideRight" data-objId="upiBC_1634287224386" data-slidetime="5" alt="">
+			<li><a href="https://www.lifecanvas.co.kr/?utm_source=hw_upi&utm_medium=event_analysis&utm_campaign=hwlifemd" target="_blank"><img src="/data/upi/banner/upi1635834891.6936.jpg" alt="한화생명_기사 뷰 많이 본 기사 상단"></a></li>
+	</ul>
+</div><div id="tab_hot_container" class="tab_r_container" style="overflow: hidden;" data-easytabs="true">
+	<div class="tab_tl"><h3>많이 본 기사</h3></div>
+	<ul>
+		<li class="active"><a class="active" style="cursor:pointer">종합</a></li>
+		<li><a style="cursor:pointer">연예</a></li>
+	</ul>
+	<div class="panel-container" style="max-height:480px;overflow: hidden;">
+		<div id="tabs01" class="active" style="display: block;">
+			<div class="hitNews" style="padding:0 0px;">
+				<dl>
+					<dt><span class="num">1.</span></dt>
+					<dd class="img"><a href="/newsView/upi202111230017"><img src='/data/upi/image/2021/08/09/upi202108090026.110x80.0.jpg' alt=""></a></dd>
+					<dd><a href="/newsView/upi202111230017">[속보] 전 대통령 전두환 사망</a></dd>
+				</dl>
+				<dl>
+					<dt><span class="num">2.</span></dt>
+					<dd class="subj"><a href="/newsView/upi202111170051">[단독] 구리 한강변 도시개발 특혜 논란…'제2의 대장동' 되나</a></dd>
+				</dl>
+				<dl>
+					<dt><span class="num">3.</span></dt>
+					<dd class="subj"><a href="/newsView/upi202111210028">[류순열 칼럼]참 공허했던 100분…끝내 사과는 없었다</a></dd>
+				</dl>
+				<dl>
+					<dt><span class="num">4.</span></dt>
+					<dd class="subj"><a href="/newsView/upi202111230033">"쉽게 출제…학생들 수준이 낮았다" 수능 출제위원장 발언 논란</a></dd>
+				</dl>
+				<dl>
+					<dt><span class="num">5.</span></dt>
+					<dd class="subj"><a href="/newsView/upi202111220041">잇단 자살골 송영길 책임론…'은퇴 어르신' 발언도 논란</a></dd>
+				</dl>
+			</div>
+		</div>
+		<div id="tabs02" style="display: none;">
+			<div class="hitNews" style="padding:0 0px;">
+				<dl>
+					<dt><span class="num">1.</span></dt>
+					<dd class="img"><a href="/newsView/upi202111210007"><img src='/data/upi/image/2021/11/21/upi202111210006.110x80.0.jpg' alt=""></a></dd>
+					<dd><a href="/newsView/upi202111210007">드라마 '지옥' 공개 하루 만에 넷플릭스 1위 등극</a></dd>
+				</dl>
+				<dl>
+					<dt><span class="num">2.</span></dt>
+					<dd class="subj"><a href="/newsView/upi202111220049">방탄소년단 '아메리칸 뮤직 어워즈' 정상 우뚝</a></dd>
+				</dl>
+				<dl>
+					<dt><span class="num">3.</span></dt>
+					<dd class="subj"><a href="/newsView/upi202111170066">스태프 확진 KBS2 드라마 '신사와 아가씨' 촬영 재개</a></dd>
+				</dl>
+				<dl>
+					<dt><span class="num">4.</span></dt>
+					<dd class="subj"><a href="/newsView/upi202111230064">디즈니플러스, 소문난 잔치의 준비 부족</a></dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+</div><div class="banner">
+	<ul data-bannerKind="" data-objId="upiBC_1634798571940" data-slidetime="" alt="데이블광고">
+			<li><div id="dablewidget_RoOwejom" data-widget_id="RoOwejom">
+<script>
+(function(d,a,b,l,e,_) {
+if(d[b]&&d[b].q)return;d[b]=function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+_=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+})(window,document,'dable','script');
+dable('setService', 'upinews.kr/codes');
+dable('sendLogOnce');
+dable('renderWidget', 'dablewidget_RoOwejom', {ignore_items: true});
+</script>
+</div></li>
+	</ul>
+</div><div class="banner">
+	<ul data-bannerKind="" data-objId="upiBC_1634287231328" data-slidetime="" alt="">
+			<li></li>
+	</ul>
+</div><div class="banner">
+	<ul data-bannerKind="" data-objId="upiBC_1634287232711" data-slidetime="" alt="">
+			<li><a href="http://won.wooribank.com/e/SGi08jy3cjb" target="_blank"><img src="/data/upi/banner/upi1635401646.2255.jpg" alt="우리은행_기사뷰 우측_산업면 우측"></a></li>
+	</ul>
+</div><div class="banner">
+	<ul data-bannerKind="" data-objId="upiBC_1634287235328" data-slidetime="" alt="">
+			<li><a href="http://www.shinhangroup.com/kr" target="_blank"><img src="/data/upi/banner/upi1634287601.7603.jpg" alt="신한은행그룹 - 기사 뷰 핫이슈 상단 3"></a></li>
+			<li><a href="http://tx.theline13.com/click?ad=77336" target="_blank"><img src="/data/upi/banner/upi1636004329.5327.jpg" alt="KB금융_기사 뷰 핫이슈 상단4"></a></li>
+	</ul>
+</div><div class="banner">
+	<ul data-bannerKind="slideRight" data-objId="upiBC_1634287234057" data-slidetime="3" alt="">
+			<li><a href="https://www.lge.co.kr/kimchi-refrigerators/z330sgs151" target="_blank"><img src="/data/upi/banner/upi1635469844.9022.png" alt="LG전자_기사뷰 핫이슈 상단5"></a></li>
+	</ul>
+</div><div class="titleline"><h3>핫이슈</h3><a href=""><p>+</p></a></div>
+<div class="txHD1">
+	<a href="/newsView/upi202111230065"><dl id="_seq1"><dd class="zimg" style="background-image:url('/data/upi/image/2021/11/23/upi202111230073.554x450.0.jpg')"><img src="/data/upi/image/2021/11/23/upi202111230073.540x400.0.jpg" alt=""></dd><dd class="subtitle"><p>봉중근, 만취 상태로 전동킥보드…면허 취소에 턱 찢어져</p></dd></dl></a>
+</div><div class="banner">
+	<ul data-bannerKind="" data-objId="upiBC_1634270824394" data-slidetime="" alt="">
+			<li><script src="//tm.interworksmedia.co.kr/ads.js/AF18C01C" type="text/javascript"></script></li>
+	</ul>
+</div><div class="banner">
+	<ul data-bannerKind="" data-objId="upiBC_1634270826257" data-slidetime="" alt="">
+			<li><ins class="adsbygoogle" style="display: block; width: 300px; height: 600px;" data-ad-client="ca-pub-4997341567990376"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></li>
+	</ul>
+</div></div></div>
+		</div>
+		<!-- contsRight e -->
+	</div>
+	
+	<div class="clear"></div>
+	
+	<div id="main_group" class="footer_wrap"><div id="footer">
+	<div class="flogo"><img src="//img.upinews.kr/img/pc/flogo.png" alt="UPI뉴스"></div>
+	<div id="footmenu">
+		<ul>
+			<li class="first"><a href="/eventView/company">회사소개</a></li>
+			<li class="bar">|</li>
+			<li><a href="/eventView/jebo">기사제보</a></li>
+			<li class="bar">|</li>
+			<li><a href="/eventView/adContact">광고문의</a></li>
+			<li class="bar">|</li>				
+			<li><a href="/eventView/partner">협찬문의</a></li>
+			<li class="bar">|</li>
+			<li><a href="/boardList?type=recruit">인재채용</a></li>
+			<li class="bar">|</li>
+			<li><a href="/boardList?type=notice">공지사항</a></li>
+			<li class="bar">|</li>
+			<li><a href="/eventView/subscriber">구독신청</a></li>
+			<li class="bar">|</li>
+			<li><a href="/eventView/grievanceProcedure">고충처리</a></li>
+			<li class="bar">|</li>
+			<!-- li><a href="/eventView/privacyStatement" style="font-size:14px; color:#fff">개인정보처리방침</a></li -->
+			<li><a href="/eventView/privacyStatement">개인정보처리방침</a></li>
+		</ul>
+	</div>
+	<div id="footaddr">
+		<dl>
+			<dd>제 &nbsp; 호 : <b>UPI뉴스</b>
+				<span class="bar">|</span> 뉴스통신사업 : 문화, 나 00033
+				<span class="bar">|</span> 인터넷신문 등록번호 : 서울, 아00850
+				<span class="bar">|</span> 등록일 : 2009년 5월 6일
+			</dd>
+			<dd>대표 : 김강석 <span class="bar">|</span> 편집인 : 류순열 <span class="bar">|</span>  청소년보호관리책임자 : 장한별</dd>
+			<dd>주 &nbsp; 소 : 서울특별시 영등포구 여의나루로 81  <span class="bar">|</span>  대표전화 : <b>02-7307-114</b> <span class="bar">|</span> 제보메일  : <a href="mailto:go@upinews.kr">go@upinews.kr</a> </dd>
+			
+			<dd class="copy__">Copyright ⓒ UPI뉴스 All rights reserved  <span class="bar">|</span> The United Press International, Inc. Website is at <a href="https://www.upi.com/" target="_blank">UPI.com</a></dd>
+			<dd></dd>	
+		</dl>
+	</div>&nbsp;
+	<div class="inc_banner">
+		<div class="adlink" style="margin-bottom:5px;"><a href="http://www.journalist.or.kr/" target="_blank"><img src="//img.upinews.kr/data/upi/banner/journalistAssocation_20210617_2.png" alt="한국기자협회" border="0"></a></div>
+		<div class="adlink"><a href="https://www.inc.or.kr/" target="_blank"><img src="//img.upinews.kr/img/pc/banner/tl181990495_4036.png" alt="인신위" border="0"></a></div>
+	</div>
+</div>
+
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "330652b9f8a00e";
+if(window.wcs) {
+wcs_do();
+}
+</script></div>
+	
+	<a id="_toplink" href="#"></a>
+	</div>
+</div>
+
+<div class="scroll_layer_r"><div id="scroll_layer" style="width: 120px; height: 600px; position: absolute; top: 410px;">
+<!-- 반응형 -->
+<ins class="adsbygoogle" style="display:block;width:120px;height:600px" data-ad-client="ca-pub-4997341567990376"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div class="clear" style="height:200px;"></div>
+
+</div>
+
+
+<script type="text/javascript">
+	var scrollR = jQuery('div[id="scroll_layer"]'); /* div의 id 속성 값을 입력 */
+	var scrollR_top = 410; /* div layer top position */ 
+	scrollR.css('top', 410 ); /* 초기 페이지가 로딩되었을 때 광고 top 위치 */
+	jQuery (document).ready(function(){ /* 페이지 로딩이 완료되었을 때 */
+/*
+		scrollR.animate( { "top":  jQuery (document).scrollTop() + scrollR_top + "px" }, 0 );
+		jQuery (window).scroll(function(){
+			scrollR.stop();
+			scrollR.animate( { "top":  jQuery (document).scrollTop() + scrollR_top + "px" }, 1000 );
+		});
+*/
+	});
+</script>
+
+
+
+</div>
+<div class="scroll_layer_left"><div id="scroll_layer_left" style="width: 120px; height: 600px; right: 0px; position: absolute; top: 410px;">
+<!-- 반응형 -->
+<ins class="adsbygoogle" style="display:block;width:120px;height:600px" data-ad-client="ca-pub-4997341567990376"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div class="clear" style="height:200px;"></div>
+
+</div>
+
+<script type="text/javascript">
+	var scrollL = jQuery('div[id="scroll_layer_left"]'); /* div의 id 속성 값을 입력 */
+	var scrollL_top = 410; /* 195->410 div layer top position */ 
+	scrollL.css('top', 410 ); /* 초기 페이지가 로딩되었을 때 광고 top 위치 */
+	jQuery (document).ready(function(){
+/*
+		scrollL.animate( { "top":  jQuery (document).scrollTop() + scrollL_top + "px" }, 0 );
+		jQuery (window).scroll(function(){
+			scrollL.stop();
+			scrollL.animate( { "top":  jQuery (document).scrollTop() + scrollL_top + "px" }, 1000 );
+		});
+*/
+	});
+</script>
+
+
+
+</div>
+
+
+<div class="scroll_layer_left covid_box">
+	<div id="scroll_layer_left" style="width: 120px; height: 220px; right: 0px; position: absolute; top: 190px;">
+<div class="din din1 " data-objid="upiDIN_1634288747658"><div class="col-md-12 objEnable ui-sortable" data-dinnum="1"><div><a href="../covidView"><img src="//www.upinews.kr/img/pc/covid_bg_3.jpg" border="0" /></a>
+<div style="bottom: 210px; position: relative; color: white; font-weight: bolder; font-size: 0.5em;"><span id="covidDate"></span> 기준</div>
+<div style="bottom: 194px; position: relative; color: #06679d; text-align: right; padding-right: 23px; font-weight: bolder; font-size: 1.3em; letter-spacing: -1px;"><span id="covidConfirmator"></span></div>
+<div style="bottom: 181px; position: relative; color: #06679d; text-align: right; padding-right: 23px; font-weight: bolder; font-size: 1.3em; letter-spacing: -1px;"><span id="covidDead"></span></div>
+<div style="bottom: 170px; position: relative; color: #06679d; text-align: right; padding-right: 23px; font-weight: bolder; font-size: 1.3em; letter-spacing: -1px;"><span id="covidHealer"></span></div>
+<script>
+$.ajax({
+	url: '/data/upi/covid.json',
+	method: "get",
+	dataType: "json",
+	async: false
+})
+.done(function(data, textStatus, jqXHR){
+	$('#covidDate').append(data.date);
+	$('#covidConfirmator').append(data.confirmator);
+	$('#covidDead').append(data.dead);
+	$('#covidHealer').append(data.healer);
+})
+</script></div></div></div>
+	</div>
+</div>
+<script>
+$(window).scroll(function () {
+	var height = $(document).scrollTop();
+	$(".covid_box").css('top', (height)+'px');
+}); 
+</script>
+
+<img src="http://log.upinews.kr/?upi202111230042" style="display:none;">
+<!-- image Popup -->
+<div id="myModal" class="modal">
+  <span class="close">&times;</span>
+  <div class="modal-content">
+	  <img id="img01">
+	  <div id="caption"></div>
+  </div>
+</div>
+
+<script>
+$(document).on('click', 'img.imgPopup', function(e){
+	var src=$(this).attr("src").replace(/[.][0-9]*x[0-9]*[.][0-9]/,'');
+	$("#myModal").show();
+	$("#myModal  #img01").attr("src",src);
+	$("#myModal  #caption").html($(this).attr("alt"));
+});
+
+$(document).on('click', '.popupIcon', function(e){
+	var src=$(this).closest('figure').find('.imgPopup').attr("src").replace(/[.][0-9]*x[0-9]*[.][0-9]/,'');
+	$("#myModal").show();
+	$("#myModal  #img01").attr("src",src);
+	$("#myModal  #caption").html($(this).attr("alt"));
+});
+
+$(document).on('click', '#myModal .close', function(e){
+	$("#myModal").hide();
+});
+
+$(document).on('click', '#myModal', function(e){
+	$("#myModal").hide();
+});
+
+$("figure img.imgPopup").after('<img class="popupIcon" src="/img/icon/zoom_icon.png">');
+</script>
+</body>
+</html>

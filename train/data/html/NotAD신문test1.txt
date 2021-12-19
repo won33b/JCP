@@ -1,0 +1,2127 @@
+<html lang="ko" class="windows chrome" style="height: 100%;"><head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+
+<meta name="description" content="스포츠연예 뉴스의 모든 것!">
+<meta name="author" content="SPOTVNEWS">
+<meta name="google-site-verification" content="hMeKVG8X7TYHbm1_EAAUDFKg8ZAJo2xcTRrlvtr7ryA">
+<meta name="naver-site-verification" content="731bc1f9778878e2de0913f78f21d62c0a242f96"> 
+
+
+ 
+	
+					
+<meta property="og:site_name" content="SPOTVNEWS">
+<meta property="og:title" content="SPOTVNEWS(스포티비 뉴스)">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://im.spotvnews.co.kr/logo/facebook_none.png">	
+<link rel="image_src" href="https://im.spotvnews.co.kr/logo/facebook_none.png">
+<meta property="og:url" content="https://www.spotvnews.co.kr">
+<meta property="og:description" content="스포츠연예 뉴스의 모든 것!">
+<meta property="fb:pages" content="1383218255318602">
+<meta property="fb:pages" content="153867501326631">
+<!-- 
+<meta property="fb:admins" content="facebook_user_id"/>
+<meta property="fb:app_id" content="app_id"/>
+-->
+
+
+<title>SPOTVNEWS</title>
+<link rel="shortcut icon" href="https://im.spotvnews.co.kr/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="https://im.spotvnews.co.kr/css/jquery-ui-1-10.css" type="text/css">
+<link rel="stylesheet" href="https://im.spotvnews.co.kr/css/style_default.css?0130" type="text/css">
+<link rel="stylesheet" href="https://im.spotvnews.co.kr/css/theme/www/t70/style.css?20211111200045" type="text/css">
+<link rel="stylesheet" href="https://im.spotvnews.co.kr/css/layout/main/main_j/style.css?20211111200045" type="text/css">
+
+<link rel="stylesheet" href="https://ph.spotvnews.co.kr/other/css/box_skin.css?20211111200045" type="text/css">
+<link rel="stylesheet" href="https://ph.spotvnews.co.kr/other/css/template_skin.css?20211111200045" type="text/css">
+
+<script async="" type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" charset="utf-8" src="//static.dable.io/dist/plugin.min.js"></script><script type="text/javascript" charset="utf-8" src="https://im.spotvnews.co.kr/script/jquery1-11.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://im.spotvnews.co.kr/script/jquery-ui-1-10.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://im.spotvnews.co.kr/script/util.js?0130"></script>
+<script type="text/javascript" charset="utf-8" src="https://im.spotvnews.co.kr/script/script.js?1806127"></script>
+<script type="text/javascript" charset="utf-8" src="https://im.spotvnews.co.kr/script/library.js?0130"></script>
+
+
+<script type="text/javascript">
+// domain 
+var HOST = "spotvnews.co.kr"					// 도메인... http://www. 제외하고
+	,DOMAIN = "https://www.spotvnews.co.kr"				// 일반 도메인
+	,SSL_DOMAIN = "https://ssl.spotvnews.co.kr"		// 보안서버 도메인
+	,ADM_DOMAIN = "https://admin.spotvnews.co.kr"		// 관리자 도메인
+	,PH_DOMAIN = "https://ph.spotvnews.co.kr"			// 기사 사진 도메인
+	,IM_DOMAIN = "https://im.spotvnews.co.kr"			// 이미지,css,js 도메인
+	,M_DOMAIN = "https://m.spotvnews.co.kr"			// 모바일 도메인
+	,SEARCH_DOMAIN = "https://search.spotvnews.co.kr"	// 검색페이지 or 검색엔진 도메인
+	,LOGIN_ID = "";	// login id
+
+	
+// 언어 js로 전달
+var lang = {
+	id:"아이디"
+	,ip:"아이피"		
+	,add:"추가"
+	,apply:"적용"
+	,password:"비밀번호"
+	,save:"저장"
+	,modify:"수정"
+	,delte:"삭제"
+	,loginNotId:"아이디를 입력해 주세요."
+	,loginNotPw:"비밀번호를 입력해 주세요."
+	,networkError:"네트워크가 불안정합니다. 잠시후 다시시도 하여 주세요."
+	,required:"필수"
+	,requiredSentence:"필수 항목입니다."
+	,requireKeyword:"검색어를 입력하여 주세요."
+	,close:"닫기"
+	,fold:"접기"
+	,restore:"복원하기"
+	,axError:"통신중에러가 발생했습니다. 잠시후 다시시도 하여 주세요."
+	,confirmDelete:"삭제할까요?"
+	,daySubfix:"일"
+	,monthSubfix:"월"
+	,weeks:["일","월","화","수","목","금","토"]
+	,hourSubfix:"시"
+	,minuteSubfix:"분"
+	,gun:"건"
+	,articleTitle:"제목"
+	,captcha:"보안문자"
+	,captchaBlock:"자동 댓글방지"
+	,intercept:"차단"
+	,spamFilter:"스팸필터"
+	,validRequireFile:"파일을 선택하여 주세요."
+	,validSelectImage:"이미지파일만 선택하여 주세요."
+	,validSelectImageSwf:"jpg, png, gif, swf 확장자만 선택하여 주세요."
+	,validFileMaxCount:"파일은 최대 []개까지만 허용합니다."
+	,copiedDoPaste:"복사되었습니다. 원하는 곳에 붙여넣기하여 주세요."
+	,controlCcopy:"키보드의 ctrl+C 또는 마우스 오른쪽의 복사하기를 이용해주세요."
+	,confirmLongTime:"게시물이 많을 경우 시간이 오래 걸릴수 있으니 화면을 그대로 두시기 바랍니다.\n\n계속 진행하시겠습니까?"
+	,fold:"접기"
+	,unfold:"펼치기"
+	,sectionSeries:"연재"
+	,explainCaptcha:"다른 문자를 보려면 이미지를 클릭해 주세요."
+
+	,banner:"배너"
+	,contents:"컨텐츠"
+	,refresh:"갱신"
+		
+	,total:"전체"
+
+	// 편집용 title
+	,editcfgBoxAdd:"컨텐츠추가"
+	,editcfgBoxModify:"박스수정"
+	,editcfgBoxDelete:"박스삭제"
+	,editcfgBoxReload:"박스갱신"
+	,editcfgBoxTitleModify:"박스타이틀수정"
+	,editcfgHtmlAdd:"html추가"
+	,editcfgHtmlModify:"html수정"
+	,editcfgHtmlDelete:"html삭제"
+	,editcfgBannerAdd:"배너추가"
+	,editcfgBannerModify:"배너수정"
+	,editcfgBannerDelete:"배너삭제"
+	,editcfgTabAdd:"탭추가"
+	,editcfgTabModify:"탭수정"
+	,editcfgTabDelete:"탭삭제"
+	,editcfgArticleAdd:"기사추가"
+	,editcfgArticleModify:"기사수정"
+	,editcfgArticleDelete:"기사삭제"
+	,editcfgAutoboxAdd:"스킨추가"
+	,editcfgAutoboxModify:"스킨수정"
+	,editcfgAutoboxDelete:"스킨삭제"
+	,editcfgDanAdd:"단추가"
+	
+	// 기본 validate
+	,valid:"올바른 데이터 형식이 아닙니다."
+	,validRequired:"정보를 바르게 입력해 주세요."
+	,validRequireAlNum:"입력 항목중 알파벳·숫자 입력란에 알파벳·숫자 이외의 다른 문자가 입력 되었습니다."
+	,validOnlyNumber:"숫자형태만 가능합니다."
+	,validRequireName:"이름을 입력하여 주세요."
+	,validRequireWrongEmail:"올바른 이메일 형식이 아닙니다."
+	,validRequireEmail:"이메일을 입력하여 주세요."
+	,validRequireTitle:"제목을 입력하여 주세요."
+	,validRequireContent:"내용을 입력하여 주세요."
+	,validRequireDuplicateData:"중복되는 내용입니다."
+	,validRequirePassword:"비밀번호를 입력해 주세요."
+	,validRequirePasswordOver4:"비밀번호는 4자이상으로 바르게 입력하여 주세요."
+	,validRequireCheckedItem:"삭제할 게시물을 선택하여 주세요."
+	,validRequireSelectedItem:"게시물을 선택하여 주세요."
+	,validRequireCaptcha:"보안문자를 입력하여 주세요."
+	,validRequireCaptchaWrong:"보안문자와 입력한 문자가 다릅니다.\n\다시 입력하여 주세요."
+	,validRequireLimitData:"글자수 제한을 초과하였습니다."
+	,validConfirmLimitDataDownsize:"글자수 제한을 초과하였습니다.\n\n줄이고 전송하려면 '확인', 직접 줄이려면 '취소'를 눌러 주세요."
+	,validRequireSelectCategory:"카테고리를 선택해 주세요."
+	,validRequireNickname:"닉네임을 입력해 주세요."
+	,validRequireCompany:"회사명을 입력하여 주세요."
+	,validRequireAddress:"주소를 입력하여 주세요."
+	,validRequireStartDate:"시작일을 바르게 입력하여 주세요."
+	,validRequireEndDate:"종료일을 바르게 입력하여 주세요."
+	,validRequirePeriod:"검색기간을 바르게 입력하여 주세요."
+	,validRequireNumberLimit600:"600이하의 숫자만 입력해 주세요."
+	
+	,compareRequireNotSameId:"등록한 아이디와 같지 않습니다."
+	,validRequireFillId:"로그인후 삭제해 주세요."
+	,validRequireId:"로그인 후 이용해 주세요."
+	
+	// toast용
+	,toastAdded:"추가되었습니다."
+	,toastDeleted:"삭제되었습니다."
+	,toastSaved:"저장되었습니다."
+	,toastApply:"적용되었습니다."
+	,toastNotData:"검색결과가 존재하지 않습니다."
+	
+	// 사이트 기본 설정
+	,cfgMetatagContent:"여기에 내용을 입력해 주세요."
+	,cfgRequireMetatagDuple:"이미 등록된 메타태그입니다."
+	
+	// 회원설정
+	,mbrcfgRequireUserType:"일반회원과 14세미만 회원은 필수 입니다."
+	,mbrcfgRequireTermContent:"이용약관 내용을 정확히 입력하여 주세요."
+	,mbrcfgRequirePrivacyContent:"내용을 정확히 입력하여 주세요."
+	,mbrcfgRequireAuthJid:"주민번호 인증의 아이디 또는 비밀번호를 입력하여 주세요."
+	,mbrcfgRequireAuthIid:"아이핀 인증의 아이디 또는 비밀번호를 입력하여 주세요."
+	,mbrcfgRequireAuthChecked:"사용체크시 주민번호/아이핀 인증 중 하나 이상 체크하여 주세요."
+	
+	,mbrcfgConfirmLimitId:"해당 아이디를 삭제 할까요?"
+	,mbrcfgRequireLimitIdField:"제한할 아이디를 입력하여 주세요!"
+	,mbrcfgRequireLimitIdDupl:"이미 입력되어 있는 아이디입니다."
+	,mbrcfgRequireLimitIdCode:"수정할 아이디를 먼저 선택해 주세요."
+	
+	,mbrcfgConfirmLimitNick:"해당 필명을 삭제 할까요?"
+	,mbrcfgRequireLimitNickField:"제한할 필명을 입력하여 주세요!"
+	,mbrcfgRequireLimitNickDupl:"이미 입력되어 있는 필명입니다."
+	,mbrcfgRequireLimitNickCode:"수정할 필명을 먼저 선택해 주세요."
+	
+	,mbrcfgConfirmLimitPwd:"해당 질문을 삭제 할까요?"
+	,mbrcfgRequireLimitPwdField:"질문을 입력하여 주세요!"
+	,mbrcfgRequireLimitPwdDupl:"이미 입력되어 있는 질문입니다."
+	,mbrcfgRequireLimitPwdCode:"수정할 질문을 먼저 선택해 주세요."
+	
+	,mbrcfgConfirmLimitJob:"해당 질문을 삭제 할까요?"
+	,mbrcfgRequireLimitJobField:"질문을 입력하여 주세요!"
+	,mbrcfgRequireLimitJobDupl:"이미 입력되어 있는 질문입니다."
+	,mbrcfgRequireLimitJobCode:"수정할 직업을 먼저 선택해 주세요."
+	
+	,mbrcfgConfirmWriter:"해당 필자를 삭제 할까요?"
+	,mbrcfgRequireWriterField:"필자를 입력하여 주세요!"
+	,mbrcfgRequireWriterDupl:"이미 입력되어 있는 필자입니다."
+	,mbrcfgRequireWriterCode:"수정할 필자를 먼저 선택해 주세요."
+	
+	// 기타설정
+	,cfgVoteRealNameRequireCode:"기관코드를 입력하여 주세요."
+	,cfgVoteRealNameRequireEtc:"선거명칭,선거기간은 필수 항목입니다."
+	
+	// 아이콘,색상,특수문자
+	,cfgDecorationRequireRgbColor:"색상코드를 RGB형태로 바르게 입력하여 주세요."
+	
+	// daum view api
+	,daumapiConfirmSubmit:"채널설정등 모든 설정을 정확히 하였습니까?\n\n확인을 누르면 바로 적용됩니다."
+	,daumapiRequireTag:"태그를 바르게 입력해 주세요."
+	
+	// skin 설정
+	,editcfgRequireThemeSelect:"테마를 선택하여 주세요."
+	,editcfgConfirmToUsed:"이 스킨을 사용할까요?"
+	,editcfgRequireSectionTitle:"섹션명을 입력해주세요."
+	,editcfgRequireSectionCode:"섹션코드를 입력해 주세요."
+	,editcfgRequireSectionSkin:"스킨을 선택해 주세요."
+	,editcfgConfirmRestore:"복원하겠습니까?"
+	,editcfgConfirmRemove:"삭제하겠습니까?"
+	,editcfgRequireBoxDiv:"스킨분류를 선택하여 주세요."
+	,editcfgRequireBoxName:"스킨명을 입력하여 주세요."
+	,editcfgRequireBoxNum:"단갯수를 입력하여 주세요."
+	,editcfgRequireBoxFile:"샘플이미지 파일을 선택하여 주세요."
+	,editcfgRequireNotRemove:"마지막 남은 필드는 삭제 할 수 없습니다."
+	,editcfgRequireSizeValue:"사이즈 값을 입력하여 주세요."
+	,editcfgTabMaxError:"생성할 수 있는 탭 제한수를 초과하였습니다."
+	,editcfgRequireSizeSelect:"사이즈 선택하여 주세요."
+	,editcfgRequireDeleteExcept:"해당 스킨은 삭제가 불가능합니다."
+	
+	// 회원등록/수정
+	,mbrRequireFormValidate:"형식에 맞게 입력하여 주세요."
+	,mbrRequireDifferentPassword:"비밀번호와 비밀번호 확인을 같게 해주세요."
+	,mbrRequireDuplId:"아이디 중복검사를 해 주세요."
+	,mbrRequireDuplNick:"필명 중복검사를 해 주세요."
+	,mbrRequireNick:"필명을 입력해 주세요."
+	
+	,mbrRequireCurrentPwd:"현재 비밀번호를 입력하여 주세요."
+	,mbrRequireChangePwd1:"변경할 비밀번호를 입력하여 주세요."
+	,mbrRequireChangePwd2:"변경할 비밀번호 확인 입력하여 주세요."
+	,mbrRequireNoSamePwd:"변경할 비밀번호와 확인 비밀번호가 같지 않습니다."
+	,mbrRequireFindPwHint:"답변을 입력 주세요."
+	
+	,mbrAxSuccessId:"사용가능한 아이디 입니다."
+	,mbrAxSuccessNick:"사용가능한 필명 입니다."
+	,mbrConfirmResetPwd:"비밀번호를 초기화 하겠습니까?"
+	,mbrConfirmDelete:"해당 회원을 삭제할까요?"
+	
+	,mbrConfirmDeleteProfilePhoto:"프로필 사진을 삭제할까요?"
+	,mbrConfirmErrorProfilePhoto:"사진의 링크가 깨졌습니다. 다시 업로드하여 주세요."
+	
+	,mbrConfirmDuplId:"이미 추가된 아이디 입니다.\n\n이 아이디를 제거할까요?"
+	
+	// 섹션
+	,cfgSectionEmptyParentCode:"상위 코드가 없습니다. 상위 코드를 선택해주세요. "
+	,cfgSectionEmptyName:"섹션명을 입력하여 주세요."
+	,cfgSectionNotMoveDepthOver:"단계를 초과하여 섹션을 이동할 수 없습니다."
+	,cfgSectionNotMoveAllToSub:"전체섹션은 다른 섹션의 하위로 이동할 수 없습니다."
+	,cfgSectionSetForm:"섹션정보"
+	,cfgSectionSetEmptyCode:"코드 등록시 에러가 발생했습니다. 다시 등록하여 주세요."
+	,cfgSectionSetMoveFrom:"이 섹션의 기사를(에)"
+	,cfgSectionSetMoveTo:"이 섹션으로(을)"
+	,cfgSectionSetMoveBtn:"이동합니다."
+	,cfgSectionSetAddBtn:"추가합니다."
+	,cfgSectionSetMoveConfirm:"복구가 불가능합니다.\n\n기사량이 많을 경우 오래 걸릴수 있으니 화면을 그대로 두시기 바랍니다.\n\n계속 진행할까요?"
+	,cfgSectionSetMoveToMsg:"어디로 이동(추가)할 것인지 섹션을 더블클릭하여 주세요."
+	,cfgSectionSetMoveAlertSelected:"섹션을 바르게 선택하여 주세요."
+	,cfgRecogConfirmAll:"미승인기사를 일반기사로 승인하시겠습니까?"
+	,cfgRecogConfirmEmbargo:"엠바고기사입니다.\n\n지금 바로 노출하시겠습니까?"
+	,cfgRecogConfirmAllEmbargo:"지금 바로 노출하시겠습니까?"
+	
+	// 기사
+	,articleConfirmLocalstorageWriteTime:"저장된 시간"
+	,articleConfirmTempData:"임시 저장된 기사가 있습니다.\n다시 불러올까요?"
+	,articleToastSaveLocalStorage:"임시저장 되었습니다."
+	,articleTempListTopBtn:"임시저장"
+	,articleRequireContent:"기사 본문을 입력하여 주세요."
+	,articleRequireSectionCode:"섹션을 선택하여 주세요."
+	,articleRequireUserName:"기자명을 선택하여 주세요."
+	,articleRequireUserEmail:"기자이메일을 선택하여 주세요."
+	,articleRequireTitle:"제목을 입력하여 주세요."
+	,articleRequireListCheckbox:"변경할 기사를 선택하여 주세요."
+	,articleListBtnEmbargoOk:"즉시 노출"
+	,articleListBtnHoldNormal:"일반기사"
+	,aritcleListBtnHoldImportant:"중요기사"
+	,articleListBtnHoldHeadline:"헤드라인"
+	,articleListBtnHoldMain:""
+	,articleNotExists:"존재하지 않는 기사입니다."
+	,arlViewRequireSendEmailTo:"받는 분 이름과 이메일을 바르게 입력하여 주세요."
+	,arlViewRequireNotSupportFont:"지원되지 않는 폰트입니다."
+	,arlViewGalleryNotExists:"사진이 존재하지 않습니다."
+	,arlViewGalleryFirstPhoto:"첫 페이지입니다."
+	,arlViewGalleryLastPhoto:"마지막 페이지입니다."
+	,articleListAll:"전체"
+	,articleMedianGetArticle:"기사를 가져왔습니다."
+
+	// 뉴스레터
+	,newsletterDisableEditExp:"뉴스레터에서는 스크립트를 허용하지 않아 배너를 삽입할 수 없습니다.\n\n배너관리에서 '파일주소복사'로 복사한후 태그를 직접 작성하여 주세요."
+	
+	// 관련기사
+	,relationRequireTitle:"제목을 입력해 주세요."
+	,relationRequireLink:"외부링크를 입력해 주세요."
+	
+	//사진
+	,photoName:"사진"
+	,photoConfirmRemovePhotoTag:"본문에서 사진 태그를 제거 하겠습니까?"
+	,photoRequireWysiwygMode:"에디터모드(위지윅모드)로 전환해 주세요."
+	,photoRequireErrorParsePhotoTag:"삭제하기 위한 사진의 고유값들을 가져오지 못했습니다."
+	,uploadGeneralIngMsg:"파일을 업로드 중입니다...<br />잠시만 기다려주세요."
+	
+	// 첨부파일
+	,fileName:"파일"
+	,attachRequireTitle:"첨부파일의 제목을 입력하여 주세요."
+	,attachRequireErrorFilePath:"삭제하기 위한 파일경로가 존재하지 않습니다."
+	,attachConfirmRemoveTag:"본문에서 파일 태그를 제거 하겠습니까?"
+	,attachTitle:"첨부파일"
+	,attachRequireRetry:"업로드시 에러가 발생했습니다. 다시 업로드하여 주세요."
+	
+	// 비디오
+	,videoName:"영상"
+	,videoConfirmRemovePhotoTag:"본문에서 영상 태그를 제거할까요?"
+	,videoRequireTitle:"영상 제목을 입력하여 주세요."
+	,videoRequireTag:"영상 태그를 입력하여 주세요."
+	,videoRequireFile:"영상 미리보기 이미지를 선택해주세요."
+	
+	// 댓글
+	,articleReplyRequireChecked:"삭제할 댓글을 선택하여 주세요."
+	,articleReplyRequireReplyDepth:"더이상 답글을 달수 없습니다."
+	,articleReplyRequireSpamData:"차단할 데이타를 입력하여 주세요."
+	,articleReplyRequireSameNotClicked:"자신의 글은 추천/반대를 할 수 없습니다."
+	
+	
+	// 편집 - 꾸밈
+	,editRcEditingMode:"편집모드"
+	,editRcEditingDisplayArea:"영역표시"
+	,editRcGrouping:"기사묶음"
+	,editRcEditingRelease:""
+	,editRcPreviewMode:""
+	,editRequireRemoveTabLength:"마지막 남은 탭은 삭제 할 수 없습니다."
+	,editRequireExistsSectionName:"이미 추가되어 있습니다."
+	,editRequireSelectSkin:"스킨을 선택해 주세요."
+	,editRequireExistsParentSection:" 같은 항목에 상위 코드가 존재합니다."
+	,editRequireBoxEmptyContent:"컨텐츠를 추가해 주세요."
+
+	// group
+	,editGroupName:"그룹명"
+	,editGroupRequireCode:"추가할 그룹명을 선택하여 주세요."
+	,editGroupRelease:"기사묶음 해제"
+	,editGroupConfirmRelease:"해제할까요?"
+	,editGroupExplain:"그룹명을 선택하면 기사 묶음이 활성화 됩니다."
+	,editGroupConfirmDelBox:"박스안에 묶음단위 기사 박스가 있습니다.\n\n기사묶음에서 해제후 삭제해 주세요."
+	,editGroupConfirmDelAutobox:"묶음기사입니다. 삭제할까요?"
+	
+	// 사진 에디터
+	,photoEditorRequireLink:"사진 편집전 기사를 선택해야 합니다.\n\n기사를 선택하겠습니까?"
+	,photoEditorRequireMakeArea:"이미지에서 자를 영역을 지정해 주세요."
+	,photoEditorRequireErrorUpload:"파일 업로드 중 에러가 발생했습니다."
+	
+	// 자동박스
+	,editAutoboxRequireTitle:"제목을 입력하여 주세요."
+	,editAutoboxRequireConditionLimit:"노출갯수를 바르게 입력하여 주세요."
+	,editAutoboxRequireSectionCode:"섹션을 선택하여 주세요."
+	,editAutoboxToastReload:"갱신되었습니다."
+	
+	// 개별기사입력
+	,editboxWriteRequireLink:"기사 링크를 입력하여 주세요."
+	,editboxWriteRequireFrame:"링크타겟이 특정프레임일경우 프레임이름을 입력하여 주세요."
+	,editboxWriteRequireTitle:"제목을 입력하거나 제목이미지를 선택하여 주세요."
+	,editboxWriteRequireSummary:"요약문을 입력하여 주세요."
+	,editboxWriteRequireTitleImg:"제목이미지를 선택하여 주세요."
+	
+	// 사진 crop / editor
+	,photoEditorAttachImage:"사진 첨부"
+	,photoEditorCropImage:"사진 자르기"
+	
+	// 인기검색어
+	,keywordRequire:"인기검색어를 입력하여 주세요."
+	,keywordRequireCount:"조회수를 바르게 입력하여 주세요."
+	
+	// 기사전송
+	,transReuireSelectSite:"전송할 제휴사를 선택하여 주세요."
+	,transConfirm:"전송하겠습니까?"
+	
+	// 게시판
+	,bbsConfirmEmpty:"해당 게시판을 비우시겠습니까?\n\n복구는 불가능합니다."
+	,bbsRequireBbsName:"게시판명을 입력하여 주세요."
+	,bbsRequireBbsId:"테이블명을 입력하여 주세요."
+	,bbsRequireBbsSkin:"스킨을 선택하여 주세요."
+	,bbsRequireBbsComment:"댓글 스킨을 선택하여 주세요."
+	,bbsRequireBbsUploadNum:"첨부파일 갯수를 입력하여 주세요."
+	,bbsRequireBbsCategory:"카테고리 사용을 선택하였습니다.카테고리를 입력하여 주세요."
+	,bbsConfirmMove:"이동된 게시물은 복구가 불가능하며,\n게시물이 많을 경우 시간이 오래 걸릴수 있으니 화면을 그대로 두시기 바랍니다.\n\n게시판 이동을 하시겠습니까?"
+	,bbsRequireSelectSelectBar:"게시판을 선택하여 주세요."
+	,bbsToastEmptied:"게시판을 비웠습니다."
+	
+	// 설문
+	,pollRequireWrongDate:"날짜를 바르게 입력하여 주세요."
+	,pollRequireTitle:"설문주제를 입력하여 주세요."
+	,pollRequireQuestions:"투표항목을 모두 입력하여 주세요."
+	,pollRequireEtcTitle:"문항명을 입력하여 주세요."
+	,pollConfirmNowFinish:"설문을 바로 종료하겠습니까?"
+	,pollRequireOverMultiAnswers:"복수응답으로 []개까지 가능합니다."
+	,pollRequireWrong:"설문항목을 선택 또는 기입해 주세요."
+	,pollRequireFinished:"종료된 설문입니다."
+
+	// 배너/팝업
+	,bannerRequireDelayTime:"지연시간을 모두 입력해 주세요."
+	,adcRequireLink:"링크를 입력하여 주세요."
+	,adcRequireSelectPopup:"팝업을 선택하여 주세요."
+	,adcRequireMapInfo:"이미지에서 수정할 맵데이타를 선택하여주세요."
+	,adcRequirePopupSize:"팝업창의 크기를 입력하여 주세요."
+	,adcClose:"창닫기"
+	,adcNotOpen:"동안 열지않기"
+	,adcDay:"하루"
+	,adcFinished:"종료된 배너 입니다."
+	,adcEnd:"종료된 배너"
+	,adcLater:"노출예정 배너"
+
+	// 광고플로팅 
+	,adcRequireSourceValue:"소스를 입력하여 주세요."
+	,adcRequirePage:"노출할 페이지를 선택하여 주세요."
+
+	// form-제보,투고 등
+	,formDataAgreeCheck:"개인정보 수집 및 이용 사항에 동의해주세요."
+	,formRequireSelect:"다운로드할 폼 이름을 선택하여 주세요."
+
+	// 크레딧등록
+	,creditRequireText:"크레딧을 등록해 주세요."
+	,creditLimitCount:"크레딧을 20개까지만 등록할 수 있습니다."
+
+	// pdf,호수,표지관리
+	,pdfRequireMedianame:"매체명을 입력하여 주세요."
+	,pdfRequireMediaid:"매체아이디를 입력하여 주세요."
+	,pdfRequireLimit:"마지막 판형정보는 삭제할 수 없습니다."
+	,pdfRequireLimitOver:"[]개까지만 등록할 수 있습니다."
+	,pdfRequirePage:"면번호를 입력해 주세요."
+	,pdfRequireSection:"구분을 입력해 주세요."
+	,pdfRequireContent:"주요기사를 입력해 주세요."
+	,pdfRequireFile:"PDF파일을 선택해 주세요."
+	,hosuRequire:"호수를 입력하여 주세요."
+	,hosuRequireDate:"호수일자를 입력하여 주세요."
+	,coverRequireName:"표지명을 입력해 주세요."
+	,coverRequireCode:"코드명을 입력해 주세요."
+	,coverRequireEbookkey:"ebook key를 입력해 주세요."
+	,coverRequirePubdate:"발행일을 입력해 주세요."
+	,coverRequireMainimage:"표지메인 이미지를 선택해 주세요."
+
+	// 광고제어
+	,adctlConfirmUse:"전체사용으로 변경할까요?"
+	,adctlConfirmBlock:"전체보류으로 변경할까요?"
+
+	// blog
+	,cfgBlogTypeExplain:"형태를 입력해주세요."
+	,blogRequireRssUrl:"rss 주소를 입력해 주세요."
+	,blogRequireRegOptions:"두가지 방법중 한가지는 등록하여 주세요."
+	,blogRequireSelectKind:"블로그 종류를 선택하여 주세요."
+
+	// 결제
+	,paymentsRequireTitle:"결제타이틀을 입력해주세요."
+	,paymentsRequireModule:"결제모듈을 입력해주세요."
+		
+	// mobile
+	
+	
+	// datepicker
+	,tpRequireReselect:"시간/분을 정확히 선택해주세요."
+	
+	,zipRequireWord:"2자이상의 검색어를 입력하여 주세요."
+	
+	// 위젯
+	,widgetRequireWidgetId:"위젯을 선택 해주세요."
+	,widgetRequireSkinType:"위젯 스킨 타입을 선택 해주세요."
+	,widgetRequireWidgetSkin:"위젯 스킨을 선택 해주세요."
+	,widgetConfirmMsg:"웹출판시 위젯이 함께 업데이트 됩니다"
+	
+	// 회원그룹
+	,usergrpRequireGroupTitle:"그룹명을 입력해주세요."
+	
+	// 폼 필드관리
+	,formcfgRequireFieldLabel:"필드 레이블을 입력해주세요."
+	,formcfgRequireFieldId:"필드 아이디를 입력해주세요."
+	
+ }; 
+ 
+</script>
+<!-- Dable 스크립트 -->
+<script>
+/* dable - s */
+(function(d,a,b,l,e,_) {
+d[b]=d[b]||function(){ (d[b].q=d[b].q||[]).push(arguments) };e=a.createElement(l);
+e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+_=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+})(window,document,'dable','script');
+dable('setService', (DOMAIN.indexOf(location.host)>0?HOST:M_DOMAIN.replace("http://","")));
+/* dable - e */
+
+	// case 1) 기사 상세 페이지에서 로그 남기기
+		dable('sendLog', 'visit');
+	</script>
+
+<script type="text/javascript">
+	document.domain = HOST;
+	var ___currentTime = 1636629228;     // 현재 시간
+	var ___adBlockList = "";  // 광고차단매체코드
+
+	//공통 스크립트
+	var ___input = new Input()
+		,___tabBox = new TabBox()
+		,___floatlib = new FloatLib()
+		,___vm = new verticalMotion();
+	$(function(){
+		util.objectMaxWidth();									// video 태그 부모창에 맞게		
+		evt.clickedFold(".fold_box");							// 배너 보였다 감췄다
+		
+		___tabBox.defaultChange(); 								// 탭 이벤트 - 일단 두고 추후 리소스등에서 검토후 따로 호출하든가 함 
+		___floatlib.call(".float_banner",".container");			// wing 배너 또는 플로팅 배너
+		evt.evtDefaultSlide(false);		// slide, cube box event
+		banpop.banner(".banner_event_box");						// 기능성배너 이벤트
+		___input.display();										// checkbox, radio box 변환
+		banpop.popup(true);											// 팝업
+		___vm.exe();											// 가로 슬라이드
+	});
+</script>
+
+<!-- template script start-->
+<!-- TEMPLATE SCRIPT idxno '45' -->
+<script type="text/javascript">
+
+$(function(){
+	var $parent = $(".todayhot")
+		,$link = $parent.find(".tolimg_a")
+		,$src = $link.children(".tolimg_src")
+		,$thumba = $parent.find(".tothumb_a")
+		,$thumb = $thumba.children(".tothumb_src");
+
+	$thumba.on({		
+		mouseenter:function(){
+			if(st) clearInterval(st);
+			
+			var $this = $(this)
+				,href = $this.attr("href")
+				,_$src = $this.children(".tothumb_src");
+	
+			$link.attr("href", href);
+			$src.attr("src", _$src.attr("src"));
+			$thumb.removeClass("white_bg").filter(_$src).addClass("white_bg");
+	
+			index = $this.parent().index();
+			return false;
+		}
+		,mouseleave:function(){
+			st = setInterval(chg, 5*1000);
+		}
+	});
+	
+	function chg(){
+		index++;
+		if(index >= count)index=0;
+		var $filter = $thumba.filter(":eq("+index+")");
+		$thumb.removeClass("white_bg");
+		$link.attr("href", $filter.attr("href"));
+		$src.attr("src", $filter.find(".tothumb_src").addClass("white_bg").attr("src"));
+	}
+	
+	// 5초 간격 바뀜	
+	var index = 0
+		,count = $thumb.length
+		,st = setInterval(chg, 5*1000);
+	
+});
+
+</script>
+<!-- TEMPLATE SCRIPT idxno '45' END -->
+
+<!-- TEMPLATE SCRIPT idxno '44' -->
+<script type="text/javascript">
+/*
+3개 썸네일의 2페이지일경우만 이 스크립트를 사용할 수 있다.
+*/
+
+$(function(){
+	
+	var $ppHorizon = $(".photonplay").find(".box_slide_horizon");
+
+	if(!$ppHorizon.length) return false;
+
+	var $ppBtns1 = $ppHorizon.eq(0).find(".btns").each(function(i){ this.setAttribute("data-index",i) })
+		,$ppBtns2 = $ppHorizon.eq(1).find(".btns").each(function(i){ this.setAttribute("data-index",i) })
+		,$ppTarget = $ppBtns1						// 사진 보일 기본 탭
+		,$photoPlay = $ppBtns1.add($ppBtns2)
+		,ppBtns1Count = $ppBtns1.length||0
+		,ppBtns2Count = $ppBtns2.length||0
+		,ppCount = ppBtns1Count
+		,ppInterval = null
+		,ppCurrentIndex = 0
+		,ppDivide = 3
+		,ppIsFirstItem = true	// 처음 시작인가?
+		,ppDelay = 3
+		,ppTotalPage = ppCount/ppDivide;
+		
+
+	// 사진 자동 바뀜
+	function ppRotate(){
+		ppInterval = setInterval(function(){
+			if(ppIsFirstItem===false && ppCurrentIndex%ppDivide===0){
+				$ppHorizon.find(".box_slide_horizon_btn_next").trigger("click");
+				
+				var currentPage = Math.ceil(ppCurrentIndex/ppDivide)
+					,$boxSlideLists = $ppTarget.closest(".box_slide_horizon_box").find(".box_slide_horizon_list").addClass("transition_all");
+				if((currentPage+1) === 1){
+					$boxSlideLists.css("transform","translate3d(100%,0px,0px)").filter(":eq(0)").css("transform","translate3d(0,0,0)");
+				}else{
+					$boxSlideLists.filter(":lt("+currentPage+")").css("transform","translate3d(-100%,0px,0px)").end().filter(":eq("+currentPage+")").css("transform","translate3d(0,0,0)");
+				}
+			}
+
+			change($ppTarget.eq(ppCurrentIndex));
+			ppCurrentIndex++
+
+			if(ppCurrentIndex>=ppCount) ppCurrentIndex=0;
+	
+			ppIsFirstItem=false;
+		}, ppDelay*1000);
+	}
+	
+	// 교체
+	function change($obj){
+		var $img = $obj.children("img")
+		,link = $obj.attr("href")
+		,src = $img.attr("src")
+		,title = $img.attr("alt");
+		
+		$ppTarget.css("opacity", .6).filter($obj).css("opacity", 1);
+		if(src){
+			var $parent = $obj.closest(".photonplay").find(".targets")
+				,$oA = $parent.find("a")
+				,$oImg = $parent.find("img")
+				,$oTitle = $parent.find(".ptext");
+	
+			$oA.attr("href", link);
+			$oImg.attr("src", src);
+			$oTitle.html(title);
+		}
+	}
+	
+	// 탭 바뀔때 초기화
+	$ppHorizon.closest(".edit_tab")
+	// 박스 안에 들어오면 rotate 멈춤,나가면 다시 시작
+	.on({
+		mouseenter:function(){ clearInterval(ppInterval); }
+		,mouseleave:function(){ ppRotate(); }
+	})
+	//.find(".sub_tab_title").mouseenter(function(){
+	.find(".tab_item").mouseenter(function(){
+		//var ppIsFirst = $(this).closest(".tab_item").hasClass("tab_num_1")
+		var ppIsFirst = $(this).hasClass("tab_num_1")
+			,ppIsBeforePage = Math.ceil(ppCurrentIndex/ppDivide)>1;				// 이전페이지가 1페이지보다 크다면 slide library 로돌림
+		ppCurrentIndex = 0;
+		ppIsFirstItem = true;
+		ppTotalPage = ppCount/ppDelay;
+		$ppTarget = ppIsFirst ? $ppBtns1 : $ppBtns2;
+		ppCount = ppIsFirst ? ppBtns1Count : ppBtns2Count;
+	
+		$ppTarget.css("opacity", .6).filter(":eq(0)").css("opacity", 1);
+		
+		if(ppIsBeforePage) $ppHorizon.find(".box_slide_horizon_btn_prev").trigger("click");
+		else $ppTarget.closest(".box_slide_horizon_box").find(".box_slide_horizon_list").filter(":eq(0)").addClass("selected").css("transform","translate3d(0,0,0)").end().not(":eq(0)").removeClass("selected").css("transform","translate3d(100%,0px,0px)");
+
+		change($ppTarget.eq(ppCurrentIndex));
+	});
+
+
+	// ---s--- 포토 썸네일 마우스 엔터 이벤트
+	$photoPlay.on("mouseenter", function(){		
+		var $this = $(this);
+		
+		ppCurrentIndex = Number($this.attr("data-index"))+1;// 마우스 오버한 위치의 다음위치
+		if(ppCurrentIndex>=ppCount) ppCurrentIndex=0;
+		change($this);
+	});
+	// ---e---포토 썸네일 마우스 엔터 이벤트
+	
+	// 실행	
+	$ppTarget.css("opacity", .6).filter(":eq(0)").css("opacity", 1);	// 처음거 선택
+	ppRotate();															// rotate	
+});
+
+</script>
+<!-- TEMPLATE SCRIPT idxno '44' END -->
+
+<!-- template script end-->
+
+
+<!-- google analytics-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56817436-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- google analytics-->
+
+
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type="text/javascript">
+googletag.cmd.push(function() {
+
+googletag.defineSlot('/23600383/web_view_right4_300250', [300, 250], 'div-gpt-ad-1465785707557-0').addService(googletag.pubads());
+googletag.defineSlot('/23600383/web_view_right_160600', [160, 600], 'div-gpt-ad-1465785809961-0').addService(googletag.pubads());
+
+
+googletag.defineSlot('/23600383/web_view_200200', [200, 200], 'div-gpt-ad-1421135558813-0').addService(googletag.pubads());
+
+googletag.defineSlot('/23600383/web_view_72890', [728, 90], 'div-gpt-ad-1476923532631-0').addService(googletag.pubads());
+
+googletag.defineSlot('/23600383/web_nba_left_160600', [160, 600], 'div-gpt-ad-1477985715478-0').addService(googletag.pubads());		// NBA 섹션리스트 좌측 날개광고
+googletag.defineSlot('/23600383/web_nba_right_160600', [160, 600], 'div-gpt-ad-1477985782233-0').addService(googletag.pubads());	// NBA 섹션리스트 우측 날개광고
+
+googletag.defineSlot('/23600383/news_web_view_300250', [300, 250], 'div-gpt-ad-1486952598445-0').addService(googletag.pubads());	/*기사본문 첫문단 우측 */
+
+
+
+//////////
+googletag.defineSlot('/23600383/pc_view_108090', [1080, 90], 'div-gpt-ad-1517971517275-0').addService(googletag.pubads()); /*기사본문 상단 109*/
+googletag.defineSlot('/23600383/pc_view_46860', [468, 60], 'div-gpt-ad-1517971601712-0').addService(googletag.pubads()); /*기사본문 사진 아래 15*/
+googletag.defineSlot('/23600383/pc_view_300250_1', [300, 250], 'div-gpt-ad-1517971679582-0').addService(googletag.pubads()); /*기사본문 하단 좌 53*/
+googletag.defineSlot('/23600383/pc_view_300250_2', [300, 250], 'div-gpt-ad-1574328336139-0').addService(googletag.pubads()); /*기사본문 하단 우 54*/
+googletag.defineSlot('/23600383/pc_view_300250_3', [300, 250], 'div-gpt-ad-1517971902060-0').addService(googletag.pubads()); /*기사본문 하단 clean new 위 - 좌 17*/
+googletag.defineSlot('/23600383/pc_view_300250_4', [300, 250], 'div-gpt-ad-1517972013465-0').addService(googletag.pubads()); /*기사본문 하단 clean new 위 - 우 18*/
+googletag.defineSlot('/23600383/pc_view_right_300250_1', [300, 250], 'div-gpt-ad-1517972197942-0').addService(googletag.pubads()); /*기사본문 우측1 73*/
+googletag.defineSlot('/23600383/pc_view_right_300250_2', [300, 250], 'div-gpt-ad-1517972329324-0').addService(googletag.pubads()); /*기사본문 우측2 14*/
+googletag.defineSlot('/23600383/pc_view_right_300250_3', [300, 250], 'div-gpt-ad-1517972413957-0').addService(googletag.pubads()); /*기사본문 우측3 79*/
+googletag.defineSlot('/23600383/pc_view_right_300250_4', [300, 250], 'div-gpt-ad-1517972513223-0').addService(googletag.pubads()); /*기사본문 우측4 98*/
+googletag.defineSlot('/23600383/pc_view_right_300600', [300, 600], 'div-gpt-ad-1517972697425-0').addService(googletag.pubads()); /*기사본문 우측5 43*/
+
+
+googletag.defineSlot('/23600383/pc_view_108090', [1080, 90], 'div-gpt-ad-1566781759088-0').addService(googletag.pubads());
+
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//securepubads.g.doubleclick.net/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/23600383/pc_view_97090', [970, 90], 'div-gpt-ad-1589950422472-0').addService(googletag.pubads());
+googletag.defineSlot('/23600383/pc_view_left_160600_2', [160, 600], 'div-gpt-ad-1583893662534-0').addService(googletag.pubads());
+googletag.defineSlot('/23600383/pc_view_right_300250_1-1', [300, 250], 'div-gpt-ad-1583893389954-0').addService(googletag.pubads());
+
+googletag.defineSlot('/23600383/PC_VIEW_970x90', [970, 90], 'div-gpt-ad-1607497741692-0').addService(googletag.pubads());
+googletag.defineSlot('/23600383/PC_VIEW_Left_160x600_1', [160, 600], 'div-gpt-ad-1607497791393-0').addService(googletag.pubads());
+googletag.defineSlot('/23600383/PC_VIEW_Left_160x600_2', [160, 600], 'div-gpt-ad-1607497983799-0').addService(googletag.pubads());
+googletag.defineSlot('/23600383/PC_VIEW_Right_160X600_1', [160, 600], 'div-gpt-ad-1607498015340-0').addService(googletag.pubads());
+googletag.defineSlot('/23600383/PC_VIEW_Right_160X600_2', [160, 600], 'div-gpt-ad-1607498048050-0').addService(googletag.pubads());
+
+googletag.defineSlot('/23600383/PV_VIEW_RIGHT_300250_1', [300, 250], 'div-gpt-ad-1607649229837-0').addService(googletag.pubads());
+
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+<meta http-equiv="origin-trial" content="AxujKG9INjsZ8/gUq8+dTruNvk7RjZQ1oFhhgQbcTJKDnZfbzSTE81wvC2Hzaf3TW4avA76LTZEMdiedF1vIbA4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="Azuce85ORtSnWe1MZDTv68qpaW3iHyfL9YbLRy0cwcCZwVnePnOmkUJlG8HGikmOwhZU22dElCcfrfX2HhrBPAkAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A16nvcdeoOAqrJcmjLRpl1I6f3McDD8EfofAYTt/P/H4/AWwB99nxiPp6kA0fXoiZav908Z8etuL16laFPUdfQsAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxBHdr0J44vFBQtZUqX9sjiqf5yWZ/OcHRcRMN3H9TH+t90V/j3ENW6C8+igBZFXMJ7G3Pr8Dd13632aLng42wgAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A88BWHFjcawUfKU3lIejLoryXoyjooBXLgWmGh+hNcqMK44cugvsI5YZbNarYvi3roc1fYbHA1AVbhAtuHZflgEAAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjUyNzc0NDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A/OOU4XAFfeAV4kM4+W9WBwNAHqq/bvtrRcJ1wpnNyO/i076BSUy1d14l2kBEgVmEuvxojSpD23172C6hBg2AQYAAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjM0MDgzMTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="AwrB+XVH/KV6HfZNVtSEqlUJi3yUbtCp0/TJRj+38NDIw19/9P1h7ECTtdLdhIzG0Bsl4n/0rVmttJtGUCcewgAAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjM0MDgzMTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="Ax15QOERqai2A5XWrDY38Eg07xh2T0pkhpDPJuDlxr7D2Ka8wHvklgK7tTPZOnT+8H31lwHto5JpvYV8jRn1WgIAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjM0MDgzMTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="AxujKG9INjsZ8/gUq8+dTruNvk7RjZQ1oFhhgQbcTJKDnZfbzSTE81wvC2Hzaf3TW4avA76LTZEMdiedF1vIbA4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="Azuce85ORtSnWe1MZDTv68qpaW3iHyfL9YbLRy0cwcCZwVnePnOmkUJlG8HGikmOwhZU22dElCcfrfX2HhrBPAkAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A16nvcdeoOAqrJcmjLRpl1I6f3McDD8EfofAYTt/P/H4/AWwB99nxiPp6kA0fXoiZav908Z8etuL16laFPUdfQsAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxBHdr0J44vFBQtZUqX9sjiqf5yWZ/OcHRcRMN3H9TH+t90V/j3ENW6C8+igBZFXMJ7G3Pr8Dd13632aLng42wgAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A88BWHFjcawUfKU3lIejLoryXoyjooBXLgWmGh+hNcqMK44cugvsI5YZbNarYvi3roc1fYbHA1AVbhAtuHZflgEAAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjUyNzc0NDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A/OOU4XAFfeAV4kM4+W9WBwNAHqq/bvtrRcJ1wpnNyO/i076BSUy1d14l2kBEgVmEuvxojSpD23172C6hBg2AQYAAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjM0MDgzMTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="AwrB+XVH/KV6HfZNVtSEqlUJi3yUbtCp0/TJRj+38NDIw19/9P1h7ECTtdLdhIzG0Bsl4n/0rVmttJtGUCcewgAAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjM0MDgzMTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="Ax15QOERqai2A5XWrDY38Eg07xh2T0pkhpDPJuDlxr7D2Ka8wHvklgK7tTPZOnT+8H31lwHto5JpvYV8jRn1WgIAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjM0MDgzMTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021110901.js?31063704" async=""></script><link type="text/css" rel="stylesheet" charset="UTF-8" href="https://translate.googleapis.com/translate_static/css/translateelement.css"><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.ko.pdjYT2FuVYQ.O/d=1/exm=el_conf/ed=1/rs=AN8SPfppaenu8C9hypw4Izf2yUu_OL-NJQ/m=el_main"></script><script src="https://log.targetpush.co.kr/adinfo/getovenjson.php?jsoncallback=jsonp_call"></script><link rel="preload" href="https://adservice.google.co.kr/adsid/integrator.js?domain=www.spotvnews.co.kr" as="script"><script type="text/javascript" src="https://adservice.google.co.kr/adsid/integrator.js?domain=www.spotvnews.co.kr"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.spotvnews.co.kr" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.spotvnews.co.kr"></script><script src="//cdn.targetpush.co.kr/js/targetpushad_w.js?ver=20210914"></script><style>.targetpushAd_pc_wrap {margin:0;padding:0;-webkit-tap-highlight-color:rgba(0,0,0,0);z-index:999999998;}.targetpushAd_pc_wrap div, .targetpushAd_pc_wrap dl, .targetpushAd_pc_wrap dt, .targetpushAd_pc_wrap dd, .targetpushAd_pc_wrap ul, .targetpushAd_pc_wrap ol, .targetpushAd_pc_wrap li, .targetpushAd_pc_wrap h1, .targetpushAd_pc_wrap h2, .targetpushAd_pc_wrap h3, .targetpushAd_pc_wrap h4, .targetpushAd_pc_wrap h5, .targetpushAd_pc_wrap h6, .targetpushAd_pc_wrap pre, .targetpushAd_pc_wrap form, .targetpushAd_pc_wrap fieldset, .targetpushAd_pc_wrap input, .targetpushAd_pc_wrap p, .targetpushAd_pc_wrap blockquote, .targetpushAd_pc_wrap table, .targetpushAd_pc_wrap th, .targetpushAd_pc_wrap td, .targetpushAd_pc_wrap embed, .targetpushAd_pc_wrap object, .targetpushAd_pc_wrap textarea, .targetpushAd_pc_wrap a, .targetpushAd_pc_wrap img{padding:0;margin:0;}.targetpushAd_pc_wrap ol, .targetpushAd_pc_wrap ul, .targetpushAd_pc_wrap li{list-style:none;display:block;}.targetpushAd_pc_wrap div{display:block;}.targetpushAd_pc_wrap img{border:0;vertical-align:top;}.targetpushAd_pc_wrap{display:none;}.targetpushAd_pc_wrap.run{display:block;}.targetpushAd_pc_wrap.run ul{list-style-type:none;margin:0;padding:0;}.targetpushAd_pc_wrap.run .targetpushAd_banner_wrap{width:320px;position:fixed;z-index:999999998;height:auto;}.targetpushAd_pc_wrap.run .targetpushAd_banner_wrap img{width:100%;}.targetpushAd_pc_wrap.run .targetpushAd_banner_wrap .btn_close{display:block;position:absolute;top:25px;right:22px;width:18px;height:18px;text-indent:-9999em;background: url(//cdn.targetpush.co.kr/upload/images/x_bt2.png) center center no-repeat;}.targetpushAd_pc_wrap.run .targetpushAd_banner_wrap .btn_close_2{display:none;position:absolute;top:1px;right:1px;width:19px;height:19px;text-indent:-9999em;background:#FFF url(//cdn.targetpush.co.kr/upload/images/infor_ad_icon.png) center center no-repeat;}.targetpushAd_pc_wrap.run .targetpushAd_banner_wrap,.targetpushAd_pc_wrap.run .targetpushAd_banner_wrap a,.targetpushAd_pc_wrap.run .targetpushAd_banner_wrap a:after{box-sizing:initial;}.targetpushAd_pc_wrap .targetpushAd_banner_wrap{bottom:0;}.targetpushAd_pc_wrap_a{display:block;}.targetpushAd_pc_wrap .targetpushAd_banner_wrap:hover{cursor:pointer;}.targetpushAd_pc_wrap.type1.run .targetpushAd_banner_wrap{animation:type1 0.5s ease-in-out;}.targetpushAd_pc_wrap.type2.run .targetpushAd_banner_wrap{animation:type2 0.5s ease-in-out;}@keyframes type1 {0%{bottom:-120px;}100%{bottom:0;}}@keyframes type2 {0%{bottom:-132px;}100%{bottom:0;}}.targetpushAd-animate-up{animation:animateup 1s}@keyframes animateup{from{bottom:-350px;opacity:0} to{bottom:0;opacity:1;}}.targetpushAd-animate-down{animation:animatedown 1s;animation-fill-mode: both;-webkit-animation-fill-mode: both;}@keyframes animatedown{from{bottom:0;opacity:1} to{bottom:-350px;opacity:0}} .targetpushAd_pc_wrap.wrap_new .targetpushAd_pc_wrap.wrap_new .targetpushAd_banner_wrap, .targetpushAd_pc_wrap.wrap_new .targetpushAd_banner_wrap a, .targetpushAd_pc_wrap.wrap_new .targetpushAd_banner_wrap a:after, .targetpushAd_pc_wrap.wrap_new .banner_header, .targetpushAd_pc_wrap.wrap_new .banner_content, .targetpushAd_pc_wrap.wrap_new .ico_wrap_new {box-sizing:border-box;} .targetpushAd_pc_wrap.wrap_new .targetpushAd_banner_wrap {position:fixed;   z-index:999999998;  width:328px;; height:246px; right:50px; border-radius:17px; font-family: 'Noto Sans KR', sans-serif;}  .adtive_pushCam_fix, .adtive_pushCam_fix div, .adtive_pushCam_fix dl, .adtive_pushCam_fix dt, .adtive_pushCam_fix dd, .adtive_pushCam_fix ul, .adtive_pushCam_fix ol, .adtive_pushCam_fix li, .adtive_pushCam_fix h1, .adtive_pushCam_fix h2, .adtive_pushCam_fix h3, .adtive_pushCam_fix h4, .adtive_pushCam_fix h5, .adtive_pushCam_fix h6, .adtive_pushCam_fix pre, .adtive_pushCam_fix form, .adtive_pushCam_fix fieldset, .adtive_pushCam_fix input, .adtive_pushCam_fix p, .adtive_pushCam_fix blockquote, .adtive_pushCam_fix table, .adtive_pushCam_fix th, .adtive_pushCam_fix td, .adtive_pushCam_fix embed, .adtive_pushCam_fix object, .adtive_pushCam_fix textarea, .adtive_pushCam_fix a, .adtive_pushCam_fix span, .adtive_pushCam_fix em, .adtive_pushCam_fix i, .adtive_pushCam_fix b, .adtive_pushCam_fix strong, .adtive_pushCam_fix img {margin: 0; padding: 0;border: 0;font: inherit;vertical-align:baseline;-webkit-box-sizing: border-box;box-sizing:border-box !important;	}  .adtive_pushCam_fix dt, .adtive_pushCam_fix dd {float:none;}  .adtive_pushCam_fix div {display:block;} .adtive_pushCam_fix img {border:0; vertical-align:middle;} .adtive_pushCam_fix li {list-style:none;} .adtive_pushCam_fix a {text-decoration:none} .adtive_pushCam_fix a:hover, .adtive_pushCam_fix a:visited, .adtive_pushCam_fix a:active, .adtive_pushCam_fix a:link, .adtive_pushCam_fix a:focus {color:inherit; text-decoration:none;} .adtive_pushCam_fix {position:fixed; right:30px; bottom:0px; z-index:99999; width:300px; height:217px; border-radius:17px; box-shadow:0px 5px 10px 4px rgba(0,0,0,.3); background:rgba(255,255,255,.99); -webkit-tap-highlight-color:rgba(0,0,0,0); color:#000; font-weight:normal; font-size:13px; line-height:1.2; letter-spacing:-0.3px; word-spacing:0px; font-family: AppleSDGothicNeo-Regular,'DroidSans Fallback','Malgun Gothic','맑은 고딕',Dotum,'돋움',sans-serif; text-align:left; -webkit-text-size-adjust:none; word-break:break-all;} .adtive_pushCam_fix .cam_inner {position:relative; padding: 16px 17px 16px 17px !important;} .adtive_pushCam_fix .cam_profile {margin:0 20px 9px 59px; color:#525252; font-size:13.5px; font-weight:bold; overflow:hidden; white-space:nowrap; text-overflow:ellipsis;} .adtive_pushCam_fix .cam_tit {width:100%;  padding-left:59px; margin-bottom:23px; word-spacing:-1px; letter-spacing:-0.8px; color:#333; font-size:17px; font-weight:bold; line-height:1.2;} .adtive_pushCam_fix .cam_txt {overflow:hidden; text-overflow:ellipsis; display:-webkit-box; display:-moz-box; display:-ms-box; -webkit-box-orient:vertical; -webkit-line-clamp:3; word-wrap:break-word; line-height:1.45em; max-height:4.35em; color:#333; font-size:14.5px; letter-spacing: -0.2px; word-spacing:-2px;} .adtive_pushCam_fix dt {display:block !important} .adtive_pushCam_fix .cam_link {margin-top:12px; text-align:center;} .adtive_pushCam_fix .cam_link:after {content:''; display:block; clear:both;} .adtive_pushCam_fix .linkBtn {display:inline-block; max-width:100%; height:37px; line-height:35px; padding:0 38px; border-radius:18px; border:1px solid #e9cf37; background:#f4d732; color:#303030; font-size:13.5px;  font-weight:bold; word-spacing:-1px; overflow:hidden; white-space:nowrap; text-overflow:ellipsis;} .adtive_pushCam_fix .cam_link.division .linkBtn {float:left; max-width:49%; width:49%; padding:0 3px;} .adtive_pushCam_fix .cam_link.division .linkBtn:nth-child(2n) {margin-left:2%;} .adtive_pushCam_fix .cam_link.division .linkBtn:nth-child(2n+1) {margin-top:5px;} .adtive_pushCam_fix .cam_link.division .linkBtn:nth-child(2n+2) {margin-top:5px;} .adtive_pushCam_fix .cam_link.imgType .linkBtn {height:auto; line-height:1.2; padding:0 0; border:none; border-radius:0; background:none;} .adtive_pushCam_fix .cam_link.imgType .linkBtn img {max-width:100%;} .adtive_pushCam_fix .cam_thumb {position:absolute; top:21px; left:13px; width:53px; height:53px; padding:3px; overflow:hidden; z-index:1; border-radius:50%; box-shadow:1px 2px 3px 1px rgba(0,0,0,.1); background:rgba(255,255,255,.99); text-align:center; font-size:0;} .adtive_pushCam_fix .cam_thumb img {width:47px; border-radius:50%; vertical-align:middle;} .adtive_pushCam_fix .closeBtn {position:absolute; top:2px; right:2px; z-index:1; padding:14px 7px 0px; border:0; text-align:center; font-size:0; display:block;} .adtive_pushCam_fix .closeBtn img {width:14px; vertical-align:middle;} .adtive_pushCam_fix .btn_close_2{display:none; position:absolute;top:-10px;right:-10px;width:19px;height:19px;text-indent:-9999em;background:#FFF url(//cdn.targetpush.co.kr/upload/images/infor_ad_icon.png) center center no-repeat;} .targetpushAd_pc_wrap.run .targetpushAd_banner_wrap .btn_close3{display:block;position:absolute;top:27px;right:37px;width:18px;height:18px;text-indent:-9999em;background: url(//cdn.targetpush.co.kr/upload/images/x_bt2.png) center center no-repeat;} #tpadIfm{border:0;} .adtive_pushCam_fix .cam_content {overflow:hidden; height:160px;}  .adtive_pushCam_fix .cam_txt + .cam_img {margin-top:5px;} .adtive_pushCam_fix .cam_img {height:auto; max-height:116px;} .adtive_pushCam_fix .cam_img img {width:100%; height:auto;} .targetpushAd-up-exc {top:630px;-webkit-animation: ani-upexc 1s; animation: ani-upexc 1s;} @keyframes ani-upexc {from {transform:translateY(350px); opacity: 0;}to {transform:translateY(0px); opacity: 1; }} @-webkit-keyframes ani-upexc {from {-webkit-transform:translateY(350px); opacity: 0;}to {-webkit-transform:translateY(0px); opacity: 1; }} .targetpushAd-down-exc {top:100%;} .targetpushAd-fadeOut-exc {-webkit-animation: ani-fadeOut-exc 0.2s forwards; animation: ani-fadeOut-exc 0.2s forwards;} @keyframes ani-fadeOut-exc {from {opacity:1;}to {opacity:0;}} @-webkit-keyframes ani-fadeOut-exc {from {opacity:1;}to {opacity:0;}} .targetpushAd_pc_wrap.run .targetpushAd_banner_wrap .targetpushAd_bnr_qr {position:relative;}  .targetpushAd_pc_wrap.run .targetpushAd_banner_wrap .targetpushAd_bnr_qr .btn_close {  display: block;  position: absolute;  top: 18px; right: 22px;   width: 20px;  height: 20px; text-indent: -9999em; background: url(//cdn.targetpush.co.kr/images/btn_downsize.png) center center no-repeat;  z-index:11;	}  .targetpushAd_pc_wrap.run .targetpushAd_bnr_qr .btn_qr_open {position:absolute; left:22px; top:17px; font-size:0;}  .targetpushAd_pc_wrap.run .targetpushAd_bnr_qr .targetpushAd_qrInfo {position:absolute; top:auto; bottom:1px; left:0; right:0; z-index:10;}   .targetpushAd_pc_wrap.run .targetpushAd_bnr_qr .targetpushAd_qrInfo .btn_qr_close {position:absolute; top:17px; right:22px; width:20px; height:20px; text-indent: -9999em; background: url(//cdn.targetpush.co.kr/images/btn_qr_close.png) center center no-repeat;}  .targetpushAd_pc_wrap.run .targetpushAd_bnr_qr {}  .targetpushAd_pc_wrap.run .targetpushAd_bnr_qr {}  #muteButton{position: absolute;cursor: pointer;right: 5px;bottom: 10px;} .cvideo{background:url(https://cdn.targetpush.co.kr/images/speaker_24_on.png) no-repeat center;background-size:24px;border:0;width:24px;height:24px;} .cvideomuted {background:url(https://cdn.targetpush.co.kr/images/speaker_24_off.png) no-repeat center;background-size:24px;border:0;width:24px;height:24px;} .img_eff1 .targetpushAd_view.show::before {content:''; position: absolute; z-index: 1; left:0; top:0; width:420px; height:150px; opacity: 1; background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.4) 40%, rgba(255, 255, 255, 0.7) 60%, rgba(255, 255, 255, 0) 100%); transform-origin: center center; animation: reflector1 3s ease infinite; animation-delay: 1s; transform: rotate(-36deg) translate(-50px, -300px);}   .img_eff1 .targetpushAd_view.show::after {content:''; position: absolute; z-index: 2; left:0; top:0; width:420px; height:5px; opacity: 0; background-color: #fff; transform-origin: center center; animation: reflector2 3s ease infinite; animation-delay: 1s; opacity: 0.3; transform: rotate(-36deg) translate(-100px, -220px);}   @keyframes reflector1 { 	0% {transform: rotate(-36deg) translate(-50px, -300px);}  70%,100% {transform: rotate(-36deg) translate(-50px, 260px);} }  @keyframes reflector2 {  	0% {opacity: 0.4; transform: rotate(-36deg) translate(-100px, -220px);}  	70%,100% {opacity: 0.4; transform: rotate(-36deg) translate(-100px, 340px);}   }  .img_eff2 .targetpushAd_view.show {-webkit-animation: blinkImg 5s ease 1s infinite; animation: blinkImg 5s ease 1s infinite;}  @-webkit-keyframes blinkImg { 	0%,10%,20%,100% {opacity: 1;} 	5%,15% {opacity: 0.3;}     }  @keyframes blinkImg { 	0%,10%,20%,100% {opacity: 1;}  	5%,15% {opacity: 0.3;}  }  .img_eff3 .targetpushAd_view > .line {display:none;}  .img_eff3 .targetpushAd_view.show > .line {position: absolute; display:block;}    .img_eff3 .targetpushAd_view.show > .line:nth-child(1) {top:0; left:-100%; width:100%; height:2px; background: linear-gradient(90deg,transparent,#ff0000); animation: shootingStar1 2s linear infinite;}   .img_eff3 .targetpushAd_view.show > .line:nth-child(2) {top:-100%; right:0; width:2px; height:100%; background: linear-gradient(180deg,transparent,#ff0000); animation: shootingStar2 2s linear infinite; animation-delay: 0.50s;}   .img_eff3 .targetpushAd_view.show > .line:nth-child(3) {bottom:0; right:-100%; width:100%; height:2px; background: linear-gradient(270deg,transparent,#ff0000); animation: shootingStar3 2s linear infinite; animation-delay: 1s;}  .img_eff3 .targetpushAd_view.show > .line:nth-child(4) {bottom:-100%; left:0; width:2px; height:100%; background: linear-gradient(360deg,transparent,#ff0000); animation: shootingStar4 2s linear infinite; animation-delay: 1.5s;}   @keyframes shootingStar1 { 0% {left: -100%;} 50%,100% {left: 100%;}	}  @keyframes shootingStar2 { 0% {top: -100%;} 50%,100% {top: 100%;} }  @keyframes shootingStar3 { 0% {right: -100%;} 50%,100% {right: 100%;} }  @keyframes shootingStar4 { 0% {bottom: -100%;} 50%,100% {bottom: 100%;}	}   .img_eff1 .targetpushAd_view, .img_eff3 .targetpushAd_view {overflow:hidden; position:relative; display:block; transition: 0.5s;}  .img_eff1 .targetpushAd_banner_wrap .btn_close, .img_eff3 .targetpushAd_banner_wrap .btn_close {z-index:10;}  .img_hover4 .targetpushAd_view {overflow:hidden; position:relative; display:block; width:100%; height:245px; }  .img_hover4 .targetpushAd_banner_wrap .btn_close {z-index:10;}  .img_hover4 .targetpushAd_banner_wrap .hover_figcaption {overflow:hidden; position:absolute; top:100%; left:0; width:100%; height:100%; opacity:0; background:rgba(0,0,0,.85); transition: all 0.4s ease-in; -webkit-transition: all 0.4s ease-in;}  .img_hover4 .targetpushAd_banner_wrap .hover_figcaption img {width:100%;}  .img_hover4 .targetpushAd_banner_wrap .hover_figcaption .hover_random {position:absolute; left:14.5%; top:35%; display:block; float:none; width:38px; height:28px; line-height:27px; color:#ff0; font-size:24px; font-weight:600; white-space:nowrap; text-align:center; letter-spacing:0; word-spacing:0; font-family: AppleSDGothicNeo-Regular,'DroidSans Fallback','Malgun Gothic','맑은 고딕',Dotum,'돋움',sans-serif;}  .img_hover4 .targetpushAd_banner_wrap:hover .hover_figcaption {top:0%; opacity:1;} </style><script src="//cdn.targetpush.co.kr/js/targetpushad_wpb.js?210924"></script></head>
+<!--[if IE 6]><body class="body_ie6" id="cross"><![endif]-->
+<!--[if IE 7]><body class="body_ie7" id="cross"><![endif]-->
+<!--[if IE 8]><body class="body_ie8" id="cross"><![endif]-->
+<!--[if gte IE 9]><body class="body_ie9" id="cross"><![endif]-->
+<!--[if !IE]><!--><body id="cross" style="position: relative; min-height: 100%; top: 0px;"><!--<![endif]-->
+
+<div id="check3d" class="check3d">check 3d gpu</div>
+               
+<dl id="skip_content" class="blind">
+<dt><strong>바로가기</strong></dt>
+<dd><a href="#menu">메뉴로 이동</a></dd>
+<dd><a href="#content">본문으로 이동</a></dd>
+</dl>
+
+<!-- <div class="wrap"> -->
+<script type="text/javascript">
+
+$(function(){
+	// 메뉴 오버시 보이기
+	//menus.show();
+
+	// 시작페이지설정
+	//menus.startPage("#ht_start");
+	menus.registFavorite("#ht_favorite");
+
+	// 검색 placeholder
+	//util.evtPlacehoder("#n_search_input",IM_DOMAIN+"/custom//theme/www/t50/icon.png");
+	//util.evtPlacehoderLabel("#n_search_input");
+
+	// 속보 - autobox가 안되는데 있음 이걸고 하고 형식은 맨아래에 주석처리해 놓음
+	// evt.rollingLines("#break_news");
+
+	// 메뉴 over
+	menus.normalSubmenu();
+
+	// 번역
+	$("#btn_trans").click(function(){ $(".goog-te-gadget-simple").trigger("click"); });
+	
+});
+
+</script>
+<div id="header" class="header">
+		
+	<div class="h_top">
+		<div class="h_top1">
+			<div class="height_auto ht_in">
+				<span class="float_left">
+					<a href="#" class="h_icon hti_a ht_home">홈</a>
+					<a href="#" id="ht_favorite" class="h_icon hti_a ht_favorite">즐겨찾기</a>
+					<!--<span class="ht_edit"><span class="hte_date">UPDATE</span> : 2021.11.11 목 20:00</span>-->
+				</span>		
+				<span class="float_right">&nbsp;</span>	
+			</div>	
+		</div>
+		
+		<div class="h_top2">
+			
+			<!-- 로고 및 배너 -->
+			<ul class="no_type height_auto ht_ul">
+				<li class="ht_li ht1">
+					<a href="/"><img src="https://im.spotvnews.co.kr/logo/2018/logo_210901.png" alt="로고" class="valign_middle" width="65%"></a>
+					<!--<a href="/"><img src="https://im.spotvnews.co.kr/logo/2018/logo.png" alt="로고" class="valign_middle" width="95%" /></a>-->
+					<!--창간<a href="/"><img src="https://im.spotvnews.co.kr/logo/2018/5th_PC_logo.png" alt="로고" class="valign_middle" width="95%" /></a>-->
+				</li>
+				<li class="ht_li htc">
+					<!-- 검색 -->
+					<div class="border_box s_form">
+																							
+						<form name="header_search" action="/" method="get" accept-charset="utf-8" onsubmit="return true;">
+							<input type="hidden" name="mod" value="news">
+							<input type="hidden" name="act" value="articleList">
+							<input type="hidden" name="sc_code" value="">
+							<input type="hidden" name="sc_area" value="A">
+							<input type="hidden" name="sc_article_type" value="">
+							<input type="hidden" name="sc_view_level" value="">
+							<input type="hidden" name="sc_sdate" value="2020-11-11"> 
+							<input type="hidden" name="sc_edate" value="2021-11-11">
+							
+							<a href="/?mod=news&amp;act=articleSearchForm" class="blind">상세검색</a>
+							<label for="n_search_input" class="blind"></label>
+							<input type="search" name="sc_word" id="n_search_input" value="" placeholder="검색어를 입력 해주세요." required="required" maxlength="255" class="s_input">
+							<button type="submit" class="h_icon s_submit">검색</button>
+							<button type="button" id="btn_trans" class="h_icon btn_trans">번역</button>
+							<span id="google_translate_element" style="display:inline-block;width:0px;height:0px;overflow:hidden;"><div class="skiptranslate goog-te-gadget" dir="ltr" style=""><div id=":0.targetLanguage" class="goog-te-gadget-simple" style="white-space: nowrap;"><img src="https://www.google.com/images/cleardot.gif" class="goog-te-gadget-icon" alt="" style="background-image: url(&quot;https://translate.googleapis.com/translate_static/img/te_ctrl3.gif&quot;); background-position: -65px 0px;"><span style="vertical-align: middle;"><a aria-haspopup="true" class="goog-te-menu-value" href="javascript:void(0)"><span>언어 선택</span><img src="https://www.google.com/images/cleardot.gif" alt="" width="1" height="1"><span style="border-left: 1px solid rgb(187, 187, 187);">​</span><img src="https://www.google.com/images/cleardot.gif" alt="" width="1" height="1"><span aria-hidden="true" style="color: rgb(118, 118, 118);">▼</span></a></span></div></div></span>
+						</form>
+					</div>
+					<!-- //검색 -->
+				</li>
+				<li class="ht_li ht2">					
+					<!--기사 - 한 줄 속보기사:한 줄 실시간 속보기사(10개)--><style type="text/css">
+
+.break_news.sf1_box{position:relative;margin:6px 0 0;width:460px;height:20px;overflow:hidden;}
+.break_news .sf1b_title{padding:0 0;width:90px;font-weight:600;font-size:15px;color:#fff;font-family:inherit;}
+.break_news.sf1_box .sf1b_ul{position:absolute;top:0;margin-left:5px;width:370px;overflow:hidden}
+.break_news.sf1_box .sf1b_li{width:100%;white-space:nowrap;overflow:hidden;height:20px;text-overflow:ellipsis;color:#fff}
+.break_news.sf1_box .sf1b_a{font-size:14px;color:#fff!important;font-family:inherit}
+
+</style>
+<dl id="break_news" class="form_dl break_news nanum sf1_box">
+	<dt class="sf1b_title">실시간 뉴스</dt>
+	<dd style="height:100%;overflow:hidden;">
+		<ul class="no_type sf1b_ul box" style="top: -60px;">
+						<li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453330" class="sf1b_a" target="_top">첼시 레전드 램파드 경질처럼…"솔샤르 한계에 부딪혔어"</a></li>
+						<li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453325" class="sf1b_a" target="_top">김동성, ♥인민정 카드로 막대과자 싹쓸이…"남편 카드는 언제 써보나"</a></li>
+						<li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453331" class="sf1b_a" target="_top">[SPO 고양]차가운 가을, 벤투호에 100% 유관중의 봄이 왔다</a></li>
+						<li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453311" class="sf1b_a" target="_top">한창♥장영란, 이런 게 '으른의 딥키스'…결혼 12년 차에도 꿀 뚝뚝</a></li>
+						<li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453329" class="sf1b_a" target="_top">[오피셜] 제라드, A.빌라 감독직 계약 "역사와 전통의 클럽"</a></li>
+						<li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453246" class="sf1b_a" target="_top">[스포츠타임] 불펜투수는 롱런 못 한다? 상으로 반박한 '특급 소방수'</a></li>
+						<li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453316" class="sf1b_a" target="_top">[SPO 현장]'캡틴' 손흥민, 이재성-황희찬과 2선에서 원톱 조규성 돕는다</a></li>
+						<li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453328" class="sf1b_a" target="_top">제라드, PL 돌아온다…A.빌라 감독직 2년 반 계약 (스카이스포츠)</a></li>
+						<li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453296" class="sf1b_a" target="_top">'싱글맘' 이지현, 자녀들과 일주일 만에 외출…"자가격리 끝, 놀러 가자"</a></li>
+						<li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453323" class="sf1b_a" target="_top">검찰, 김형인 '도박장 개설' 무죄에 불복…9일 항소장 제출</a></li>
+					<li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453330" class="sf1b_a" target="_top">첼시 레전드 램파드 경질처럼…"솔샤르 한계에 부딪혔어"</a></li><li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453325" class="sf1b_a" target="_top">김동성, ♥인민정 카드로 막대과자 싹쓸이…"남편 카드는 언제 써보나"</a></li><li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453331" class="sf1b_a" target="_top">[SPO 고양]차가운 가을, 벤투호에 100% 유관중의 봄이 왔다</a></li><li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453311" class="sf1b_a" target="_top">한창♥장영란, 이런 게 '으른의 딥키스'…결혼 12년 차에도 꿀 뚝뚝</a></li><li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453329" class="sf1b_a" target="_top">[오피셜] 제라드, A.빌라 감독직 계약 "역사와 전통의 클럽"</a></li><li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453246" class="sf1b_a" target="_top">[스포츠타임] 불펜투수는 롱런 못 한다? 상으로 반박한 '특급 소방수'</a></li><li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453316" class="sf1b_a" target="_top">[SPO 현장]'캡틴' 손흥민, 이재성-황희찬과 2선에서 원톱 조규성 돕는다</a></li><li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453328" class="sf1b_a" target="_top">제라드, PL 돌아온다…A.빌라 감독직 2년 반 계약 (스카이스포츠)</a></li><li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453296" class="sf1b_a" target="_top">'싱글맘' 이지현, 자녀들과 일주일 만에 외출…"자가격리 끝, 놀러 가자"</a></li><li class="sf1b_li title" style="height: 20px;"><a href="/?mod=news&amp;act=articleView&amp;idxno=453323" class="sf1b_a" target="_top">검찰, 김형인 '도박장 개설' 무죄에 불복…9일 항소장 제출</a></li></ul>
+	</dd>
+</dl>
+
+<script>
+evt.rollingLines("#break_news");
+</script>
+				</li>
+			</ul>
+			
+		</div><!--// h_top2-->
+	</div><!-- //h_top -->
+		
+	<div id="menu" class="menu">	
+		
+		<div class="height_auto menu_in">
+			
+			<!-- nav -->		
+			<ul id="nav" class="no_type border_box nanum nav">
+				<li class="n_li first"><button type="button" class="n_btn">카테고리 전체</button></li>
+				<!--<li class="n_li is_menu">
+					<a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1568775197" class="n_a">창간5주년</a>
+				</li>-->	
+				<li class="n_li is_menu on">
+					<a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1575864500" class="n_a" target="_blank">SPORTS TIME</a>
+					<!--<a href="http://spoon.spotvnews.co.kr/?mod=news&act=articleList&sc_code=1490930500&amp;view_type=T" class="n_a" target="_blank">SPORTS TIME</a>-->
+				</li>			
+				<li class="n_li is_menu">
+					<a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1423440847" class="n_a">연예</a>
+				</li>		
+				<li class="n_li is_menu">
+					<a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1384128643" class="n_a">야구</a>
+				</li>			
+				<li class="n_li is_menu">
+					<a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1394547726" class="n_a">해외야구</a>
+				</li>			
+				<li class="n_li is_menu">
+					<a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1394547748" class="n_a">축구</a>
+				</li>			
+				<li class="n_li is_menu">
+					<a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1395273901" class="n_a">해외축구</a>
+				</li>		
+				<li class="n_li is_menu">
+					<a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1395273934" class="n_a">농구</a>
+				</li>
+				<li class="n_li is_menu">
+					<a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1397784825" class="n_a">배구</a>
+				</li>
+				<li class="n_li is_menu">
+					<a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1476937527" class="n_a">NBA</a>
+				</li>	
+				<li class="n_li is_menu">
+					<a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1419317435" class="n_a">UFC</a>
+				</li>			
+				<li class="n_li is_menu">
+					<a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1416288755" class="n_a">스포츠일반</a>
+				</li>				
+				<!--<li class="n_li is_menu">
+					<a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1509604322" class="n_a">대한체육회TV</a>
+				</li>-->					 
+				<li class="n_li is_menu">
+					<a href="/?mod=main&amp;act=index&amp;section=PHOTOS" class="n_a">포토S</a>
+				</li>	
+				<li class="n_li is_menu">
+					<a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1449448145" class="n_a">GOLF</a>
+				</li>			
+				<!--<li class="n_li is_menu">
+					<a href="http://spoon.spotvnews.co.kr" class="n_a" target="_blank">SPOTV VIDEO</a>
+				</li>
+				<li class="n_li is_menu">
+					<a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1523414679" class="n_a">통신/IT</a>
+				</li>
+				<li class="n_li is_menu">
+					<a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1532508299" class="n_a">e스포츠&게임</a>
+				</li>-->
+				<li class="n_li is_menu">
+					<a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1590124625" class="n_a">SPOFIT
+				</a></li><a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1590124625" class="n_a">
+				</a><li class="n_li is_menu"><a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1590124625" class="n_a">
+					</a><a href="https://www.wired.kr/" class="n_a" target="_blank">WIRED KOREA</a>
+				</li>
+				
+			</ul>
+
+
+			<!-- <div class="mi_partner" style="float: left; margin: 14px 0; text-align: right;width:470px;">
+			
+				<a href="http://www.spotvnews.co.kr/?mod=bbs&act=list&bbs_id=bbs_9" target="_blank" class=""><span class="menu-sportstime">SPORTS TIME 게시판</span></a>
+			</div> -->
+
+			<!-- //#nav -->
+			<div class="mi_partner" style="float: right; margin: 7px 0; text-align: center;">
+
+				<!-- <a href="http://www.spotvnews.co.kr/?mod=bbs&act=list&bbs_id=bbs_9" target="_blank" class=""><span class="menu-sportstime">SPORTS TIME 게시판</span></a> -->
+
+				<!-- <a href="/?mod=news&act=articleList&sc_code=1423440847&view_type=S" class=""><img src="https://im.spotvnews.co.kr/logo/2018/stark.png" alt="STAR" style="vertical-align:middle;" /></a>
+				&nbsp;
+				<a href="http://www.spotv.net" target="_blank" class=""><img src="https://im.spotvnews.co.kr/logo/2018/spotv.png" alt="SPOTV" style="vertical-align:middle;" /></a>				
+				&nbsp; -->
+				<a href="https://www.youtube.com/channel/UCnXNukjRxXGD8aeZGRV-lYg" target="_blank" class=""><img src="https://im.spotvnews.co.kr/logo/new_logo_youtube3.png" alt="PGA KOREA" style="margin-right:20px; vertical-align:middle; width:180px;"></a>
+				<a href="https://www.wired.kr/" target="_blank" class=""><img src="https://im.spotvnews.co.kr/logo/new_logo_youtube2.png" alt="PGA KOREA" style="vertical-align:middle; width:180px;"></a>
+			</div>
+		</div>
+		
+		
+		
+		
+		<!--// -->
+	</div><!-- //#menu -->
+</div><!-- //#header -->
+
+
+
+
+
+
+<div id="container" class="container_full bg MAIN">
+
+
+	
+
+
+<!--// 본문 내용 출력 부분 시작 -->
+<div class="container edit_page MAIN">
+	<div id="content">	
+
+	
+		<!-- 최상단 -->
+		<div class="lo_1 drag_sync1">
+			<div class="edit_inner_content">
+				<div class="border_box virtual_table fixed full">
+    <div class="tr">
+        <div class="td"><div class="virtual_table full" id="edit_box_content_797">
+<div class="tr">
+<div class="td edit_box_title"><div class="border_box align_left virtual_table fixed full"><div class="tr">
+		<div class="td"><div id="ts_207_308" class="border_box height_auto template_skin_207">
+
+	<div class="border_box box_slide_horizon height_auto border_box ts_box1">
+		
+		<div class="box_slide_horizon_box height_auto border_box ts_out">			
+
+						<div class="box_slide_horizon_list border_box ts_list transition_all" style="display: block; transform: translate3d(-100%, 0px, 0px);">
+			
+				<span class="nanum  ts_label">헤드라인</span>
+				<a href="/?mod=news&amp;act=articleView&amp;idxno=453216" target="_self" class="ts_a video" tabindex="-1">
+					<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453216_576113_3358_308.jpg" alt="[스포츠타임] '115골' 살아있는 전설 호날두…포르투갈 월드컵 본선 한 발짝" class="ts_i" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+					<div class="height_auto border_box ts_content">
+						<h6 class="nanum ts_title">[스포츠타임] '115골' 살아있는 전설 호날두…포르투갈 월드컵 본선 한 발짝</h6>
+						<p class="nanum ts_name">박대성 기자</p>
+					</div>
+				</a>
+			
+			</div>
+						<div class="box_slide_horizon_list border_box ts_list transition_all selected" style="display: block; transform: translate3d(0px, 0px, 0px);">
+			
+				<span class="nanum  ts_label">헤드라인</span>
+				<a href="/?mod=news&amp;act=articleView&amp;idxno=453264" target="_self" class="ts_a ">
+					<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453264_576171_0553_308.jpg" alt="솔샤르 감독의 '근자감'…'내가 썩어있는 맨유 멈출 것'" class="ts_i" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+					<div class="height_auto border_box ts_content">
+						<h6 class="nanum ts_title">솔샤르 감독의 '근자감'…'내가 썩어있는 맨유 멈출 것'</h6>
+						<p class="nanum ts_name">박대성 기자</p>
+					</div>
+				</a>
+			
+			</div>
+						<div class="box_slide_horizon_list border_box ts_list transition_all" style="display: block; transform: translate3d(100%, 0px, 0px);">
+			
+				<span class="nanum  ts_label">헤드라인</span>
+				<a href="/?mod=news&amp;act=articleView&amp;idxno=453157" target="_self" class="ts_a " tabindex="-1">
+					<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453157_576043_5928_308.jpg" alt="토트넘 '속도왕' 뽑아라…모우라 &quot;당연히 SON 포함이지&quot;" class="ts_i" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+					<div class="height_auto border_box ts_content">
+						<h6 class="nanum ts_title">토트넘 '속도왕' 뽑아라…모우라 "당연히 SON 포함이지"</h6>
+						<p class="nanum ts_name">박대성 기자</p>
+					</div>
+				</a>
+			
+			</div>
+			
+			<button type="button" class="box_slide_horizon_btn_prev icon ts_btns prev">이전</button>
+			<button type="button" class="box_slide_horizon_btn_next icon ts_btns next">다음</button>
+		</div>
+
+	</div>
+
+
+	<div class="border_box height_auto border_box ts_box2">
+
+				
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=453120" target="_self" class="ts_a ">
+				<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453120_575998_3828_308.jpg" alt="[PO2 게임노트] 키움→LG→삼성 격파, 미러클 두산 7년 연속 KS…kt와 끝장 승부" class="ts_i" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">				<span class="nanum ts_title">[PO2 게임노트] 키움→LG→삼성 격파, 미러클 두산 7년 연속 KS…kt와 끝장 승부</span>
+			</a>
+		
+				
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=453065" target="_self" class="ts_a ">
+				<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453065_575927_3348_308.jpg" alt="어엿한 독수리 된 '5억팔' 문동주 &quot;한화 유니폼 잘 어울리죠&quot; [SPO 대전]" class="ts_i" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">				<span class="nanum ts_title">어엿한 독수리 된 '5억팔' 문동주 "한화 유니폼 잘 어울리죠" [SPO 대전]</span>
+			</a>
+		
+		      
+        <!--기사 - 자동박스 추출:메인 연예 헤드라인기사 2꼭지-->
+        <script type="text/javascript">var ___WIDGET="widget_1522392541";</script>
+        <script type="text/javascript" id="widget_1522392541" src="https://ph.spotvnews.co.kr/widget/script/www/news_autobox_main_enter_headline.js?080020211111170101"></script><style>
+.main_enter_headline .ts_a.video::before{ background:url(https://im.spotvnews.co.kr/custom/widget/main-enter-headline.png) no-repeat -300px 0; }
+
+
+.main_enter_headline{margin:auto;width:440px;height:210px;}
+.main_enter_headline .ts_a{position:relative;float:left;display:block;width:220px;height:210px;overflow:hidden;}
+.main_enter_headline .ts_a.video::before{content:"play";position:absolute;top:0;right:0;bottom:0;left:0;display:inline-block;margin:auto;width:54px;height:59px;overflow:hidden;text-indent:-10000px;}
+
+.main_enter_headline .ts_a.video:hover::before{display:none;}
+.main_enter_headline .ts_a:hover::after{content:"";position:absolute;top:0;right:0;bottom:0;left:0;margin:auto;display:block;background-color:rgba(1,63,146,.4);z-index:5}
+.main_enter_headline .ts_a .ts_i{height:100%;vertical-align:middle;}
+.main_enter_headline .ts_a .ts_title{display:none;position:absolute;top:0;right:0;bottom:0;left:0;margin:auto;width:160px;min-height:45px;max-height:57px;overflow:hidden;font-size:15px;line-height:1.3;letter-spacing:-.03em;color:#fff;z-index:6!important}
+.main_enter_headline .ts_a:hover .ts_title{display:block;}
+
+
+
+</style>
+
+
+<div class="height_auto border_box main_enter_headline">
+
+	
+															
+												
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=451885" class="ts_a " style="background:url(https://ph.spotvnews.co.kr/news/thumbnail/202111/451885_574387_0119_150.jpg) no-repeat 50% 50%/cover;">
+			
+			<span class="nanum ts_title">고은아‧허이재 이어 노유정…폭로가 본질을 잃으면 가십이 된다[S의 시선]</span>
+		</a>
+
+	
+															
+												
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=450097" class="ts_a " style="background:url(https://ph.spotvnews.co.kr/news/thumbnail/202110/450097_572354_5831_150.jpg) no-repeat 50% 50%/cover;">
+			
+			<span class="nanum ts_title">[김원겸의 인사이트]당신은 어떤 노래로 신해철을 기억하는가</span>
+		</a>
+
+	
+</div>
+
+      	
+      
+	</div>
+
+</div>
+
+<script>
+util.autoSlide("#ts_207_308");
+</script><div style="height:20px;"></div></div>
+	</div>
+</div></div>
+</div>
+</div>
+</div>
+	</div>
+</div> 
+			</div>
+		</div>
+		
+		<div class="lo_1 drag_sync1">
+			<div class="edit_inner_content">
+				<script type="text/javascript">var ___BANNER = "ban_1617589365";</script><script type="text/javascript" charset="utf-8" src="//ph.spotvnews.co.kr/adcontent/script/278.js?20211111170101" id="ban_1617589365" data-append="true"></script><div class="banner_box" style="padding-bottom:20px;">
+<a href="https://www.spotvprime.co.kr/" target="_self"><img src="https://ph.spotvnews.co.kr/adcontent/content_file/a326f2fc3f42e73de5687df1b128b4fd.png" alt="prime_PC"></a></div>
+ 
+			</div>
+		</div>
+		
+		<!-- 중간 -->
+		<div class="lo_21">			
+			<!-- 왼쪽 -->
+			<div class="lo_21_1 wide drag_sync2">
+				<div class="edit_inner_content">
+					
+				</div>
+			</div>
+			
+			<!-- 오른쪽 사이드 -->
+			<div class="lo_21_2 drag_alone">
+				<div class="edit_inner_content">
+					
+				</div>
+			</div>			
+		</div><!-- //.lo_21 -->
+
+
+
+		<div class="lo_21_640">	
+			<h6 class="nanum lo640_t">SPOTVNEWS ON AIR</h6>
+				<div class="lo_1 drag_sync1">
+					<div class="edit_inner_content">
+						<div class="border_box virtual_table fixed full">
+    <div class="tr">
+        <div class="td"><div class="virtual_table full" id="edit_box_content_845">
+<div class="tr">
+<div class="td edit_box_title"><div class="border_box align_left virtual_table fixed full"><div class="tr">
+		<div class="td"><div class="border_box height_auto template_skin_217">
+  <div class="ts_box">
+    
+    	
+    	<iframe src="//players.brightcove.net/5996036895001/WUG4trruf_default/index.html?playlistId=6004877657001" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" allow="encrypted-media" width="100%" height="620" frameborder="0"></iframe>
+   	
+  </div>
+</div></div>
+	</div>
+</div></div>
+</div>
+</div>
+</div>
+	</div>
+</div> 
+					</div>
+				</div>
+		</div>
+
+		<!-- 중간 640:420 
+		<div class="lo_21_640">	
+			<h6 class="nanum lo640_t">SPOTVNEWS ON AIR</h6>
+			// 왼쪽 
+			<div class="lo_21_1 drag_alone">
+				<div class="edit_inner_content">
+					<div class="border_box virtual_table fixed full">
+    <div class="tr">
+        <div class="td"><div class="virtual_table full" id="edit_box_content_845">
+<div class="tr">
+<div class="td edit_box_title" ><div class="border_box align_left virtual_table fixed full"><div class="tr">
+		<div class="td"><div class="border_box height_auto template_skin_217">
+  <div class="ts_box">
+    
+    	
+    	<iframe src="//players.brightcove.net/5996036895001/WUG4trruf_default/index.html?playlistId=6004877657001" allowfullscreen webkitallowfullscreen mozallowfullscreen allow="encrypted-media" width="100%" height="620" frameborder="0"></iframe>
+   	
+  </div>
+</div></div>
+	</div>
+</div></div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+				</div>
+			</div>
+			
+			//오른쪽 사이드 
+			<div class="lo_21_2 drag_alone">
+				<div class="edit_inner_content">
+					<div class="border_box virtual_table fixed full">
+    <div class="tr">
+        <div class="td"><div class="virtual_table full" id="edit_box_content_867">
+<div class="tr">
+<div class="td edit_box_title" ><div class="border_box virtual_table fixed full"><div class="tr">
+		<div class="td"><div id="ts_227_352" class="border_box height_auto template_skin_227">
+
+	<div class="border_box box_slide_horizon height_auto border_box ts_box1">
+		
+		<div class="box_slide_horizon_box height_auto border_box ts_out">			
+
+						<div class="box_slide_horizon_list border_box ts_list">
+			
+				<a href="/?mod=news&amp;act=articleView&amp;idxno=381437" target="_self" class="ts_a ">
+					
+					<div class="height_auto border_box ts_content">
+						<h6 class="nanum ts_title">정준영-최종훈, &#039;집단 성폭행&#039; 혐의 실형 확정</h6>
+					</div>
+				</a>
+			
+			</div>
+						<div class="box_slide_horizon_list border_box ts_list">
+			
+				<a href="/?mod=news&amp;act=articleView&amp;idxno=381431" target="_self" class="ts_a ">
+					
+					<div class="height_auto border_box ts_content">
+						<h6 class="nanum ts_title">트와이스, 일본에서 &#039;역대 최다 1위&#039; 달성&hellip;베스트앨범으로 차트 싹쓸이 [영상]</h6>
+					</div>
+				</a>
+			
+			</div>
+			
+			<button type="button" class="box_slide_horizon_btn_prev icon ts_btns prev">이전</button>
+			<button type="button" class="box_slide_horizon_btn_next icon ts_btns next">다음</button>
+		</div>
+
+	</div>
+
+</div>
+
+<script>
+util.autoSlide("#ts_227_352");
+</script></div>
+	</div>
+</div></div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+				</div>
+			</div>			
+		</div> //.lo_21 -->
+
+		
+		<!-- 중간 -->
+		<div class="lo_21">			
+			<!-- 왼쪽 -->
+			<div class="lo_21_1 drag_sync2">
+				<div class="edit_inner_content">
+					<div class="border_box virtual_table fixed full">
+    <div class="tr">
+        <div class="td"><div class="virtual_table full" id="edit_box_content_798">
+<div class="tr">
+<div class="td edit_box_title"><div class="border_box virtual_table fixed full"><div class="tr">
+		<div class="td"><div class="border_box height_auto box_slide_horizon template_skin_208">
+	<div class="border_box height_auto ts_head">
+		<span class="nanum ts_t">인기기사</span>
+		<span class="ts_btns">
+			<button type="button" class="box_slide_horizon_btn_prev ts_btn prev">이전</button>
+			<button type="button" class="box_slide_horizon_btn_next ts_btn next">다음</button>
+		</span>
+	</div>
+	<div class="border_box height_auto box_slide_horizon_box ts_box">
+				<div class="height_auto border_box box_slide_horizon_list ts_list selected" style="display: block; transform: translate3d(0px, 0px, 0px);">		
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=452799" target="_self" class="border_box ellipsis nanum ts_a"><span class="ts_num">1</span> [단독]김승현‧한정원, 결혼 3년만에 이혼…"원만하게 각자의 길"</a>
+		
+								
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=452828" target="_self" class="border_box ellipsis nanum ts_a"><span class="ts_num">2</span> "여자 43명 만나지 않았어?"  이기찬, 절친 이수영 폭로에 '진땀'(힐링산장)</a>
+		
+								
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=452864" target="_self" class="border_box ellipsis nanum ts_a"><span class="ts_num">3</span> 최수영, ♥정경호한테 등짝 맞겠어…셔츠 거꾸로 입고 파격 노출</a>
+		
+								
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=452809" target="_self" class="border_box ellipsis nanum ts_a"><span class="ts_num">4</span> 이지훈, "'스폰서' 작가·감독 날 속여" 저격글 삭제하더니…"날씨 춥다"</a>
+		
+								
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=452885" target="_self" class="border_box ellipsis nanum ts_a"><span class="ts_num">5</span> '싱글맘' 배수진, 세상 아름다운 동안 어머니 공개…최고기도 불꽃 박수</a>
+		
+		</div><div class="height_auto border_box box_slide_horizon_list ts_list" style="display: block; transform: translate3d(100%, 0px, 0px);">						
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=452740" target="_self" class="border_box ellipsis nanum ts_a" tabindex="-1"><span class="ts_num">6</span> 오나라 "연애만 21년, 남들이 납득하기 힘들듯…♥김도훈 너무 좋아"[인터뷰①]</a>
+		
+								
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=452947" target="_self" class="border_box ellipsis nanum ts_a" tabindex="-1"><span class="ts_num">7</span> 솔직한 라멜라, "난 후회 없이 토트넘 떠났다"</a>
+		
+								
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=452941" target="_self" class="border_box ellipsis nanum ts_a" tabindex="-1"><span class="ts_num">8</span> 아스날 연락 피하는 블라호비치…토트넘 가능성 남아 있다</a>
+		
+								
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=452782" target="_self" class="border_box ellipsis nanum ts_a" tabindex="-1"><span class="ts_num">9</span> '지헤중' 송혜교 "또 멜로로 컴백? 이전과 표현하는 방식 다르다고 생각"</a>
+		
+								
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=453004" target="_self" class="border_box ellipsis nanum ts_a" tabindex="-1"><span class="ts_num">10</span> 다저스가 방출한 日거포 반전…FA 되자 6~7개 구단 관심</a>
+		
+		</div><div class="height_auto border_box box_slide_horizon_list ts_list" style="display: block; transform: translate3d(100%, 0px, 0px);">						
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=452945" target="_self" class="border_box ellipsis nanum ts_a" tabindex="-1"><span class="ts_num">11</span> '사재기 논란' 영탁, '돌싱포맨' 분량 실종…방송가 지우기 시작됐나[종합]</a>
+		
+								
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=452911" target="_self" class="border_box ellipsis nanum ts_a" tabindex="-1"><span class="ts_num">12</span> 끝판대장 0이닝 2실점 굴욕…라팍은 순간 침묵에 빠졌다 [PO1]</a>
+		
+								
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=452937" target="_self" class="border_box ellipsis nanum ts_a" tabindex="-1"><span class="ts_num">13</span> '이게 된다고?' 김태형의 마운드 운용 이제는 놀랍다</a>
+		
+								
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=452871" target="_self" class="border_box ellipsis nanum ts_a" tabindex="-1"><span class="ts_num">14</span> 안혜경, 전남친 엄마에겐 200만원 모피 사주더니…깔깔이 입고 어딜 가시나</a>
+		
+								
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=452900" target="_self" class="border_box ellipsis nanum ts_a" tabindex="-1"><span class="ts_num">15</span> 버스타고 떠난 '17세' 호날두, 아스널이 놓친 사연</a>
+		
+		</div>			</div>
+
+</div><div style="height:40px;"></div></div>
+	</div>
+</div></div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+				</div>
+			</div>
+			
+			<!-- 오른쪽 사이드 -->
+			<div class="lo_21_2 drag_alone">
+				<div class="edit_inner_content">
+					<div class="border_box virtual_table fixed full box_164">
+    <div class="tr">
+        <div class="td in_box">
+		<div class="border_box bx_title">종목별 BEST</div><div class="edit_tab tab_horizon_default"><ul class="tab_menu"><li class="tab_item tab_num_1 on" style="width:16.7%"><a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1395273901" target="_top" class="tab_button">해외축구</a></li><li class="tab_item tab_num_2" style="width:16.7%"><a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1419317435" target="_top" class="tab_button">UFC</a></li><li class="tab_item tab_num_3" style="width:16.7%"><a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1476937527" target="_top" class="tab_button">NBA</a></li><li class="tab_item tab_num_4" style="width:16.7%"><a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1395273923" target="_top" class="tab_button">농구·배구</a></li><li class="tab_item tab_num_5" style="width:16.7%"><a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1384128643" target="_top" class="tab_button">야구</a></li><li class="tab_item tab_num_6 none" style="width:16.5%"><a href="/?mod=news&amp;act=articleList&amp;view_type=S&amp;sc_code=1416288755" target="_top" class="tab_button">스포츠일반</a></li></ul><div class="tab_content on"><div class="virtual_table full" id="edit_box_content_799_1">
+<div class="tr">
+<div class="td edit_box_tab"><div class="border_box virtual_table fixed full"><div class="tr">
+			<div class="td"><div class="border_box height_auto template_skin_209">
+	
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=452947" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_452947_575780_0358_310.jpg" alt="솔직한 라멜라, &quot;난 후회 없이 토트넘 떠났다&quot;" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">솔직한 라멜라, "난 후회 없이 토트넘 떠났다"</p>
+		</a>
+		
+	</div>
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=452941" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_452941_575774_5949_310.jpg" alt="아스날 연락 피하는 블라호비치…토트넘 가능성 남아 있다" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">아스날 연락 피하는 블라호비치…토트넘 가능성 남아 있다</p>
+		</a>
+		
+	</div>
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453248" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453248_576154_4341_310.jpg" alt="칼 빼든 콘테, '토트넘 9년 헌신한' 골키퍼 방출" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">칼 빼든 콘테, '토트넘 9년 헌신한' 골키퍼 방출</p>
+		</a>
+		
+	</div>
+				<div class="height_auto border_box ts_box line_end">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453040" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453040_575890_3818_310.jpg" alt="호날두 폭탄선언, 맨유 UCL 못가면 여름에 떠난다" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">호날두 폭탄선언, 맨유 UCL 못가면 여름에 떠난다</p>
+		</a>
+		
+	</div>
+	
+</div></div>
+		</div>
+	</div></div>
+</div>
+</div>
+</div>
+<div class="tab_content"><div class="virtual_table full" id="edit_box_content_799_2">
+<div class="tr">
+<div class="td edit_box_tab"><div class="border_box virtual_table fixed full"><div class="tr">
+			<div class="td"><div class="border_box height_auto template_skin_209">
+	
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=452817" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_452817_575618_0421_311.jpg" alt="[이교덕 칼럼] 제2의 맥그리거 등장…&quot;치마예프와 겨루겠다&quot;" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">[이교덕 칼럼] 제2의 맥그리거 등장…"치마예프와 겨루겠다"</p>
+		</a>
+		
+	</div>
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453171" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453171_576055_5046_311.jpg" alt="함자트 치마예프 &quot;마스비달 대신 UFC 269에서 싸우겠다&quot;" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">함자트 치마예프 "마스비달 대신 UFC 269에서 싸우겠다"</p>
+		</a>
+		
+	</div>
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453298" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453298_576232_0046_311.jpg" alt="[단독 인터뷰] 정다운 상대 은제추쿠 &quot;루게릭병 어머니 위해 승리를…&quot;" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">[단독 인터뷰] 정다운 상대 은제추쿠 "루게릭병 어머니 위해 승리를…"</p>
+		</a>
+		
+	</div>
+	
+</div></div>
+		</div>
+	</div></div>
+</div>
+</div>
+</div>
+<div class="tab_content"><div class="virtual_table full" id="edit_box_content_799_3">
+<div class="tr">
+<div class="td edit_box_tab"><div class="border_box virtual_table fixed full"><div class="tr">
+			<div class="td"><div class="border_box height_auto template_skin_209">
+	
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=452358" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_452358_574979_2003_312.jpg" alt="'커리만 있는 게 아니다' GSW, 뉴올리언스 완파하고 3연승" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">'커리만 있는 게 아니다' GSW, 뉴올리언스 완파하고 3연승</p>
+		</a>
+		
+	</div>
+	
+</div></div>
+		</div>
+	</div></div>
+</div>
+</div>
+</div>
+<div class="tab_content"><div class="virtual_table full" id="edit_box_content_799_4">
+<div class="tr">
+<div class="td edit_box_tab"><div class="border_box virtual_table fixed full"><div class="tr">
+			<div class="td"><div class="border_box height_auto template_skin_209">
+	
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453127" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453127_576006_3114_313.jpg" alt="'허웅 16점' DB, KT 꺾고 4연패 탈출…맞대결 2연승" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">'허웅 16점' DB, KT 꺾고 4연패 탈출…맞대결 2연승</p>
+		</a>
+		
+	</div>
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453033" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453033_575881_2249_313.jpg" alt="올 시즌 두 번째 S더비…다양한 이벤트와 경품 제공" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">올 시즌 두 번째 S더비…다양한 이벤트와 경품 제공</p>
+		</a>
+		
+	</div>
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453029" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453029_575880_1906_313.jpg" alt="전준범·김상규, 비신사적인 행위로 '제재금 20만 원'" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">전준범·김상규, 비신사적인 행위로 '제재금 20만 원'</p>
+		</a>
+		
+	</div>
+	
+</div></div>
+		</div>
+	</div></div>
+</div>
+</div>
+</div>
+<div class="tab_content"><div class="virtual_table full" id="edit_box_content_799_5">
+<div class="tr">
+<div class="td edit_box_tab"><div class="border_box virtual_table fixed full"><div class="tr">
+			<div class="td"><div class="border_box height_auto template_skin_209">
+	
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=452911" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_452911_575736_4819_314.jpg" alt="끝판대장 0이닝 2실점 굴욕…라팍은 순간 침묵에 빠졌다 [PO1]" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">끝판대장 0이닝 2실점 굴욕…라팍은 순간 침묵에 빠졌다 [PO1]</p>
+		</a>
+		
+	</div>
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=452937" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_452937_575768_5439_314.jpg" alt="'이게 된다고?' 김태형의 마운드 운용 이제는 놀랍다" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">'이게 된다고?' 김태형의 마운드 운용 이제는 놀랍다</p>
+		</a>
+		
+	</div>
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453069" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453069_575933_4208_314.jpg" alt="&quot;150km 같은 140km를 위해&quot; 혼신 다하는 38살 베테랑" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">"150km 같은 140km를 위해" 혼신 다하는 38살 베테랑</p>
+		</a>
+		
+	</div>
+				<div class="height_auto border_box ts_box line_end">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=452905" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_452905_575725_2030_314.jpg" alt="[인터뷰] 한화의 1차지명 거포, 외국인 코치 적응 비결은 구단 TV?" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">[인터뷰] 한화의 1차지명 거포, 외국인 코치 적응 비결은 구단 TV?</p>
+		</a>
+		
+	</div>
+	
+</div></div>
+		</div>
+	</div></div>
+</div>
+</div>
+</div>
+<div class="tab_content"><div class="virtual_table full" id="edit_box_content_799_6">
+<div class="tr">
+<div class="td edit_box_tab"><div class="border_box virtual_table fixed full"><div class="tr">
+			<div class="td"><div class="border_box height_auto template_skin_209">
+	
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453043" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453043_575894_4358_315.jpg" alt="[단독] '미성년자 폭행' 하키 지도자 사실상 OUT…영구히 등록 금지" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">[단독] '미성년자 폭행' 하키 지도자 사실상 OUT…영구히 등록 금지</p>
+		</a>
+		
+	</div>
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453199" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453199_576089_5106_315.jpg" alt="한국의 함자트 치마예프를 찾아라…브레이브CF 한국 진출" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">한국의 함자트 치마예프를 찾아라…브레이브CF 한국 진출</p>
+		</a>
+		
+	</div>
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453161" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453161_576048_4849_315.jpg" alt="로드FC, 서덕호 대표 선임…OTT 콘텐츠 제작, NFT 신사업 계획" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">로드FC, 서덕호 대표 선임…OTT 콘텐츠 제작, NFT 신사업 계획</p>
+		</a>
+		
+	</div>
+	
+</div></div>
+		</div>
+	</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+		</div>
+	</div>
+				</div>
+			</div>			
+		</div><!-- //.lo_21 -->
+
+		<div class="lo_1 drag_sync1">
+			<div class="edit_inner_content">
+				 
+			</div>
+		</div>
+		
+		<!-- 중간 -->
+		<div class="lo_21">			
+			<!-- 왼쪽 -->
+			<div class="lo_21_1 wide drag_sync2">
+				<div class="edit_inner_content">
+					
+				</div>
+			</div>
+			
+			<!-- 오른쪽 사이드 -->
+			<div class="lo_21_2 drag_alone">
+				<div class="edit_inner_content">
+					
+				</div>
+			</div>			
+		</div><!-- //.lo_21 -->
+
+		<div class="lo_1 drag_sync1">
+			<div class="edit_inner_content">
+				<!--기사 - 자동박스 추출:spotvnews 메인 노출-많이 본 영상
+<script type="text/javascript">var ___WIDGET="widget_1493717717";</script>
+<script type="text/javascript" id="widget_1493717717" src="http://ph.spoon.spotvnews.co.kr/widget/script/www/news_autobox_spotvnews_iframe_1.js?20211111200039"></script>--> 
+			</div>
+		</div>
+		
+		<!-- 중간 -->
+		<div class="lo_31">			
+			<!-- 왼쪽 -->
+			<div class="lo_31_1 drag_sync2">
+				<div class="edit_inner_content">
+					<div class="border_box virtual_table fixed full">
+    <div class="tr">
+        <div class="td"><div class="virtual_table full" id="edit_box_content_805">
+<div class="tr">
+<div class="td edit_box_title"><div class="border_box virtual_table fixed full"><div class="tr">
+		<div class="td"><div class="border_box height_auto template_skin_210">
+
+	<div class="border_box height_auto ts_box">
+						
+
+				<div class="border_box ts_list">
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=453280" target="_self" class="ts_a">
+								<div class="ts_ibox ">
+					<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453280_576206_0621_321.jpg" alt="한화 협조 아니었으면 어쩔 뻔… 이강철 감독, 진짜 고맙다고 한 이유" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+				</div>
+								<div class="ts_tbox"><h6 class="ts_title">한화 협조 아니었으면 어쩔 뻔… 이강철 감독, 진짜 고맙다고 한 이유</h6></div>
+				<span class="nanum ts_label">야구			</span></a>
+		</div>
+				
+						
+
+				
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453284" target="_self" class="ellipsis border_box ts_line_a tsa_2 ">한화 어쩌나… 美 매체 "워싱턴, 컵스 타격 보조코치로 선임"</a>
+
+				
+						
+
+				
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453268" target="_self" class="ellipsis border_box ts_line_a tsa_3 ">58살 코치의 열정…두산 더그아웃을 달군다</a>
+
+				
+						
+
+				
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453256" target="_self" class="ellipsis border_box ts_line_a tsa_4 last">[인터뷰] 2021년 10월 30일의 악몽… 김건우에게는 인생의 전환점이었다</a>
+
+				
+			</div>
+
+</div><div style="height:20px;"></div></div>
+	</div>
+</div></div>
+</div>
+</div>
+</div>
+	</div>
+</div><div class="border_box virtual_table fixed full">
+    <div class="tr">
+        <div class="td"><div class="virtual_table full" id="edit_box_content_808">
+<div class="tr">
+<div class="td edit_box_title"><div class="border_box virtual_table fixed full"><div class="tr">
+		<div class="td"><div class="border_box height_auto template_skin_210">
+
+	<div class="border_box height_auto ts_box">
+						
+
+				<div class="border_box ts_list">
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=453199" target="_self" class="ts_a">
+								<div class="ts_ibox ">
+					<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453199_576089_5106_323.jpg" alt="한국의 함자트 치마예프를 찾아라…브레이브CF 한국 진출" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+				</div>
+								<div class="ts_tbox"><h6 class="ts_title">한국의 함자트 치마예프를 찾아라…브레이브CF 한국 진출</h6></div>
+				<span class="nanum ts_label">스포츠일반			</span></a>
+		</div>
+				
+						
+
+				
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453161" target="_self" class="ellipsis border_box ts_line_a tsa_2 ">로드FC, 서덕호 대표 선임…OTT 콘텐츠 제작, NFT 신사업 계획</a>
+
+				
+						
+
+				
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453043" target="_self" class="ellipsis border_box ts_line_a tsa_3 ">[단독] '미성년자 폭행' 하키 지도자 사실상 OUT…영구히 등록 금지</a>
+
+				
+						
+
+				
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=452678" target="_self" class="ellipsis border_box ts_line_a tsa_4 last">韓 탁구 프로화 전환점…유승민 회장 "20년 전부터 염원, 한국형 모델 추진"</a>
+
+				
+			</div>
+
+</div><div style="height:40px;"></div></div>
+	</div>
+</div></div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+				</div>
+			</div>
+			
+			<!-- 가운데 사이드 -->
+			<div class="lo_31_2 drag_sync2">
+				<div class="edit_inner_content">
+					<div class="border_box virtual_table fixed full">
+    <div class="tr">
+        <div class="td"><div class="virtual_table full" id="edit_box_content_806">
+<div class="tr">
+<div class="td edit_box_title"><div class="border_box virtual_table fixed full"><div class="tr">
+		<div class="td"><div class="border_box height_auto template_skin_210">
+
+	<div class="border_box height_auto ts_box">
+						
+
+				<div class="border_box ts_list">
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=453330" target="_self" class="ts_a">
+								<div class="ts_ibox ">
+					<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453330_576269_1231_322.jpg" alt="첼시 레전드 램파드 경질처럼…&quot;솔샤르 한계에 부딪혔어&quot;" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+				</div>
+								<div class="ts_tbox"><h6 class="ts_title">첼시 레전드 램파드 경질처럼…"솔샤르 한계에 부딪혔어"</h6></div>
+				<span class="nanum ts_label">해외축구			</span></a>
+		</div>
+				
+						
+
+				
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453292" target="_self" class="ellipsis border_box ts_line_a tsa_2 ">"호날두, 바르셀로나 이적…지금이 타이밍"</a>
+
+				
+						
+
+				
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453216" target="_self" class="ellipsis border_box ts_line_a tsa_3 ">[스포츠타임] '115골' 살아있는 전설 호날두…포르투갈 월드컵 본선 한 발짝</a>
+
+				
+						
+
+				
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453240" target="_self" class="ellipsis border_box ts_line_a tsa_4 last">"90분도 못 뛰는 선수 있다"…콘테 토트넘 문제 파악, 체력 코치만 3명 선임</a>
+
+				
+			</div>
+
+</div><div style="height:20px;"></div></div>
+	</div>
+</div></div>
+</div>
+</div>
+</div>
+	</div>
+</div><div class="border_box virtual_table fixed full">
+    <div class="tr">
+        <div class="td"><div class="virtual_table full" id="edit_box_content_809">
+<div class="tr">
+<div class="td edit_box_title"><div class="border_box virtual_table fixed full"><div class="tr">
+		<div class="td"><div class="border_box height_auto template_skin_210">
+
+	<div class="border_box height_auto ts_box">
+						
+
+				<div class="border_box ts_list">
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=452358" target="_self" class="ts_a">
+								<div class="ts_ibox ">
+					<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_452358_574979_2003_324.jpg" alt="'커리만 있는 게 아니다' GSW, 뉴올리언스 완파하고 3연승" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+				</div>
+								<div class="ts_tbox"><h6 class="ts_title">'커리만 있는 게 아니다' GSW, 뉴올리언스 완파하고 3연승</h6></div>
+				<span class="nanum ts_label">NBA			</span></a>
+		</div>
+				
+						
+
+				
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=448788" target="_self" class="ellipsis border_box ts_line_a tsa_2 ">[스포츠타임] NBA 개막…커리 아데토쿤보 웃고 르브론 듀란트 울었다</a>
+
+				
+						
+
+				
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=448565" target="_self" class="ellipsis border_box ts_line_a tsa_3 ">[스포츠타임] '커리vs르브론' 시작부터 빅매치, NBA가 돌아온다</a>
+
+				
+						
+
+				
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=447877" target="_self" class="ellipsis border_box ts_line_a tsa_4 last">'오른발 부상' 자이언, 2주 이상 결장 확정…"언제 돌아올지 모른다"</a>
+
+				
+			</div>
+
+</div><div style="height:40px;"></div></div>
+	</div>
+</div></div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+				</div>
+			</div>	
+			
+			<!-- 오른쪽 사이드 -->
+			<div class="lo_31_3 drag_alone">
+				<div class="edit_inner_content">
+					<div class="border_box virtual_table fixed full">
+    <div class="tr">
+        <div class="td"><div class="virtual_table full" id="edit_box_content_807">
+<div class="tr">
+<div class="td edit_box_title"><div class="border_box virtual_table fixed full"><div class="tr">
+		<div class="td"><div class="border_box height_auto template_skin_211">
+	
+	<div class="border_box height_auto ts_first ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453147" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453147_576033_4645_325.jpg" alt="" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">			<h6 class="nanum ellipsis ts_title">[포토S] 페르난데스, 플레이오프 MVP</h6>
+			<span class="nanum ts_label">포토S		</span></a>
+		
+	</div>
+
+	<div class="border_box height_auto ts_box">
+				
+		<div class="border_box ts_list ">
+		
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=453145" target="_self" class="ts_a">
+				<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453145_576032_4524_325.jpg" alt="[포토S] 7년 연속 KS 진출 이끈 김태형 감독" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">				<h6 class="ts_title">[포토S] 7년 연속 KS 진출 이끈 김태형 감독</h6>
+			</a>
+		
+		</div>
+
+				
+		<div class="border_box ts_list ">
+		
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=453143" target="_self" class="ts_a">
+				<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453143_576029_4142_325.jpg" alt="[포토S] 허무하게 끝난 삼성의 가을 야구" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">				<h6 class="ts_title">[포토S] 허무하게 끝난 삼성의 가을 야구</h6>
+			</a>
+		
+		</div>
+
+				
+		<div class="border_box ts_list ">
+		
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=453142" target="_self" class="ts_a">
+				<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453142_576027_2515_325.jpg" alt="[포토S] 두산, KBO리그 최초 7년 연속 KS 진출" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">				<h6 class="ts_title">[포토S] 두산, KBO리그 최초 7년 연속 KS 진출</h6>
+			</a>
+		
+		</div>
+
+				
+		<div class="border_box ts_list ">
+		
+			<a href="/?mod=news&amp;act=articleView&amp;idxno=453139" target="_self" class="ts_a">
+				<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453139_576025_1348_325.jpg" alt="[포토S] 6년 만의 가을 야구가 이렇게.." class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">				<h6 class="ts_title">[포토S] 6년 만의 가을 야구가 이렇게..</h6>
+			</a>
+		
+		</div>
+
+			</div>
+
+</div><div style="height:20px;"></div></div>
+	</div>
+</div></div>
+</div>
+</div>
+</div>
+	</div>
+</div><!-- https://developers.facebook.com/docs/plugins/page-plugin -->
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fspotvnews%2F&amp;tabs=timeline&amp;width=420&amp;height=400&amp;small_header=false&amp;adapt_container_width=false&amp;hide_cover=true&amp;show_facepile=false&amp;appId" width="420" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+				</div>
+			</div>			
+		</div><!-- //.lo_21 -->
+
+		<div class="lo_1 drag_sync1">
+			<div class="edit_inner_content">
+				<div class="border_box virtual_table fixed full box_179">
+    <div class="tr">
+        <div class="td in_box"><div class="virtual_table full" id="edit_box_content_968">
+<div class="tr">
+<div class="td edit_box_title"><div class="border_box virtual_table fixed full"><span class="tab_no_button"><div class="title">연예뉴스</div></span><div class="tr">
+				<div class="td"><div class="border_box height_auto template_skin_245">
+	
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453325" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453325_576263_4131_406.jpg" alt="김동성, ♥인민정 카드로 막대과자 싹쓸이…&quot;남편 카드는 언제 써보나&quot;" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">김동성, ♥인민정 카드로 막대과자 싹쓸이…"남편 카드는 언제 써보나"</p>
+		</a>
+		
+	</div>
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453311" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453311_576243_4847_406.jpg" alt="한창♥장영란, 이런 게 '으른의 딥키스'…결혼 12년 차에도 꿀 뚝뚝" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">한창♥장영란, 이런 게 '으른의 딥키스'…결혼 12년 차에도 꿀 뚝뚝</p>
+		</a>
+		
+	</div>
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453296" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453296_576219_4712_406.jpg" alt="'싱글맘' 이지현, 자녀들과 일주일 만에 외출…&quot;자가격리 끝, 놀러 가자&quot;" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">'싱글맘' 이지현, 자녀들과 일주일 만에 외출…"자가격리 끝, 놀러 가자"</p>
+		</a>
+		
+	</div>
+				<div class="height_auto border_box ts_box ">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453323" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453323_576262_3134_406.jpg" alt="검찰, 김형인 '도박장 개설' 무죄에 불복…9일 항소장 제출" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">검찰, 김형인 '도박장 개설' 무죄에 불복…9일 항소장 제출</p>
+		</a>
+		
+	</div>
+				<div class="height_auto border_box ts_box line_end">
+		
+		<a href="/?mod=news&amp;act=articleView&amp;idxno=453309" target="_self" class="ts_a">
+			<img src="https://ph.spotvnews.co.kr/edit/news/view_img/PHOTO_453309_576240_4253_406.jpg" alt="한지혜, ♥검사 남편은 뭐하나…딸 육아에 &quot;너무 힘들다, 뒤집기 지옥&quot;" class="ts_img" onerror="this.src='https://im.spotvnews.co.kr/no_image_250.gif';">
+			<p class="nanum ts_title">한지혜, ♥검사 남편은 뭐하나…딸 육아에 "너무 힘들다, 뒤집기 지옥"</p>
+		</a>
+		
+	</div>
+	
+</div></div>
+			</div>
+		</div></div>
+</div>
+</div>
+</div>
+	</div>
+</div> 
+			</div>
+		</div>
+		
+		<!-- 중간 -->
+		<div class="lo_21">			
+			<!-- 왼쪽 -->
+			<div class="lo_21_1 wide drag_sync2">
+				<div class="edit_inner_content">
+					
+				</div>
+			</div>
+			
+			<!-- 오른쪽 사이드 -->
+			<div class="lo_21_2 drag_alone">
+				<div class="edit_inner_content">
+					
+				</div>
+			</div>			
+		</div><!-- //.lo_21 -->
+
+		<div class="lo_1 drag_sync1">
+			<div class="edit_inner_content">
+				 
+			</div>
+		</div>
+
+
+
+	</div><!-- //#content -->
+</div><!-- //.container -->
+<!--//-->
+
+
+ </div>
+<!-- //container -->
+
+<!-- footer -->
+<div id="footer" class="footer">
+		
+	<div class="f_content nanum">
+				
+		<div class="f_top">
+			<a href="/?mod=company&amp;act=introduce" class="ft_a" target="_blank">회사소개</a>
+			<a href="/?mod=company&amp;act=form&amp;form_id=tg" class="ft_a" target="_blank">독자투고</a>
+			<a href="/?mod=company&amp;act=form&amp;form_id=jh" class="ft_a" target="_blank">제휴안내</a>
+			<a href="/?mod=company&amp;act=form&amp;form_id=bp" class="ft_a" target="_blank">불편신고</a>
+			<a href="/?mod=company&amp;act=form&amp;form_id=kd" class="ft_a" target="_blank">구독신청</a>
+			<a href="/?mod=company&amp;act=form&amp;form_id=copy" class="ft_a" target="_blank">저작권문의</a>
+			<a href="/?mod=company&amp;act=form&amp;form_id=jb" class="ft_a" target="_blank">기사제보</a>
+			<a href="/?mod=company&amp;act=form&amp;form_id=ad" class="ft_a" target="_blank">광고안내</a>
+			<a href="/?mod=company&amp;act=privacy" class="ft_a" target="_blank">개인정보취급방침</a>
+			<a href="/?mod=company&amp;act=email" class="ft_a" target="_blank">이메일무단수집거부</a>
+			<a href="/?mod=company&amp;act=privacy&amp;sub=teen" class="ft_a" target="_blank">청소년보호정책</a>
+		</div>
+		
+		<div class="f_bottom">			
+			<ul class="no_type fb_ul">
+				<li class="fb_li info">
+					서울시 마포구 월드컵북로 56길 12 (상암동)&nbsp; | &nbsp; 대표전화 : 1833-8910 (평일 9:30 ~ 18:30) &nbsp; | &nbsp; 팩스 : 02)6096-2335 &nbsp; | &nbsp; 대표메일 : <script type="text/javascript">eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%6e%65%77%73%70%6c%61%79%65%72%40%73%70%6f%74%76%6e%65%77%73%2e%63%6f%2e%6b%72%3f%73%75%62%6a%65%63%74%3d%53%50%4f%54%56%25%32%30%4e%45%57%53%25%32%30%43%6f%6e%74%61%63%74%22%20%3e%6e%65%77%73%70%6c%61%79%65%72%40%73%70%6f%74%76%6e%65%77%73%2e%63%6f%2e%6b%72%3c%2f%61%3e%27%29%3b'))</script><a href="mailto:newsplayer@spotvnews.co.kr?subject=SPOTV%20NEWS%20Contact">newsplayer@spotvnews.co.kr</a><br>
+					회사명 : (주)뉴스플레이어 &nbsp;|&nbsp; 제호: SPOTV NEWS &nbsp;|&nbsp; 정기간행물·등록번호 : 서울 아 03377&nbsp;|&nbsp; 등록일자: 2014.10.24&nbsp;|&nbsp; 발행일자: 2014.10.24&nbsp; <br>
+					발행인 : 김민호&nbsp;|&nbsp; 편집인 : 이재국, 김원겸 &nbsp;|&nbsp; 청소년보호책임자 : 이상현<br>
+					SPOTV NEWS의 모든 콘텐츠(영상,기사, 사진)는 저작권법의 보호를 받은바, 무단 전재와 복사, 배포 등을 금합니다.<br>
+					C<a href="https://admin.spotvnews.co.kr">o</a>pyright <a href="https://www.spotvnews.co.kr/?mod=login&amp;act=loginForm">ⓒ</a> 2014 SPOTV NEWS. All rights reserved.
+				</li>
+				<li class="fb_li etc">
+					<img src="https://im.spotvnews.co.kr/logo/2017/bottom_logo.png" alt="로고" class="valign_middle"><br>
+					<a href="http://www.ndsoft.co.kr/" target="_blank"><img src="https://im.spotvnews.co.kr/ndsoft.png" alt="Powerd By NDSoft" class="valign_middle"></a>
+				</li>
+			</ul><!-- //fb_ul -->			
+		</div>
+		
+	</div>	
+	
+</div>
+
+
+
+				
+<script type="text/javascript">
+
+// 구글 번역
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({ pageLanguage: 'ko', includedLanguages: 'ar,en,es,fi,fr,it,iw,ja,ko,ru,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true, gaTrack: true, gaId: 'UA-56817436-1' }, 'google_translate_element');
+}
+
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<!-- </div> --><!-- //.wrap -->
+
+<script type="text/javascript">
+// Popup Json
+var ___popup = [];
+
+// IE에서 발생하는 문제로 의미없는 링크시 #;일때, 이 링크 클릭후 새로고침하면 title뒤에 #;#;#;연달아 나오는데 그거 삭제해줌;
+// 지금은 주석 . 필요시 사용함
+// document.title = document.title.replace(/#;/g, "");
+</script>
+
+
+	<div class="float_banner" data-wing="right" data-type="fix" data-start-x="10" data-start-y="280" data-width="160" data-height="600" style="position: absolute; width: 161px; height: 600px; top: 280px; left: 1266.5px;">
+<!-- 웹 기사면 우측 160*600 --><!-- /23600383/PC_VIEW_Right_160X600_1 -->
+<div id="div-gpt-ad-1607498015340-0" style="width: 160px; height: 600px;" data-google-query-id="CI-U3_6WkPQCFcFXvQodBZUL0w">
+  
+<div id="google_ads_iframe_/23600383/PC_VIEW_Right_160X600_1_0__container__" style="border: 0pt none; display: inline-block; width: 160px; height: 600px;"><iframe frameborder="0" src="https://ae59cad1d4ed388fc7bc878ce361daae.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html" id="google_ads_iframe_/23600383/PC_VIEW_Right_160X600_1_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="160" height="600" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="q" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div>
+
+
+<!-- 기사본문-오른쪽 날개 배너 2번째 --><!-- /23600383/PC_VIEW_Right_160X600_2 -->
+<div id="div-gpt-ad-1607498048050-0" style="width: 160px; height: 600px;" data-google-query-id="CJCU3_6WkPQCFcFXvQodBZUL0w">
+  
+<div id="google_ads_iframe_/23600383/PC_VIEW_Right_160X600_2_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/23600383/PC_VIEW_Right_160X600_2_0" title="3rd party ad content" name="google_ads_iframe_/23600383/PC_VIEW_Right_160X600_2_0" width="160" height="600" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="r" data-load-complete="true"></iframe></div></div>
+
+
+
+<!-- pc- 좌측 플로팅 광고 [146] --><!-- TargetPushAD_스포티비뉴스 -->
+<script src="//cdn.targetpush.co.kr/js/targetpushad.js" charset="utf-8"></script>
+<script> (function(){adtive_targetpush_ad.start('11444448','UALLLLLF')}(document)) </script><iframe src="https://ae59cad1d4ed388fc7bc878ce361daae.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html" style="visibility: hidden; display: none;"></iframe>
+<!--// TargetPushAD_스포티비뉴스 -->
+
+
+</div>
+
+
+<!--웹 기사면 하단 스크롤 광고-애드스크린--><!--//웹 기사면 하단 스크롤 광고-애드스크린-->
+
+
+
+
+<!-- progress bar :: 폼 저장용 로딩 영역 -->
+<div id="page_loader" style="display:none;">
+	<div class="load_img">
+		<img src="https://im.spotvnews.co.kr/ajax-loader-blue.gif" alt="실행중">
+	</div>
+</div>
+<!-- //--><div id="goog-gt-tt" class="skiptranslate" dir="ltr"><div style="padding: 8px;"><div><div class="logo"><img src="https://www.gstatic.com/images/branding/product/1x/translate_24dp.png" width="20" height="20" alt="Google 번역"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">원본 텍스트</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">번역 제안하기</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div>
+
+
+
+
+
+
+
+<div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div><iframe frameborder="0" class="goog-te-menu-frame skiptranslate" title="언어 번역 위젯" style="visibility: visible; box-sizing: content-box; width: 171px; height: 296px; display: none;"></iframe><iframe src="https://www.google.com/recaptcha/api2/aframe" width="0" height="0" style="display: none;"></iframe><div class="targetpushAd_pc_wrap wrap_new type0 run" id="targetpushAd_pc_wrap"><div class="targetpushAd_banner_wrap targetpushAd-animate-down" id="targetpushAd_banner_wrap" style="display: block;margin-bottom:30px;left:70px;"><iframe marginwidth="0" marginheight="0" id="tpadIfm" width="300px" height="250px" scrolling="no" frameborder="0"></iframe><a href="javascript:adtive_targetpush_pc.targetpushAd_banner_close();" class="btn_close3" id="targetpushAd_pc_wrap_close">닫기</a></div></div></body><iframe id="google_esf" name="google_esf" src="https://googleads.g.doubleclick.net/pagead/html/r20211108/r20190131/zrt_lookup.html" style="display: none;"></iframe></html>

@@ -1,0 +1,4 @@
+<script src='//plugin.adplex.co.kr/script/2beonAdScript.js?ver=1.90' charset='UTF-8'></script>
+<iframe src="//kitweb.tadapi.info/network/adapi.php?a=munhwa_p_at_b_a01_683x250&refercheck=101" framespacing="0" frameborder="no" scrolling="no" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" width="683" height="250" name="munhwa_p_at_b_a01_683x250"></iframe>
+<div class="iwm_ba" data-ad="{'id':'F4E120BF'}" style="display:inline-block;width:0;height:0;"></div> <script type="text/javascript" src="//cdn.interworksmedia.co.kr/js/tm/ba/latest/ba.js" async></script>
+

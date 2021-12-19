@@ -1,0 +1,2015 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv="X-UA-Compatible" content="requiresActiveX=true">
+	<meta name="viewport" content="width=1080px,maximum-scale=2.0,minimum-scale=0.4,user-scalable=yes">
+	<meta property="og:image"       content="https://imgsports.pstatic.net/images/mobile/common/NAVERsports.png"/>
+	<meta property="og:title"		content="스포츠홈 : 네이버 스포츠"/>
+	<meta property="og:description" content="스포츠의 시작과 끝!"/>
+	<meta name="description" content="스포츠의 모든 것, 네이버 스포츠와 함께 하세요">
+	
+		
+		
+		
+		
+	
+	<title>스포츠홈 : 네이버 스포츠</title>
+	
+    <link rel='stylesheet' type='text/css' href='https://ssl.pstatic.net/static.sports/resources/pc/2021/11/11/122215/css/generated/nsportsCss.css'>
+
+    <link rel='stylesheet' type='text/css' href='https://ssl.pstatic.net/static.sports/resources/pc/2021/11/11/122215/css/generated/nsportsHome.css'>
+
+
+	<link rel="shortcut icon" href="https://www.naver.com/favicon.ico?v=20140228" type="image/x-icon">
+	<link rel="apple-touch-icon" href="https://imgsports.pstatic.net/images/mobile/favicon_20180622/ios/iOS6_57X57_iphone3.png"> 
+	<link rel="apple-touch-icon" sizes="76x76" href="https://imgsports.pstatic.net/images/mobile/favicon_20180622/ios/iOS7_76X76_ipad.png"> 
+	<link rel="apple-touch-icon" sizes="120x120" href="https://imgsports.pstatic.net/images/mobile/favicon_20180622/ios/iOS7_120X120_iphone.png"> 
+	<link rel="apple-touch-icon" sizes="152x152" href="https://imgsports.pstatic.net/images/mobile/favicon_20180622/ios/iOS7_152X152_ipad_retina.png"> 
+	<link rel="apple-touch-icon" sizes="167x167" href="https://imgsports.pstatic.net/images/mobile/favicon_20180622/ios/iOS_167X167_iPadPro.png"> <!-- 레티나 패드 -->
+	<link rel="apple-touch-icon" sizes="180x180" href="https://imgsports.pstatic.net/images/mobile/favicon_20180622/ios/iOS_180X180_iPhone.png"> <!-- 레티나 패드 -->
+	<!-- script -->
+	<script type='text/javascript' src='https://ssl.pstatic.net/static.sports/resources/pc/2021/11/11/122215/js/generated/baseJsTop.js' charset='UTF-8'></script>
+
+	<script type='text/javascript' src='https://ssl.pstatic.net/static.sports/resources/pc/2021/11/11/122215/js/lib/iscroll/iscroll.js' charset='UTF-8'></script>
+
+	
+
+<script>
+	try {
+		var deployPhase = 'release';
+		if (deployPhase === 'release') {
+			JEagleEyeClient.attachOnError();
+
+		} else if (deployPhase === 'dev') {
+			JEagleEyeClient.setDebugOnly(true);
+			JEagleEyeClient.attachOnError();
+
+		} else {
+			// local
+			JEagleEyeClient.attachOnError();
+		}
+	} catch (e) {
+		console.log(e);
+	}
+</script>
+
+    
+    <script type='text/javascript' src='https://ssl.pstatic.net/static.sports/resources/pc/2021/11/11/122215/js/generated/sectionHomeJs.js' charset='UTF-8'></script>
+
+    <script type="text/javascript" src="https://ssl.pstatic.net/tveta/libs/assets/js/pc/main/min/pc.veta.core.min.js?201704051200"></script>
+
+    <script>
+    document.domain = "naver.com";
+    var nsc = "sports.home";
+    </script>
+</head>
+
+<body
+		
+			
+				class="sports_home"
+			
+			
+		
+>
+<!-- 사이드 광고 -->
+<div id="veta_skin_left" data-veta-preview="p_sports_dpl"></div>
+<div id="veta_skin_right" data-veta-preview="p_sports_dpl"></div>
+
+<div id="u_skip">
+	<a href="#lnb_main_sub" onclick="document.getElementById('lnb_main_sub').tabIndex=-1;document.getElementById('lnb_main_sub').focus();"><span>메인 메뉴로 바로가기</span></a>
+	<div id="lnb_menu_link"></div>
+	<div id="container_link"></div>
+</div>
+
+<div id="wrap">
+	
+
+	
+	
+		<div id="header" class="header">
+			<div class="sports_header" role="banner">
+				
+
+<div class="snb_area">
+	<h1 class="logo_group">
+		<a href="https://www.naver.com" class="logo_naver" onClick="clickcr(this, 'STA.naverlogo', '', '', event);" ><span class="blind">네이버</span></a>
+		<a href="https://sports.news.naver.com/" class="logo_sports" onClick="clickcr(this, 'STA.sports', '', '', event);"><span class="blind">스포츠</span></a>
+	</h1>
+	<div class="service_group">
+		<a href="https://news.naver.com/" onClick="clickcr(this, 'STA.news', '', '', event);" class="link_news_service"><span class="blind">뉴스</span></a>
+		<a href="https://weather.naver.com/" onClick="clickcr(this, 'STA.whether', '', '', event);" class="link_weather_service"><span class="blind">날씨</span></a>
+		<a href="https://entertain.naver.com/" onClick="clickcr(this, 'STA.entertain', '', '', event);" class="link_entertain_service"><span class="blind">TV연예</span></a>
+	</div>
+</div>
+				<!-- GNB -->
+				<div class="gnb_area">
+					<div class="gnb_one" id="gnb"></div>
+				</div>
+				<!-- GNB -->
+			</div>
+			
+
+
+
+
+<!-- 추후 제거, lnbMenuInfoList 를 받아오기 위하여 사용중 -->
+
+            
+            
+
+
+
+
+<script>
+	var lnbMenuInfoList = [{"a":"","side":"left","c":"sportshome","subMenuList":[],"h":22,"alt":"스포츠홈","className":"","l":"0","upperSection":null,"url":"/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/home.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/index.nhn","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/home_on.png"},{"a":"","side":"left","c":"baseball","subMenuList":[{"a":"0","side":"","c":"news","h":22,"alt":"최신뉴스","className":"","l":"0","upperSection":null,"url":"/kbaseball/news/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_news.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/kbaseball/news/index.nhn;/kbaseball/news/read.nhn;/kbo/news/read.nhn;/baseballetc/news/read.nhn;/kbaseball/news/index.nhn;/kbo/news/index.nhn;/baseballetc/news/index.nhn;/news.nhn;/kbaseball/news/read;/kbo/news/read;/baseballetc/news/read;/kbaseball/news/index;/kbo/news/index;/baseballetc/news/index;/news","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_news_on.png"},{"a":"0","side":"","c":"video","h":22,"alt":"영상","className":"","l":"0","upperSection":null,"url":"/kbaseball/vod/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_video.png","isImageTypeMenu":false,"alt_u":"","w":39,"onUrl":"/kbaseball/vod/index.nhn","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_video_on.png"},{"a":"0","side":"","c":"album","h":22,"alt":"생생화보","className":"","l":"0","upperSection":null,"url":"/photocenter/albumList?category=kbo","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_photo.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/photocenter/albumList.nhn?category=kbo;/photocenter/photoList.nhn?category=kbo;/photocenter/photo.nhn?category=kbo;/photocenter/photoList?category=kbo;/photocenter/photo?category=kbo","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_photo_on.png"},{"a":"0","side":"","c":"schedule","h":22,"alt":"일정/결과","className":"","l":"0","upperSection":null,"url":"/kbaseball/schedule/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_schedule.png","isImageTypeMenu":false,"alt_u":"","w":65,"onUrl":"/kbaseball/schedule/index.nhn;/gameCenter/gameResult.nhn?category=kbo;/gameCenter/textRelay.nhn?category=kbo;/gameCenter/gameRecord.nhn?category=kbo;/gameCenter/gameVideo.nhn?category=kbo;/gameCenter/gameResult?category=kbo;/gameCenter/textRelay?category=kbo;/gameCenter/gameRecord?category=kbo;/gameCenter/gameVideo?category=kbo;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_schedule_on.png"},{"a":"0","side":"","c":"datacenter","h":22,"alt":"기록/순위","className":"","l":"0","upperSection":null,"url":"/kbaseball/record/index?category=kbo","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_record.png","isImageTypeMenu":false,"alt_u":"","w":66,"onUrl":"/kbaseball/record/index.nhn?category=kbo;/kbaseball/record/index?category=kbo;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_record_on.png"},{"a":"0","side":"","c":"issue","h":22,"alt":"구단/협회","className":"","l":"0","upperSection":null,"url":"/kbaseball/column/columnistList","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_column.png","isImageTypeMenu":false,"alt_u":"","w":64,"onUrl":"/kbaseball/column/columnistList.nhn;/kbaseball/column/columnList.nhn;/kbaseball/news/read.nhn?viewType=CLUB;/kbaseball/club/postList.nhn;/kbaseball/column/columnList;/kbaseball/news/read?viewType=CLUB;/kbaseball/club/postList;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_column_on.png"}],"h":22,"alt":"야구","className":"","l":"0","upperSection":"kbaseball","url":"/kbaseball/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/baseball.png","isImageTypeMenu":false,"alt_u":"","w":38,"onUrl":"/kbaseball/index.nhn;/sports/index.nhn?category=baseball;/kbaseball/index.nhn;/kbaseball/issue/index.nhn;/sports/index?category=baseball;/kbaseball/index;/kbaseball/issue/index;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/baseball_on.png"},{"a":"","side":"left","c":"worldbaseball","subMenuList":[{"a":"0","side":"","c":"news","h":22,"alt":"최신뉴스","className":"","l":"0","upperSection":null,"url":"/wbaseball/news/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_news.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/wbaseball/news/index.nhn;/wbaseball/news/read.nhn;/mlb/news/index.nhn;/npb/news/index.nhn;/mlb/news/read.nhn;/npb/news/read.nhn;/news.nhn;/wbaseball/news/read;/mlb/news/index;/npb/news/index;/mlb/news/read;/npb/news/read;/news","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_news_on.png"},{"a":"0","side":"","c":"video","h":22,"alt":"영상","className":"","l":"0","upperSection":null,"url":"/wbaseball/vod/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_video.png","isImageTypeMenu":false,"alt_u":"","w":39,"onUrl":"/wbaseball/vod/index.nhn","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_video_on.png"},{"a":"0","side":"","c":"album","h":22,"alt":"생생화보","className":"","l":"0","upperSection":null,"url":"/photocenter/albumList?category=mlb","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_photo.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/photocenter/albumList.nhn?category=mlb;/photocenter/photoList.nhn?category=mlb;/photocenter/photo.nhn?category=mlb;/photocenter/albumList.nhn?category=npb;/photocenter/photoList.nhn?category=npb;/photocenter/photo.nhn?category=npb;/photocenter/photoList?category=mlb;/photocenter/photo?category=mlb;/photocenter/albumList?category=npb;/photocenter/photoList?category=npb;/photocenter/photo?category=npb","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_photo_on.png"},{"a":"0","side":"","c":"schedule","h":22,"alt":"일정/결과","className":"","l":"0","upperSection":null,"url":"/wbaseball/schedule/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_schedule.png","isImageTypeMenu":false,"alt_u":"","w":65,"onUrl":"/sports/index.nhn?category=npb&ctg=schedule;/gameCenter/gameResult.nhn?category=mlb;/gameCenter/textRelay.nhn?category=mlb;/gameCenter/gameVideo.nhn?category=mlb;/wbaseball/schedule/index.nhn;/sports/index?category=npb&ctg=schedule;/gameCenter/gameResult?category=mlb;/gameCenter/textRelay?category=mlb;/gameCenter/gameVideo?category=mlb;/wbaseball/schedule/index;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_schedule_on.png"},{"a":"0","side":"","c":"record","h":22,"alt":"기록/순위","className":"","l":"0","upperSection":null,"url":"/wbaseball/record/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_record.png","isImageTypeMenu":false,"alt_u":"","w":66,"onUrl":"/wbaseball/record/index.nhn","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_record_on.png"}],"h":22,"alt":"해외야구","className":"","l":"0","upperSection":"wbaseball","url":"/wbaseball/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/worldbaseball.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/wbaseball/index.nhn;/wbaseball/issue/index.nhn;/wbaseball/index.nhn;/gameCenter/gameResult.nhn?category=wbc;/gameCenter/textRelay.nhn?category=wbc;/gameCenter/gameVideo.nhn?category=wbc;/gameCenter/gameRecord.nhn?category=wbc;/wbaseball/index;/wbaseball/issue/index;/wbaseball/index;/gameCenter/gameResult?category=wbc;/gameCenter/textRelay?category=wbc;/gameCenter/gameVideo?category=wbc;/gameCenter/gameRecord?category=wbc;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/worldbaseball_on.png"},{"a":"","side":"left","c":"soccer","subMenuList":[{"a":"0","side":"","c":"news","h":22,"alt":"최신뉴스","className":"","l":"0","upperSection":null,"url":"/kfootball/news/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_news.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/kleague/news/index.nhn;/afc/news/index.nhn;/amatch/news/index.nhn;/footballetc/news/index.nhn;/kfootball/news/read.nhn;/kleague/news/read.nhn;/afc/news/read.nhn;/amatch/news/read.nhn;/footballetc/news/read.nhn;/news.nhn;/kleague/news/index;/afc/news/index;/amatch/news/index;/footballetc/news/index;/kfootball/news/read;/kleague/news/read;/afc/news/read;/amatch/news/read;/footballetc/news/read;/news","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_news_on.png"},{"a":"0","side":"","c":"video","h":22,"alt":"영상","className":"","l":"0","upperSection":null,"url":"/kfootball/vod/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_video.png","isImageTypeMenu":false,"alt_u":"","w":39,"onUrl":"/kfootball/vod/index.nhn;http://sports.news.naver.com/videoCenter/index.nhn?uCategory=kfootball;http://sports.news.naver.com/videoCenter/index.nhn?uCategory=kfootball&category=kleague;http://sports.news.naver.com/videoCenter/index.nhn?uCategory=kfootball&category=kleague2;http://sports.news.naver.com/videoCenter/index?uCategory=kfootball;http://sports.news.naver.com/videoCenter/index?uCategory=kfootball&category=kleague;http://sports.news.naver.com/videoCenter/index?uCategory=kfootball&category=kleague2;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_video_on.png"},{"a":"0","side":"","c":"album","h":22,"alt":"생생화보","className":"","l":"0","upperSection":null,"url":"/photocenter/albumList?category=kfootball","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_photo.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/photocenter/albumList.nhn?category=kfootball;/photocenter/albumList.nhn?category=amatch;/photocenter/photoList.nhn?category=kfootball;/photocenter/photoList.nhn?category=amatch;/photocenter/photo.nhn?category=kfootball;/photocenter/photo.nhn?category=amatch;/photocenter/albumList?category=amatch;/photocenter/photoList?category=kfootball;/photocenter/photoList?category=amatch;/photocenter/photo?category=kfootball;/photocenter/photo?category=amatch;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_photo_on.png"},{"a":"0","side":"","c":"schedule","h":22,"alt":"일정/결과","className":"","l":"0","upperSection":null,"url":"/kfootball/schedule/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_schedule.png","isImageTypeMenu":false,"alt_u":"","w":65,"onUrl":"/gameCenter/textRelayFootball.nhn?category=kleague;/sports/index.nhn?category=k_league2&ctg=schedule;/sports/index.nhn?category=acl&ctg=schedule;/sports/index.nhn?category=a_match&ctg=schedule;/gameCenter/textRelayFootball.nhn?category=kleague2;/gameCenter/textRelayFootball.nhn?category=acl;/gameCenter/textRelayFootball.nhn?category=amatch;/kfootball/schedule/index.nhn;/gameCenter/textRelayFootball?category=kleague;/sports/index?category=k_league2&ctg=schedule;/sports/index?category=acl&ctg=schedule;/sports/index?category=a_match&ctg=schedule;/gameCenter/textRelayFootball?category=kleague2;/gameCenter/textRelayFootball?category=acl;/gameCenter/textRelayFootball?category=amatch;/kfootball/schedule/index;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_schedule_on.png"},{"a":"0","side":"","c":"record","h":22,"alt":"기록/순위","className":"","l":"0","upperSection":null,"url":"/kfootball/record/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_record.png","isImageTypeMenu":false,"alt_u":"","w":66,"onUrl":"/kfootball/record/index.nhn","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_record_on.png"},{"a":"0","side":"","c":"","h":22,"alt":"구단/협회","className":"","l":"0","upperSection":null,"url":"/kfootball/column/columnistList","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_column.png","isImageTypeMenu":false,"alt_u":"","w":64,"onUrl":"/kfootball/column/columnistList.nhn;/kfootball/column/columnList.nhn;;/kfootball/news/read.nhn?viewType=CLUB;/kfootball/club/postList.nhn;/kfootball/column/columnList;;/kfootball/news/read?viewType=CLUB;/kfootball/club/postList;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_column_on.png"}],"h":22,"alt":"축구","className":"","l":"0","upperSection":"kfootball","url":"/kfootball/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/soccer.png","isImageTypeMenu":false,"alt_u":"","w":38,"onUrl":"/kfootball/index.nhn;/kfootball/issue/index.nhn;/kfootball/index;/kfootball/issue/index;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/soccer_on.png"},{"a":"","side":"left","c":"worldfootball","subMenuList":[{"a":"0","side":"","c":"news","h":22,"alt":"최신뉴스","className":"","l":"0","upperSection":null,"url":"/wfootball/news/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_news.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/wfootball/news/index.nhn;/epl/news/index.nhn;/bundesliga/news/index.nhn;/primera/news/index.nhn;/seria/news/index.nhn;/champseuro/news/index.nhn;/worldfootballetc/news/index.nhn;/wfootball/news/read.nhn;/epl/news/read.nhn;/bundesliga/news/read.nhn;/primera/news/read.nhn;/seria/news/read.nhn;/champseuro/news/read.nhn;/worldfootballetc/news/read.nhn;/news.nhn;/wfootball/news/index;/epl/news/index;/bundesliga/news/index;/primera/news/index;/seria/news/index;/champseuro/news/index;/worldfootballetc/news/index;/wfootball/news/read;/epl/news/read;/bundesliga/news/read;/primera/news/read;/seria/news/read;/champseuro/news/read;/worldfootballetc/news/read;/news;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_news_on.png"},{"a":"0","side":"","c":"video","h":22,"alt":"영상","className":"","l":"0","upperSection":null,"url":"/wfootball/vod/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_video.png","isImageTypeMenu":false,"alt_u":"","w":39,"onUrl":"/wfootball/vod/index.nhn","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_video_on.png"},{"a":"0","side":"","c":"album","h":22,"alt":"생생화보","className":"","l":"0","upperSection":null,"url":"/photocenter/albumList?category=wfootball","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_photo.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/photocenter/albumList.nhn?category=wfootball;/photocenter/photoList.nhn?category=wfootball;/photocenter/photo.nhn?category=wfootball;/photocenter/photoList?category=wfootball;/photocenter/photo?category=wfootball","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_photo_on.png"},{"a":"0","side":"","c":"schedule","h":22,"alt":"일정/결과","className":"","l":"0","upperSection":null,"url":"/wfootball/schedule/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_schedule.png","isImageTypeMenu":false,"alt_u":"","w":65,"onUrl":"/wfootball/schedule/index.nhn;/sports/new/live/index.nhn?category=worldfootball;/russia2018/gameCenter/index.nhn;/sports/new/live/index?category=worldfootball;/russia2018/gameCenter/index;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_schedule_on.png"},{"a":"0","side":"","c":"record","h":22,"alt":"기록/순위","className":"","l":"0","upperSection":null,"url":"/wfootball/record/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_record.png","isImageTypeMenu":false,"alt_u":"","w":66,"onUrl":"/wfootball/record/index.nhn","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_record_on.png"},{"a":"0","side":"","c":"predict","h":36,"alt":"승부예측","className":"","l":"1","upperSection":null,"url":"https://m.sports.naver.com/wfootball/predict","off":"https://sports-phinf.pstatic.net/20211005_246/1633399776176HmOYz_PNG/logo_predict.png","isImageTypeMenu":true,"alt_u":"","w":58,"onUrl":"","on":"https://sports-phinf.pstatic.net/20211005_246/1633399776176HmOYz_PNG/logo_predict.png"}],"h":22,"alt":"해외축구","className":"","l":"0","upperSection":"wfootball","url":"/wfootball/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/worldfootball.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/wfootball/index.nhn;/wfootball/issue/index.nhn;/wfootball/index.nhn;/wfootball/issue/index.nhn;/wfootball/index;/wfootball/issue/index;/wfootball/index;/wfootball/issue/index;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/worldfootball_on.png"},{"a":"","side":"left","c":"basketball","subMenuList":[{"a":"0","side":"","c":"news","h":22,"alt":"최신뉴스","className":"","l":"0","upperSection":null,"url":"/basketball/news/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_news.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/basketball/news/index.nhn;/kbl/news/index.nhn;/nba/news/index.nhn;/wkbl/news/index.nhn;/basketballetc/news/index.nhn;/basketball/news/read.nhn;/kbl/news/read.nhn;/nba/news/read.nhn;/wkbl/news/read.nhn;/basketballetc/news/read.nhn;/news.nhn;/basketball/news/index;/kbl/news/index;/nba/news/index;/wkbl/news/index;/basketballetc/news/index;/basketball/news/read;/kbl/news/read;/nba/news/read;/wkbl/news/read;/basketballetc/news/read;/news","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_news_on.png"},{"a":"0","side":"","c":"video","h":22,"alt":"영상","className":"","l":"0","upperSection":null,"url":"/basketball/vod/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_video.png","isImageTypeMenu":false,"alt_u":"","w":39,"onUrl":"/basketball/vod/index.nhn;/videoCenter/index.nhn?uCategory=wbasketball;/videoCenter/index.nhn?uCategory=wbasketball&&category=nba;/videoCenter/index.nhn?uCategory=kbasketball&category=kbl;/videoCenter/index.nhn?uCategory=kbasketball&category=wkbl;/videoCenter/index.nhn?uCategory=kbasketball;/videoCenter/index?uCategory=wbasketball;/videoCenter/index?uCategory=wbasketball&&category=nba;/videoCenter/index?uCategory=kbasketball&category=kbl;/videoCenter/index?uCategory=kbasketball&category=wkbl;/videoCenter/index?uCategory=kbasketball;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_video_on.png"},{"a":"0","side":"","c":"album","h":22,"alt":"생생화보","className":"","l":"0","upperSection":null,"url":"/photocenter/albumList?category=kbasketball","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_photo.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/photocenter/albumList.nhn?category=kbasketball;/photocenter/photoList.nhn?category=kbasketball;/photocenter/photo.nhn?category=kbasketball;/photocenter/albumList.nhn?category=nba;/photocenter/photoList.nhn?category=nba;/photocenter/photo.nhn?category=nba;/photocenter/albumList?category=kbasketball;/photocenter/photoList?category=kbasketball;/photocenter/photo?category=kbasketball;/photocenter/albumList?category=nba;/photocenter/photoList?category=nba;/photocenter/photo?category=nba;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_photo_on.png"},{"a":"0","side":"","c":"schedule","h":22,"alt":"일정/결과","className":"","l":"0","upperSection":null,"url":"/basketball/schedule/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_schedule.png","isImageTypeMenu":false,"alt_u":"","w":65,"onUrl":"/basketball/schedule/index.nhn;/schedule/index.nhn?category=kbl;/schedule/index.nhn?category=nba;/schedule/index.nhn?category=wkbl;/sports/new/live/index.nhn?category=kbl;/schedule/index?category=kbl;/schedule/index?category=nba;/schedule/index?category=wkbl;/sports/new/live/index?category=kbl;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_schedule_on.png"},{"a":"0","side":"","c":"record","h":22,"alt":"기록/순위","className":"","l":"0","upperSection":null,"url":"/basketball/record/index?category=kbl","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_record.png","isImageTypeMenu":false,"alt_u":"","w":66,"onUrl":"/basketball/record/index.nhn?category=kbl;/basketball/record/index.nhn?category=wkbl;/basketball/record/index.nhn?category=nba;/basketball/record/index?category=wkbl;/basketball/record/index?category=nba;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_record_on.png"},{"a":"0","side":"","c":"","h":22,"alt":"구단/협회","className":"","l":"0","upperSection":null,"url":"/basketball/column/columnistList","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_column.png","isImageTypeMenu":false,"alt_u":"","w":64,"onUrl":"/basketball/column/columnistList.nhn;/basketball/column/columnList.nhn;/basketball/news/read.nhn?viewType=CLUB;/basketball/club/postList.nhn;/basketball/column/columnList;/basketball/news/read?viewType=CLUB;/basketball/club/postList;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_column_on.png"}],"h":22,"alt":"농구","className":"","l":"0","upperSection":"basketball","url":"/basketball/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/basketball.png","isImageTypeMenu":false,"alt_u":"","w":38,"onUrl":"/basketball/index.nhn;/sports/index.nhn?category=kbl;/basketball/issue/index.nhn;/basketball/index;/sports/index?category=kbl;/basketball/issue/index","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/basketball_on.png"},{"a":"","side":"left","c":"kvolleyball","subMenuList":[{"a":"0","side":"","c":"kvolleyball","h":22,"alt":"최신뉴스","className":"","l":"0","upperSection":null,"url":"/volleyball/news/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_news.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/volleyball/news/index.nhn;/volleyball/news/read.nhn;/news.nhn;/volleyball/news/index;/volleyball/news/read;/news","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_news_on.png"},{"a":"0","side":"","c":"video","h":22,"alt":"영상","className":"","l":"0","upperSection":null,"url":"/volleyball/vod/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_video.png","isImageTypeMenu":false,"alt_u":"","w":39,"onUrl":"/volleyball/vod/index.nhn;/kvolleyball/vod/index.nhn;/volleyball/vod/index;/kvolleyball/vod/index","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_video_on.png"},{"a":"0","side":"","c":"album","h":22,"alt":"생생화보","className":"","l":"0","upperSection":null,"url":"/photocenter/albumList?category=volleyball","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_photo.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/photocenter/albumList.nhn?category=volleyball;/photocenter/photoList.nhn?category=volleyball;/photocenter/photo.nhn?category=volleyball;/photocenter/albumList?category=volleyball;/photocenter/photoList?category=volleyball;/photocenter/photo?category=volleyball;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_photo_on.png"},{"a":"0","side":"","c":"schedule","h":22,"alt":"일정/결과","className":"","l":"0","upperSection":null,"url":"/volleyball/schedule/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_schedule.png","isImageTypeMenu":false,"alt_u":"","w":65,"onUrl":"/schedule/index.nhn?category=kvolleyball;/schedule/index.nhn?uCategory=kvolleyball;/volleyball/schedule/index.nhn;/schedule/index?category=kvolleyball;/schedule/index?uCategory=kvolleyball;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_schedule_on.png"},{"a":"0","side":"","c":"record","h":22,"alt":"기록/순위","className":"","l":"0","upperSection":null,"url":"/volleyball/record/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_record.png","isImageTypeMenu":false,"alt_u":"","w":66,"onUrl":"/volleyball/record/index.nhn","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_record_on.png"},{"a":"0","side":"","c":"64","h":22,"alt":"구단/협회","className":"","l":"0","upperSection":null,"url":"/volleyball/column/columnistList","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_column.png","isImageTypeMenu":false,"alt_u":"","w":64,"onUrl":"/volleyball/column/columnistList.nhn;/volleyball/column/columnList.nhn;/volleyball/column/columnistList.nhn;/kvolleyball/column/columnList.nhn;;/volleyball/news/read.nhn?viewType=CLUB;/volleyball/club/postList.nhn;/volleyball/column/columnList;/volleyball/column/columnistList;/kvolleyball/column/columnList;;/volleyball/news/read?viewType=CLUB;/volleyball/club/postList;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_column_on.png"}],"h":22,"alt":"배구","className":"","l":"0","upperSection":"volleyball","url":"/volleyball/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/volleyball.png","isImageTypeMenu":false,"alt_u":"","w":38,"onUrl":"/volleyball/index.nhn;/volleyball/issue/index;/volleyball/issue/index.nhn","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/volleyball_on.png"},{"a":"","side":"left","c":"golf","subMenuList":[{"a":"0","side":"","c":"news","h":22,"alt":"최신뉴스","className":"","l":"0","upperSection":null,"url":"/golf/news/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_news.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/golf/news/index.nhn;/golf/news/read.nhn;/news.nhn;/golf/news/read;/news","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_news_on.png"},{"a":"0","side":"","c":"video","h":22,"alt":"영상","className":"","l":"0","upperSection":null,"url":"/golf/vod/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_video.png","isImageTypeMenu":false,"alt_u":"","w":39,"onUrl":"/golf/vod/index.nhn","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_video_on.png"},{"a":"0","side":"","c":"album","h":22,"alt":"생생화보","className":"","l":"0","upperSection":null,"url":"/photocenter/albumList?category=golf","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_photo.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/photocenter/albumList.nhn?category=golf;/photocenter/photoList.nhn?category=golf;/photocenter/photo.nhn?category=golf;/photocenter/photoList?category=golf;/photocenter/photo?category=golf","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_photo_on.png"},{"a":"0","side":"","c":"schedule","h":22,"alt":"일정/결과","className":"","l":"0","upperSection":null,"url":"/golf/schedule/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_schedule.png","isImageTypeMenu":false,"alt_u":"","w":65,"onUrl":"/golf/schedule/index.nhn;/gameCenter/leaderboard.nhn;/gameCenter/leaderboard","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_schedule_on.png"},{"a":"0","side":"","c":"record","h":22,"alt":"기록/순위","className":"","l":"0","upperSection":null,"url":"/golf/record/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_record.png","isImageTypeMenu":false,"alt_u":"","w":66,"onUrl":"/golf/record/index.nhn","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_record_on.png"},{"a":"0","side":"","c":"","h":22,"alt":"구단/협회","className":"","l":"0","upperSection":null,"url":"/golf/column/columnistList","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_column.png","isImageTypeMenu":false,"alt_u":"","w":64,"onUrl":"/golf/column/columnistList.nhn;/golf/column/columnList.nhn;/golf/news/read.nhn?viewType=CLUB;/golf/club/postList.nhn;/golf/column/columnList;/golf/news/read?viewType=CLUB;/golf/club/postList;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_column_on.png"}],"h":22,"alt":"골프","className":"","l":"0","upperSection":"golf","url":"/golf/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/golf.png","isImageTypeMenu":false,"alt_u":"","w":38,"onUrl":"/golf/index.nhn;/golf/issue/index.nhn;/golf/index;/golf/issue/index","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/golf_on.png"},{"a":"","side":"left","c":"general","subMenuList":[{"a":"0","side":"","c":"news","h":22,"alt":"최신뉴스","className":"","l":"0","upperSection":null,"url":"/general/news/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_news.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/general/news/index.nhn;/sportsetc/news/index.nhn;/fight/news/index.nhn;/handball/news/index.nhn;/tennis/news/index.nhn;/sportsindustry/news/index.nhn;/general/news/read.nhn;/sportsetc/news/read.nhn;/fight/news/read.nhn;/handball/news/read.nhn;/tennis/news/read.nhn;/baduk/news/index.nhn;/sportsindustry/news/read.nhn;/baduk/news/read.nhn;/pcp2018/news/read.nhn;/ag2018/news/index.nhn;/news.nhn;/general/news/index;/sportsetc/news/index;/fight/news/index;/handball/news/index;/tennis/news/index;/sportsindustry/news/index;/general/news/read;/sportsetc/news/read;/fight/news/read;/handball/news/read;/tennis/news/read;/baduk/news/index;/sportsindustry/news/read;/baduk/news/read;/pcp2018/news/read;/ag2018/news/index;/news","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_news_on.png"},{"a":"0","side":"","c":"video","h":22,"alt":"영상","className":"","l":"0","upperSection":null,"url":"/general/vod/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_video.png","isImageTypeMenu":false,"alt_u":"","w":39,"onUrl":"/general/vod/index.nhn","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_video_on.png"},{"a":"0","side":"","c":"album","h":22,"alt":"생생화보","className":"","l":"0","upperSection":null,"url":"/photocenter/albumList?category=general","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_photo.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/photocenter/albumList.nhn?category=general;/photocenter/photoList.nhn?category=general;/photocenter/photo.nhn?category=general;/photocenter/albumList.nhn?category=etc;/photocenter/photoList.nhn?category=etc;/photocenter/photo.nhn?category=etc;/photocenter/albumList.nhn?category=pcp2018;/photocenter/photoList.nhn?category=pcp2018;/photocenter/photo.nhn?category=pcp2018;/photocenter/photoList?category=general;/photocenter/photo?category=general;/photocenter/albumList?category=etc;/photocenter/photoList?category=etc;/photocenter/photo?category=etc;/photocenter/albumList?category=pcp2018;/photocenter/photoList?category=pcp2018;/photocenter/photo?category=pcp2018;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_photo_on.png"},{"a":"0","side":"","c":"","h":22,"alt":"구단/협회","className":"","l":"0","upperSection":null,"url":"/general/column/columnistList","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_column.png","isImageTypeMenu":false,"alt_u":"","w":64,"onUrl":"/general/column/columnistList.nhn;/general/column/columnList.nhn;/general/news/read.nhn?viewType=CLUB;/general/club/postList.nhn;/general/column/columnList;/general/news/read?viewType=CLUB;/general/club/postList;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_column_on.png"},{"a":"0","side":"","c":"ioctv","h":38,"alt":"올림픽 채널","className":"","l":"0","upperSection":null,"url":"/general/vod/index?category=ioctv","off":"https://sports-phinf.pstatic.net/20201028_266/1603885054117oGjdM_PNG/ol_channel_off.png","isImageTypeMenu":true,"alt_u":"","w":158,"onUrl":"/general/vod/index.nhn?category=ioctv","on":"https://sports-phinf.pstatic.net/20201028_159/1603885045353Rov1k_PNG/ol_channel_on.png"}],"h":22,"alt":"일반","className":"","l":"0","upperSection":"general","url":"/general/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/general.png","isImageTypeMenu":false,"alt_u":"","w":38,"onUrl":"/general/index.nhn;/general/issue/index.nhn;/general/index;/general/issue/index;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/general_on.png"},{"a":"0","side":"left","c":"esports","subMenuList":[{"a":"0","side":"","c":"news","h":22,"alt":"최신뉴스","className":"","l":"0","upperSection":null,"url":"https://game.naver.com/esports/news/all","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_news.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"/esports/news/index.nhn;/lol/news/index.nhn;/starcraft2/news/index.nhn;/fifa/news/index.nhn;/dota/news/index.nhn;/herthstone/news/index.nhn;/esportsetc/news/index.nhn;/gameetc/news/index.nhn;/esports/news/read.nhn;/lol/news/read.nhn;/starcraft2/news/read.nhn;/fifa/news/read.nhn;/dota/news/read.nhn;/herthstone/news/read.nhn;/esportsetc/news/read.nhn;/gameetc/news/read.nhn;/news.nhn","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_news_on.png"},{"a":"0","side":"","c":"video","h":22,"alt":"영상","className":"","l":"0","upperSection":null,"url":"https://game.naver.com/esports/videos","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_video.png","isImageTypeMenu":false,"alt_u":"","w":39,"onUrl":"","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_video_on.png"},{"a":"0","side":"","c":"schedule","h":22,"alt":"일정/결과","className":"","l":"0","upperSection":null,"url":"https://game.naver.com/esports/schedule","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_schedule.png","isImageTypeMenu":false,"alt_u":"","w":65,"onUrl":"","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/sub_schedule_on.png"},{"a":"0","side":"","c":"record","h":22,"alt":"순위","className":"","l":"0","upperSection":null,"url":"https://game.naver.com/esports/record","off":"https://sports-phinf.pstatic.net/20210527_78/1622081330162OhbYu_PNG/LNB_%C8%F2%BB%F6_60x22.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"","on":"https://sports-phinf.pstatic.net/20210527_83/1622081321394OxJVv_PNG/LNB_%C6%C4%B6%F5_60x22.png"}],"h":22,"alt":"e스포츠","className":"","l":"0","upperSection":"esports","url":"https://game.naver.com/esports","off":"https://sports-phinf.pstatic.net/20210601_39/1622473688696u0Pgr_PNG/LNB_%C8%F2%BB%F6_60x22.png","isImageTypeMenu":false,"alt_u":"","w":60,"onUrl":"","on":"https://sports-phinf.pstatic.net/20210601_224/16224736836510ytXB_PNG/LNB_%C6%C4%B6%F5_%B9%E8%B0%E6O_60x22.png"},{"a":"","side":"right","c":"scoreboard","subMenuList":[],"h":22,"alt":"오늘의 경기","className":"","l":"0","upperSection":null,"url":"/scoreboard/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/scoreboard.png","isImageTypeMenu":false,"alt_u":"","w":47,"onUrl":"/scoreboard/index.nhn;/main/calendar.nhn;/scoreboard/index.nhn;/main/calendar;/scoreboard/index;","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/scoreboard_on.png"},{"a":"","side":"right","c":"column","subMenuList":[],"h":22,"alt":"연재","className":"","l":"0","upperSection":null,"url":"/column/columnistList","off":"https://sports-phinf.pstatic.net/20170830_97/15040692784550IFtd_PNG/column1_on.png","isImageTypeMenu":false,"alt_u":"","w":35,"onUrl":"/column/columnistList.nhn;/column/columnList.nhn;/column/columnList","on":"https://sports-phinf.pstatic.net/20170830_21/15040692610719i4Vl_PNG/column1.png"},{"a":"","side":"right","c":"ranking","subMenuList":[],"h":22,"alt":"랭킹","className":"","l":"0","upperSection":null,"url":"/ranking/index","off":"https://imgsports.pstatic.net/images/2015/PC/lnb2/ranking.png","isImageTypeMenu":false,"alt_u":"","w":36,"onUrl":"/ranking/index.nhn","on":"https://imgsports.pstatic.net/images/2015/PC/lnb2/ranking_on.png"}];
+</script>
+
+            
+
+
+<div class="sports_menu" role="navigation" id="_sports_lnb_menu">
+	<div class="menu_area">
+		<h2 class="blind">메인 메뉴</h2>
+		<ul class="main_menu_list" role="menubar">
+		</ul>
+		<ul class="side_menu_list" role="menubar">
+		</ul>
+
+		<form name="news_search" method="get" action="https://search.naver.com/search.naver" target=_blank>
+			<fieldset class="search_field">
+				<legend class="blind">스포츠 검색</legend>
+				<input type="hidden" name="where" value="news"/>
+				<input type="hidden" name="ie" value="UTF-8">
+				<input type="text" class="input_search" aria-label="검색어 입력" id="query" name="query">
+				<button type="submit" class="button_search" id="querybtn"
+						onClick="javascript:clickcr(this, 'LNB.search', '', '', event);"><span class="blind">검색</span>
+				</button>
+			</fieldset>
+		</form>
+	</div>
+</div>
+
+<script id="_sports_lnb_menu_li_template" type="text/x-handlebars-template">
+	<li class="main_menu_item" role="presentation">
+		<a href="{{url}}" class="link_main_menu" role="menuitem" {{#if selected}}aria-current="page" {{/if}}
+																									   onclick="clickcr(this,
+																									   'LNB.{{c}}',
+																									   '{{c}}', '',
+																									   event);">{{alt}}</a>
+		<ul class="sub_menu_list" role="menubar">
+			{{#each subMenuList}}
+			<li class="sub_menu_item {{#isSpotType}}type_spot{{/isSpotType}}" role="presentation">
+				<a href="{{url}}" class="link_sub_menu" role="menuitem"
+				   {{#ifCond l '==' 1}}target="_blank"{{/ifCond}}
+				   onclick="clickcr(this, 'LNB.{{c}}', '{{c}}', '', event);" {{#if selected}}aria-current="page" {{/if}}>
+					{{#if isImageTypeMenu}}
+						{{#if selected}}
+							<img src="{{on}}" width="{{w}}" height="{{h}}" alt="{{alt}}">
+						{{else}}
+							<img src="{{off}}" width="{{w}}" height="{{h}}" alt="{{alt}}">
+						{{/if}}
+					{{else}}
+						{{alt}}
+					{{/if}}
+				</a>
+			</li>
+			{{/each}}
+		</ul>
+	</li>
+</script>
+
+
+<script>
+	naver = window.naver || {};
+	naver.sports = naver.sports || {};
+	naver.sports.top = naver.sports.top || {};
+	naver.sports.top.Lnb = eg.Class({
+
+		construct: function (htOption) {
+			this._initVars(htOption);
+			this._initHandlebarsTemplate();
+			this._init();
+			this._setEventHandler();
+		},
+		_initVars: function (htOption) {
+			this._lnbMenus = htOption.lnbMenus || {};
+			this._pathname = location.pathname;
+			this._search = location.search;
+			this._targetUpperSection = htOption.targetUpperSection;
+
+		},
+		_initHandlebarsTemplate: function () {
+			this._sportsLnbMenuLiTemplate = Handlebars.compile($("#_sports_lnb_menu_li_template").html());
+
+
+			Handlebars.registerHelper('isSpotType', function (options) {
+				if (this.c === 'baseball9' || this.c === 'spotv') {
+					return options.fn(this);
+				} else {
+					return options.inverse(this);
+				}
+			});
+
+		},
+		_init: function () {
+
+			if ($("div#lnb_main_sub").length > 0) {
+				$("div#lnb_main_sub").detach();
+			}
+
+			_.each(this._lnbMenus, $.proxy(function (menu) {
+				var upperSection = menu.upperSection;
+				this._updateSelectedMenu(menu, upperSection);
+				_.each(menu.subMenuList, $.proxy(function (subMenu) {
+					this._updateSelectedMenu(subMenu, upperSection);
+				}, this));
+			}, this));
+
+			this._draw();
+		},
+		_setEventHandler: function () {
+		},
+		_draw: function () {
+			_.each(this._lnbMenus, $.proxy(function (menu) {
+				var menuHtml = this._sportsLnbMenuLiTemplate(menu);
+
+				if (menu.side === 'left') {
+					$("#_sports_lnb_menu ul.main_menu_list").last().append(menuHtml);
+				} else {
+					$("#_sports_lnb_menu ul.side_menu_list").last().append(menuHtml);
+				}
+
+			}, this));
+
+			if ($("a.link_main_menu[aria-current='page']").siblings("ul").children().length > 0) {
+				$("#_sports_lnb_menu").addClass("type_submenu");
+			}
+		},
+
+		_updateSelectedMenu: function (menu, upperSection) {
+			var urlListToActivate = this._getUrlListToActivate(menu);
+
+			for (var j = 0; j < urlListToActivate.length; j++) {
+				var urlToActivate = urlListToActivate[j];
+
+				if (_.isEqual(urlToActivate, this._pathname) && ( _.isEqual(this._pathname, "/news") || _.isEqual(this._pathname, "/news.nhn")) && _.isEqual(upperSection, this._targetUpperSection)) {
+					menu.selected = true;
+				} else if (_.isEqual(urlToActivate, this._pathname) && !_.isEqual(this._pathname, "/news") && !_.isEqual(this._pathname, "/news.nhn") ) {
+					menu.selected = true;
+				} else if (urlToActivate.indexOf(this._pathname) > -1 && this._hasQueryParameterToActivate(urlToActivate, this._search)) {
+					menu.selected = true;
+				}
+			}
+		},
+
+		_getUrlListToActivate: function (lnbMenuInfo) {
+			var result = [];
+
+			result.push(lnbMenuInfo.url);
+			result.push(lnbMenuInfo.url.replace(/.nhn/gi,''));
+
+			var urlListToActivate = [];
+			var onUrl = $.trim(lnbMenuInfo.onUrl);
+
+			if (onUrl.length > 0) {
+				urlListToActivate = onUrl.replace(/.nhn/gi,'').split(";");
+				result = result.concat(onUrl.split(";"));
+				result = result.concat(urlListToActivate);
+			}
+
+			var subMenuList = lnbMenuInfo.subMenuList;
+
+			if (subMenuList) {
+				for (var i = 0; i < subMenuList.length; i++) {
+					var subMenu = lnbMenuInfo.subMenuList[i];
+					result.push(subMenu.url);
+					result.push(subMenu.url.replace(/.nhn/gi,''));
+					var onSubUrl = $.trim(subMenu.onUrl);
+					if (onSubUrl.length > 0) {
+						result = result.concat(onSubUrl.split(";"));
+						result = result.concat(onSubUrl.replace(/.nhn/gi,'').split(";"));
+					}
+				}
+			}
+
+			return result;
+		},
+		_hasQueryParameterToActivate: function (urlToActivate, currentQueryParameter) {
+			var queryParameterToActivate = getURLParameter(urlToActivate);
+			var currentQueryParameter = getURLParameter(currentQueryParameter);
+
+			if (!queryParameterToActivate || !currentQueryParameter) {
+				return;
+			}
+
+			var queryParameterToActivateMap = changeQueryStringToObject(queryParameterToActivate);
+			var currentQueryParameterMap = changeQueryStringToObject(currentQueryParameter);
+
+			for (var i in queryParameterToActivateMap) {
+				for (var j in currentQueryParameterMap) {
+					if (i == j && queryParameterToActivateMap[i] == currentQueryParameterMap[j]) {
+						return true;
+					}
+				}
+			}
+
+			return false;
+		}
+	});
+
+	new naver.sports.top.Lnb({
+		"lnbMenus": lnbMenuInfoList,
+		'targetUpperSection': ''
+	});
+</script>
+
+		</div>
+		<script type="text/javascript" charset="utf-8" src="https://ssl.pstatic.net/static.gn/templates/gnb_utf8.nhn?20211123"></script>
+		<script type="text/javascript">
+			//NOTE : GNB init
+			var gnb_option = {
+				gnb_one_naver: 1,
+				gnb_brightness: 1,
+				gnb_login: encodeURIComponent(window.location.href),
+				gnb_logout: encodeURIComponent(window.location.href)
+			};
+
+			(function () {
+				function loadGNB() {
+					//NOTE : https://ssl.pstatic.net/static.gn/templates/gnb_utf8.nhn 회원쪽 gnb src 을 못 가져 왔을 때 방어처리
+					if (typeof getGNB === "function") {
+						getGNB();
+					}
+				}
+
+				window.attachEvent ? window.attachEvent('onload', loadGNB) : window.addEventListener('load', loadGNB, false);
+			})();
+		</script>
+	
+
+	<div id="container" role="main">
+	
+<div id="spot">
+    <div class="home_spot">
+        
+
+
+
+
+	<script id="_section_home_livebox_score_card_template" type="text/x-handlebars-template">
+		<div class="live_box_card {{#if thumbnailImage}}type_live{{/if}}">
+			<div class="category">{{categoryName}}</div>
+			{{#if thumbnailImage}}
+			<div class="image_area">
+				<span class="image"><img src="{{thumbnailImage}}" alt="" width="246" height="132"></span>
+				<span class="common_live_tag"><span class="blind">LIVE</span></span>
+				{{#if liveTotalView}}<span class="live_viewer"><span class="number">{{numberFormat liveTotalView}}</span> 시청</span>{{/if}}
+			</div>
+			{{/if}}
+			<div class="match_info">
+				<div class="match_status">
+					{{#if liveSchedule}}
+						{{#if thumbnailImage}}
+							<span class="status">{{statusInfo}}</span>
+							<span class="league">{{categoryName}}</span>
+						{{else}}
+							<span class="common_live_tag"><span class="blind">LIVE</span></span>
+							<span class="status">{{statusInfo}}</span>
+						{{/if}}
+					{{else}}
+					<span class="versus">VS</span>
+					<span class="status">{{gameTimeHHmm}} 예정</span>
+					{{/if}}
+				</div>
+				<div class="away_team">
+					{{#if liveSchedule}}
+					<span class="score"><span class="point">{{teamScore1}}</span>
+					{{#ifCond homeTeamPenaltyScore '>=' 0 }}
+						<i class="pso"><span class="blind">승부차기</span>{{homeTeamPenaltyScore}}</i>
+					{{/ifCond}}
+				</span>
+					{{/if}}
+					<span class="team">
+						{{#if teamLogo1}}
+					<img src="{{teamLogo1}}" width="30" height="30" alt="{{teamName}}" onerror="this.src='https://sports-phinf.pstatic.net/team/no_emblem_s_square.png'" >
+						{{/if}}
+					<span class="name">{{teamName1}}</span>
+				</span>
+				</div>
+				<div class="home_team">
+					{{#if liveSchedule}}
+					<span class="score"><span class="point">{{teamScore2}}</span>
+					{{#ifCond awayTeamPenaltyScore '>=' 0 }}
+						<i class="pso"><span class="blind">승부차기</span>{{awayTeamPenaltyScore}}</i>
+					{{/ifCond}}
+				</span>
+					{{/if}}
+					<span class="team">
+						{{#if teamLogo2}}
+					<img src="{{teamLogo2}}" width="30" height="30" alt="{{teamName2}}" onerror="this.src='https://sports-phinf.pstatic.net/team/no_emblem_s_square.png'">
+						{{/if}}
+					<span class="name">{{teamName2}}</span>
+				</span>
+				</div>
+			</div>
+			<a href="{{pcUrl}}" class="link_live" aria-label="새창"
+			   onclick="clickcr(this, 'lbx.match', '', '', event);"><span class="blind">영상 보기</span></a>
+		</div>
+	</script>
+
+	<script id="_section_home_livebox_radio_card_template" type="text/x-handlebars-template">
+		<div class="live_box_card type_live">
+			<div class="category">온에어</div>
+			<div class="image_area">
+				<span class="image"><img src="{{thumbnailImage}}" alt="" width="246" height="132"></span>
+				<span class="common_live_tag"><span class="blind">LIVE</span></span>
+			</div>
+			<div class="onair_info">
+				<div class="onair_title">{{radioTitle}}</div>
+				<div class="onair_press">
+					<span class="channel">{{programTitle}}</span>
+					<span class="cast">{{casters}}</span>
+				</div>
+			</div>
+			<a href="{{pcUrl}}" class="link_live" aria-label="새창"
+			   onclick="clickcr(this, 'lbx.match', '', '', event);" {{#ifCond visibleUrlEnable '==' 'Y'}} target="_blank" {{/ifCond}} ><span class="blind">영상 보기</span></a>
+		</div>
+	</script>
+
+	<script id="_section_home_livebox_text_card_template" type="text/x-handlebars-template">
+		<div class="live_box_card {{#if thumbnailImage}}type_live{{/if}}">
+			
+			{{#ifCond categoryId '==' 'tokyo2020'}}
+				<div class="category"><span class="tokyo2020">TOKYO 2020</span></div>
+				{{#if thumbnailImage}}
+					<div class="image_area">
+						<span class="image"><img src="{{thumbnailImage}}" alt="" width="246" height="132"></span>
+						<span class="common_live_tag"><span class="blind">LIVE</span></span>
+						{{#if liveTotalView}}<span class="live_viewer"><span class="number">{{numberFormat liveTotalView}}</span> 시청</span>{{/if}}
+					</div>
+				{{/if}}
+				<div class="general_info">
+					{{#unless thumbnailImage}}
+						<div class="match_status">
+							<span class="common_live_tag"><span class="blind">LIVE</span></span>
+						</div>
+					{{/unless}}
+					{{#if thumbnailImage}}
+						
+						{{#if matchTitle}}
+							<div class="main_title">{{matchTitle}}</div>
+							<div class="sub_title">{{title}}</div>
+						{{else}}
+							<div class="main_title">{{title}}</div>
+						{{/if}}
+						<div class="match_press">
+							<span class="tokyo2020">{{categoryName}}</span>
+						</div>
+					{{else}}
+						{{#if matchTitle}}
+							<div class="main_title">{{title}}</div>
+							<div class="sub_title">{{matchTitle}}</div>
+						{{else}}
+							<div class="main_title">{{title}}</div>
+						{{/if}}
+					{{/if}}
+				</div>
+				<a href="{{pcUrl}}" class="link_live" aria-label="새창"
+				   onclick="clickcr(this, 'lbx.match', '', '', event);"><span class="blind">영상 보기</span></a>
+			{{else}}
+				<div class="category">{{categoryName}}</div>
+					{{#if thumbnailImage}}
+						<div class="image_area">
+							<span class="image"><img src="{{thumbnailImage}}" alt="" width="246" height="132"></span>
+							<span class="common_live_tag"><span class="blind">LIVE</span></span>
+							{{#if liveTotalView}}<span class="live_viewer"><span class="number">{{numberFormat liveTotalView}}</span> 시청</span>{{/if}}
+						</div>
+					{{/if}}
+				<div class="general_info">
+					{{#unless thumbnailImage}}
+						<div class="match_status">
+							<span class="common_live_tag"><span class="blind">LIVE</span></span>
+						</div>
+					{{/unless}}
+					<div class="match_title">{{title}}</div>
+					{{#if thumbnailImage}}
+						<div class="match_press">
+							<span class="league">{{categoryName}}</span>
+						</div>
+					{{/if}}
+				</div>
+				<a href="{{pcUrl}}" class="link_live" aria-label="새창"
+				   onclick="clickcr(this, 'lbx.match', '', '', event);"><span class="blind">영상 보기</span></a>
+			{{/ifCond}}
+		</div>
+	</script>
+
+
+	<script id="_section_home_livebox_text_before_card_template" type="text/x-handlebars-template">
+		<div class="live_box_card">
+			
+			{{#ifCond categoryId '==' 'tokyo2020'}}
+				<div class="category"><span class="tokyo2020">{{categoryName}}</span></div>
+				<div class="general_info">
+					<div class="match_status">
+						<span class="status">{{gameTimeHHmm}} 예정</span>
+					</div>
+					<div class="main_title">{{title}}</div>
+					{{#if matchTitle}}
+						<div class="sub_title">{{matchTitle}}</div>
+					{{/if}}
+				</div>
+				<a href="{{pcUrl}}" class="link_live" aria-label="새창"
+				   onclick="clickcr(this, 'lbx.match', '', '', event);"><span class="blind">영상 보기</span></a>
+			{{else}}
+				<div class="category">{{categoryName}}</div>
+				<div class="general_info">
+					<div class="match_status">
+						<span class="status">{{gameTimeHHmm}} 예정</span>
+					</div>
+					<div class="match_title">{{title}}</div>
+				</div>
+				<a href="{{pcUrl}}" class="link_live" aria-label="새창"
+				   onclick="clickcr(this, 'lbx.match', '', '', event);"><span class="blind">영상 보기</span></a>
+			{{/ifCond}}
+		</div>
+	</script>
+
+	<script id="_section_home_livebox_scroll_pagination_template" type="text/x-handlebars-template">
+		<li class="page_item" {{#ifCond pageIndex
+		'==' 1}} aria-current="location" {{/ifCond}} data-pageNum="{{pageIndex}}" ><span
+			class="blind">{{pageIndex}}</span></li>
+	</script>
+
+
+	<div class="home_live_box" style="display:block" id="_section_home_livebox_root">
+		<div class="live_slider">
+			<h2 class="blind">오늘의 경기</h2>
+			<div class="live_card_list new_scroll" id="_section_home_live_scroll_holder">
+				<div class="scroller" id="_section_home_live_scroll">
+				</div>
+			</div>
+		</div>
+		<button type="button" class="button_prev"
+				style="display:none; left:-52px; transition: all 300ms cubic-bezier(0.215, 0.61, 0.355, 1)">
+			<span class="blind">이전</span>
+			<span class="page">1</span>
+		</button>
+		<button type="button" class="button_next"
+				style="display:none; right:-52px; transition: all 300ms cubic-bezier(0.215, 0.61, 0.355, 1)">
+			<span class="blind">다음</span>
+			<span class="page">2</span>
+		</button>
+	</div>
+
+
+	<script>
+		naver = window.naver || {};
+		naver.sports = naver.sports || {};
+		naver.sports.section = naver.sports.section || {};
+		naver.sports.section.home = naver.sports.section.home || {};
+		naver.sports.section.home.LiveBox = eg.Class({
+
+			_SCROLL_PANNEL_SIZE: 4,
+			_EMPTY_LIVEBOX_CARD: "<div class=\"live_box_card\"></div>",
+
+			construct: function (htOption) {
+				this._initVars(htOption);
+				this._initHandlebarsTemplate();
+				this._init();
+			},
+			_initVars: function (htOption) {
+				this._liveBoxList = htOption.liveBoxList || {};
+				this._liveBoxBeforeList = htOption.liveBoxBeforeList || {};
+				this._totalCardCnt = 0;
+			},
+			_initHandlebarsTemplate: function () {
+				this._sectionHomeLiveBoxTopScoreTemplate = Handlebars.compile($("#_section_home_livebox_score_card_template").html());
+				this._sectionHomeLiveBoxTopRadioTemplate = Handlebars.compile($("#_section_home_livebox_radio_card_template").html());
+				this._sectionHomeLiveBoxTopTextTemplate = Handlebars.compile($("#_section_home_livebox_text_card_template").html());
+				this._sectionHomeLiveBoxTopTextBeforeTemplate = Handlebars.compile($("#_section_home_livebox_text_before_card_template").html());
+				this._sectionHomeLiveBoxFlickingPaginationTemplate = Handlebars.compile($("#_section_home_livebox_scroll_pagination_template").html());
+			},
+			_init: function () {
+				(naver.sports.team && naver.sports.team.MyTeam) ?
+					new naver.sports.team.MyTeam({
+						"callbackFn": $.proxy(function (subscribeList) {
+							this._sort(subscribeList);
+							this._draw();
+						}, this)
+					}) : this._draw();
+			},
+
+			_sort: function (subscribeList) {
+
+				this._liveBoxList = _.sortBy(this._liveBoxList, function (data) {
+					var isSubscribeTeam = _.some(subscribeList, function (subscribeTeam) {
+						return data.fixTopPosition == 'Y' || (
+							subscribeTeam.categoryId == data.categoryId
+							&& (subscribeTeam.teamCode == data.teamCode1 || subscribeTeam.teamCode == data.teamCode2));
+					});
+
+					return isSubscribeTeam ? 0 : 1;
+				});
+
+				this._liveBoxBeforeList = _.sortBy(this._liveBoxBeforeList, function (data) {
+					var isSubscribeTeam = _.some(subscribeList, function (subscribeTeam) {
+						return subscribeTeam.categoryId == data.categoryId
+							&& (subscribeTeam.teamCode == data.teamCode1 || subscribeTeam.teamCode == data.teamCode2);
+					});
+
+					return isSubscribeTeam ? 0 : 1;
+				});
+
+			},
+
+			_draw: function () {
+				if (this._liveBoxList.length < 1) {
+					$("#_section_home_livebox_root").hide();
+					return;
+				}
+
+				$("#_section_home_live_scroll").html("");
+
+				var cards = _.map(this._liveBoxList.concat(this._liveBoxBeforeList), $.proxy(function (item) {
+					if (item.contentsId.indexOf("radio") > -1) {
+						return this._sectionHomeLiveBoxTopRadioTemplate(item);
+					} else if (item.contentsId.indexOf("schedule") > -1 && item.teamName1.length > 0) {
+						return this._sectionHomeLiveBoxTopScoreTemplate(item);
+					} else if (!item.liveSchedule) {
+						return this._sectionHomeLiveBoxTopTextBeforeTemplate(item);
+					} else {
+						return this._sectionHomeLiveBoxTopTextTemplate(item);
+					}
+				}, this));
+
+				this._totalCardCnt = cards.length;
+
+				var emptyCardSize = this._SCROLL_PANNEL_SIZE - this._totalCardCnt;
+				for (var i = 0; i < emptyCardSize; ++i) {
+					cards.push(this._EMPTY_LIVEBOX_CARD);
+				}
+
+				_.each(cards, $.proxy(function (card) {
+					$("#_section_home_live_scroll").append(card);
+
+				}, this));
+
+				if (cards.length > 4) {
+					this._initScrolling();
+				}
+
+				// $("#veta_skin_left").length > 0 ? $("#veta_skin_left").css("top", "316px") : "";
+				// $("#veta_skin_right").length > 0 ? $("#veta_skin_right").css("top", "316px") : "";
+			},
+
+			_initScrolling: function () {
+				this._scroll = new IScroll("#_section_home_live_scroll_holder", {
+					scrollbars: false,
+					scrollX: true,
+					scrollY: false,
+					mouseWheel: true,
+					snap: $('.live_box_card'),
+					bounce: true,
+					preventDefault: true,
+				});
+				this._prevButton = $("#_section_home_livebox_root button.button_prev");
+				this._nextButton = $("#_section_home_livebox_root button.button_next");
+
+				// cards.length > 4 일 때 init 발생, 초기 두 개의 값을 통해 card 간 padding 계산
+				var pages = this._scroll.pages;
+				var cardPadding = pages[0][0].x - pages[1][0].x;
+				var pageLength = this._scroll.pages.length;
+				var buttonHideCss = "-52px";
+				var buttonShowCss = "0px";
+
+				//  좌우 여백으로 인한 버그로 인해 마지막 카드와 이전 카드 사이 간격이 일정하지 않을경우 이전 카드를 마지막 카드로 대체하는 코드
+				if (pages[pageLength - 2][0].x - pages[pageLength - 1][0].x < cardPadding) {
+					pages[pageLength - 2] = pages[pageLength - 1];
+					pages.splice(pageLength-1, 1);
+				}
+
+				/* events */
+				var fnFadeOut = $.proxy(function () {
+					// 양쪽 끝에서 스크롤할 시 scrollEnd 이벤트가 발생 안되는 버그에 대한 방어 코드
+					this._nextButton.find("span.page").fadeOut(200).delay(200).fadeIn();
+					this._prevButton.find("span.page").fadeOut(200).delay(200).fadeIn();
+				}, this);
+
+				var fnRearrange = $.proxy(function () {
+					// 화면에 보이는 마지막 카드 인덱스
+					var lastCardIndex = Math.min(Math.floor((-this._scroll.currentPage.x + this._scroll.wrapperOffset.left + $(window).width()) / cardPadding), this._totalCardCnt);
+					var prevCnt = Math.ceil((-this._scroll.currentPage.x + this._scroll.wrapperOffset.left) / cardPadding);
+					var nextCnt = this._totalCardCnt - lastCardIndex;
+					prevCnt > 0 ? this._prevButton.show() : this._prevButton.hide();
+					nextCnt > 0 ? this._nextButton.show() : this._nextButton.hide();
+					this._prevButton.find("span.page").html(prevCnt);
+					this._nextButton.find("span.page").html(nextCnt);
+					this._prevButton.find("span.page").fadeIn();
+					this._nextButton.find("span.page").fadeIn();
+				}, this);
+
+				this._scroll.on('scrollEnd', fnRearrange);
+				this._scroll.on('scrollCancel', fnRearrange);
+				this._scroll.on('scrollStart', fnFadeOut);
+
+				// 현재 창 비활성화시 발생하는 커서 버그 방어 코드
+				$("#_section_home_livebox_root").hover(
+					$.proxy(function () {
+						this._nextButton.css({right: buttonShowCss});
+						this._prevButton.css({left: buttonShowCss});
+					}, this),
+					$.proxy(function () {
+						this._nextButton.css({right: buttonHideCss});
+						this._prevButton.css({left: buttonHideCss});
+					}, this));
+				$(window).on("resize", fnRearrange);
+				fnRearrange();
+
+				/* buttons */
+				this._prevButton.on("click", $.proxy(function (e) {
+					clickcr(this, 'lbx.search', '', '', e);
+					fnFadeOut();
+					this._scroll.goToPage(Math.max(this._scroll.currentPage.pageX - this._SCROLL_PANNEL_SIZE, 0), 0, 200);
+				}, this));
+
+				this._nextButton.on("click", $.proxy(function (e) {
+					clickcr(this, 'lbx.search', '', '', e);
+					fnFadeOut();
+					this._scroll.goToPage(Math.min(this._scroll.currentPage.pageX + this._SCROLL_PANNEL_SIZE, this._totalCardCnt), 0, 200);
+				}, this));
+
+			}
+
+		});
+		window.livebox = new naver.sports.section.home.LiveBox({
+			"liveBoxList": [{"superCategoryId":"volleyball","upperCategoryId":"kvolleyball","categoryId":"wkovo","categoryName":"프로배구","gameId":"20211123018F66","statusCode":"STARTED","statusInfo":"1세트","cancel":"N","isEnableNvm":"Y","gameInfo":"{\"current_score_by_set\":[{\"set\":1,\"away_score\":\"25\",\"home_score\":\"21\"},{\"set\":2,\"away_score\":\"0\",\"home_score\":\"0\"},{\"set\":3,\"away_score\":\"0\",\"home_score\":\"0\"},{\"set\":4,\"away_score\":\"0\",\"home_score\":\"0\"},{\"set\":5,\"away_score\":\"0\",\"home_score\":\"0\"}],\"current_set\":\"1\",\"away_set_score\":\"0\",\"home_set_score\":\"0\",\"round_info\":\"V리그 2Round\",\"league_code\":\"018\",\"is_regular_game\":true,\"is_after_first_game\":true}","gameDateTime":"2021-11-23 19:00:00","gameTimeHHmm":"19:00","title":"흥국생명 VS IBK기업은행","stadium":"인천삼산월드체육관","isScheduledTv":"Y","isOnairTv":"Y","isOnairText":"N","liveTotalView":112233,"liveCurrentView":29103,"teamName1":"흥국생명","teamName2":"IBK기업은행","teamCode1":"2004","teamCode2":"2006","teamLogo1":"https://sports-phinf.pstatic.net/team/wkovo/default/2004.png","teamLogo2":"https://sports-phinf.pstatic.net/team/wkovo/default/2006.png","teamScore1":0,"teamScore2":0,"winner":null,"homeTeamName":"흥국생명","awayTeamName":"IBK기업은행","homeTeamCode":"2004","awayTeamCode":"2006","homeTeamLogo":"https://sports-phinf.pstatic.net/team/wkovo/default/2004.png","awayTeamLogo":"https://sports-phinf.pstatic.net/team/wkovo/default/2006.png","homeTeamScore":0,"awayTeamScore":0,"homeAwayWinner":"DRAW","disciplineId":null,"disciplineName":null,"matchTitle":null,"url":"/volleyball/gamecenter/wkovo/index?gameId=20211123018F66","homeTeamPenaltyScore":-1,"awayTeamPenaltyScore":-1,"homeCurrentPitcherName":"","awayCurrentPitcherName":"","templateCreateDateTime":[2021,11,23,19,34,0,433000000],"displayType":"vs","mainSubPriority":0,"lolSetInfoList":[],"esportsLeague":null,"commentCount":0,"roundCode":"kovo_r","channelCode":"","thumbnail":"https://sports-phinf.pstatic.net/liveThumbnail/20211123018F66.jpg?type=f640_360","pcUrl":"javascript:popUp('/tv/index?uCategory=kvolleyball&category=wkovo&gameId=20211123018F66', 1088, 670 );","gameContents":null,"winnerPredictPercentage":0,"mainSubType":"MAIN","templateTitle":null,"liveSchedule":true,"whiteList":false,"dataId":"AUTO_0","isEnable":"Y","fixTopPosition":"N","image":"","contentsId":"schedule.20211123018F66","thumbnailImage":"https://sports-phinf.pstatic.net/liveThumbnail/20211123018F66.jpg?type=f640_360"},{"superCategoryId":"volleyball","upperCategoryId":"kvolleyball","categoryId":"kovo","categoryName":"프로배구","gameId":"20211123018M65","statusCode":"STARTED","statusInfo":"2세트","cancel":"N","isEnableNvm":"Y","gameInfo":"{\"current_score_by_set\":[{\"set\":1,\"away_score\":\"25\",\"home_score\":\"19\"},{\"set\":2,\"away_score\":\"2\",\"home_score\":\"3\"},{\"set\":3,\"away_score\":\"0\",\"home_score\":\"0\"},{\"set\":4,\"away_score\":\"0\",\"home_score\":\"0\"},{\"set\":5,\"away_score\":\"0\",\"home_score\":\"0\"}],\"current_set\":\"2\",\"away_set_score\":\"1\",\"home_set_score\":\"0\",\"round_info\":\"V리그 2Round\",\"league_code\":\"018\",\"is_regular_game\":true,\"is_after_first_game\":true}","gameDateTime":"2021-11-23 19:00:00","gameTimeHHmm":"19:00","title":"우리카드 VS OK금융그룹","stadium":"서울장충체육관","isScheduledTv":"Y","isOnairTv":"Y","isOnairText":"N","liveTotalView":47060,"liveCurrentView":9839,"teamName1":"우리카드","teamName2":"OK금융그룹","teamCode1":"1009","teamCode2":"1008","teamLogo1":"https://sports-phinf.pstatic.net/team/kovo/default/1009.png","teamLogo2":"https://sports-phinf.pstatic.net/team/kovo/default/1008.png","teamScore1":0,"teamScore2":1,"winner":"2","homeTeamName":"우리카드","awayTeamName":"OK금융그룹","homeTeamCode":"1009","awayTeamCode":"1008","homeTeamLogo":"https://sports-phinf.pstatic.net/team/kovo/default/1009.png","awayTeamLogo":"https://sports-phinf.pstatic.net/team/kovo/default/1008.png","homeTeamScore":0,"awayTeamScore":1,"homeAwayWinner":"AWAY","disciplineId":null,"disciplineName":null,"matchTitle":null,"url":"/volleyball/gamecenter/kovo/index?gameId=20211123018M65","homeTeamPenaltyScore":-1,"awayTeamPenaltyScore":-1,"homeCurrentPitcherName":"","awayCurrentPitcherName":"","templateCreateDateTime":[2021,11,23,19,34,0,425000000],"displayType":"vs","mainSubPriority":0,"lolSetInfoList":[],"esportsLeague":null,"commentCount":0,"roundCode":"kovo_r","channelCode":"","thumbnail":"https://sports-phinf.pstatic.net/liveThumbnail/20211123018M65.jpg?type=f640_360","pcUrl":"javascript:popUp('/tv/index?uCategory=kvolleyball&category=kovo&gameId=20211123018M65', 1088, 670 );","gameContents":null,"winnerPredictPercentage":0,"mainSubType":"MAIN","templateTitle":null,"liveSchedule":true,"whiteList":false,"dataId":"AUTO_1","isEnable":"Y","fixTopPosition":"N","image":"","contentsId":"schedule.20211123018M65","thumbnailImage":"https://sports-phinf.pstatic.net/liveThumbnail/20211123018M65.jpg?type=f640_360"},{"superCategoryId":"general","upperCategoryId":"others","categoryId":"etc","categoryName":"당구","gameId":"20211123PBA1","statusCode":"STARTED","statusInfo":"","cancel":"N","isEnableNvm":"N","gameInfo":null,"gameDateTime":"2021-11-23 13:00:00","gameTimeHHmm":"13:00","title":"휴온스 PBA/LPBA 챔피언십","stadium":"소노캄 고양 그랜드볼룸","isScheduledTv":"Y","isOnairTv":"Y","isOnairText":"N","liveTotalView":135844,"liveCurrentView":3033,"teamName1":"","teamName2":"","teamCode1":"","teamCode2":"","teamLogo1":"","teamLogo2":"","teamScore1":0,"teamScore2":0,"winner":null,"homeTeamName":"","awayTeamName":"","homeTeamCode":"","awayTeamCode":"","homeTeamLogo":"","awayTeamLogo":"","homeTeamScore":0,"awayTeamScore":0,"homeAwayWinner":"DRAW","disciplineId":null,"disciplineName":null,"matchTitle":null,"url":"/general/gamecenter/etc/index?gameId=20211123PBA1","homeTeamPenaltyScore":-1,"awayTeamPenaltyScore":-1,"homeCurrentPitcherName":"","awayCurrentPitcherName":"","templateCreateDateTime":[2021,11,23,19,34,0,455000000],"displayType":"text","mainSubPriority":1,"lolSetInfoList":[],"esportsLeague":null,"commentCount":0,"roundCode":"","channelCode":"","thumbnail":"https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9177418/live/3168271/record/12764573/thumbnail/image_1080.jpg","pcUrl":"javascript:popUp('/tv/index?uCategory=others&category=etc&gameId=20211123PBA1', 1088, 670 );","gameContents":null,"winnerPredictPercentage":0,"mainSubType":"SUB","templateTitle":"휴온스 PBA/LPBA 챔피언십","liveSchedule":true,"whiteList":false,"dataId":"AUTO_3","isEnable":"Y","fixTopPosition":"N","image":"","contentsId":"schedule.20211123PBA1","thumbnailImage":"https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9177418/live/3168271/record/12764573/thumbnail/image_1080.jpg"},{"superCategoryId":"general","upperCategoryId":"others","categoryId":"etc","categoryName":"바둑","gameId":"20211123BD3","statusCode":"STARTED","statusInfo":"","cancel":"N","isEnableNvm":"N","gameInfo":null,"gameDateTime":"2021-11-23 19:00:00","gameTimeHHmm":"19:00","title":"제5회 한국제지 여자기성전","stadium":"바둑 TV스튜디오","isScheduledTv":"Y","isOnairTv":"Y","isOnairText":"N","liveTotalView":1426,"liveCurrentView":439,"teamName1":"","teamName2":"","teamCode1":"","teamCode2":"","teamLogo1":"","teamLogo2":"","teamScore1":0,"teamScore2":0,"winner":null,"homeTeamName":"","awayTeamName":"","homeTeamCode":"","awayTeamCode":"","homeTeamLogo":"","awayTeamLogo":"","homeTeamScore":0,"awayTeamScore":0,"homeAwayWinner":"DRAW","disciplineId":null,"disciplineName":null,"matchTitle":null,"url":"/general/gamecenter/etc/index?gameId=20211123BD3","homeTeamPenaltyScore":-1,"awayTeamPenaltyScore":-1,"homeCurrentPitcherName":"","awayCurrentPitcherName":"","templateCreateDateTime":[2021,11,23,19,34,0,457000000],"displayType":"text","mainSubPriority":1,"lolSetInfoList":[],"esportsLeague":null,"commentCount":0,"roundCode":"","channelCode":"","thumbnail":"https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9177407/live/3168309/record/12770223/thumbnail/image_1080.jpg","pcUrl":"javascript:popUp('/tv/index?uCategory=others&category=etc&gameId=20211123BD3', 1088, 670 );","gameContents":null,"winnerPredictPercentage":0,"mainSubType":"SUB","templateTitle":"제5회 한국제지 여자기성전","liveSchedule":true,"whiteList":false,"dataId":"AUTO_4","isEnable":"Y","fixTopPosition":"N","image":"","contentsId":"schedule.20211123BD3","thumbnailImage":"https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9177407/live/3168309/record/12770223/thumbnail/image_1080.jpg"},{"superCategoryId":"general","upperCategoryId":"others","categoryId":"etc","categoryName":"아이스하키","gameId":"20211123ICEHOCKEY1","statusCode":"STARTED","statusInfo":"","cancel":"N","isEnableNvm":"N","gameInfo":null,"gameDateTime":"2021-11-23 19:00:00","gameTimeHHmm":"19:00","title":"고려대 vs 광운대 - KUSF 대학아이스하키 U리그","stadium":"고려대학교아이스링크","isScheduledTv":"Y","isOnairTv":"Y","isOnairText":"N","liveTotalView":277,"liveCurrentView":96,"teamName1":"","teamName2":"","teamCode1":"","teamCode2":"","teamLogo1":"","teamLogo2":"","teamScore1":0,"teamScore2":0,"winner":null,"homeTeamName":"","awayTeamName":"","homeTeamCode":"","awayTeamCode":"","homeTeamLogo":"","awayTeamLogo":"","homeTeamScore":0,"awayTeamScore":0,"homeAwayWinner":"DRAW","disciplineId":null,"disciplineName":null,"matchTitle":null,"url":"/general/gamecenter/etc/index?gameId=20211123ICEHOCKEY1","homeTeamPenaltyScore":-1,"awayTeamPenaltyScore":-1,"homeCurrentPitcherName":"","awayCurrentPitcherName":"","templateCreateDateTime":[2021,11,23,19,34,0,459000000],"displayType":"text","mainSubPriority":1,"lolSetInfoList":[],"esportsLeague":null,"commentCount":0,"roundCode":"","channelCode":"","thumbnail":"https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9177433/live/3171128/record/12770816/thumbnail/image_1080.jpg","pcUrl":"javascript:popUp('/tv/index?uCategory=others&category=etc&gameId=20211123ICEHOCKEY1', 1088, 670 );","gameContents":null,"winnerPredictPercentage":0,"mainSubType":"SUB","templateTitle":"고려대 vs 광운대 - KUSF 대학아이스하키 U리그","liveSchedule":true,"whiteList":false,"dataId":"AUTO_5","isEnable":"Y","fixTopPosition":"N","image":"","contentsId":"schedule.20211123ICEHOCKEY1","thumbnailImage":"https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9177433/live/3171128/record/12770816/thumbnail/image_1080.jpg"},{"superCategoryId":"volleyball","upperCategoryId":"kvolleyball","categoryId":"volleyballetc","categoryName":"배구","gameId":"20211123WOORICARD1","statusCode":"STARTED","statusInfo":"","cancel":"N","isEnableNvm":"Y","gameInfo":null,"gameDateTime":"2021-11-23 18:40:00","gameTimeHHmm":"18:40","title":"우리카드 랜선 응원","stadium":"","isScheduledTv":"Y","isOnairTv":"Y","isOnairText":"N","liveTotalView":499,"liveCurrentView":48,"teamName1":"","teamName2":"","teamCode1":"","teamCode2":"","teamLogo1":"","teamLogo2":"","teamScore1":0,"teamScore2":0,"winner":null,"homeTeamName":"","awayTeamName":"","homeTeamCode":"","awayTeamCode":"","homeTeamLogo":"","awayTeamLogo":"","homeTeamScore":0,"awayTeamScore":0,"homeAwayWinner":"DRAW","disciplineId":null,"disciplineName":null,"matchTitle":null,"url":"/general/gamecenter/etc/index?gameId=20211123WOORICARD1","homeTeamPenaltyScore":-1,"awayTeamPenaltyScore":-1,"homeCurrentPitcherName":"","awayCurrentPitcherName":"","templateCreateDateTime":[2021,11,23,19,34,0,418000000],"displayType":"text","mainSubPriority":0,"lolSetInfoList":[],"esportsLeague":null,"commentCount":0,"roundCode":"","channelCode":"","thumbnail":"https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9175079/live/3168303/record/12770175/thumbnail/image_1080.jpg","pcUrl":"javascript:popUp('/tv/index?uCategory=kvolleyball&category=volleyballetc&gameId=20211123WOORICARD1', 1088, 670 );","gameContents":null,"winnerPredictPercentage":0,"mainSubType":"MAIN","templateTitle":"우리카드 랜선 응원","liveSchedule":true,"whiteList":false,"dataId":"AUTO_2","isEnable":"Y","fixTopPosition":"N","image":"","contentsId":"schedule.20211123WOORICARD1","thumbnailImage":"https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9175079/live/3168303/record/12770175/thumbnail/image_1080.jpg"}],
+			"liveBoxBeforeList": [{"superCategoryId":"football","upperCategoryId":"wfootball","categoryId":"champs","categoryName":"UCL","gameId":"2021112450028933544","statusCode":"BEFORE","statusInfo":"경기전","cancel":"N","isEnableNvm":"N","gameInfo":"{\"shoot_out_json\":{\"home\":[],\"away\":[],\"homeScore\":0,\"awayScore\":0},\"home_team_regular_league\":\"champs\",\"away_team_regular_league\":\"bundesliga\",\"home_team_scorer\":\"\",\"has_pt_score\":\"N\",\"current_half\":\"경기전\",\"away_team_extra_info\":\"\",\"away_team_scorer\":\"\",\"round_tournament_info\":\"E\",\"scorer_json\":{\"home\":[],\"away\":[]},\"season\":\"2122\",\"game_no\":0,\"home_team_extra_info\":\"\",\"match_day\":\"5\",\"match_round\":\"5\",\"game_id\":\"2021112450028933544\"}","gameDateTime":"2021-11-24 02:45:00","gameTimeHHmm":"02:45","title":"디나모키에프 VS 바이에른 뮌헨","stadium":"Olimpiysky National Sports Complex","isScheduledTv":"\u0000","isOnairTv":"\u0000","isOnairText":"\u0000","liveTotalView":0,"liveCurrentView":0,"teamName1":"디나모키에프","teamName2":"바이에른 뮌헨","teamCode1":"7012","teamCode2":"26247","teamLogo1":"https://sports-phinf.pstatic.net/team/wfootball/default/7012.png","teamLogo2":"https://sports-phinf.pstatic.net/team/wfootball/default/26247.png","teamScore1":0,"teamScore2":0,"winner":null,"homeTeamName":"디나모키에프","awayTeamName":"바이에른 뮌헨","homeTeamCode":"7012","awayTeamCode":"26247","homeTeamLogo":"https://sports-phinf.pstatic.net/team/wfootball/default/7012.png","awayTeamLogo":"https://sports-phinf.pstatic.net/team/wfootball/default/26247.png","homeTeamScore":0,"awayTeamScore":0,"homeAwayWinner":"DRAW","disciplineId":null,"disciplineName":null,"matchTitle":null,"url":"/worldfootball/gamecenter/worldfootball/index?league=champs&gameId=2021112450028933544","homeTeamPenaltyScore":-1,"awayTeamPenaltyScore":-1,"homeCurrentPitcherName":"","awayCurrentPitcherName":"","templateCreateDateTime":[2021,11,23,19,34,0,374000000],"displayType":"vs","mainSubPriority":1,"lolSetInfoList":[],"esportsLeague":null,"commentCount":0,"roundCode":"","channelCode":"","thumbnail":null,"pcUrl":"/game/2021112450028933544","gameContents":{"gameEvent":[],"predict":{"season":"2021","predictId":113,"round":17,"predictGameId":974,"homeSelectCount":580,"homeSelectRatio":1,"awaySelectCount":85189,"awaySelectRatio":98,"drawSelectCount":1126,"drawSelectRatio":1,"totalCount":86895,"homeTeamName":"디나모키에프","awayTeamName":"바이에른 뮌헨","homeMyTeamColorStart":null,"homeMyTeamColorEnd":null,"homeMyTeamColorFont":null,"awayMyTeamColorStart":"#D40014","awayMyTeamColorEnd":"#9B0202","awayMyTeamColorFont":"#FFFFFF"},"formation":null,"video":[]},"winnerPredictPercentage":0,"mainSubType":"SUB","templateTitle":"","liveSchedule":false,"whiteList":true,"dataId":"AUTO_6","isEnable":"Y","fixTopPosition":"N","image":"","contentsId":"schedule.2021112450028933544","thumbnailImage":""},{"superCategoryId":"football","upperCategoryId":"wfootball","categoryId":"champs","categoryName":"UCL","gameId":"2021112450028933568","statusCode":"BEFORE","statusInfo":"경기전","cancel":"N","isEnableNvm":"N","gameInfo":"{\"vod_id\":\"882091\",\"shoot_out_json\":{\"home\":[],\"away\":[],\"homeScore\":0,\"awayScore\":0},\"home_team_regular_league\":\"primera\",\"away_team_regular_league\":\"epl\",\"home_team_scorer\":\"\",\"has_pt_score\":\"N\",\"current_half\":\"경기전\",\"away_team_extra_info\":\"\",\"away_team_scorer\":\"\",\"round_tournament_info\":\"F\",\"scorer_json\":{\"home\":[],\"away\":[]},\"is_vod\":\"Y\",\"season\":\"2122\",\"game_no\":0,\"home_team_extra_info\":\"\",\"match_day\":\"5\",\"match_round\":\"5\",\"game_id\":\"2021112450028933568\"}","gameDateTime":"2021-11-24 02:45:00","gameTimeHHmm":"02:45","title":"비야레알 VS 맨유","stadium":"Estadio de la Ceramica","isScheduledTv":"\u0000","isOnairTv":"\u0000","isOnairText":"\u0000","liveTotalView":0,"liveCurrentView":0,"teamName1":"비야레알","teamName2":"맨유","teamCode1":"38295","teamCode2":"12","teamLogo1":"https://sports-phinf.pstatic.net/team/wfootball/default/38295.png","teamLogo2":"https://sports-phinf.pstatic.net/team/wfootball/default/12.png","teamScore1":0,"teamScore2":0,"winner":null,"homeTeamName":"비야레알","awayTeamName":"맨유","homeTeamCode":"38295","awayTeamCode":"12","homeTeamLogo":"https://sports-phinf.pstatic.net/team/wfootball/default/38295.png","awayTeamLogo":"https://sports-phinf.pstatic.net/team/wfootball/default/12.png","homeTeamScore":0,"awayTeamScore":0,"homeAwayWinner":"DRAW","disciplineId":null,"disciplineName":null,"matchTitle":null,"url":"/worldfootball/gamecenter/worldfootball/index?league=champs&gameId=2021112450028933568","homeTeamPenaltyScore":-1,"awayTeamPenaltyScore":-1,"homeCurrentPitcherName":"","awayCurrentPitcherName":"","templateCreateDateTime":[2021,11,23,19,34,0,374000000],"displayType":"vs","mainSubPriority":1,"lolSetInfoList":[],"esportsLeague":null,"commentCount":0,"roundCode":"","channelCode":"","thumbnail":null,"pcUrl":"/game/2021112450028933568","gameContents":{"gameEvent":[],"predict":{"season":"2021","predictId":113,"round":17,"predictGameId":975,"homeSelectCount":32558,"homeSelectRatio":38,"awaySelectCount":35170,"awaySelectRatio":41,"drawSelectCount":18952,"drawSelectRatio":22,"totalCount":86680,"homeTeamName":"비야레알","awayTeamName":"맨유","homeMyTeamColorStart":"#FFE715","homeMyTeamColorEnd":"#FFE715","homeMyTeamColorFont":"#013765","awayMyTeamColorStart":"#af1108","awayMyTeamColorEnd":"#e32c22","awayMyTeamColorFont":"#ffffff"},"formation":null,"video":[{"menuId":null,"itemId":null,"dataId":null,"contentsId":"video.882091","seq":0,"title":"[맨유 이슈] 매과이어 \"솔샤르가 총대 메고 나간거야\"","image":"https://phinf.pstatic.net/tvcast/20211123_204/Uprxv_1637633304668LQDjE_JPEG/1637632971460.jpg","tag":"핫클립","serviceEnable":null,"extraInfoJson":"{\"endCardDataType\":\"video\",\"divisionCode\":\"\",\"seasonCode\":\"howtosports63\",\"videoType\":\"7\",\"masterVid\":\"98ADA7443E514F826C0F8676FEF991E59C9A\",\"videoId\":882091,\"playTime\":\"00:02:25\"}","createDateTime":null,"updateDateTime":null}]},"winnerPredictPercentage":0,"mainSubType":"SUB","templateTitle":"","liveSchedule":false,"whiteList":true,"dataId":"AUTO_7","isEnable":"Y","fixTopPosition":"N","image":"","contentsId":"schedule.2021112450028933568","thumbnailImage":""},{"superCategoryId":"football","upperCategoryId":"wfootball","categoryId":"champs","categoryName":"UCL","gameId":"2021112450028933546","statusCode":"BEFORE","statusInfo":"경기전","cancel":"N","isEnableNvm":"N","gameInfo":"{\"shoot_out_json\":{\"home\":[],\"away\":[],\"homeScore\":0,\"awayScore\":0},\"home_team_regular_league\":\"primera\",\"away_team_regular_league\":\"champs\",\"home_team_scorer\":\"\",\"has_pt_score\":\"N\",\"current_half\":\"경기전\",\"away_team_extra_info\":\"\",\"away_team_scorer\":\"\",\"round_tournament_info\":\"E\",\"scorer_json\":{\"home\":[],\"away\":[]},\"season\":\"2122\",\"game_no\":0,\"home_team_extra_info\":\"\",\"match_day\":\"5\",\"match_round\":\"5\",\"game_id\":\"2021112450028933546\"}","gameDateTime":"2021-11-24 05:00:00","gameTimeHHmm":"05:00","title":"바르셀로나 VS 벤피카","stadium":"Camp Nou","isScheduledTv":"\u0000","isOnairTv":"\u0000","isOnairText":"\u0000","liveTotalView":0,"liveCurrentView":0,"teamName1":"바르셀로나","teamName2":"벤피카","teamCode1":"26300","teamCode2":"26274","teamLogo1":"https://sports-phinf.pstatic.net/team/wfootball/default/26300.png","teamLogo2":"https://sports-phinf.pstatic.net/team/wfootball/default/26274.png","teamScore1":0,"teamScore2":0,"winner":null,"homeTeamName":"바르셀로나","awayTeamName":"벤피카","homeTeamCode":"26300","awayTeamCode":"26274","homeTeamLogo":"https://sports-phinf.pstatic.net/team/wfootball/default/26300.png","awayTeamLogo":"https://sports-phinf.pstatic.net/team/wfootball/default/26274.png","homeTeamScore":0,"awayTeamScore":0,"homeAwayWinner":"DRAW","disciplineId":null,"disciplineName":null,"matchTitle":null,"url":"/worldfootball/gamecenter/worldfootball/index?league=champs&gameId=2021112450028933546","homeTeamPenaltyScore":-1,"awayTeamPenaltyScore":-1,"homeCurrentPitcherName":"","awayCurrentPitcherName":"","templateCreateDateTime":[2021,11,23,19,34,0,374000000],"displayType":"vs","mainSubPriority":1,"lolSetInfoList":[],"esportsLeague":null,"commentCount":0,"roundCode":"","channelCode":"","thumbnail":null,"pcUrl":"/game/2021112450028933546","gameContents":{"gameEvent":[],"predict":{"season":"2021","predictId":113,"round":17,"predictGameId":968,"homeSelectCount":67679,"homeSelectRatio":78,"awaySelectCount":7828,"awaySelectRatio":9,"drawSelectCount":11040,"drawSelectRatio":13,"totalCount":86547,"homeTeamName":"바르셀로나","awayTeamName":"벤피카","homeMyTeamColorStart":"#9B1629","homeMyTeamColorEnd":"#11376E","homeMyTeamColorFont":"#FFCE4A","awayMyTeamColorStart":null,"awayMyTeamColorEnd":null,"awayMyTeamColorFont":null},"formation":null,"video":[]},"winnerPredictPercentage":0,"mainSubType":"SUB","templateTitle":"","liveSchedule":false,"whiteList":true,"dataId":"AUTO_8","isEnable":"Y","fixTopPosition":"N","image":"","contentsId":"schedule.2021112450028933546","thumbnailImage":""},{"superCategoryId":"football","upperCategoryId":"wfootball","categoryId":"champs","categoryName":"UCL","gameId":"2021112450028933616","statusCode":"BEFORE","statusInfo":"경기전","cancel":"N","isEnableNvm":"N","gameInfo":"{\"shoot_out_json\":{\"home\":[],\"away\":[],\"homeScore\":0,\"awayScore\":0},\"home_team_regular_league\":\"epl\",\"away_team_regular_league\":\"seria\",\"home_team_scorer\":\"\",\"has_pt_score\":\"N\",\"current_half\":\"경기전\",\"away_team_extra_info\":\"\",\"away_team_scorer\":\"\",\"round_tournament_info\":\"H\",\"scorer_json\":{\"home\":[],\"away\":[]},\"season\":\"2122\",\"game_no\":0,\"home_team_extra_info\":\"\",\"match_day\":\"5\",\"match_round\":\"5\",\"game_id\":\"2021112450028933616\"}","gameDateTime":"2021-11-24 05:00:00","gameTimeHHmm":"05:00","title":"첼시 VS 유벤투스","stadium":"Stamford Bridge","isScheduledTv":"\u0000","isOnairTv":"\u0000","isOnairText":"\u0000","liveTotalView":0,"liveCurrentView":0,"teamName1":"첼시","teamName2":"유벤투스","teamCode1":"4","teamCode2":"26359","teamLogo1":"https://sports-phinf.pstatic.net/team/wfootball/default/4.png","teamLogo2":"https://sports-phinf.pstatic.net/team/wfootball/default/26359.png","teamScore1":0,"teamScore2":0,"winner":null,"homeTeamName":"첼시","awayTeamName":"유벤투스","homeTeamCode":"4","awayTeamCode":"26359","homeTeamLogo":"https://sports-phinf.pstatic.net/team/wfootball/default/4.png","awayTeamLogo":"https://sports-phinf.pstatic.net/team/wfootball/default/26359.png","homeTeamScore":0,"awayTeamScore":0,"homeAwayWinner":"DRAW","disciplineId":null,"disciplineName":null,"matchTitle":null,"url":"/worldfootball/gamecenter/worldfootball/index?league=champs&gameId=2021112450028933616","homeTeamPenaltyScore":-1,"awayTeamPenaltyScore":-1,"homeCurrentPitcherName":"","awayCurrentPitcherName":"","templateCreateDateTime":[2021,11,23,19,34,0,374000000],"displayType":"vs","mainSubPriority":1,"lolSetInfoList":[],"esportsLeague":null,"commentCount":0,"roundCode":"","channelCode":"","thumbnail":null,"pcUrl":"/game/2021112450028933616","gameContents":{"gameEvent":[],"predict":{"season":"2021","predictId":113,"round":17,"predictGameId":972,"homeSelectCount":65625,"homeSelectRatio":76,"awaySelectCount":9487,"awaySelectRatio":11,"drawSelectCount":11192,"drawSelectRatio":13,"totalCount":86304,"homeTeamName":"첼시","awayTeamName":"유벤투스","homeMyTeamColorStart":"#0B1c7c","homeMyTeamColorEnd":"#233d85","homeMyTeamColorFont":"#f9cb7d","awayMyTeamColorStart":"#050505","awayMyTeamColorEnd":"#050505","awayMyTeamColorFont":"#ffffff"},"formation":null,"video":[]},"winnerPredictPercentage":0,"mainSubType":"SUB","templateTitle":"","liveSchedule":false,"whiteList":true,"dataId":"AUTO_9","isEnable":"Y","fixTopPosition":"N","image":"","contentsId":"schedule.2021112450028933616","thumbnailImage":""}],
+		});
+	</script>
+
+
+
+
+    </div>
+</div>
+
+<div id="content">
+    
+    <div class="main_wrap">
+        <div class="today_section type_no_da">
+            
+
+
+
+
+
+
+
+
+
+<h3 class="blind">오늘의 스포츠</h3>
+<ul class="today_list">
+
+	
+		
+			<li class="today_item">
+				<a href="/news?oid=109&aid=0004515804"
+				   class="link_today"
+				   title="삼성 이학주, 구단 공식 행사 명단 왜 빠졌나"
+				   onclick="clickcr(this, 'rnk*r.list', '109_0004515804', '1', event);"
+				   data-not-edited="Y">
+
+					<div class="image_area">
+						<!-- [D] 썸네일 이미지 alt 값 비워주세요. -->
+
+						<img src="https://dthumb-phinf.pstatic.net?src=http://imgnews.naver.net/image/109/2021/11/23/0004515804_001_20211123182903364.jpg&type=nf160_95&service=sports" width="160" height="95" alt="">
+					</div>
+					<div class="text_area">
+						<strong class="title">삼성 이학주, 구단 공식 행사 명단 왜 빠졌나</strong>
+						<!-- [D] 내용 두줄 말줄임 적용해주세요. -->
+						<p class="news">
+								이학주 / OSEN DB[OSEN=대구, 손찬익 기자] 삼성 이학주가 구단 공식 행사에는 불참하고 양준혁 야구재단의 2021 희망더하기 자선야구대회에 참석할...
+						</p>
+						<div class="information">
+							<span>OSEN</span>
+							<span>KBO리그</span>
+						</div>
+					</div>
+				</a>
+			</li>
+		
+	
+		
+			<li class="today_item">
+				<a href="/news?oid=109&aid=0004515838"
+				   class="link_today"
+				   title="이승우, STVV와 계약 해지... 이적료 없이 새출발 [단독]"
+				   onclick="clickcr(this, 'rnk*r.list', '109_0004515838', '2', event);"
+				   data-not-edited="Y">
+
+					<div class="image_area">
+						<!-- [D] 썸네일 이미지 alt 값 비워주세요. -->
+
+						<img src="https://dthumb-phinf.pstatic.net?src=http://imgnews.naver.net/image/109/2021/11/23/0004515838_001_20211123173903329.jpg&type=nf160_95&service=sports" width="160" height="95" alt="">
+					</div>
+					<div class="text_area">
+						<strong class="title">이승우, STVV와 계약 해지... 이적료 없이 새출발 [단독]</strong>
+						<!-- [D] 내용 두줄 말줄임 적용해주세요. -->
+						<p class="news">
+								[OSEN=우충원 기자] 이승우가 벨기에를 떠나 새로운 도전에 나선다. 축구계 소식통은 22일 &quot;이승우가 신트트라위던과 계약을 해지했다. 새로운 도...
+						</p>
+						<div class="information">
+							<span>OSEN</span>
+							<span>해외축구 일반</span>
+						</div>
+					</div>
+				</a>
+			</li>
+		
+	
+		
+			<li class="today_item">
+				<a href="/news?oid=117&aid=0003557799"
+				   class="link_today"
+				   title="IBK 김사니 감독대행 눈물 &quot;서남원 감독이 입에 담지 못할 폭언을 했다&quot; (일문일답)"
+				   onclick="clickcr(this, 'rnk*r.list', '117_0003557799', '3', event);"
+				   data-not-edited="Y">
+
+					<div class="image_area">
+						<!-- [D] 썸네일 이미지 alt 값 비워주세요. -->
+
+						<img src="https://dthumb-phinf.pstatic.net?src=http://imgnews.naver.net/image/117/2021/11/23/202111231828669027_1_20211123192302285.jpg&type=nf160_95&service=sports" width="160" height="95" alt="">
+					</div>
+					<div class="text_area">
+						<strong class="title">IBK 김사니 감독대행 눈물 "서남원 감독이 입에 담지 못할 폭언을 했다" (일문일답)</strong>
+						<!-- [D] 내용 두줄 말줄임 적용해주세요. -->
+						<p class="news">
+								[마이데일리 = 인천 윤욱재 기자] 이해하기 힘든 선택. 어쨌든 '김사니호'는 출항을 알렸다.IBK기업은행 알토스는 최근 서남원 감독과 윤재섭 단장을 경질하...
+						</p>
+						<div class="information">
+							<span>마이데일리</span>
+							<span>배구</span>
+						</div>
+					</div>
+				</a>
+			</li>
+		
+	
+		
+			<li class="today_item">
+				<a href="/news?oid=005&aid=0001486350"
+				   class="link_today"
+				   title="IBK기업은행 “조송화 심적변화, 임의해지 서면요청 거부”"
+				   onclick="clickcr(this, 'rnk*r.list', '005_0001486350', '4', event);"
+				   data-not-edited="Y">
+
+					<div class="image_area">
+						<!-- [D] 썸네일 이미지 alt 값 비워주세요. -->
+
+						<img src="https://dthumb-phinf.pstatic.net?src=http://imgnews.naver.net/image/005/2021/11/23/2021112316275718666_1637652477_0016498557_20211123165302023.jpg&type=nf160_95&service=sports" width="160" height="95" alt="">
+					</div>
+					<div class="text_area">
+						<strong class="title">IBK기업은행 “조송화 심적변화, 임의해지 서면요청 거부”</strong>
+						<!-- [D] 내용 두줄 말줄임 적용해주세요. -->
+						<p class="news">
+								IBK기업은행 세터 조송화. 한국배구연맹 제공IBK기업은행이 팀을 무단이탈한 주전 세터 조송화에게 임의해지 서면신청서를 요구했으나, 조송화가 거부한 것으로 ...
+						</p>
+						<div class="information">
+							<span>국민일보</span>
+							<span>배구</span>
+						</div>
+					</div>
+				</a>
+			</li>
+		
+	
+		
+			<li class="today_item">
+				<a href="/news?oid=108&aid=0003006979"
+				   class="link_today"
+				   title="솔샤르 경질 '후폭풍'... 레알 음바페 영입 '초대형 변수' 등장"
+				   onclick="clickcr(this, 'rnk*r.list', '108_0003006979', '5', event);"
+				   data-not-edited="Y">
+
+					<div class="image_area">
+						<!-- [D] 썸네일 이미지 alt 값 비워주세요. -->
+
+						<img src="https://dthumb-phinf.pstatic.net?src=http://imgnews.naver.net/image/108/2021/11/23/0003006979_001_20211123133901260.jpg&type=nf160_95&service=sports" width="160" height="95" alt="">
+					</div>
+					<div class="text_area">
+						<strong class="title">솔샤르 경질 '후폭풍'... 레알 음바페 영입 '초대형 변수' 등장</strong>
+						<!-- [D] 내용 두줄 말줄임 적용해주세요. -->
+						<p class="news">
+								PSG 네이마르(왼쪽부터)와 킬리안 음바페, 리오넬 메시. /AFPBBNews=뉴스1올레 군나르 솔샤르(48·노르웨이) 감독의 경질 후폭풍이 스페인 레알 마...
+						</p>
+						<div class="information">
+							<span>스타뉴스</span>
+							<span>해외축구 일반</span>
+						</div>
+					</div>
+				</a>
+			</li>
+		
+	
+		
+			<li class="today_item">
+				<a href="/news?oid=410&aid=0000833336"
+				   class="link_today"
+				   title="시장의 냉혹한 평가 &quot;나지완 FA 신청하면 미아 될 수도...&quot;"
+				   onclick="clickcr(this, 'rnk*r.list', '410_0000833336', '6', event);"
+				   data-not-edited="Y">
+
+					<div class="image_area">
+						<!-- [D] 썸네일 이미지 alt 값 비워주세요. -->
+
+						<img src="https://dthumb-phinf.pstatic.net?src=http://imgnews.naver.net/image/410/2021/11/23/0000833336_001_20211123164301625.jpeg&type=nf160_95&service=sports" width="160" height="95" alt="">
+					</div>
+					<div class="text_area">
+						<strong class="title">시장의 냉혹한 평가 "나지완 FA 신청하면 미아 될 수도..."</strong>
+						<!-- [D] 내용 두줄 말줄임 적용해주세요. -->
+						<p class="news">
+								KIA 베테랑 나지완(36)이 FA 신청 자격을 얻었다. 하지만 전문가들은 본인을 위해서는 FA 신청을 미루는 것이 좋은 방법이 될 것이라고 한 목소리를 내...
+						</p>
+						<div class="information">
+							<span>MK스포츠 </span>
+							<span>KBO리그</span>
+						</div>
+					</div>
+				</a>
+			</li>
+		
+	
+</ul>
+
+
+
+        </div>
+        <div class="aside_section">
+            <!-- aside template -->
+            
+
+<div class="aside_inner aside_creator">
+	<div class="aside_head"></div>
+	<ul class="creator_list"></ul>
+</div>
+
+<script id="_video_item_template" type="text/x-handlebars-template">
+	{{#each this}}
+	<li class="creator_item" data-group="{{group}}">
+		<a href="/video?id={{videoMasterId}}" class="link_creator" onClick="clickcr(this, 'crv.list', '', '', event);">
+			<div class="image_area">
+				<span class="image"><img src="https://dthumb-phinf.pstatic.net/?type=nf246_146&opts=12&qlt=70&sharpen=true&src={{thumbnail}}" width="110" height="68" alt=""></span>
+				<span class="common_video_length"><span class="blind">재생시간</span>{{playTime}}</span>
+			</div>
+			<div class="text_area">
+				<strong class="title">{{{title}}}</strong>
+				<div class="information">
+					<span>조회 {{numberFormat hit}}</span><span>{{channelName}}</span>
+				</div>
+			</div>
+		</a>
+	</li>
+	{{/each}}
+</script>
+
+<script id="_video_head_config_template" type="text/x-handlebars-template">
+	<h3 class="title">{{title}}</h3>
+	<div class="pagination">
+		<span class="page" data-current="1"><em class="current">1</em> / {{pageNum}}</span>
+		<button type="button" class="button_prev" disabled data-first="1"  onClick="clickcr(this, 'crv.paging', '', '', event);"><span class="blind">이전</span></button>
+		<button type="button" class="button_next" data-last="{{pageNum}}"  onClick="clickcr(this, 'crv.paging', '', '', event);"><span class="blind">다음</span></button>
+	</div>
+</script>
+
+<script>
+	naver = window.naver || {};
+	naver.sports = naver.sports || {};
+	naver.sports.home = naver.sports.home || {};
+	naver.sports.home.SelectedCategoryVideo = eg.Class({
+
+		PAGING_VIDEO_COUNT: 7,
+
+		construct: function (htOption) {
+			this._initVars(htOption);
+			this._initHandlebarsTemplate();
+			this._draw(htOption);
+			this._setEventHandlers();
+		},
+		_initVars: function (htOption) {
+			this._config = htOption.config;
+			this._videoResult = htOption.videoResult;
+
+			var reality = Math.floor(this._videoResult.length / this.PAGING_VIDEO_COUNT) || 1;
+			var expected = Math.floor(this._config.extractedVideoCount / this.PAGING_VIDEO_COUNT);
+			this._pageNum = Math.min(reality, expected);
+
+			this._extractVideoCount = this._pageNum * this.PAGING_VIDEO_COUNT;
+		},
+
+		_initHandlebarsTemplate: function () {
+			this._videoHeadConfigTemplate = Handlebars.compile($("#_video_head_config_template").html());
+			this._videoItemTemplate = Handlebars.compile($("#_video_item_template").html());
+		},
+
+		_setEventHandlers: function () {
+			$(".aside_creator").on("click", ".pagination .button_prev", $.proxy(function (event) {
+				event.preventDefault();
+				var $curTarget = $(event.currentTarget);
+				var $currentPage = $curTarget.parent().find(".page");
+				var currentPageNumber = $currentPage.data("current");
+
+				if (currentPageNumber > $curTarget.data("first")) {
+					this._showTargetGroup(currentPageNumber - 1);
+					$currentPage.find(".current").text(currentPageNumber - 1);
+					$currentPage.data("current", currentPageNumber - 1);
+				}
+
+				this._checkPageButtonDisable();
+			}, this));
+
+			$(".aside_creator").on("click", ".pagination .button_next", $.proxy(function (event) {
+				event.preventDefault();
+				var $curTarget = $(event.currentTarget);
+				var $currentPage = $curTarget.parent().find(".page");
+				var currentPageNumber = $currentPage.data("current");
+
+				if (currentPageNumber < $curTarget.data("last")) {
+					this._showTargetGroup(currentPageNumber + 1);
+					$currentPage.find(".current").text(currentPageNumber + 1);
+					$currentPage.data("current", currentPageNumber + 1);
+				}
+
+				this._checkPageButtonDisable();
+			}, this))
+		},
+
+		_draw: function () {
+			// 상단 타이틀
+			var configTemplateParam = {
+				title: this._config.title,
+				pageNum: this._pageNum
+			};
+			$(".aside_creator").find(".aside_head").html(this._videoHeadConfigTemplate(configTemplateParam));
+
+			// 영상 그룹 셋팅까지 해줌.
+			var samplingVideo = _.sample(this._videoResult, this._extractVideoCount);
+			_.each(samplingVideo, function(item, index){
+				item.group = Math.floor(index / 7) + 1;
+			});
+
+			$(".aside_creator").find(".creator_list").html(this._videoItemTemplate(samplingVideo));
+			this._showTargetGroup("1");
+
+			// 마지막 버튼 체크
+			this._checkPageButtonDisable();
+		},
+
+		_showTargetGroup: function (group) {
+			$(".aside_creator").find(".creator_list .creator_item").hide();
+			$(".aside_creator").find(".creator_list .creator_item[data-group=" + group + "]").show();
+		},
+
+		_checkPageButtonDisable:function () {
+			var currentPageNumber = $(".aside_creator").find(".pagination .page").data("current");
+			var lastPageNumber = $(".aside_creator").find(".pagination .button_next").data("last");
+			$(".aside_creator").find(".pagination .button_prev").attr("disabled", currentPageNumber === 1);
+			$(".aside_creator").find(".pagination .button_next").attr("disabled", currentPageNumber === lastPageNumber);
+		}
+	});
+
+	new naver.sports.home.SelectedCategoryVideo({
+		"config": {"dataId":1596085512913,"isEnable":"Y","title":"스포츠 창작자 영상","extractedVideoCount":"28"},
+		"videoResult": [{"hit":24889,"thumbnail":"https://phinf.pstatic.net/tvcast/20211112_7/PxcCf_1636703514425KL5z7_JPEG/1636703480699.jpg","playTime":"04:05","channelName":"스포츠디비 SportsDB","videoMasterId":"881177","title":"⚾️오타니도 못한 역대급 기록의 투타겸업 김성한 이야기[오우야 24편]"},{"hit":19650,"thumbnail":"https://phinf.pstatic.net/tvcast/20211112_91/DvIxL_1636684611659srCv6_JPEG/1636684607425.jpg","playTime":"03:43","channelName":"스포츠디비 SportsDB","videoMasterId":"880560","title":"⚾️해태시절 선동열 도대체 얼마나 잘한거야?![오우야 22편]"},{"hit":4693,"thumbnail":"https://phinf.pstatic.net/tvcast/20211121_209/qZkh6_1637500206096VVUIK_JPEG/1637497259722.jpg","playTime":"19:51","channelName":"뭐니볼TV","videoMasterId":"881723","title":"SSG 류선규 단장 직격인터뷰ㅣFA 외부 영입-외국인 구성-트레이드 구상은?"},{"hit":4297,"thumbnail":"https://phinf.pstatic.net/tvcast/20211112_119/qXpdK_1636702938983C211F_JPEG/1636702921686.jpg","playTime":"04:12","channelName":"스포츠디비 SportsDB","videoMasterId":"880561","title":"⚾️나고야의 태양이 된 국보 선동열 이야기[오우야 23편]"},{"hit":13818,"thumbnail":"https://phinf.pstatic.net/tvcast/20211121_77/rQGfP_16374510404306RL23_JPEG/1637450915279.jpg","playTime":"08:34","channelName":"베이스볼코리아","videoMasterId":"881059","title":"'체인지업 마스터', 야구계가 이 소년을 주목하는 이유 I 서울고 투수 전다빈"},{"hit":22216,"thumbnail":"https://phinf.pstatic.net/tvcast/20211116_265/6BY81_1637047031801l6IeQ_PNG/1637047002160.png","playTime":"11:35","channelName":"김형준의 스포츠큐브","videoMasterId":"879239","title":"토론토↔마이애미 대형 트레이드 성사 가능?"},{"hit":2209,"thumbnail":"https://phinf.pstatic.net/tvcast/20211122_161/JJOx5_1637550594325Jm8LP_JPEG/1637550432716.jpg","playTime":"01:22:08","channelName":"이영미TV","videoMasterId":"881772","title":"2021시즌 메이저리그 어워드 총정리ㅣ오타니 쇼헤이 만장일치 MVP"},{"hit":3390,"thumbnail":"https://phinf.pstatic.net/tvcast/20211121_153/MF5B1_1637465740038sBLKV_PNG/1637465462648.png","playTime":"10:55","channelName":"김형준의 스포츠큐브","videoMasterId":"881175","title":"코빈 번스 사이영상, 야구가 달라지고 있다"},{"hit":2169,"thumbnail":"https://phinf.pstatic.net/tvcast/20211122_75/1gncL_1637553142273ES4CM_JPEG/1637553095435.jpeg","playTime":"06:02","channelName":"DKTV","videoMasterId":"881802","title":"현직 MLB 구단 부사장의 김광현에 대한 냉정한 평가는 어느 정도? | DKTV"},{"hit":3714,"thumbnail":"https://phinf.pstatic.net/tvcast/20211120_7/LQfrf_1637382496571hWtp5_PNG/1637382244525.png","playTime":"11:52","channelName":"김형준의 스포츠큐브","videoMasterId":"880547","title":"스캇 보라스가 밝힌 게릿 콜의 부진 이유"},{"hit":3791,"thumbnail":"https://phinf.pstatic.net/tvcast/20211122_219/42t9F_1637510777699j3un1_PNG/1637510730883.png","playTime":"01:08","channelName":"스포잇 TV","videoMasterId":"881740","title":"[바쁘시죠?]이제 울산과 전북은 승점 동률! K리그1 36R 골장면 모아보기"},{"hit":159609,"thumbnail":"https://phinf.pstatic.net/tvcast/20211117_121/u60dN_1637094220424l70EI_PNG/1637094214427.png","playTime":"11:55","channelName":"한준TV","videoMasterId":"879184","title":"네덜란드 명장 탄식 \"한국 노력해도 못이겨\" 손흥민 10년만에 데뷔골 경기장서 30호골 작렬"},{"hit":1904,"thumbnail":"https://phinf.pstatic.net/tvcast/20211122_239/dkOuT_1637562926539oQjRp_PNG/1637562800399.png","playTime":"04:39","channelName":"GOAL TV","videoMasterId":"881831","title":"우리나라 갑자기 스트라이커 풍년..? '등딱' 가능한 193cm 대형 공격수 탄생ㄷㄷ"},{"hit":29929,"thumbnail":"https://phinf.pstatic.net/tvcast/20211117_144/BeSxw_1637117172200cEGLS_JPEG/1637117142749.jpg","playTime":"08:58","channelName":"김진짜 Real KIM","videoMasterId":"879304","title":"벤투호, 왜 경기력이 좋아진 걸까?"},{"hit":377,"thumbnail":"https://phinf.pstatic.net/tvcast/20211122_271/p6qIi_1637561344639E7X1W_JPEG/1637561212747.jpg","playTime":"11:41","channelName":"볼만찬 기자들","videoMasterId":"881830","title":"[ACL 결승 프리뷰]김기동은 신태용이 될 수 있을까(f.알힐랄 전력분석)"},{"hit":543,"thumbnail":"https://phinf.pstatic.net/tvcast/20211121_46/pmfwr_1637502260568VYHEt_JPEG/1637502203397.jpg","playTime":"04:58","channelName":"풋볼티키빠따","videoMasterId":"881744","title":"포항스틸러스 '아챔' 우승 가능한가요? ｜포항스틸러스 레전드 김원일 인터뷰"},{"hit":270,"thumbnail":"https://phinf.pstatic.net/tvcast/20211122_144/s2Zl3_1637575330166KSV3X_PNG/1637574896435.png","playTime":"11:34","channelName":"오늘의 축구","videoMasterId":"881950","title":"최후의 5분, 끝까지 싸워라! 안갯속 우승 경쟁! 제주전 울산 공격 모먼트 [오늘의 K리그]"},{"hit":8769,"thumbnail":"https://phinf.pstatic.net/tvcast/20211122_220/vyHmZ_1637535451807opxN0_PNG/1637535378082.png","playTime":"15:23","channelName":"한준TV","videoMasterId":"881809","title":"[영국독점] 맨유 솔샤르 사태 전말+후임 유력 감독 정보 (맨유 현지 담당 기자)"},{"hit":8309,"thumbnail":"https://phinf.pstatic.net/tvcast/20211122_294/2QfBI_1637560207691W7jHq_PNG/1637560154374.png","playTime":"11:54","channelName":"한준TV","videoMasterId":"881835","title":"[독점] 콘테는 손흥민을 아자르처럼 진화시키고 있다 (유럽 현지 EPL 해설위원 토트넘 분석)"},{"hit":8236,"thumbnail":"https://phinf.pstatic.net/tvcast/20211122_169/J25Fx_1637555697372EGYX7_JPEG/1637555659708.jpg","playTime":"08:54","channelName":"김진짜 Real KIM","videoMasterId":"881804","title":"콘테 감독은 왜 명장으로 불릴까?"},{"hit":30268,"thumbnail":"https://phinf.pstatic.net/tvcast/20211122_120/ymmBn_1637523050822GCXv5_PNG/1637522936354.png","playTime":"05:14","channelName":"GOAL TV","videoMasterId":"881681","title":"'빛난 손흥민' 공격 포인트 없어도 토트넘의 역전승 이유였다[토트넘vs리즈 후토크]"},{"hit":7497,"thumbnail":"https://phinf.pstatic.net/tvcast/20211122_6/qAXHY_16375813240108As83_PNG/1637581153979.png","playTime":"10:43","channelName":"이스타TV","videoMasterId":"881962","title":"[주간킹갓] 열정맨 콘테 ㄷㄷ 토트넘이 경기 중 변화를 했다니!!!"},{"hit":5008,"thumbnail":"https://phinf.pstatic.net/tvcast/20211119_25/p4yrK_1637309421076OINWI_PNG/1637309416034.png","playTime":"08:35","channelName":"뽈인러브","videoMasterId":"880247","title":"한국 길거리 농구 클라스 대박 ㄷㄷ 농구 시작한 지 1년 만에 이렇게…?｜중고날아2한국 길"},{"hit":1795,"thumbnail":"https://phinf.pstatic.net/tvcast/20211121_136/vZEQ0_1637500547304fG8J8_JPEG/1637500535230.jpg","playTime":"02:32","channelName":"OSEN","videoMasterId":"881491","title":"허훈, 경기 전에도 느껴지는 '인싸력' [O! SPORTS]"},{"hit":626,"thumbnail":"https://phinf.pstatic.net/tvcast/20211122_11/aSGRZ_1637577641827x57dF_JPEG/1637577050308.JPG","playTime":"41:02","channelName":"이류농구","videoMasterId":"881949","title":"KGC 파죽 6연승 스펠맨 천하/ 오리온 라둘리차 고민/KT 허 훈과 양홍석/ DB 조니 오브라이언트"},{"hit":571,"thumbnail":"https://phinf.pstatic.net/tvcast/20211122_287/EVWPB_1637574925705qb3VB_PNG/1637574824506.png","playTime":"04:07","channelName":"점프볼TV (농구전문채널)","videoMasterId":"881940","title":"청주 홈 개막전에서 만난 각양각색 3인방 이야기"},{"hit":285,"thumbnail":"https://phinf.pstatic.net/tvcast/20211121_221/av0J2_1637482600031xkcHV_JPEG/1637482552970.jpg","playTime":"40:00","channelName":"BasketBall Show 일리걸스크린","videoMasterId":"881318","title":"[특별편] 손대범의 LAL로그 - NBA 개막전 가다!제 4편 : 감동"},{"hit":14595,"thumbnail":"https://phinf.pstatic.net/tvcast/20211122_261/vY9f1_1637557578415AHMHR_JPEG/1637557565389.jpg","playTime":"03:15","channelName":"서울경제GOLF","videoMasterId":"881851","title":"LPGA 상금왕 3연패-올해의 선수 고진영의 컴퓨터 샷 비결(feat. 이시우 코치)"},{"hit":3965,"thumbnail":"https://phinf.pstatic.net/tvcast/20211121_47/45Pxp_1637505211982nMefe_PNG/1637505166197.png","playTime":"03:54","channelName":"허석프로","videoMasterId":"881745","title":"허석프로 시크릿 레슨 공개합니다."},{"hit":12121,"thumbnail":"https://phinf.pstatic.net/tvcast/20211114_192/srufY_1636894972154LPmlV_PNG/1636894834053.png","playTime":"05:48","channelName":"허석프로","videoMasterId":"879607","title":"[허석프로] 최고의 연습법 이렇게 해보세요"},{"hit":8182,"thumbnail":"https://phinf.pstatic.net/tvcast/20211118_189/Qy0qK_1637226325355h6na0_PNG/1637222982289.png","playTime":"06:19","channelName":"장재근프로","videoMasterId":"879780","title":"드라이버 너무 쉽다! 자세 하나만 바꾸시면 됩니다."},{"hit":2730,"thumbnail":"https://phinf.pstatic.net/tvcast/20211120_105/ZVX8i_1637406833495CDDr4_PNG/1637406830761.png","playTime":"13:24","channelName":"박하림 골프TV","videoMasterId":"881123","title":"[골프레슨] 아이언 눌러치는 연습법 & 극강의 손맛과 함께 디봇을 만들수 있습니다"},{"hit":6182,"thumbnail":"https://phinf.pstatic.net/tvcast/20211118_215/QQVUD_1637235632648t3Mcj_PNG/1637235542498.png","playTime":"11:16","channelName":"배재희프로의 오늘의골프[골프레슨]","videoMasterId":"880111","title":"드라이버를 시원하고 정확하게 때리고 싶다면 오른쪽 팔꿈치로 정확한 길을 만들어야~"},{"hit":1598,"thumbnail":"https://phinf.pstatic.net/tvcast/20211121_167/HLZxr_1637459954490IJ4O0_PNG/1637459876692.png","playTime":"08:38","channelName":"배재희프로의 오늘의골프[골프레슨]","videoMasterId":"881806","title":"멀리 치고, 똑바로 보내고 싶다면 자연스럽게 쭉~ 벽을 타고 올라가는 팔로스루의 이 느낌"},{"hit":2112,"thumbnail":"https://phinf.pstatic.net/tvcast/20211118_43/wrZDD_1637231850927JlE6j_JPEG/1637231711062.jpg","playTime":"26:00","channelName":"핏블리","videoMasterId":"881390","title":"근손실 없는 전신 덤벨운동 끝판왕 리얼타임 홈트 루틴 [웨이홈트]"},{"hit":4470,"thumbnail":"https://phinf.pstatic.net/tvcast/20211118_62/uB8ne_1637224316007iEdHG_JPEG/e325565d-4849-11ec-9a33-505dac8c3721_03.jpg","playTime":"03:26","channelName":"YoMove요무브","videoMasterId":"879768","title":"헬스장 허벅지뒤 운동기구 레그컬 머신 사용법."},{"hit":2541,"thumbnail":"https://phinf.pstatic.net/tvcast/20211118_296/gfeWn_1637176835935YEGme_JPEG/1637176817090.jpg","playTime":"05:36","channelName":"RANK5","videoMasterId":"879593","title":"'미스터 퍼펙트' 강경호 \"전보다 날카롭고 터프하게 변했다\""},{"hit":1395,"thumbnail":"https://phinf.pstatic.net/tvcast/20211118_119/Zb13r_1637208737467reCc8_JPEG/1637208588244.jpg","playTime":"04:27","channelName":"아이빌리TV","videoMasterId":"879886","title":"[아이빌리/당구]은근히 잘 새는 2쿠션 배치의 득점방법"},{"hit":636,"thumbnail":"https://phinf.pstatic.net/tvcast/20211122_144/l2yha_1637547792888iQHm0_JPEG/f80d72f3-4b3a-11ec-b39d-48df37ae3fca_02.jpg","playTime":"02:12","channelName":"YoMove요무브","videoMasterId":"881767","title":"가슴운동으로 덤벨 플라이 한번 해보세요. 덤벨플라이 하는법"}]
+	});
+
+	//# sourceURL=sportsHomeSelectedCategoryVideo.js
+</script>
+
+
+        </div>
+        
+
+
+
+
+<div class="vod_section">
+	<!-- 많이 본 영상 -->
+	<h3 class="section_title">
+		<a href="/ranking/index?type=vod" class="link_title" onclick="clickcr(this, 'rnk*m.gopage', '', '', event);">
+			많이 본 영상<span class="blind">더보기</span></a>
+	</h3>
+
+	
+		<p class="section_description">오후 5시 ~ 6시 까지 집계한 조회수 입니다. 총 누적수와는 다를 수 있습니다.</p>
+	
+	<ul class="vod_list">
+
+		
+			<li class="vod_item"  >
+				<a href="/video?id=882047"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '882047', '1', event); "
+				   title="[라리가] 14R 바예카노 vs 마요르카 이강인 활약상">
+
+					<div class="image_area">
+						<span class="rank number1"><span class="blind">1위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>05:55</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://sports-phinf.pstatic.net/20211123_140/1637618960854jgaf4_JPEG/20211123_BLL_MLL_KANG.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">[라리가] 14R 바예카노 vs 마요르카 이강인 활약상</div>
+				</a>
+			</li>
+		
+			<li class="vod_item"  >
+				<a href="/video?id=882031"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '882031', '2', event); "
+				   title="[라리가] 이강인, 완벽한 만회골 찬스를 제공한 스루패스">
+
+					<div class="image_area">
+						<span class="rank number2"><span class="blind">2위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>00:45</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://sports-phinf.pstatic.net/20211123_18/1637613591971wIV7c_JPEG/20211123_BLL_MLL_NOW6.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">[라리가] 이강인, 완벽한 만회골 찬스를 제공한 스루패스</div>
+				</a>
+			</li>
+		
+			<li class="vod_item"  >
+				<a href="/video?id=881665"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '881665', '3', event); "
+				   title="[PL] 12R 토트넘 vs 리즈 손흥민 활약상">
+
+					<div class="image_area">
+						<span class="rank number3"><span class="blind">3위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>04:41</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://sports-phinf.pstatic.net/20211122_131/16375208663529vCiF_JPEG/20211122_TOT_LEE_SON.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">[PL] 12R 토트넘 vs 리즈 손흥민 활약상</div>
+				</a>
+			</li>
+		
+			<li class="vod_item"  >
+				<a href="/video?id=882103"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '882103', '4', event); "
+				   title="'소통 오류'로 이강인 교체?… 마요르카의 '황당' 실수 [스포츠타임]">
+
+					<div class="image_area">
+						<span class="rank number4"><span class="blind">4위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>01:27</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://sports-phinf.pstatic.net/20211123_23/1637636581505knFBh_JPEG/%B3%AA%BF%EC_%C0%CC%B0%AD%C0%CE-%BD%E6%B3%D7%C0%CF.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">'소통 오류'로 이강인 교체?… 마요르카의 '황당' 실수 [스포츠타임]</div>
+				</a>
+			</li>
+		
+			<li class="vod_item"  >
+				<a href="/video?id=882035"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '882035', '5', event); "
+				   title="[라리가] 유효슈팅조차 되지 못한 이강인의 택배 선물">
+
+					<div class="image_area">
+						<span class="rank number5"><span class="blind">5위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>01:00</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://sports-phinf.pstatic.net/20211123_13/1637615642003Wok33_JPEG/20211123_BLL_MLL_ISS10.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">[라리가] 유효슈팅조차 되지 못한 이강인의 택배 선물</div>
+				</a>
+			</li>
+		
+			<li class="vod_item"  >
+				<a href="/video?id=882033"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '882033', '6', event); "
+				   title="[라리가] '나 혼자 한다' 강한 압박에도 할 거 다 하는 이강인!">
+
+					<div class="image_area">
+						<span class="rank number6"><span class="blind">6위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>01:00</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://sports-phinf.pstatic.net/20211123_76/1637614281863Fpwu8_JPEG/20211123_BLL_MLL_NOW8.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">[라리가] '나 혼자 한다' 강한 압박에도 할 거 다 하는 이강인!</div>
+				</a>
+			</li>
+		
+			<li class="vod_item"  >
+				<a href="/video?id=881907"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '881907', '7', event); "
+				   title="'조송화vs서남원? 무슨 일이야?' IBK 무단이탈 사태 [V리그 위클리]">
+
+					<div class="image_area">
+						<span class="rank number7"><span class="blind">7위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>03:23</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://sports-phinf.pstatic.net/20211122_215/16375713751334A1a0_JPEG/%27%C1%B6%BC%DB%C8%AD_vs_%BC%AD%B3%B2%BF%F8_%B9%AB%BD%BC_%C0%CF%C0%CC%BE%DF%27_IBK_%B9%AB%B4%DC%C0%CC%C5%BB_%BB%E7%C5%C2_V%B8%AE%B1%D7_%C0%A7%C5%AC%B8%AE.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">'조송화vs서남원? 무슨 일이야?' IBK 무단이탈 사태 [V리그 위클리]</div>
+				</a>
+			</li>
+		
+			<li class="vod_item"  >
+				<a href="/video?id=882082"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '882082', '8', event); "
+				   title="[NBA] '솜방망이 징계 논란' 르브론 1경기 출전 정지">
+
+					<div class="image_area">
+						<span class="rank number8"><span class="blind">8위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>01:03</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://sports-phinf.pstatic.net/20211123_26/1637631049672f4CeM_JPEG/20211123_BRK_CLE_ISS_N5%282%29.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">[NBA] '솜방망이 징계 논란' 르브론 1경기 출전 정지</div>
+				</a>
+			</li>
+		
+			<li class="vod_item"  >
+				<a href="/video?id=882024"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '882024', '9', event); "
+				   title="[2021 결산] KBO 리그 결산 - 홈런">
+
+					<div class="image_area">
+						<span class="rank number9"><span class="blind">9위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>06:36</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://sports-phinf.pstatic.net/20211120_108/1637379054549e6KRj_JPEG/20211120_kbo_auto2_0002.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">[2021 결산] KBO 리그 결산 - 홈런</div>
+				</a>
+			</li>
+		
+			<li class="vod_item"  >
+				<a href="/video?id=881976"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '881976', '10', event); "
+				   title="더티 파울 + 인터뷰 불참… 르브론, 스스로 깎아내린 품격 [스포츠타임]">
+
+					<div class="image_area">
+						<span class="rank number10"><span class="blind">10위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>01:45</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://sports-phinf.pstatic.net/20211122_23/1637584560100YWgNv_JPEG/%B8%A3%BA%EA%B7%D0_%B3%AA%BF%EC_%BE%F7%B7%CE%B5%E5.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">더티 파울 + 인터뷰 불참… 르브론, 스스로 깎아내린 품격 [스포츠타임]</div>
+				</a>
+			</li>
+		
+			<li class="vod_item" style="display: none;" >
+				<a href="/video?id=881648"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '881648', '11', event); "
+				   title="[PL] 12R 토트넘 vs 리즈 골모음">
+
+					<div class="image_area">
+						<span class="rank number11"><span class="blind">11위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>03:43</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://sports-phinf.pstatic.net/20211122_142/1637519724796Ecnz8_JPEG/20211122_TOT_LEE_GOALS.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">[PL] 12R 토트넘 vs 리즈 골모음</div>
+				</a>
+			</li>
+		
+			<li class="vod_item" style="display: none;" >
+				<a href="/video?id=882026"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '882026', '12', event); "
+				   title="[라리가] 이강인, 탈압박부터 양발 드리블까지">
+
+					<div class="image_area">
+						<span class="rank number12"><span class="blind">12위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>00:41</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://sports-phinf.pstatic.net/20211123_81/1637612299651JFXEH_JPEG/20211123_BLL_MLL_NOW2.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">[라리가] 이강인, 탈압박부터 양발 드리블까지</div>
+				</a>
+			</li>
+		
+			<li class="vod_item" style="display: none;" >
+				<a href="/video?id=882100"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '882100', '13', event); "
+				   title="[NBA] '무주공산' 듀란트와 존스의 멋진 컷인 플레이">
+
+					<div class="image_area">
+						<span class="rank number13"><span class="blind">13위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>01:03</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://sports-phinf.pstatic.net/20211123_128/1637636228011FjdL7_JPEG/20211123_BRK_CLE_ISS15.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">[NBA] '무주공산' 듀란트와 존스의 멋진 컷인 플레이</div>
+				</a>
+			</li>
+		
+			<li class="vod_item" style="display: none;" >
+				<a href="/video?id=882028"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '882028', '14', event); "
+				   title="[2021 결산] KBO 리그 팀 결산 - 한화 이글스">
+
+					<div class="image_area">
+						<span class="rank number14"><span class="blind">14위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>04:11</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://sports-phinf.pstatic.net/20211123_9/16376126596888zsPV_JPEG/%C7%D1%C8%AD.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">[2021 결산] KBO 리그 팀 결산 - 한화 이글스</div>
+				</a>
+			</li>
+		
+			<li class="vod_item" style="display: none;" >
+				<a href="/video?id=882009"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '882009', '15', event); "
+				   title="강지은 vs 스롱 5세트 HL[휴온스 LPBA 챔피언십 2021 결승]">
+
+					<div class="image_area">
+						<span class="rank number15"><span class="blind">15위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>12:40</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://sports-phinf.pstatic.net/20211123_152/1637595119394abayR_PNG/5%BC%BC%C6%AE_HL.png&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">강지은 vs 스롱 5세트 HL[휴온스 LPBA 챔피언십 2021 결승]</div>
+				</a>
+			</li>
+		
+			<li class="vod_item" style="display: none;" >
+				<a href="/video?id=882022"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '882022', '16', event); "
+				   title="카메론 트링갈리가 헤드 스피드를 증가시킨 방법">
+
+					<div class="image_area">
+						<span class="rank number16"><span class="blind">16위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>00:54</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://phinf.pstatic.net/tvcast/20211123_55/6ONWU_163760484064802XFd_JPEG/1637604832006.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">카메론 트링갈리가 헤드 스피드를 증가시킨 방법</div>
+				</a>
+			</li>
+		
+			<li class="vod_item" style="display: none;" >
+				<a href="/video?id=882075"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '882075', '17', event); "
+				   title="[NBA] 갈랜드, 슈퍼스타 하든 앞에서 현란한 드리블  ">
+
+					<div class="image_area">
+						<span class="rank number17"><span class="blind">17위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>00:44</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://sports-phinf.pstatic.net/20211123_133/1637630003943K3PEI_JPEG/20211123_BRK_CLE_ISS_N3.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">[NBA] 갈랜드, 슈퍼스타 하든 앞에서 현란한 드리블  </div>
+				</a>
+			</li>
+		
+			<li class="vod_item" style="display: none;" >
+				<a href="/video?id=882092"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '882092', '18', event); "
+				   title="[NBA] 3쿼터 막판, 전세 뒤집는 브루클린 ">
+
+					<div class="image_area">
+						<span class="rank number18"><span class="blind">18위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>01:56</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://sports-phinf.pstatic.net/20211123_132/1637633353674iCwPS_JPEG/20211123_BRK_CLE_ISS_N10.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">[NBA] 3쿼터 막판, 전세 뒤집는 브루클린 </div>
+				</a>
+			</li>
+		
+			<li class="vod_item" style="display: none;" >
+				<a href="/video?id=881851"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '881851', '19', event); "
+				   title="LPGA 상금왕 3연패-올해의 선수 고진영의 컴퓨터 샷 비결(feat. 이시우 코치)">
+
+					<div class="image_area">
+						<span class="rank number19"><span class="blind">19위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>03:15</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://phinf.pstatic.net/tvcast/20211122_261/vY9f1_1637557578415AHMHR_JPEG/1637557565389.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">LPGA 상금왕 3연패-올해의 선수 고진영의 컴퓨터 샷 비결(feat. 이시우 코치)</div>
+				</a>
+			</li>
+		
+			<li class="vod_item" style="display: none;" >
+				<a href="/video?id=881589"
+				   class="link_vod"
+				   onclick="clickcr(this, 'rnk*m.list', '881589', '20', event); "
+				   title="[PL] 슈퍼 소닉 모드! 따라잡을 수 없는 손흥민의 스프린트!">
+
+					<div class="image_area">
+						<span class="rank number20"><span class="blind">20위</span></span>
+						<span class="common_video_length"><span class="blind">재생시간</span>01:05</span>
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 width="194" height="112" alt=""
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=https://sports-phinf.pstatic.net/20211122_268/1637513828232B6pNe_JPEG/20211122_TOT_LEE_ISS3.jpg&type=nf194_112&service=sports">
+						</div>
+					</div>
+					<div class="text_area _sports_home_most_viewed_vod_title">[PL] 슈퍼 소닉 모드! 따라잡을 수 없는 손흥민의 스프린트!</div>
+				</a>
+			</li>
+		
+	</ul>
+	<!-- [D] 20위까지 펼쳤을 경우 버튼 미노출 적용 -->
+	<div class="vod_button_area">
+		<button type="button" class="button_more">11~20위 영상 더보기</button>
+	</div>
+</div>
+
+<script>
+	$("._sports_home_most_viewed_vod_title").dotdotdot({'height' : 36});
+
+	$(".vod_button_area").on("click", "button", function(e) {
+		$(".vod_item").show();
+		$("._sports_home_most_viewed_vod_title").dotdotdot({'height' : 36});
+		$(e.currentTarget).hide();
+		clickcr(this, 'rnk*m.more', '', '', e);
+	});
+</script>
+
+
+
+<div id="_sports_home_airs_area" class="news_section">
+</div>
+
+<script id="_sports_home_airs_template" type="text/x-handlebars-template">
+		
+		<h3 class="section_title">추천뉴스</h3>
+		<ul class="news_list">
+			
+			{{#each this}}
+			<li class="news_item {{#ifCond @index '<' 3}}type_top{{/ifCond}}">
+				<a href="/news?oid={{office_id}}&aid={{article_id}}" class="link_news_item"
+					onclick="clickcr(this, 'nws*{{#if category}}{{category}}{{else}}{{upper_category}}{{/if}}', '', '', event);">
+					<div class="image_area">
+						
+						<div class="image"><img src="https://dthumb-phinf.pstatic.net?src={{image}}&type=nf160_95&service=sports" width="160" height="95" alt=""></div>
+					</div>
+					<div class="text_area">
+						<strong class="title">{{{title}}}</strong>
+						<span class="press">{{{office_name}}}</span>
+					</div>
+				</a>
+			</li>
+			{{/each}}
+		</ul>
+</script>
+<script>
+	$.ajax("https://proxy-gateway.sports.naver.com/airs/recommends?start=1&display=12", {
+		dataType: 'json',
+		timeout: 3000,
+		xhrFields: { withCredentials:true },
+		success: function (res) {
+			$("#_sports_home_airs_area").html(
+				Handlebars.compile($("#_sports_home_airs_template").html())(res.result.recommend)
+			);
+		},
+		error: function(res) {
+			JEagleEyeClient.sendError(new Error(res));
+		},
+		complete: function(res) {
+			if (res.statusText === 'timeout') {
+				console.log('timeout');
+				JEagleEyeClient.sendError(new Error(res));
+			}
+		}
+	});
+</script>
+
+
+
+
+
+<div class="photo_section">
+	<!-- 생생화보 -->
+	<h3 class="section_title">
+		<a href="/photocenter/albumList?category=kbo" class="link_title" onclick="clickcr(this, 'pho.gopage', '', '', event);">
+			생생화보<span class="blind">더보기</span>
+		</a>
+	</h3>
+	<div class="photo_area">
+		<!-- [D] photo_item 큰 버전 type_big, 작은 버전 type_small 클래스 적용 -->
+	
+	
+		
+		<div class="photo_item type_big">
+			<a href="/photocenter/photoList?albumId=106172&category=general"
+			   class="link_photo"
+			   onclick="clickcr(this, 'pho.list', '106172', '', event); "
+			   title="PBA투어 3차대회 휴온스 챔피언십 LPBA 강지은 우승">
+				<div class="image_area">
+					<!-- [D] 이미지 alt 값 비워주세요. -->
+					<div class="image">
+						<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+							 class="imageLazyLoad"
+							 lazy-src="https://dthumb-phinf.pstatic.net?src=http://imgnews.naver.net/image/003/2021/11/23/NISI20211123_0018184262_web_20211123083642_20211123083708537.jpg&type=nf500_330&service=sports"
+							 width="500" height="330" alt="">
+					</div>
+				</div>
+				<div class="text_area">PBA투어 3차대회 휴온스 챔피언십 LPBA 강지은 우승</div>
+			</a>
+		</div>
+		<ul class="photo_list">
+		
+		
+	
+	
+	
+		
+		
+			<li class="photo_item type_small">
+				<a href="/photocenter/photoList?albumId=106171&category=golf"
+				   class="link_photo"
+				   onclick="clickcr(this, 'pho.list', '106171', '', event); "
+				   title="LPGA 올해의 선수 1위 고진영 향한 취재진 관심">
+					<div class="image_area">
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=http://imgnews.naver.net/image/109/2021/11/23/0004515870_001_20211123182404480.jpg&type=nf250_165&service=sports"
+								 width="250" height="165" alt="">
+						</div>
+					</div>
+					<div class="text_area">LPGA 올해의 선수 1위 고진영 향한 취재진 관심</div>
+				</a>
+			</li>
+		
+	
+	
+	
+		
+		
+			<li class="photo_item type_small">
+				<a href="/photocenter/photoList?albumId=106170&category=volleyball"
+				   class="link_photo"
+				   onclick="clickcr(this, 'pho.list', '106170', '', event); "
+				   title="IBK기업은행 '이목집중'">
+					<div class="image_area">
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=http://imgnews.naver.net/image/311/2021/11/23/0001377120_001_20211123185501478.jpg&type=nf250_165&service=sports"
+								 width="250" height="165" alt="">
+						</div>
+					</div>
+					<div class="text_area">IBK기업은행 '이목집중'</div>
+				</a>
+			</li>
+		
+	
+	
+	
+		
+		
+			<li class="photo_item type_small">
+				<a href="/photocenter/photoList?albumId=106167&category=general"
+				   class="link_photo"
+				   onclick="clickcr(this, 'pho.list', '106167', '', event); "
+				   title="즈베레프, ATP 파이널스 우승컵 '영차'">
+					<div class="image_area">
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=http://imgnews.naver.net/image/003/2021/11/22/NISI20211122_0018180337_web_20211122095533_20211122095606747.jpg&type=nf250_165&service=sports"
+								 width="250" height="165" alt="">
+						</div>
+					</div>
+					<div class="text_area">즈베레프, ATP 파이널스 우승컵 '영차'</div>
+				</a>
+			</li>
+		
+	
+	
+	
+		
+		
+			<li class="photo_item type_small">
+				<a href="/photocenter/photoList?albumId=106165&category=golf"
+				   class="link_photo"
+				   onclick="clickcr(this, 'pho.list', '106165', '', event); "
+				   title="CME 우승 고진영 '매번 트로피 키스하면 좋겠어요' ">
+					<div class="image_area">
+						<div class="image">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+								 class="imageLazyLoad"
+								 lazy-src="https://dthumb-phinf.pstatic.net?src=http://imgnews.naver.net/image/409/2021/11/22/0000017472_001_20211122064604779.jpeg&type=nf250_165&service=sports"
+								 width="250" height="165" alt="">
+						</div>
+					</div>
+					<div class="text_area">CME 우승 고진영 '매번 트로피 키스하면 좋겠어요' </div>
+				</a>
+			</li>
+		
+	
+	
+		</ul>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="shopping_section">
+	<h3 class="section_title">
+		
+			
+				<a href="https://shopping.naver.com/" class="link_title">네이버 쇼핑<span class="blind">더보기</span></a>
+			
+			
+		
+	</h3>
+	<ul class="shopping_list">
+		
+		<li class="shopping_item">
+			<a href="https://shopping.naver.com/plan/details/547620" onclick="clickcr(this, 'plw.goods', '', '', event);" class="link_shopping">
+				<div class="image_area">
+					<div class="image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="imageLazyLoad" lazy-src="https://shop-phinf.pstatic.net/20211122_275/1637562077820OFtxw_JPEG/C3A5CUsers5CIN5CDesktop5CEC9DB4EBAFB8ECA780%2BECA080EC9EA55C1.jpg" alt="블랙야크 플렉스데이<br>최대 86% OFF"width="150" height="190"></div>
+				</div>
+				<div class="text_area">
+					<div class="price"><b class="num">69,000</b>원</div>
+					<div class="title">블랙야크 플렉스데이<br>최대 86% OFF</div>
+				</div>
+			</a>
+		</li>
+		
+		<li class="shopping_item">
+			<a href="https://shopping.naver.com/plan/details/549439" onclick="clickcr(this, 'plw.goods', '', '', event);" class="link_shopping">
+				<div class="image_area">
+					<div class="image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="imageLazyLoad" lazy-src="https://shop-phinf.pstatic.net/20211122_51/16375621253492cLsM_JPEG/C3A5CUsers5CIN5CDesktop5CEC9DB4EBAFB8ECA780%2BECA080EC9EA55C2.jpg" alt="이화에스엠피 홈트<br>숀리 스쿼트머신"width="150" height="190"></div>
+				</div>
+				<div class="text_area">
+					<div class="price"><b class="num">118,000</b>원</div>
+					<div class="title">이화에스엠피 홈트<br>숀리 스쿼트머신</div>
+				</div>
+			</a>
+		</li>
+		
+		<li class="shopping_item">
+			<a href="https://shopping.naver.com/window/play/category?menu=10009783&first=5404066407" onclick="clickcr(this, 'plw.goods', '', '', event);" class="link_shopping">
+				<div class="image_area">
+					<div class="image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="imageLazyLoad" lazy-src="https://shop-phinf.pstatic.net/20211122_124/1637562148814wrvyQ_JPEG/C3A5CUsers5CIN5CDesktop5CEC9DB4EBAFB8ECA780%2BECA080EC9EA55C3.jpg" alt="기능성&실용성 겸비<br>풋조이 남성 골프화"width="150" height="190"></div>
+				</div>
+				<div class="text_area">
+					<div class="price"><b class="num">63,000</b>원</div>
+					<div class="title">기능성&실용성 겸비<br>풋조이 남성 골프화</div>
+				</div>
+			</a>
+		</li>
+		
+		<li class="shopping_item">
+			<a href="https://shopping.naver.com/play/fishing/category/10002335?first=5816476732&menu=10002327&sort=RECENT&water=SEA" onclick="clickcr(this, 'plw.goods', '', '', event);" class="link_shopping">
+				<div class="image_area">
+					<div class="image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="imageLazyLoad" lazy-src="https://shop-phinf.pstatic.net/20211122_268/1637562168235IXJIl_JPEG/C3A5CUsers5CIN5CDesktop5CEC9DB4EBAFB8ECA780%2BECA080EC9EA55C4.jpg" alt="파워풀한 HCVS 카본<br>바낙스 플러스 낚싯대"width="150" height="190"></div>
+				</div>
+				<div class="text_area">
+					<div class="price"><b class="num">130,000</b>원</div>
+					<div class="title">파워풀한 HCVS 카본<br>바낙스 플러스 낚싯대</div>
+				</div>
+			</a>
+		</li>
+		
+		<li class="shopping_item">
+			<a href="https://shopping.naver.com/window/play/category?menu=10009786&first=5251314530" onclick="clickcr(this, 'plw.goods', '', '', event);" class="link_shopping">
+				<div class="image_area">
+					<div class="image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="imageLazyLoad" lazy-src="https://shop-phinf.pstatic.net/20211122_123/16375621966399myQt_JPEG/C3A5CUsers5CIN5CDesktop5CEC9DB4EBAFB8ECA780%2BECA080EC9EA55C5.jpg" alt="야간 레저 활동<br>디빅 LED 암밴드"width="150" height="190"></div>
+				</div>
+				<div class="text_area">
+					<div class="price"><b class="num">3,000</b>원</div>
+					<div class="title">야간 레저 활동<br>디빅 LED 암밴드</div>
+				</div>
+			</a>
+		</li>
+		
+		<li class="shopping_item">
+			<a href="https://shopping.naver.com/window/play/category?menu=10009791&first=4350068429" onclick="clickcr(this, 'plw.goods', '', '', event);" class="link_shopping">
+				<div class="image_area">
+					<div class="image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="imageLazyLoad" lazy-src="https://shop-phinf.pstatic.net/20211122_188/1637562221451DwIHS_JPEG/C3A5CUsers5CIN5CDesktop5CEC9DB4EBAFB8ECA780%2BECA080EC9EA55C6.jpg" alt="부드러운 착용감<br>프로스펙스 하프삭스"width="150" height="190"></div>
+				</div>
+				<div class="text_area">
+					<div class="price"><b class="num">3,300</b>원</div>
+					<div class="title">부드러운 착용감<br>프로스펙스 하프삭스</div>
+				</div>
+			</a>
+		</li>
+		
+	</ul>
+</div>
+
+
+    </div>
+</div>
+
+
+
+
+
+	
+		
+	
+	
+
+<script id="_sports_da_template" type="text/x-handlebars-template">
+	<iframe {{#if iframeId}}
+				id="{{iframeId}}"
+				name="{{iframeId}}"
+			{{else}}
+				id="{{previewId}}{{#if calpId}}_{{calpId}}{{/if}}"
+				name="{{previewId}}{{#if calpId}}_{{calpId}}{{/if}}"
+			{{/if}}
+			data-veta-preview="{{previewId}}"
+			src="https://veta.naver.com/fxshow?su={{unitId}}{{#if calpId}}&calp={{calpId}}{{/if}}"
+			width="{{width}}"
+			height="{{height}}"
+			title="광고"
+			alt="광고 영역 입니다."
+			allowTransparency="true"
+			marginheight="0"
+			marginwidth="0"
+			frameborder="0"
+			scrolling="no"
+			align="center"
+			{{#if ext}}{{ext}}{{/if}}>
+	</iframe>
+</script>
+
+
+<script id="_sports_2020_da_template" type="text/x-handlebars-template">
+	{{#with adUnit}}
+	<iframe {{#if iframeId}}
+			id="{{iframeId}}"
+			name="{{iframeId}}"
+			{{else}}
+			id="{{previewId}}{{#if calpId}}_{{calpId}}{{/if}}"
+			name="{{previewId}}{{#if calpId}}_{{calpId}}{{/if}}"
+			{{/if}}
+			data-veta-preview="{{previewId}}"
+			src="{{../daUrl}}su={{unitId}}{{#if calpId}}&calp={{calpId}}{{/if}}"
+			width="{{width}}"
+			height="{{height}}"
+			title="광고"
+			alt="광고 영역 입니다."
+			allowTransparency="true"
+			marginheight="0"
+			marginwidth="0"
+			frameborder="0"
+			scrolling="no"
+			align="center"
+			{{#if ext}}{{ext}}{{/if}}>
+	</iframe>
+	{{/with}}
+</script>
+<script>
+	//TODO section pc2018 인건 평창끝나면 지워주세요
+	//NOTE : 뉴스 엔드 하단 광고 경우엔 NewsEndAdUnit.java 에서 데이터 내려주고 있음.
+
+    var adList = [
+		{"sid":"sports_home_right_banner", "name":"스포츠_우측배너(스포츠홈)", "section":"", "type":"pc", "oldUnitId":"1002B", "unitId":"SU10351", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"home", "useCase":"iframe"},
+		{"sid":"section_home_double_play", "name":"P_스포츠_더블플레이(스포츠홈, 종목홈)", "section":"kbaseball", "type":"pc", "oldUnitId":"986B", "unitId":"SU10514", "previewId":"p_sports_dpl", "width":"600", "height":"70", "menu":"", "calpId":"kbaseball", "useCase":"js"},
+		{"sid":"section_home_double_play", "name":"P_스포츠_더블플레이(스포츠홈, 종목홈)", "section":"wbaseball", "type":"pc", "oldUnitId":"988C", "unitId":"SU10514", "previewId":"p_sports_dpl", "width":"600", "height":"70", "menu":"", "calpId":"wbaseball", "useCase":"js"},
+		{"sid":"section_home_double_play", "name":"P_스포츠_더블플레이(스포츠홈, 종목홈)", "section":"kfootball", "type":"pc", "oldUnitId":"989B", "unitId":"SU10514", "previewId":"p_sports_dpl", "width":"600", "height":"70", "menu":"", "calpId":"kfootball", "useCase":"js"},
+		{"sid":"section_home_double_play", "name":"P_스포츠_더블플레이(스포츠홈, 종목홈)", "section":"wfootball", "type":"pc", "oldUnitId":"928C", "unitId":"SU10514", "previewId":"p_sports_dpl", "width":"600", "height":"70", "menu":"", "calpId":"wfootball", "useCase":"js"},
+		{"sid":"section_home_double_play", "name":"P_스포츠_더블플레이(스포츠홈, 종목홈)", "section":"basketball", "type":"pc", "oldUnitId":"990B", "unitId":"SU10514", "previewId":"p_sports_dpl", "width":"600", "height":"70", "menu":"", "calpId":"basketball", "useCase":"js"},
+		{"sid":"section_home_double_play", "name":"P_스포츠_더블플레이(스포츠홈, 종목홈)", "section":"volleyball", "type":"pc", "oldUnitId":"1279A", "unitId":"SU10514", "previewId":"p_sports_dpl", "width":"600", "height":"70", "menu":"", "calpId":"volleyball", "useCase":"js"},
+		{"sid":"section_home_double_play", "name":"P_스포츠_더블플레이(스포츠홈, 종목홈)", "section":"golf", "type":"pc", "oldUnitId":"992G", "unitId":"SU10514", "previewId":"p_sports_dpl", "width":"600", "height":"70", "menu":"", "calpId":"golf", "useCase":"js"},
+		{"sid":"section_home_double_play", "name":"P_스포츠_더블플레이(스포츠홈, 종목홈)", "section":"general", "type":"pc", "oldUnitId":"994C", "unitId":"SU10514", "previewId":"p_sports_dpl", "width":"600", "height":"70", "menu":"", "calpId":"general", "useCase":"js"},
+		{"sid":"section_home_double_play", "name":"P_스포츠_더블플레이(스포츠홈, 종목홈)", "section":"esports", "type":"pc", "oldUnitId":"1046C", "unitId":"SU10514", "previewId":"p_sports_dpl", "width":"600", "height":"70", "menu":"", "calpId":"esports", "useCase":"js"},
+		{"sid":"section_home_double_play", "name":"P_스포츠_더블플레이(스포츠홈, 종목홈)", "section":"pc2018", "type":"pc", "oldUnitId":"", "unitId":"SU10282", "previewId":"p_sports_dpl", "width":"600", "height":"70", "menu":"", "calpId":"", "useCase":"js"},
+
+
+		{"sid":"section_end_right_banner", "name":"P_스포츠_우측배너(영상외 주요지면)", "section":"", "type":"pc", "oldUnitId":"159M", "unitId":"SU10351", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"", "useCase":"iframe"},
+		{"sid":"section_end_right_banner", "name":"P_스포츠_우측배너(영상외 주요지면)", "section":"all", "type":"pc", "oldUnitId":"159M", "unitId":"SU10351", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"", "useCase":"iframe"},
+		{"sid":"section_end_right_banner", "name":"P_스포츠_우측배너(영상외 주요지면)", "section":"kbaseball", "type":"pc", "oldUnitId":"159M", "unitId":"SU10351", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"kbaseball", "useCase":"iframe"},
+		{"sid":"section_end_right_banner", "name":"P_스포츠_우측배너(영상외 주요지면)", "section":"wbaseball", "type":"pc", "oldUnitId":"159M", "unitId":"SU10351", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"wbaseball", "useCase":"iframe"},
+		{"sid":"section_end_right_banner", "name":"P_스포츠_우측배너(영상외 주요지면)", "section":"kfootball", "type":"pc", "oldUnitId":"159M", "unitId":"SU10351", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"kfootball", "useCase":"iframe"},
+		{"sid":"section_end_right_banner", "name":"P_스포츠_우측배너(영상외 주요지면)", "section":"wfootball", "type":"pc", "oldUnitId":"159M", "unitId":"SU10351", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"wfootball", "useCase":"iframe"},
+		{"sid":"section_end_right_banner", "name":"P_스포츠_우측배너(영상외 주요지면)", "section":"basketball", "type":"pc", "oldUnitId":"159M", "unitId":"SU10351", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"basketball", "useCase":"iframe"},
+		{"sid":"section_end_right_banner", "name":"P_스포츠_우측배너(영상외 주요지면)", "section":"volleyball", "type":"pc", "oldUnitId":"159M", "unitId":"SU10351", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"volleyball", "useCase":"iframe"},
+		{"sid":"section_end_right_banner", "name":"P_스포츠_우측배너(영상외 주요지면)", "section":"golf", "type":"pc", "oldUnitId":"1001C", "unitId":"SU10351", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"golf", "useCase":"iframe"},
+		{"sid":"section_end_right_banner", "name":"P_스포츠_우측배너(영상외 주요지면)", "section":"general", "type":"pc", "oldUnitId":"159M", "unitId":"SU10351", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"general", "useCase":"iframe"},
+		{"sid":"section_end_right_banner", "name":"P_스포츠_우측배너(영상외 주요지면)", "section":"esports", "type":"pc", "oldUnitId":"1047E", "unitId":"SU10351", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"esports", "useCase":"iframe"},
+		{"sid":"section_end_right_banner", "name":"P_스포츠_우측배너(영상외 주요지면)", "section":"tokyo2020", "type":"pc", "oldUnitId":"", "unitId":"SU10351", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"", "useCase":"iframe"},
+
+		// 영상 통합 광고
+		{"sid":"vod_right_banner", "name":"P_스포츠_영상_통합스킨", "section":"kbaseball", "type":"pc", "oldUnitId":"1253B", "unitId":"SU10453", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"kbaseball", "useCase":"js"},
+		{"sid":"vod_right_banner", "name":"P_스포츠_영상_통합스킨", "section":"wbaseball", "type":"pc", "oldUnitId":"1051D", "unitId":"SU10453", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"wbaseball", "useCase":"js"},
+		{"sid":"vod_right_banner", "name":"P_스포츠_영상_통합스킨", "section":"kfootball", "type":"pc", "oldUnitId":"1255C", "unitId":"SU10453", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"kfootball", "useCase":"js"},
+		{"sid":"vod_right_banner", "name":"P_스포츠_영상_통합스킨", "section":"wfootball", "type":"pc", "oldUnitId":"1057D", "unitId":"SU10453", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"wfootball", "useCase":"js"},
+		{"sid":"vod_right_banner", "name":"P_스포츠_영상_통합스킨", "section":"basketball", "type":"pc", "oldUnitId":"1251B", "unitId":"SU10453", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"basketball", "useCase":"js"},
+		{"sid":"vod_right_banner", "name":"P_스포츠_영상_통합스킨", "section":"basketball", "category":"nba", "type":"pc", "unitId":"SU10453", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"nba", "useCase":"js"},
+		{"sid":"vod_right_banner", "name":"P_스포츠_영상_통합스킨", "section":"volleyball", "type":"pc", "oldUnitId":"1251B", "unitId":"SU10453", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"volleyball", "useCase":"js"},
+		{"sid":"vod_right_banner", "name":"P_스포츠_영상_통합스킨", "section":"golf", "type":"pc", "oldUnitId":"1021D", "unitId":"SU10453", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"golf", "useCase":"js"},
+		{"sid":"vod_right_banner", "name":"P_스포츠_영상_통합스킨", "section":"general", "type":"pc", "oldUnitId":"1251B", "unitId":"SU10453", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"general", "useCase":"js"},
+		{"sid":"vod_right_banner", "name":"P_스포츠_영상_통합스킨", "section":"esports", "type":"pc", "oldUnitId":"1102C", "unitId":"SU10453", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"esports", "useCase":"js"},
+		{"sid":"vod_right_banner", "name":"P_스포츠_영상_통합스킨", "section":"tokyo2020", "type":"pc", "oldUnitId":"", "unitId":"SU10453", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"", "useCase":"js"},
+
+		// TODO ioctv 관련 sports/sus#1867 채널 삭제시 광고 상수 역시 삭제 필요
+		{"sid":"vod_right_banner", "name":"P_스포츠_영상_통합스킨", "section":"general", "category":"ioctv", "type":"pc", "oldUnitId":"1102C", "unitId":"SU10453", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"ioctv", "useCase":"js"},
+
+		// 평창 영상 광고코드
+		{"sid":"veta_300250", "name":"P_스포츠_영상_통합스킨", "section":"pc2018", "type":"pc", "oldUnitId":"", "unitId":"SU10284", "previewId":"p_sports_right", "width":"300", "height":"250", "menu":"", "calpId":"", "useCase":"js"},
+		{"sid":"vod_topskin", "name":"P_스포츠_영상_상단스킨", "section":"pc2018", "type":"pc", "oldUnitId":"", "unitId":"SU10284", "previewId":"p_sports_topskin", "width":"300", "height":"75", "menu":"", "calpId":"", "useCase":"iframe"},
+
+		{"sid":"gamecenter_right_banner", "name":"P_스포츠_게임센터_경기결과_우측배너 ", "section":"kbaseball", "type":"pc", "oldUnitId":"735A", "unitId":"SU10124", "previewId":"p_sports_game", "width":"200", "height":"573", "menu":"", "calpId":"kbaseball", "useCase":"iframe"},
+		{"sid":"gamecenter_right_banner", "name":"P_스포츠_게임센터_경기결과_우측배너 ", "section":"wbaseball", "type":"pc", "oldUnitId":"1053A", "unitId":"SU10124", "previewId":"p_sports_game", "width":"200", "height":"573", "menu":"", "calpId":"wbaseball", "useCase":"iframe"},
+		{"sid":"gamecenter_topskin", "name":"P_스포츠_게임센터_상단스킨", "section":"", "type":"pc", "oldUnitId":"1059A", "unitId":"SU10125", "previewId":"p_sports_gskin", "width":"560", "height":"53", "menu":"", "calpId":"", "useCase":"iframe"},
+		{"sid":"gamecenter_fence", "name":"P_스포츠_게임센터_펜스광고", "section":"", "type":"pc", "oldUnitId":"1059B", "unitId":"SU10126", "previewId":"p_sports_gfence", "width":"434", "height":"32", "menu":"", "calpId":"", "useCase":"iframe"},
+
+        {"sid":"tv_bottom_banner", "name":"P_스포츠_생중계_하단배너", "section":"kbaseball", "type":"pc", "oldUnitId":"", "unitId":"SU10670", "previewId":"p_sports_live", "width":"700", "height":"70", "menu":"", "calpId":"kbaseball", "useCase":"iframe"},
+        {"sid":"tv_bottom_banner", "name":"P_스포츠_생중계_하단배너", "section":"wbaseball", "type":"pc", "oldUnitId":"", "unitId":"SU10670", "previewId":"p_sports_live", "width":"700", "height":"70", "menu":"", "calpId":"wbaseball", "useCase":"iframe"},
+        {"sid":"tv_bottom_banner", "name":"P_스포츠_생중계_하단배너", "section":"kfootball", "type":"pc", "oldUnitId":"", "unitId":"SU10670", "previewId":"p_sports_live", "width":"700", "height":"70", "menu":"", "calpId":"kfootball", "useCase":"iframe"},
+        {"sid":"tv_bottom_banner", "name":"P_스포츠_생중계_하단배너", "section":"wfootball", "type":"pc", "oldUnitId":"", "unitId":"SU10670", "previewId":"p_sports_live", "width":"700", "height":"70", "menu":"", "calpId":"wfootball", "useCase":"iframe"},
+        {"sid":"tv_bottom_banner", "name":"P_스포츠_생중계_하단배너", "section":"basketball", "type":"pc", "oldUnitId":"", "unitId":"SU10670", "previewId":"p_sports_live", "width":"700", "height":"70", "menu":"", "calpId":"basketball", "useCase":"iframe"},
+        {"sid":"tv_bottom_banner", "name":"P_스포츠_생중계_하단배너", "section":"volleyball", "type":"pc", "oldUnitId":"", "unitId":"SU10670", "previewId":"p_sports_live", "width":"700", "height":"70", "menu":"", "calpId":"volleyball", "useCase":"iframe"},
+        {"sid":"tv_bottom_banner", "name":"P_스포츠_생중계_하단배너", "section":"golf", "type":"pc", "oldUnitId":"", "unitId":"SU10670", "previewId":"p_sports_live", "width":"700", "height":"70", "menu":"", "calpId":"golf", "useCase":"iframe"},
+        {"sid":"tv_bottom_banner", "name":"P_스포츠_생중계_하단배너", "section":"general", "type":"pc", "oldUnitId":"", "unitId":"SU10670", "previewId":"p_sports_live", "width":"700", "height":"70", "menu":"", "calpId":"general", "useCase":"iframe"},
+        {"sid":"tv_bottom_banner", "name":"P_스포츠_생중계_하단배너", "section":"esports", "type":"pc", "oldUnitId":"", "unitId":"SU10670", "previewId":"p_sports_live", "width":"700", "height":"70", "menu":"", "calpId":"esports", "useCase":"iframe"}
+	];
+</script>
+<script>
+    exeJs.push(function(){
+        
+    });
+</script>
+
+
+	</div>
+	
+<div id="footer">
+	
+	
+		
+
+
+
+
+
+<div class="notice_foot">
+	<strong class="title">공지</strong>
+	<div class="inner">
+	
+		<a href="https://blog.naver.com/naver_sports/222566259133" target=_blank onclick="clickcr(this, 'not.noti', '1636704949089', '', event);"><span>뉴스제휴평가위 심의위원회 권고 안내</span></a>
+	
+		<a href="https://blog.naver.com/naver_sports/222575646524" target=_blank onclick="clickcr(this, 'not.noti', '1466402863231', '', event);"><span>스포츠 TV중계 편성 - 11/22(월)~11/29(월)</span></a>
+	
+		<a href="https://blog.naver.com/naver_sports/222557211229" target=_blank onclick="clickcr(this, 'not.noti', '1628045003955', '', event);"><span>월간 N스포츠 11월 - 지금 가장 중요한 소식을 한눈에 확인하세요</span></a>
+	
+	</div>
+</div>
+
+
+	
+    <ul>
+	<li class="first"><a onclick="clickcr(this, 'fot.service', '', '', event);" target="_blank" href="https://www.naver.com/rules/service.html">네이버 이용약관</a></li>
+	<li><a href="https://news.naver.com/main/principle.nhn" target="_blank" onClick="clickcr(this, 'fot.principle', '', '', event);">댓글/게시글 운영원칙</a></li>
+	<li><a href="https://www.naver.com/rules/privacy.html" target="_blank" onClick="clickcr(this, 'fot.privacy', '', '', event);"><strong>개인정보처리방침</strong></a></li>
+	<li><a href="https://www.naver.com/rules/disclaimer.html" target="_blank" onClick="clickcr(this, 'fot.disclaimer', '', '', event);">책임의 한계와 법적고지</a></li>
+	<li><a target="_blank" onclick="OPS.viewOPS('ops', {url : 'https://help.naver.com/support/alias/contents2/sports/sports_2.naver'}); clickcr(this, 'fot.shelp', '', '', event); return false;" href="#">스포츠 고객센터</a></li>
+	</ul>
+	<p class="copyr">본 콘텐츠의 저작권은 네이버 및 제공처에 있으며, 이를 이용하는 경우 저작권법 등에 따라 법적책임을 질 수 있습니다.</p>
+	<address>
+		<a href="http://www.navercorp.com/" target="_blank" onClick="clickcr(this, 'fot.nhn', '', '', event);" class="logo"><img src="https://ssl.pstatic.net/static/common/footer/ci_naver.gif" width="63" height="11" alt="NAVER"></a>
+		<em>Copyright &copy;</em>
+		<a href="http://www.navercorp.com/" target="_blank" onClick="clickcr(this, 'fot.nhn', '', '', event);">NAVER Corp.</a>
+		<span>All Rights Reserved.</span>
+	</address>
+	
+</div>
+<script type='text/javascript' src='https://ssl.pstatic.net/static.sports/resources/pc/2021/11/11/122215/js/src/changeUrl.js' charset='UTF-8'></script>
+
+<script type="text/javascript">
+	var container_link = "container";
+	if(document.getElementById("container_link")) {
+		document.getElementById("container_link").innerHTML = "<a href='#container' onclick=\"document.getElementById('container').tabIndex=-1;document.getElementById('container').focus();\"><span>본문으로 바로가기</span></a>";
+	}
+
+	function goToMobileUrl(mobileRedirectUrl) {
+		if(mobileRedirectUrl) {
+			location.href = "/mobileview.nhn?url=" + encodeURIComponent(mobileRedirectUrl);
+		}else{
+			location.href = "/index.nhn";
+		}
+	}
+	lazyloadjs("https://ssl.pstatic.net/static/common/js/cs_ops_webncc.js");
+</script>
+</div>
+	<script type="text/javascript">
+		
+	</script>
+	
+
+<script>lazyloadjs('https://ssl.pstatic.net/static.sports/resources/pc/2021/11/11/122215/js/generated/baseJsBottomLazy.js');</script>
+
+
+</body>
+</html>
